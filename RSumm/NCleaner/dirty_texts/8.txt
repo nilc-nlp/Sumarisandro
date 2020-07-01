@@ -1,0 +1,1034 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01+RDFa 1.1//EN" "http://www.w3.org/MarkUp/DTD/html401-rdfa11-1.dtd">
+<html>
+<head>
+<title>Folha.com - Mundo - Oposição pede à Justiça que saúde de Chávez seja avaliada - 08/05/2012</title>
+<meta name="title" content="Oposição pede à Justiça que saúde de Chávez seja avaliada">
+<meta name="description" content="O partido opositor venezuelano Vontade Popular registrou nesta terça-feira uma solicitação ao Tribunal Supremo de Justiça (TSJ) para que seja avaliado o estado de saúde do presidente, Hugo Chávez, para determinar se o líder está capacitado a exercer suas atividades.">
+<meta name="date" content="22h19 08/05/2012">
+<meta name="keywords" content=" jornalismo, informação, economia, política, fotografia, imagem, noticiário, cultura, tecnologia, esporte, Brasil, internacional, geral, polícia, manchetes, loteria, loterias, resultados, opinião, análise, cobertura">
+
+<meta property="og:title" name="title" content="Oposição pede à Justiça que saúde de Chávez seja avaliada">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www1.folha.uol.com.br/mundo/1087553-oposicao-pede-a-justica-que-saude-de-chavez-seja-avaliada.shtml">
+<meta property="og:image" content="http://f.i.uol.com.br/folha/furniture/5/images/lgo-folha_facebook-180x180.jpg">
+<meta property="og:site_name" content="Folha online">
+<meta property="og:description" name="description" content="O partido opositor venezuelano Vontade Popular registrou nesta terça-feira uma solicitação ao Tribunal Supremo de Justiça (TSJ) para que seja avaliado o estado de saúde do presidente, Hugo Chávez, para determinar se o líder está capacitado a exercer suas atividades.">
+
+<script type="text/javascript"><!--
+var page_info = {
+	section_id: decodeURIComponent("mundo"),
+	section_name: decodeURIComponent("Mundo"),
+	cover_date: decodeURIComponent("08%2F05%2F2012"),
+	cover_time: decodeURIComponent("22h19"),
+	title: decodeURIComponent("Oposi%C3%A7%C3%A3o%20pede%20%C3%A0%20Justi%C3%A7a%20que%20sa%C3%BAde%20de%20Ch%C3%A1vez%20seja%20avaliada"),
+	description: decodeURIComponent("O%20partido%20opositor%20venezuelano%20Vontade%20Popular%20registrou%20nesta%20ter%C3%A7a-feira%20uma%20solicita%C3%A7%C3%A3o%20ao%20Tribunal%20Supremo%20de%20Justi%C3%A7a%20%28TSJ%29%20para%20que%20seja%20avaliado%20o%20estado%20de%20sa%C3%BAde%20do%20presidente%2C%20Hugo%20Ch%C3%A1vez%2C%20para%20determinar%20se%20o%20l%C3%ADder%20est%C3%A1%20capacitado%20a%20exercer%20suas%20atividades."),
+	tags: decodeURIComponent(""),
+	images: [],
+	comment_id: decodeURIComponent("1087553"),
+	shortcut_id: decodeURIComponent("no1087553"),
+	live_url: decodeURIComponent("http%3A%2F%2Fwww1.folha.uol.com.br%2Fmundo%2F1087553-oposicao-pede-a-justica-que-saude-de-chavez-seja-avaliada.shtml"),
+	newstext_id: decodeURIComponent("1087553")
+};
+//--></script>
+
+<!--noindex-->
+
+
+
+
+<meta name="googlebot-news" content="nosnippet">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
+<meta http-equiv="Cache-Control" content="no-store">
+<link rel="shortcut icon" type="image/x-icon" href="http://f.i.uol.com.br/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/folha/furniture/5/common/common-5_1.css">
+<link rel="alternate" type="application/rss+xml" title='Folha.com - mundo' href='http://feeds.folha.uol.com.br/mundo/rss091.xml'>
+<script type="text/javascript" src="/folha/furniture/5/common/jquery.js"></script>
+<script type="text/javascript" src="/folha/furniture/5/common/common-5_1.js"></script>
+<script type="text/javascript"><!--
+folha.information.section = 'mundo' ;
+folha.ads.channel = 'mundo' ;
+
+folha.information.page.channel = 'mundo' ;
+folha.information.page.subchannel = '(none)' ;
+folha.information.page.type = 'noticias' ;
+folha.information.page.title = 'Oposi%C3%A7%C3%A3o%20pede%20%C3%A0%20Justi%C3%A7a%20que%20sa%C3%BAde%20de%20Ch%C3%A1vez%20seja%20avaliada' ;
+//--></script>
+<style type="text/css"><!--
+#masthead .sprite 														{ background-position: -1161px -1px; width: 132px; }
+#main_body.mundo .openBox.videos .sprite 			{ background-position: -1161px -195px; }
+#main_body.mundo .openBox.audios .sprite 			{ background-position: -1161px -230px; }
+#main_body.mundo .openBox.fotos .sprite 			{ background-position: -1161px -266px; }
+#main_body.mundo .openBox.especiais .sprite 	{ background-position: -1161px -300px; }
+#main_body.mundo .openBox.colunistas .sprite 	{ width: 140px; background-position: -1235px -562px; }
+#main_body.mundo .openBox.servicos .sprite 		{ background-position: -1161px -371px; }
+#main_body.mundo .openBox.enquetes .sprite 		{ background-position: -1161px -407px; }
+#main_body.mundo .openBox.interacao .sprite 	{ background-position: -1161px -444px; }
+#main_body.mundo .openBox.blogs .sprite 			{ background-position: -1161px -482px; }
+#main_body.mundo #sections  .label .sprite 		{ background-position: -1161px -711px; }
+#main_body.mundo #last_non_read .sprite 			{ background-position: -1161px -759px; }
+#main_body.mundo #most .sprite.most_read			{ background-position: -1161px -889px; }
+#main_body.mundo #most .sprite.most_sent			{ background-position: -1161px -834px; }
+#main_body.mundo #most .sprite.most_commented	{ background-position: -1161px -861px; }
+#main_body.mundo .openBox .label, #main_body.mundo .openBox .about, #main_body.mundo #articleEnd p, #main_body.mundo #libraryArticleEnd p { border-color: #003366; color: #003366; }
+#main_body.mundo #main_rotate .prev { background-position: -47px -1037px; }
+#main_body.mundo #main_rotate .next { background-position: -20px -1037px; }
+#main_body.mundo #follow .sprite 							{ background-position: -493px -123px; }
+#main_body.mundo #articleNew table.articleGraphic .articleGraphicCaption { border-color: #003366; }
+#main_body.mundo #articleNew .fo1l 						{ border-color: #003366; }
+.openBox.curinga .label { border: none; height: 37px; }
+.openBox.curinga .label img{ float: left; height: 37px; margin-bottom: 1px; width: 300px }
+.openBox.curinga .label a { padding: 0; }
+
+.openBox.jornais_internacionais .sprite{background: url("http://f.i.uol.com.br/folha/mundo/images/titulo-jornais_internacionais.gif") no-repeat top left; width: 248px;}
+--></style>
+
+</head>
+
+<body>
+<div id="aligner">
+<script type="text/javascript"><!--
+folha.ads.expand();
+//--></script>
+
+<div id="main_body" class="mundo">
+
+<div id="uol_bar_container"><script type="text/javascript" src="http://barra.uol.com.br/b/scripts/1024/bv1folha.js"></script></div>
+
+<div id="top_ads">
+<div id="ad-728x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<div id="ad-220x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+</div>
+
+<div id="header">
+<a class="logo sprite" href="http://www.folha.uol.com.br">&nbsp;</a>
+
+<div class="services">
+<div id="weather">
+<div class="info"><span class="date"><script type="text/javascript">
+document.write(' 8 de ' + folha.information.month[parseInt('05', 10) - 1] + ' de 2012 - 23:42');
+</script></span>
+<a href="http://tempo.folha.com.br" class="moreCity">Veja o tempo em mais cidades</a>
+</div>
+<div class="temperature">
+<div><span class="sprite noite-nd">&nbsp;</span><a href="http://tempo.folha.com.br/sp/sao_paulo">SP</a><br>17ºC</div>
+<div><span class="sprite noite-nd">&nbsp;</span><a href="http://tempo.folha.com.br/rj/rio_de_janeiro">Rio</a><br>22ºC</div>
+</div>
+</div>
+
+<form action="http://search.folha.com.br" id="search" method="get"><div><input name="q" type="text" value=""> <select name="site"id="selectSite"><option value="">&nbsp;</option><option value="online">Folha.com</option><option value="jornal">Folha de S.Paulo</option><option value="online/guia">Guia Folha</option></select> <input class="submit" name="submit" type="submit" value="Buscar"></div></form></div>
+
+<ul class="classified_nav">
+<li><a href="http://classificados.folha.com.br/" class="first">Classificados</a></li>
+<li><a href="http://classificados.folha.com.br/veiculos">Veículos</a></li>
+<li><a href="http://classificados.folha.com.br/imoveis">Imóveis</a></li>
+<li><a href="http://classificados.folha.com.br/empregos">Empregos</a></li>
+<li><a href="http://classificados.folha.com.br/negocios">Negócios</a></li>
+</ul>
+
+
+<div class="flags">
+<ul class="flags_nav">
+<li><a href="http://www1.folha.uol.com.br/internacional/en/"><span class="sprite en">&nbsp;</span><span class="text_flag">NEWS IN ENGLISH</span></a></li>
+<li><a href="http://www1.folha.uol.com.br/internacional/es/"><span class="sprite es">&nbsp;</span><span class="text_flag">NOTICIAS EN ESPAÑOL</span></a></li>
+</ul>
+</div>
+
+<div id="top_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a> <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www.folha.com.br/112031">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/serafina/">Serafina</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://www1.folha.uol.com.br/cotidiano/transito/">Trânsito</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+<!--//-->
+</div>
+
+<!--//-->
+
+
+<!--/-->
+
+<script type="text/javascript"><!--
+folha.ticker.collection = [	
+	[ 'http://www1.folha.uol.com.br/cotidiano/1087580-usuarios-de-planos-de-saude-tambem-terao-cartao-do-sus.shtml' , ' Usuários de planos de saúde também terão cartão do SUS' ],	
+	[ 'http://www1.folha.uol.com.br/ilustrada/1087472-fotos-de-marilyn-monroe-nua-nao-encontram-comprador-em-leilao.shtml' , ' Fotos de Marilyn Monroe nua não encontram comprador em leilão' ],	
+	[ 'http://www1.folha.uol.com.br/mundo/1087569-romney-ganha-primarias-de-indiana-carolina-do-norte-e-virginia-ocidental.shtml' , ' Romney ganha primárias de Indiana, Carolina do Norte e Virgínia Ocidental' ],	
+	[ 'http://www1.folha.uol.com.br/ilustrada/1087559-homem-e-detido-por-perseguir-mila-kunis.shtml' , ' Homem é detido por perseguir Mila Kunis' ],	
+	[ 'http://www1.folha.uol.com.br/cotidiano/1087560-em-4-dias-5-milhoes-ja-foram-vacinados-contra-a-gripe.shtml' , ' Em 4 dias, 5 milhões já foram vacinados contra a gripe' ]
+] ;
+//--></script>
+<div id="ticker"><a class="sprite home next buttons" href="javascript: void(0)" onClick="javascript: folha.ticker.next()">&nbsp;</a> <a class="sprite home play buttons" href="javascript: void(0)" onClick="javascript: folha.ticker.pause()">&nbsp;</a> <a class="sprite home prev buttons" href="javascript: void(0)" onClick="javascript: folha.ticker.prev()">&nbsp;</a> <span><a href="http://www1.folha.uol.com.br/emcimadahora/">Em Cima da Hora</a></span> <a href="" id="el"></a> <span id="dummy"></span></div>
+<!--//-->
+
+
+</div>
+
+<div id="masthead">
+<div id="ad-168x28-1-container">
+<div id="ad-168x28-1"><p class="adLabel">PUBLICIDADE</p></div>
+</div>
+<!--//-->
+
+
+<div class="canvas">&nbsp;</div>
+<a href="./" class="sprite section mundo"></a>
+</div>
+<div class="double_column">
+<div class="toolbar">
+<div><span class="sprite font">&nbsp;</span> <a href="#" id="font_controller_bigger" title="Maior">Maior</a> | <a href="#" id="font_controller_smaller" title="Menor">Menor</a></div>
+<div><span class="sprite email">&nbsp;</span> <a href="http://tools.folha.com.br/send?site=emcimadahora&amp;url=referrer" title="Enviar por e-mail">Enviar por e-mail</a></div>
+<div><span class="sprite feedback">&nbsp;</span> <a href="http://tools.folha.com.br/feedback?url=referrer" title="Comunicar Erros">Comunicar erros</a></div>
+<div><span class=""></span><a href="http://tools.folha.com.br/print?site=emcimadahora&amp;url=referrer" title="Imprimir" class="sprite print">&nbsp;</a></div>
+<div class="share_link"><label for="link_space">Link</label> <input id="link_space" type="text" title="Link encurtado da página" onfocus="this.select();" value=""></div>
+<div class="social_medias">
+<a id="share_twitter" href="http://twitter.com/home?status=Folha.com%20http://www.folha.uol.com.br%20%23folha" title="Compartilhe no Twitter"><span id="twitter_id" class="sprite twitter">&nbsp;</span></a>
+<a id="share_facebook" href="http://www.facebook.com/share.php?u=http://www.folha.uol.com.br" title="Compartilhe no Facebook"><span class="sprite facebook">&nbsp;</span></a>
+<a id="share_orkut" href="http://promote.orkut.com/preview?nt=orkut.com&amp;tt=Folha%20&amp;du=http://www.folha.uol.com.br" title="Compartilhe no Orkut"><span class="sprite orkut">&nbsp;</span></a>
+<a id="share_rss" href="http://feeds.folha.uol.com.br/mundo/rss091.xml" title="RSS"><span class="sprite rss">&nbsp;</span></a>
+<a href="javascript:void(0)" id="more_bookmarklets_button"><span class="sprite more_bookmarklets">&nbsp;</span></a><div id="more_bookmarklets"><span class="spacer">&nbsp;</span><div>
+<a id="share_delicious" href="http://del.icio.us/login/?url=http://www.folha.uol.com.br&amp;title=Folha%20" title="Compartilhe no Delicious"><span class="sprite delicious">&nbsp;</span> delicious</a>
+<a id="share_live" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=pt-br&amp;url=http://www.folha.uol.com.br&amp;title=Folha%20" title="Compartilhe no Windows Live"><span class="sprite windowslive">&nbsp;</span> Windows Live</a>
+<a id="share_myspace" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Folha%20&amp;u=http://www.folha.uol.com.br" title="Compartilhe no MySpace"><span class="sprite myspace">&nbsp;</span> MySpace</a>
+<a id="share_google" href="http://www.google.com/bookmarks/mark?op=add&amp;hl=pt&amp;title=Folha%20&amp;bkmk=http://www.folha.uol.com.br&amp;labels=folha" title="Compartilhe no Google"><span class="sprite google">&nbsp;</span> Google</a>
+<a id="share_digg" href="http://digg.com/submit?phase=2&amp;url=http://www.folha.uol.com.br" title="Compartilhe no Digg"><span class="sprite digg">&nbsp;</span> digg</a>
+</div></div></div>
+</div>
+</div>
+<div class="spacer">&nbsp;</div>
+<div class="column">
+<div  class="mundo" id="follow">
+<a href="http://twitter.com/folha_mundo">
+<span class="sprite">&nbsp;</span> <span>Acompanhe a Folha.com no Twitter</span>
+</a>
+<script type="text/javascript">
+var section_follow_account = "folha_mundo";
+</script>
+<script type="text/javascript">
+$('<a/>').attr("href", "https://twitter.com/" + (typeof section_follow_account == "undefined" ? "folha_com" :  section_follow_account) ).attr("class", "twitter-follow-button").attr("data-show-count", "false").attr("data-lang", "pt").attr("data-show-screen-name", "false").insertAfter("#follow a:eq(0)");
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+</div>
+</div>
+<div class="double_column">
+<!--//-->
+<!--CONTENT-->
+<div id="articleNew">
+<!--/noindex-->
+<!--NOTICIA-->
+<div id="articleDate">
+<!--DATA-->08/05/2012<!--/DATA-->
+-
+<!--HORA-->22h19<!--/HORA-->
+</div><h1>
+<!--TITULO-->Oposição pede à Justiça que saúde de Chávez seja avaliada<!--/TITULO-->
+</h1>
+<!--noindex-->
+<!--PRINT:EXCLUDE-->
+<div id="ad-180x150-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<!--/PRINT:EXCLUDE-->
+<!--/noindex-->
+<!--/-->
+<!--TEXTO-->
+<div id="articleBy">
+<p>
+DA EFE, EM CARACAS<br>
+DAS AGÊNCIAS DE NOTÍCIAS
+</p>
+</div>
+
+<p>
+O partido opositor venezuelano Vontade Popular registrou nesta terça-feira uma solicitação ao Tribunal Supremo de Justiça (TSJ) para que seja avaliado o estado de saúde do presidente, Hugo Chávez, para determinar se o líder está capacitado a exercer suas atividades.
+</p>
+
+<p>
+&quot;Solicitamos à Sala Plena do Tribunal Supremo de Justiça que designe uma junta médica para determinar a situação de possível incapacidade física permanente do presidente da República&quot;, disse o dirigente do Vontade Popular, o advogado Rafael Veloz.
+</p>
+
+<p>
+Veloz explicou que o objetivo da solicitação é que uma junta formada por cinco médicos determine se o líder pode seguir na Presidência ou se é necessário que o vice-presidente assuma.
+</p>
+
+<p>
+Caso o Supremo dê sinal verde à solicitação e a saúde do presidente estiver realmente comprometida, a Assembleia Nacional (AN) decidiria se Chávez deve ou não continuar no exercício de suas funções.
+</p>
+
+<p>
+Além disso, o advogado assinalou que, &quot;em caso positivo, com o presidente declarado sem capacidade física permanente para o exercício de suas funções, o vice-presidente complementa o período presidencial que termina em janeiro do próximo ano&quot;.
+</p>
+
+<p>
+Para Veloz, esta solicitação se deve &quot;à incerteza&quot; que existe no país, pois, &quot;dos últimos 365 dias, o presidente não esteve na Venezuela em 250&quot;.
+</p>
+
+<p>
+<b>VOLTA</b>
+</p>
+
+<p>
+Mais cedo, o ministro do Interior, Tareck El Aissami, informou à emissora de televisão estatal VTV que Chávez voltará a Venezuela nas próximas horas desta terça-feira. O retorno acontece uma semana após o mandatário ter ido para Cuba, onde faz radioterapia contra um câncer na região pélvica.
+</p>
+
+<p>
+Na segunda, Chávez disse que voltaria &quot;em alguns dias&quot; à Venezuela, em ligação telefônica transmitida na televisão estatal do país. O presidente disse que está governando &quot;com todas as suas faculdades mentais&quot; de Cuba, apesar das críticas da oposição.
+</p>
+
+<p>
+O anúncio acontece em meio a rumores sobre o estado de saúde do presidente. Na segunda, aliados insistiram que ele ainda estava comandando a nação, apesar de uma semana de silêncio do líder normalmente loquaz, cuja batalha contra o câncer tem ofuscado sua candidatura à reeleição.
+</p>
+
+<p>
+A constante presença na mídia reduziu-se a algumas mensagens no Twitter. Sua ausência atiçou as críticas de que ele não está mais comandando corretamente o país e estimulou conversas sem precedentes de um sucessor para o ex-soldado, que evitou cultivar um protegido que poderia substituí-lo.
+</p>
+
+<p>
+A saúde de Chávez é tratada como segredo de Estado. Ele passou por três operações desde junho passado, incluindo uma que removeu um tumor do tamanho de uma bola de beisebol. Mas os líderes do governo se recusaram a divulgar detalhes sobre sua condição.
+</p>
+
+<p>
+Ele supostamente teria concluído a última das cinco sessões de radioterapia, mas o silêncio incomum tem provocado especulação de que sua condição pode estar piorando, possivelmente se tornando fatal.
+</p>
+
+<!--noindex-->
+<!--PRINT:EXCLUDE-->
+
+<div id="articleEnd">
+<p>
+<b>+Pelo mundo</b>
+</p>
+
+<ul>
+<li><a href="http://www1.folha.uol.com.br/mundo/pelomundo/">Acompanhe Blogs dos Correspondentes da Folha</a></li>
+</ul>
+
+<p>
+<b>+ Canais</b>
+</p>
+
+<ul>
+<li><a href="http://www.facebook.com/#!/FolhaMundo">Conheça a página da Folha Mundo no Facebook</a></li>
+<li><a href="http://twitter.com/folha_mundo">Acompanhe a Folha Mundo no Twitter</a></li>
+<li><a href="http://twitter.com/folha_com">Acompanhe a Folha no Twitter</a></li>
+</ul>
+
+<p>
+<b>Notícias em Mundo</b>
+</p>
+
+<ul>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087488-franceses-fazem-acordo-com-dona-de-navio-naufragado-na-italia.shtml">Franceses fazem acordo com dona de navio naufragado na Itália</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087467-agente-da-cia-fingiu-ser-suicida-que-explodiria-aviao-diz-nyt.shtml">Agente da CIA fingiu ser suicida que explodiria avião, diz &quot;NYT&quot;</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087452-vice-presidente-dos-eua-faz-sinal-da-cruz-em-convencao-judaica.shtml">Vice-presidente dos EUA faz sinal da cruz em convenção judaica</a></li>
+</ul>
+</div>
+
+
+<script type="text/javascript">
+document.write( '<link rel="stylesheet" type="text/css" href="/publicidade/cyrela/cyrela.css?20120319">' ) ;
+</script>
+<script type="text/javascript" src="/publicidade/cyrela/cyrela.js?20120319"></script>
+<!-- Script que executa e monta o carrossel -->
+
+<div class="cyrela_geral">
+<!-- box geral -->
+<div class="cyrela_wrap">
+<h1>ENCONTRE SEU IM&Oacute;VEL</h1>
+<!-- campo de comboBox -->
+<div id="cyrela_busca">
+<ul>
+<li>
+<select name="Cidade" id="cyrela_Cidade">
+<option value="0">Estado/Cidade</option>
+</select>
+</li>
+<li>
+<div id="cyrela_Bairros" class="cyrela_options">
+<span>Regi&atilde;o/Bairro</span>
+<div class="cyrela_optContent">
+</div>
+</div>
+</li>
+<li>
+<select name="FaixaQuartoId" id="cyrela_FaixaQuartoId">
+<option value="0">Tipo/Quartos</option>
+</select>
+<input type="hidden" class="hidden" name="TipoId" id="cyrela_TipoId" value="0">
+</li>
+<li>
+<select name="FaixaPrecoId" id="cyrela_FaixaPrecoId">
+<option value="0">Faixa de pre&ccedil;o</option>
+</select>
+</li>
+</ul>
+<input type="submit" id="cyrela_btnBuscar" value="" title="Buscar" class="submit text-image">
+</div>
+<!-- FIM campo de comboBox -->
+<!-- Conteúdo meio -->
+<div class="cyrela_midle-content">
+<a href="http://www.cyrela.com.br/sp/?utm_campaign=Plano.Mensal.Cyrela&amp;utm_medium=Display&amp;utm_source=Folha&amp;utm_content=Ros&amp;utm_term=Box.Motor.sp" class="cyrela_logo"></a>
+<!-- carrossel -->
+<div class="cyrela_wrap-scroollable">
+<a href="javascript:;" class="cyrela_btn-pass" id="cyrela_btn-esq"></a>
+<!-- IMAGENS -->
+<div class="cyrela_mask">
+<div class="cyrela_carrossel">
+</div>
+</div>
+<!-- FIM IMAGENS -->
+<a href="javascript:;" class="cyrela_btn-pass" id="cyrela_btn-dir"></a>
+</div>
+<!-- FIM carrossel -->
+<!-- Box frase -->
+<div class="cyrela_wrap-frase">
+<a id="cyrela_linkChat" href="http://www.cyrela.com.br/sp/chat?utm_campaign=Plano.Mensal.Cyrela&amp;utm_medium=Display&amp;utm_source=Folha&amp;utm_content=Ros&amp;utm_term=Box.Motor.sp">>> CLIQUE E FALE COM UM CONSULTOR ON-LINE</a>
+</div>
+</div>
+<!-- FIM Conteúdo meio -->
+</div>
+<!--FIM box geral -->
+</div>
+<!--//-->
+<!--ADS_LIVRARIA_ARTICLE-->
+
+
+<div class="openBox adslibraryArticle">
+<p class="label">
+<span class="sprite"><a href="http://livraria.folha.com.br">Livraria da Folha</a></span>
+</p>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178160?tracking_number=721"><img src="http://images1.folha.com.br/livraria/images/a/5/1178160-100x100.png" alt="Diário da Corte" title="Diário da Corte" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178160?tracking_number=721">Diário da Corte</a></p>
+<p class="author">Paulo Francis</p>
+<p class="oldprice">De: <del>59,90</del></p><p class="realprice">Por: 47,90</p><a class="buy" href="http://www.livraria.folha.com.br/catalogo/1178160?tracking_number=721" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1177764?tracking_number=721"><img src="http://images1.folha.com.br/livraria/images/f/6/1177764-100x100.png" alt="O Código das Profundezas" title="O Código das Profundezas" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1177764?tracking_number=721">O Código das Profundezas</a></p>
+<p class="author">Roberto Lopes</p>
+<p class="oldprice">De: <del>39,90</del></p><p class="realprice">Por: 33,90</p><a class="buy" href="http://www.livraria.folha.com.br/catalogo/1177764?tracking_number=721" title="Comprar">Comprar</a>
+</div>
+<ul class="linksLibrary">
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1077279-vencedor-do-pulitzer-narra-a-historia-do-petroleo-leia-trecho.shtml">Vencedor do Pulitzer narra a história do petróleo; leia trecho</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1085827-ex-delegado-do-dops-da-nome-aos-bois.shtml">Ex-delegado do Dops dá nome aos bois</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1078701-editora-lanca-selo-voltado-ao-mundo-empresarial.shtml">Editora lança selo voltado ao mundo empresarial</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1067618-livro-examina-o-documento-mais-vergonhoso-da-historia-moderna.shtml">Livro examina o 'documento mais vergonhoso da história'</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1061921-por-que-os-lideres-mentem-explica-a-difusao-do-medo.shtml">'Por que os Líderes Mentem' explica a difusão do medo</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1049673-livro-destroi-mito-do-bom-selvagem-e-relata-guerras-pre-historicas.shtml">Livro destrói mito do bom selvagem e relata guerras pré-históricas</a></li>
+</ul>
+</div>
+<!--/ADS_LIBRARY_ARTICLE-->
+
+<!--//-->
+
+
+<!--EXTRA-->
+<!---->
+<!--/EXTRA-->
+
+<!--COMENTARIOS-->
+<div id="articleComments">
+<script language="javascript" type="text/javascript" src="http://comentarios.folha.com.br/info/index.php?comment_id=1087553&amp;section=mundo&amp;service=folhaonline&amp;done=http://www1.folha.uol.com.br/mundo/1087553-oposicao-pede-a-justica-que-saude-de-chavez-seja-avaliada.shtml&amp;version=5"></script>
+<p class="header alternate"><span><a href="http://comentarios.folha.com.br/redir?id=1087553&amp;section=mundo&amp;service=folhaonline&amp;type=reply&amp;done=http://www1.folha.uol.com.br/mundo/1087553-oposicao-pede-a-justica-que-saude-de-chavez-seja-avaliada.shtml">Comentar esta reportagem</a></span></p>
+<p class="header terms"><a href="http://comentarios.folha.com.br/termos_e_condicoes">Termos e condições</a></p>
+</div>
+<!--/COMENTARIOS-->
+
+<!--CONTEXTUAL_ADS-->
+
+<div id="contextualAdsArticle"></div>
+<script type="text/javascript" src="/folha/furniture/5/ads/contextual-5.js"></script>
+<!--/CONTEXTUAL_ADS-->
+
+<!--//-->
+
+
+<!--/PRINT:EXCLUDE-->
+<!--/TEXTO-->
+<!--/NOTICIA-->
+</div>
+<!--/CONTENT-->
+
+<script type="text/javascript" language="JavaScript"><!--
+folha_set_new_as_seen( 1087553 ) ;
+//--></script>
+
+</div>
+<div class="spacer">&nbsp;</div>
+<div class="column">
+
+<!--GOOGLE_PLUS_BADGE-->
+<div class="openBox googleplusBadge">
+<a href="https://plus.google.com/106339814614280647525?prsrc=3" style="cursor:pointer;display:inline-block;text-decoration:none;color:#333;font:13px/16px arial,sans-serif;"><span style="display:inline-block;font-weight:bold;vertical-align:top;margin-right:5px;margin-top:8px;">Folha de S.Paulo</span><span style="display:inline-block;vertical-align:top;margin-right:15px;margin-top:8px;">no</span><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:32px;height:32px;"></a>
+</div>
+<!--/GOOGLE_PLUS_BADGE-->
+
+<!--FACEBOOK_LIKEBOX_PAGE-->
+<div class="openBox facebookLike">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ffolhadesp&amp;width=300&amp;height=195&amp;colorscheme=light&amp;connections=5&amp;stream=false&amp;header=false&amp;&amp;locale=pt_BR&amp;" scrolling="no" frameborder="0" class="facebookFrame"></iframe>
+</div>
+<!--/FACEBOOK_LIKEBOX_PAGE-->
+
+<div id="ad-300x40-1"><p class="adLabel">Publicidade</p></div>
+<!--/-->
+
+<div class="surrounded" id="last_non_read">
+<p class="label"><span class="sprite">As Últimas que Você não Leu</span></p>
+<ol>
+<li>&nbsp;</li>
+</ol>
+<!-- <p class="button"><a href="">Quero ver todas</a></p> -->
+<!-- <div class="ads"><div id="ad-200x25-1">&nbsp;</div><p class="adLabel">Publicidade</p></div> -->
+</div>
+
+<div id="ad-300x250-2"><p class="adLabel">Publicidade</p></div>
+
+<div class="surrounded" id="most">
+ 
+<p class="label"><span class="sprite most_read">+ Lidas</span><a href="http://www1.folha.uol.com.br/maispopulares/" class="index">Índice</a></p>
+<ol>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087467-agente-da-cia-fingiu-ser-suicida-que-explodiria-aviao-diz-nyt.shtml">Agente da CIA fingiu ser suicida que explodiria avião, diz &quot;NYT&quot;</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087558-carolina-do-norte-dos-eua-aprova-lei-que-bane-casamento-gay.shtml">Carolina do Norte, dos EUA, aprova lei que bane casamento gay</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087383-portugal-corta-quatro-feriados-nacionais-para-combater-crise-economica.shtml">Portugal corta quatro feriados nacionais para combater crise econômica</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087505-hillary-clinton-diz-nao-se-preocupar-com-comentarios-sobre-aparencia.shtml">Hillary Clinton diz não se preocupar com comentários sobre aparência</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087449-empresa-argentina-ypf-mira-petrobras-diz-vice-de-cristina.shtml">Empresa argentina YPF mira Petrobras, diz vice de Cristina</a></li>
+</ol>
+
+<p class="label"><span class="sprite most_commented">+ Comentadas</span><!--a href="http://www1.folha.uol.com.br/maispopulares" class="index">Índice</a--></p>
+<ol>
+<li><a href="http://www1.folha.uol.com.br/mundo/1071710-nobel-acusa-israel-de-ameacar-paz-mundial-embaixada-rebate.shtml">Nobel acusa Israel de ameaçar paz mundial; embaixada rebate</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1071577-russia-diz-que-oposicao-nao-vai-derrotar-regime-sirio.shtml">Rússia diz que oposição não vai derrotar regime sírio</a></li>
+</ol>
+
+<p class="label"><span class="sprite most_sent">+ Enviadas</span><a href="http://www1.folha.uol.com.br/maispopulares/" class="index">Índice</a></p>
+<ol>
+<li><a href="http://www1.folha.uol.com.br/mundo/1087106-coreia-luta-contra-importacao-de-pilulas-de-carne-humana.shtml">Coreia luta contra importação de pílulas de carne humana</a></li>
+<li><a href="http://www1.folha.uol.com.br/mundo/1086681-gato-obeso-que-chegou-a-pesar-18-quilos-morre-nos-eua.shtml">Gato obeso que chegou a pesar 18 quilos morre nos EUA</a></li>
+</ol>
+<!--//-->
+</div>
+
+<!--noindex-->
+<!--ADS_LIBRARY-->
+<div class="openBox adsLibrary">
+<p class="label">
+<span class="sprite"><a href="http://livraria.folha.com.br">Livraria da Folha</a></span>
+</p>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1177856?tracking_number=721"><img src="http://images1.folha.com.br/livraria/images/b/0/1177856-115x150.png" alt="Paris: A Festa Continuou" title="Paris: A Festa Continuou" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1177856?tracking_number=721">Paris: A Festa Continuou</a></p>
+<p class="author">Paris: A Festa Continuou</p>
+<p class="oldprice">De: <span>54,00</span></p><p class="realprice">Por: 45,90</p><a href="http://www.livraria.folha.com.br/catalogo/1177856?tracking_number=721" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178770?tracking_number=721"><img src="http://images1.folha.com.br/livraria/images/2/1/1178770-115x150.png" alt="No Jardim das Feras" title="No Jardim das Feras" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178770?tracking_number=721">No Jardim das Feras</a></p>
+<p class="author">Erik Larson</p>
+<p class="realprice">Por: 39,90</p><a href="http://www.livraria.folha.com.br/catalogo/1178770?tracking_number=721" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178767?tracking_number=721"><img src="http://images1.folha.com.br/livraria/images/4/1/1178767-115x150.png" alt="A Próxima Década" title="A Próxima Década" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178767?tracking_number=721">A Próxima Década</a></p>
+<p class="author">George Friedman</p>
+<p class="realprice">Por: 32,90</p><a href="http://www.livraria.folha.com.br/catalogo/1178767?tracking_number=721" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1177609?tracking_number=721"><img src="http://images1.folha.com.br/livraria/images/c/1/1177609-115x150.png" alt="Uma Breve História do Cristianismo" title="Uma Breve História do Cristianismo" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1177609?tracking_number=721">Uma Breve História do Cristianismo</a></p>
+<p class="author">Geoffrey Blainey</p>
+<p class="oldprice">De: <span>29,50</span></p><p class="realprice">Por: 20,50</p><a href="http://www.livraria.folha.com.br/catalogo/1177609?tracking_number=721" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1177837?tracking_number=721"><img src="http://images1.folha.com.br/livraria/images/f/0/1177837-115x150.png" alt="Fuga do Campo 14" title="Fuga do Campo 14" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1177837?tracking_number=721">Fuga do Campo 14</a></p>
+<p class="author">Blaine Harden</p>
+<p class="oldprice">De: <span>24,90</span></p><p class="realprice">Por: 21,10</p><a href="http://www.livraria.folha.com.br/catalogo/1177837?tracking_number=721" class="buy" title="Comprar">Comprar</a>
+</div>
+</div>
+<!--/ADS_LIBRARY-->
+<!--// -->
+<!--/noindex-->
+
+
+</div>
+<script type="text/javascript"><!--
+folha.unread.cache = [
+	['http://www1.folha.uol.com.br/mundo/1087569-romney-ganha-primarias-de-indiana-carolina-do-norte-e-virginia-ocidental.shtml', "Romney ganha primárias de Indiana, Carolina do Norte e Virgínia Ocidental"],
+	['http://www1.folha.uol.com.br/mundo/1087558-carolina-do-norte-dos-eua-aprova-lei-que-bane-casamento-gay.shtml', "Carolina do Norte, dos EUA, aprova lei que bane casamento gay"],
+	['http://www1.folha.uol.com.br/mundo/1087553-oposicao-pede-a-justica-que-saude-de-chavez-seja-avaliada.shtml', "Oposição pede à Justiça que saúde de Chávez seja avaliada"],
+	['http://www1.folha.uol.com.br/mundo/1087546-uribe-chama-jornalista-frances-sequestrado-na-colombia-de-grosseiro.shtml', "Uribe chama jornalista francês sequestrado na Colômbia de &quot;grosseiro&quot;"],
+	['http://www1.folha.uol.com.br/mundo/1087532-onu-denuncia-contrabando-de-armas-entre-libano-e-siria.shtml', "ONU denuncia contrabando de armas entre Líbano e Síria"],
+	['http://www1.folha.uol.com.br/mundo/1087518-imprensa-estatal-da-china-faz-expansao-sem-precedentes-no-exterior.shtml', "Imprensa estatal da China faz expansão sem precedentes no exterior"],
+	['http://www1.folha.uol.com.br/ambiente/1087509-parlamento-europeu-cancela-vinda-a-cupula-alegando-alto-preco-dos-hoteis.shtml', "Parlamento Europeu cancela vinda à cúpula alegando alto preço dos hotéis"],
+	['http://www1.folha.uol.com.br/mundo/1087505-hillary-clinton-diz-nao-se-preocupar-com-comentarios-sobre-aparencia.shtml', "Hillary Clinton diz não se preocupar com comentários sobre aparência"],
+	['http://www1.folha.uol.com.br/mundo/1087488-franceses-fazem-acordo-com-dona-de-navio-naufragado-na-italia.shtml', "Franceses fazem acordo com dona de navio naufragado na Itália"],
+	['http://www1.folha.uol.com.br/mundo/1087467-agente-da-cia-fingiu-ser-suicida-que-explodiria-aviao-diz-nyt.shtml', "Agente da CIA fingiu ser suicida que explodiria avião, diz &quot;NYT&quot;"],
+	['http://www1.folha.uol.com.br/mundo/1087452-vice-presidente-dos-eua-faz-sinal-da-cruz-em-convencao-judaica.shtml', "Vice-presidente dos EUA faz sinal da cruz em convenção judaica"],
+	['http://www1.folha.uol.com.br/mundo/1087449-empresa-argentina-ypf-mira-petrobras-diz-vice-de-cristina.shtml', "Empresa argentina YPF mira Petrobras, diz vice de Cristina"],
+	['http://www1.folha.uol.com.br/mundo/1087447-onu-mostra-preocupacao-por-direitos-humanos-em-guine-bissau.shtml', "ONU mostra preocupação por direitos humanos em Guiné-Bissau"],
+	['http://www1.folha.uol.com.br/bbc/1087397-brasil-enviara-mais-10-observadores-militares-a-siria.shtml', "Brasil enviará mais 10 observadores militares à Síria"],
+	['http://www1.folha.uol.com.br/mundo/1087383-portugal-corta-quatro-feriados-nacionais-para-combater-crise-economica.shtml', "Portugal corta quatro feriados nacionais para combater crise econômica"],
+	['http://www1.folha.uol.com.br/mundo/1087363-anistia-internacional-pede-libertacao-de-lider-ativista-no-bahrein.shtml', "Anistia Internacional pede libertação de líder ativista no Bahrein"],
+	['http://www1.folha.uol.com.br/mundo/1087359-em-ny-empire-state-tera-iluminacao-mais-criativa-e-economica.shtml', "Em NY, Empire State terá iluminação mais criativa e econômica"],
+	['http://www1.folha.uol.com.br/mundo/1087354-egito-condena-militante-pro-democracia-a-um-ano-de-prisao.shtml', "Egito condena militante pró-democracia a um ano de prisão"],
+	['http://www1.folha.uol.com.br/mundo/1087345-chavez-volta-a-venezuela-nas-proximas-horas-diz-ministro.shtml', "Chávez volta a Venezuela nas próximas horas, diz ministro"],
+	['http://www1.folha.uol.com.br/mundo/1087284-romney-agradece-apoio-de-santorum-para-eleicoes-nos-eua.shtml', "Romney agradece apoio de Santorum para eleições nos EUA"],
+	['http://www1.folha.uol.com.br/mundo/1087271-justica-condena-professor-que-trocava-boas-notas-por-sexo-na-argentina.shtml', "Justiça condena professor que trocava boas notas por sexo na Argentina"],
+	['http://www1.folha.uol.com.br/mundo/1087269-nos-eua-vigia-e-acusado-formalmente-pelo-assassinato-de-trayvon-martin.shtml', "Nos EUA, vigia é acusado formalmente pelo assassinato de Trayvon Martin"],
+	['http://www1.folha.uol.com.br/mundo/1087260-republicanos-tentam-angariar-voto-hispanico-em-seis-estados-chave.shtml', "Republicanos tentam angariar voto hispânico em seis estados-chave"],
+	['http://www1.folha.uol.com.br/mundo/1087256-obama-abre-7-pontos-de-vantagem-para-romney-diz-pesquisa.shtml', "Obama abre 7 pontos de vantagem para Romney, diz pesquisa"],
+	['http://www1.folha.uol.com.br/mundo/1087236-em-ano-eleitoral-metade-dos-americanos-apoia-casamento-gay.shtml', "Em ano eleitoral, metade dos americanos apoia casamento gay"],
+	['http://www1.folha.uol.com.br/mundo/1087231-cruz-vermelha-pede-hospitalizacao-de-seis-palestinos-em-greve-de-fome.shtml', "Cruz Vermelha pede hospitalização de seis palestinos em greve de fome"],
+	['http://www1.folha.uol.com.br/bbc/1087037-projeto-britanico-arquiva-conversas-que-marcam-a-vida-de-pessoas-comuns.shtml', "Projeto britânico arquiva conversas que marcam a vida de pessoas comuns"],
+	['http://www1.folha.uol.com.br/mundo/1087222-cameron-e-clegg-defendem-coalizao-em-momento-dificil-para-governo.shtml', "Cameron e Clegg defendem coalizão em momento difícil para governo"],
+	['http://www1.folha.uol.com.br/mundo/1087220-rei-da-espanha-fara-visita-oficial-ao-brasil-em-junho.shtml', "Rei da Espanha fará visita oficial ao Brasil em junho"],
+	['http://www1.folha.uol.com.br/mundo/1087214-agente-infiltrado-conseguiu-abortar-ataque-contra-aviao-dos-eua.shtml', "Agente infiltrado conseguiu abortar ataque contra avião dos EUA"],
+	['http://www1.folha.uol.com.br/mundo/1087202-britanica-e-presa-por-escravizar-e-agredir-filhos.shtml', "Britânica é presa por escravizar e agredir filhos"],
+	['http://www1.folha.uol.com.br/mundo/1087201-nos-eua-acusado-de-matar-trayvon-martin-renuncia-a-julgamento-rapido.shtml', "Nos EUA, acusado de matar Trayvon Martin renuncia a julgamento rápido"],
+	['http://www1.folha.uol.com.br/mundo/1087198-por-telefone-presidente-mexicano-felicita-hollande-na-franca.shtml', "Por telefone, presidente mexicano felicita Hollande na França"],
+	['http://www1.folha.uol.com.br/mundo/1087196-casal-real-da-espanha-descarta-comemoracao-oficial-de-bodas-de-ouro.shtml', "Casal real da Espanha descarta comemoração oficial de bodas de ouro"],
+	['http://www1.folha.uol.com.br/mundo/1087194-colombia-nega-exigencias-das-farc-para-libertacao-de-langlois.shtml', "Colômbia nega exigências das Farc para libertação de Langlois"],
+	['http://www1.folha.uol.com.br/bbc/1087168-selecao-do-menor-pais-do-mundo-disputa-primeiro-jogo-veja.shtml', "Seleção do 'menor país do mundo' disputa primeiro jogo; veja"],
+	['http://www1.folha.uol.com.br/mundo/1087181-otan-admite-ter-matado-familia-afega-durante-ataque-aereo.shtml', "Otan admite ter matado família afegã durante ataque aéreo"],
+	['http://www1.folha.uol.com.br/mundo/1087173-policia-italiana-investiga-ataque-que-lembra-brigadas-vermelhas.shtml', "Polícia italiana investiga ataque que lembra Brigadas Vermelhas"],
+	['http://www1.folha.uol.com.br/bbc/1087157-acordo-da-a-netanyahu-apoio-politico-sem-precedentes-em-israel.shtml', "Acordo dá a Netanyahu apoio político sem precedentes em Israel"],
+	['http://www1.folha.uol.com.br/mundo/1087158-acidente-de-carro-mata-inspetor-da-agencia-nuclear-da-onu-no-ira.shtml', "Acidente de carro mata inspetor da agência nuclear da ONU no Irã"],
+	['http://www1.folha.uol.com.br/mundo/1087155-plano-para-siria-e-ultima-oportunidade-de-evitar-guerra-civil-diz-annan.shtml', "Plano para Síria é última oportunidade de evitar guerra civil, diz Annan"],
+	['http://www1.folha.uol.com.br/mercado/1087152-para-fiesp-brasil-poderia-comprar-us-6-bi-a-mais-da-argentina.shtml', "Para Fiesp, Brasil poderia comprar US$ 6 bi a mais da Argentina"],
+	['http://www1.folha.uol.com.br/mundo/1087141-ex-rebeldes-libios-atacam-sede-do-governo-em-tripoli.shtml', "Ex-rebeldes líbios atacam sede do governo em Trípoli"],
+	['http://www1.folha.uol.com.br/mundo/1087130-medvedev-e-aprovado-pelo-parlamento-russo-como-novo-premie.shtml', "Medvedev é aprovado pelo Parlamento russo como novo premiê"],
+	['http://www1.folha.uol.com.br/mundo/1087127-esquerda-radical-grega-rejeita-coalizao-pro-austeridade.shtml', "Esquerda radical grega rejeita coalizão pró-austeridade"],
+	['http://www1.folha.uol.com.br/mundo/1087112-liberdade-individual-e-algo-insuportavel-diz-presidente-de-belarus.shtml', "Liberdade individual é algo 'insuportável', diz presidente de Belarus"],
+	['http://www1.folha.uol.com.br/mundo/1087107-paquistao-e-tema-central-da-visita-de-hillary-a-india.shtml', "Paquistão é tema central da visita de Hillary à Índia"],
+	['http://www1.folha.uol.com.br/mundo/1087106-coreia-luta-contra-importacao-de-pilulas-de-carne-humana.shtml', "Coreia luta contra importação de pílulas de carne humana"],
+	['http://www1.folha.uol.com.br/mundo/1087098-e-preciso-tomar-as-decisoes-necessarias-para-a-europa-diz-merkel.shtml', "É preciso tomar 'as decisões necessárias' para a Europa, diz Merkel"],
+	['http://www1.folha.uol.com.br/paineldoleitor/1087095-folha-ultrapassa-a-marca-de-900-mil-fas-no-facebook.shtml', "Folha ultrapassa a marca de 900 mil fãs no Facebook"],
+	['http://www1.folha.uol.com.br/bbc/1087074-niger-substitui-afeganistao-como-pior-lugar-do-mundo-para-ser-mae-segundo-ong.shtml', "Níger substitui Afeganistão como pior lugar do mundo para ser mãe, segundo ONG"],
+	['http://www1.folha.uol.com.br/paineldoleitor/agendafolha/1087078-folha-promove-debate-sobre-computacao-em-nuvem-na-quinta-inscreva-se.shtml', "Folha promove debate sobre computação em nuvem na quinta; inscreva-se"],
+	['http://www1.folha.uol.com.br/mundo/1087072-ativista-chines-diz-que-governo-prometeu-investigar-abusos.shtml', "Ativista chinês diz que governo prometeu investigar abusos"],
+	['http://www1.folha.uol.com.br/mundo/1087071-ucrania-cancela-reuniao-da-europa-central-apos-boicote-de-governantes.shtml', "Ucrânia cancela reunião da Europa Central após boicote de governantes"],
+	['http://www1.folha.uol.com.br/mundo/1087070-ex-presidente-portugues-pede-a-socialistas-que-nao-apoiem-austeridade.shtml', "Ex-presidente português pede a socialistas que não apoiem austeridade"],
+	['http://www1.folha.uol.com.br/mundo/1087067-hollande-e-sarkozy-prestam-homenagem-aos-mortos-na-segunda-guerra.shtml', "Hollande e Sarkozy prestam homenagem aos mortos na Segunda Guerra"],
+	['http://www1.folha.uol.com.br/mundo/1087057-premie-forma-coalizao-e-cancela-eleicao-antecipada-em-israel.shtml', "Premiê forma coalizão e cancela eleição antecipada em Israel"],
+	['http://www1.folha.uol.com.br/mundo/1087055-pelo-menos-21-talebans-morrem-em-ataque-aereo-da-otan.shtml', "Pelo menos 21 talebans morrem em ataque aéreo da Otan"],
+	['http://www1.folha.uol.com.br/mundo/1087054-desempenho-do-setor-industrial-alemao-em-marco-surpreende.shtml', "Desempenho do setor industrial alemão em março surpreende"],
+	['http://www1.folha.uol.com.br/mundo/1087049-esquerda-radical-grega-assume-tarefa-de-formar-nova-coalizao.shtml', "Esquerda radical grega assume tarefa de formar nova coalizão"],
+	['http://www1.folha.uol.com.br/mundo/1087048-santorum-declara-apoio-a-romney-para-indicacao-republicana.shtml', "Santorum declara apoio a Romney para indicação republicana"],
+	['http://www1.folha.uol.com.br/mundo/1087047-interpol-lanca-alerta-vermelho-para-capturar-vice-iraquiano.shtml', "Interpol lança alerta vermelho para capturar vice iraquiano"],
+	['http://www1.folha.uol.com.br/colunas/sylviacolombo/1086599-40-anos-de-trelew.shtml', "40 anos de Trelew"],
+	['http://www1.folha.uol.com.br/esporte/1086963-ativistas-de-topless-prometem-protesto-na-euro-12-e-querem-vir-ao-brasil.shtml', "Ativistas de topless prometem protesto na Euro-12 e querem vir ao Brasil"],
+	['http://www1.folha.uol.com.br/mundo/1087034-china-expulsa-jornalista-do-catar.shtml', "China expulsa jornalista do Catar"],
+	['http://www1.folha.uol.com.br/colunas/clovisrossi/1086949-cores-e-nuvens-na-festa-francesa.shtml', "Cores e nuvens na festa francesa"],
+	['http://www1.folha.uol.com.br/mundo/1086998-chavez-diz-que-vencera-eleicoes-por-nocaute-fulminante.shtml', "Chávez diz que vencerá eleições por 'nocaute fulminante'"],
+	['http://www1.folha.uol.com.br/mundo/1086986-aumenta-pressao-para-que-obama-se-posicione-sobre-casamento-gay.shtml', "Aumenta pressão para que Obama se posicione sobre casamento gay"],
+	['http://www1.folha.uol.com.br/mundo/1086979-eleitora-de-romney-propoe-julgar-obama-por-traicao.shtml', "Eleitora de Romney propõe julgar Obama por &quot;traição&quot;"],
+	['http://www1.folha.uol.com.br/mundo/1086978-eletrica-espanhola-lamenta-estatizacao-de-subsidiaria-na-bolivia.shtml', "Elétrica espanhola lamenta estatização de subsidiária na Bolívia"],
+	['http://www1.folha.uol.com.br/mundo/1086967-israel-cancela-eleicoes-antecipadas-apos-acordo-entre-partidos.shtml', "Israel cancela eleições antecipadas após acordo entre partidos"],
+	['http://www1.folha.uol.com.br/mundo/1086940-chavez-quebra-silencio-e-anuncia-volta-a-venezuela-em-alguns-dias.shtml', "Chávez quebra silêncio e anuncia volta a Venezuela 'em alguns dias'"],
+	['http://www1.folha.uol.com.br/mundo/1086923-sede-de-jornal-e-atacada-pelo-trafico-no-norte-do-mexico.shtml', "Sede de jornal é atacada pelo tráfico no norte do México"],
+	['http://www1.folha.uol.com.br/mundo/1086904-franca-nao-podera-renegociar-pacto-fiscal-diz-eurogrupo.shtml', "França não poderá renegociar pacto fiscal, diz Eurogrupo"],
+	['http://www1.folha.uol.com.br/mundo/1086888-decote-de-assistente-de-palco-chama-atencao-em-debate-no-mexico.shtml', "Decote de assistente de palco chama atenção em debate no México"],
+	['http://www1.folha.uol.com.br/mundo/1086858-obama-foi-avisado-de-plano-de-atentado-em-abril-diz-casa-branca.shtml', "Obama foi avisado de plano de atentado em abril, diz Casa Branca"],
+	['http://www1.folha.uol.com.br/mundo/1086854-europa-precisa-retomar-reformas-deixadas-para-tras-diz-indiano.shtml', "Europa precisa retomar reformas deixadas para trás, diz indiano"],
+	['http://www1.folha.uol.com.br/mundo/1086838-centro-esquerda-sai-na-frente-em-eleicoes-municipais-na-italia.shtml', "Centro-esquerda sai na frente em eleições municipais na Itália"],
+	['http://www1.folha.uol.com.br/mundo/1086822-eua-frustram-plano-da-al-qaeda-para-explodir-aviao-comercial.shtml', "EUA frustram plano da Al Qaeda para explodir avião comercial"],
+	['http://www1.folha.uol.com.br/mundo/1086809-partido-de-chavez-diz-que-opositor-cambaleia-em-eleicoes.shtml', "Partido de Chávez diz que opositor 'cambaleia' em eleições"],
+	['http://www1.folha.uol.com.br/mundo/1086764-venezuela-insiste-que-chavez-segue-no-comando-do-pais.shtml', "Venezuela insiste que Chávez segue no comando do país"],
+	['http://www1.folha.uol.com.br/mundo/1086748-obama-agradece-sarkozy-por-amizade-em-tempos-dificeis.shtml', "Obama agradece Sarkozy por 'amizade em tempos difíceis'"],
+	['http://www1.folha.uol.com.br/mundo/1086732-onu-questiona-validade-das-eleicoes-na-siria-e-pede-fim-de-violencia.shtml', "ONU questiona validade das eleições na Síria e pede fim de violência"],
+	['http://www1.folha.uol.com.br/ilustrissima/1086723-tive-que-aprender-a-perdoar-diz-rodney-king.shtml', "&quot;Tive que aprender a perdoar&quot;, diz Rodney King"],
+	['http://www1.folha.uol.com.br/bbc/1086687-militantes-do-masculinismo-dizem-que-e-hora-de-defender-direitos-dos-homens.shtml', "Militantes do 'masculinismo' dizem que é hora de defender direitos dos homens"],
+	['http://www1.folha.uol.com.br/mundo/1086720-fitch-mantem-nota-de-divida-da-franca-apos-vitoria-de-hollande.shtml', "Fitch mantém nota de dívida da França após vitória de Hollande"],
+	['http://www1.folha.uol.com.br/colunas/paulkrugman/1086710-os-europeus-em-revolta.shtml', "Os europeus em revolta"],
+	['http://www1.folha.uol.com.br/mundo/1086705-alianca-com-franca-continua-forte-com-hollande-diz-casa-branca.shtml', "Aliança com França continua forte com Hollande, diz Casa Branca"],
+	['http://www1.folha.uol.com.br/mundo/1086699-conservadores-fracassam-em-tentativa-de-formar-coalizao-na-grecia.shtml', "Conservadores fracassam em tentativa de formar coalizão na Grécia"],
+	['http://www1.folha.uol.com.br/mundo/1086695-parlamento-romeno-elege-victor-ponta-como-novo-primeiro-ministro.shtml', "Parlamento romeno elege Victor Ponta como novo primeiro-ministro"],
+	['http://www1.folha.uol.com.br/mundo/1086690-afeganistao-pede-explicacoes-a-otan-e-eua-por-ataques-com-10-mortos.shtml', "Afeganistão pede explicações a Otan e EUA por ataques com 10 mortos"],
+	['http://www1.folha.uol.com.br/mundo/1086685-hollande-impulsionara-crescimento-na-europa-diz-chanceler-italiano.shtml', "Hollande impulsionará crescimento na Europa, diz chanceler italiano"],
+	['http://www1.folha.uol.com.br/mundo/1086681-gato-obeso-que-chegou-a-pesar-18-quilos-morre-nos-eua.shtml', "Gato obeso que chegou a pesar 18 quilos morre nos EUA"],
+	['http://www1.folha.uol.com.br/mundo/1086683-eua-cobram-que-ira-tome-medidas-urgentes-na-questao-nuclear.shtml', "EUA cobram que Irã tome medidas &quot;urgentes&quot; na questão nuclear"],
+	['http://www1.folha.uol.com.br/mundo/1086669-aplicativo-para-celular-ajuda-pais-a-achar-filhos-desaparecidos.shtml', "Aplicativo para celular ajuda pais a achar filhos desaparecidos"],
+	['http://www1.folha.uol.com.br/mundo/1086664-atiradores-disparam-em-presidente-de-empresa-nuclear-italiana.shtml', "Atiradores disparam em presidente de empresa nuclear italiana"],
+	['http://www1.folha.uol.com.br/mundo/1086662-pesquisa-mostra-obama-e-romney-empatados-em-12-estados-chave-dos-eua.shtml', "Pesquisa mostra Obama e Romney empatados em 12 Estados-chave dos EUA"],
+	['http://www1.folha.uol.com.br/mundo/1086659-ue-diz-que-reacao-do-brasil-ao-protecionismo-argentino-foi-muito-timida.shtml', "UE diz que reação do Brasil ao protecionismo argentino foi 'muito tímida'"],
+	['http://www1.folha.uol.com.br/mundo/1086658-farc-condicionam-entrega-de-langlois-a-debate-sobre-papel-da-imprensa.shtml', "Farc condicionam entrega de Langlois a debate sobre papel da imprensa"],
+	['http://www1.folha.uol.com.br/mundo/1086652-sarkozy-pede-uniao-aos-lideres-de-seu-partido-para-as-legislativas.shtml', "Sarkozy pede união aos líderes de seu partido para as legislativas"],
+	[]
+];
+
+folha.unread.cache.pop();
+//--></script>
+
+
+<!--noindex-->
+<div id="bottom_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a> <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www.folha.com.br/112031">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/serafina/">Serafina</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://www1.folha.uol.com.br/cotidiano/transito/">Trânsito</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+<!--//-->
+</div>
+
+<p id="about_us"><a href="http://www1.folha.uol.com.br/institucional/">Sobre a Folha</a> | <a href="http://www1.folha.uol.com.br/expediente/">Expediente</a> | <a href="http://www1.folha.uol.com.br/falecomafolha/">Fale Conosco</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/mapa/">Mapa do Site</a> | <a href="http://www1.folha.uol.com.br/folha/ombudsman/">Ombudsman</a> | <a href="http://www1.folha.uol.com.br/erramos/">Erramos</a> | <a href="http://atendefolha.folha.com.br/">Atendimento ao Assinante</a> <br> <a href="http://clubefolha.folha.com.br/">ClubeFolha</a> | <a href="http://publifolha.folha.com.br/">PubliFolha</a> | <a href="http://bd.folha.uol.com.br/">Banco de Dados</a> | <a href="http://datafolha.folha.uol.com.br/">Datafolha</a> | <a href="http://www.folhapress.com.br/">FolhaPress</a> | <a href="http://www1.folha.uol.com.br/folha/treinamento/">Treinamento</a> | <a href="http://www1.folha.uol.com.br/folhamemoria/">Folhamemória</a> | <a href="http://www1.folha.uol.com.br/folha/trabalhe/vagas.html">Trabalhe na Folha</a> | <a href="http://www.publicidade.folha.com.br/">Publicidade</a></p>
+
+<p id="copyright">Copyright Folha.com. Todos os direitos reservados. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicaçao, eletrônico ou impresso, sem autorização escrita da Folha.com.</p>
+
+</div>
+
+<!-- Funções -->
+<script type="text/javascript">folha.load.init();</script>
+<!-- Funções -->
+
+<div id="fourth_column">
+<div id="ad-240x400-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<div id="ad-240x400-2"><p class="adLabel">Publicidade</p>&nbsp;</div>
+
+<div id="ad-120x600-other">
+<div id="classes" class="side_box">
+<h5>Cursos <br> On-Line</h5>
+<p><a href="http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&amp;etag=folhpc_cana_ccc_ep_ee01"><img src="http://f.i.uol.com.br/folha/furniture/ads/images/lgo-englishtown-100x30.gif" width="100" height="30" alt="Englishtown"></a>
+<a href="http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&amp;etag=folhpc_cana_ccc_ep_ee01"><img src="http://f.i.uol.com.br/folha/furniture/4/images/icn-usa_flag-34x22.gif" width="34" height="22" alt="Ingles"></a><a href="http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&amp;etag=folhpc_cana_ccc_ep_ee01">Inglês</a></p>
+<p><a href="http://www.dw-world.de/dw/0,1595,2199,00.html"><img src="http://f.i.uol.com.br/folha/furniture/ads/images/lgo-dw-100x30.gif" width="100" height="30" alt="Deutsche Welle"></a>
+<a href="http://www.dw-world.de/dw/0,1595,2199,00.html"><img src="http://f.i.uol.com.br/folha/furniture/4/images/icn-german_flag-34x22.gif" width="34" height="22" alt="Alemão"></a> <a href="http://www.dw-world.de/dw/0,1595,2199,00.html">Alemão</a></p>
+</div>
+<div id="drops" class="side_box">
+<h6><a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=711">Mem&oacute;rias de uma Guerra Suja</a></h6>
+<a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=711"><img src="http://images1.folha.com.br/livraria/images/0/c/1178991-100x100.png" width="100" height="100" alt="Memórias de uma Guerra Suja"></a>
+<p>Ex-delegado do Dops revela bastidores da tortura</p>
+<p class="price"><span>De:  <del>43,90</del></span>Por: 37,50</p>
+<a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=711" class="button">&nbsp;</a>
+</div>
+<!--//-->
+</div>
+<div id="ad-120x600-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+
+<hr>
+		
+<div id="shopping">
+<script type="text/javascript"><!--
+folha.shop.collection = {	
+	0: {
+		title: 	"Gafisa" ,
+		url: 		"http://ia.nspmotion.com/click/?cap=54229&c=6024&r=[timestamp]&t=true" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12026150.gif" ,
+		text: 	"Sempre tem um Gafisa para você. Confira!" ,
+		fixed: 	"1" ,
+		busy: 	""
+	} ,	
+	1: {
+		title: 	"Sorana" ,
+		url: 		"http://www.soranaofertas.com.br/8293923446079234" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11223371.gif" ,
+		text: 	"Seminovos com Preço, Qualidade e Variedade. Clique aqui." ,
+		fixed: 	"2" ,
+		busy: 	""
+	} ,	
+	2: {
+		title: 	"EF Englishtown" ,
+		url: 		"http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&etag=folhpc_shop_ccc_ep_ee01" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11333746.gif" ,
+		text: 	"RECEBA GRÁTIS! Dicas de inglês no seu e-mail todos os dias!" ,
+		fixed: 	"3" ,
+		busy: 	""
+	} ,	
+	3: {
+		title: 	"Aquitaine" ,
+		url: 		"http://www.aquitaine.com.br" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/10270255.gif" ,
+		text: 	"Peugeot 207 - 207 Passion e 207 SW com taxa de 0,49%." ,
+		fixed: 	"4" ,
+		busy: 	""
+	} ,	
+	4: {
+		title: 	"Vale Suíço Resort" ,
+		url: 		"http://www.valesuico.com.br" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11210265.jpeg" ,
+		text: 	"O mais belo resort das montanhas! Aproveite!" ,
+		fixed: 	"5" ,
+		busy: 	""
+	} ,	
+	5: {
+		title: 	"Flores Online" ,
+		url: 		"http://www.floresonline.com.br/redir.asp?id=6912" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12116105.jpeg" ,
+		text: 	"Arranjo de Tulipas pagando 10% menos! De R$94 por R$84,60" ,
+		fixed: 	"6" ,
+		busy: 	""
+	} ,	
+	6: {
+		title: 	"CMA Educacional" ,
+		url: 		"http://www.cmaeducacional.com.br/CalendaacuteriodeCursos/tabid/182/language/en-US/Default.aspx?parceiro=cli_FOLHASHOP" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11104405.jpeg" ,
+		text: 	"Viva sua liberdade financeira! Aprenda sobre o mercado de ações." ,
+		fixed: 	"7" ,
+		busy: 	""
+	} ,	
+	7: {
+		title: 	"Tablets" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:tablet;creative:tablet-Slot_Especia&redir=http://folha.shopping.uol.com.br/tablet.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020577.gif" ,
+		text: 	"A partir de R$ 340. Confira!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	8: {
+		title: 	"Celulares" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:celulares;creative:celulares-Slot_Especial&redir=http://folha.shopping.uol.com.br/celular-e-smartphone.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020572.gif" ,
+		text: 	"A partir de R$ 69. Compre o seu!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	9: {
+		title: 	"Câmera Digital" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:camera;creative:cam-Slot_Especial&redir=http://folha.shopping.uol.com.br/camera-digital--sony.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020571.gif" ,
+		text: 	"Sony a partir de 10X R$ 31,90." ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	10: {
+		title: 	"Netbooks" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:netbooks;creative:netbooks-Slot_Especial&redir=http://folha.shopping.uol.com.br/netbook.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020575.gif" ,
+		text: 	"A partir de 12X R$ 63. Confira!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	11: {
+		title: 	"Gps" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:gps;creative:gps-Slot_Especial&redir=http://folha.shopping.uol.com.br/gps.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020573.gif" ,
+		text: 	"A partir de apenas R$ 169. Aproveite!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	12: {
+		title: 	"Home Theater" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:home_theater;creative:hometheater-Slot_Especial&redir=http://folha.shopping.uol.com.br/home-theater.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020574.gif" ,
+		text: 	"A partir de R$ 169 em até 12x" ,
+		fixed: 	"" ,
+		busy: 	""
+	}} ;
+folha.shop.count = 13 ;
+
+if( typeof folha.shop.fixed[1] == "undefined" ){
+	folha.shop.fixed[1] = new Array( "0" ) ;
+}
+else{
+	folha.shop.fixed[1].push( 0 ) ;
+}
+if( typeof folha.shop.fixed[2] == "undefined" ){
+	folha.shop.fixed[2] = new Array( "1" ) ;
+}
+else{
+	folha.shop.fixed[2].push( 1 ) ;
+}
+if( typeof folha.shop.fixed[3] == "undefined" ){
+	folha.shop.fixed[3] = new Array( "2" ) ;
+}
+else{
+	folha.shop.fixed[3].push( 2 ) ;
+}
+if( typeof folha.shop.fixed[4] == "undefined" ){
+	folha.shop.fixed[4] = new Array( "3" ) ;
+}
+else{
+	folha.shop.fixed[4].push( 3 ) ;
+}
+if( typeof folha.shop.fixed[5] == "undefined" ){
+	folha.shop.fixed[5] = new Array( "4" ) ;
+}
+else{
+	folha.shop.fixed[5].push( 4 ) ;
+}
+if( typeof folha.shop.fixed[6] == "undefined" ){
+	folha.shop.fixed[6] = new Array( "5" ) ;
+}
+else{
+	folha.shop.fixed[6].push( 5 ) ;
+}
+if( typeof folha.shop.fixed[7] == "undefined" ){
+	folha.shop.fixed[7] = new Array( "6" ) ;
+}
+else{
+	folha.shop.fixed[7].push( 6 ) ;
+}
+//--></script>
+	
+<p class="label"><a href="http://folha.shopping.uol.com.br/">&nbsp;</a></p>
+<form action="http://bn.uol.com.br/event.ng/Type=click&amp;FlightID=29017&amp;AdID=71845&amp;TargetID=3974&amp;Segments=23,96,138,190,238,244,247,500,1482,1664,2377,2412,2881,3070,3082,3119,3172,3216,3254,3255,3305,3311,3386,3391,3392,3402&amp;Targets=3974&amp;Values=31,51,60,85,100,110,150,204,345,356,357,371,379,384,407,2426&amp;RawValues=&amp;Redirect=http://folha.shopping.busca.uol.com.br/busca.html">
+<p><input type="hidden" name="search" value="yes"><input type="text" name="q"> <input class="submit button" type="submit" value="Compare"></p>
+</form>
+
+<div id="uolshop"><p class="first"><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:1;thm:folha_box_top_ofertas;creative:C%E2mera%20Sony&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/camera-digital--sony.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/camerasonyprata.gif" width="50" height="50" alt="Câmeras Sony">Câmeras Sony<br>Diversos modelos a partir 12x de R$ 29,08</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:2;thm:folha_box_top_ofertas;creative:Celulares%20Diversos%20-%20Parceiros&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/celular-e-smartphone.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/celular4.gif" width="50" height="50" alt="Celulares">Celulares<br>Vários modelos a partir de R$ 99. Confira!</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:3;thm:folha_box_top_ofertas;creative:GPS%20Multilaser&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/gps.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/gps3.gif" width="50" height="50" alt="GPS">GPS<br>Aproveite: a partir de 10x de R$ 18,49</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:4;thm:folha_box_top_ofertas;creative:Home%20Theater%20Brit%E2nia&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/home-theater.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/hometheater5.gif" width="50" height="50" alt="Home Theater">Home Theater<br>A partir de R$ 99,90. Compre já o seu!</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:5;thm:folha_box_top_ofertas;creative:Ipod%20Nano&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/mp3-player.html?q=ipod&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/ipod2.gif" width="50" height="50" alt="iPod">iPod<br>A partir de 8x de R$ 31,54. Confira!</a></p></div>
+
+<div id="folha_shopping"></div><!--//-->
+
+</div>
+</div>
+  
+</div>
+<!--/ALIGNER-->
+<script type="text/javascript"><!--
+if( !folha.ads.expanded ) {
+	$('#fourth_column').remove();
+} 
+//--></script>
+
+<script type="text/javascript">folha.shop.mount();</script>
+
+<!--OMNITURE-->
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture.js?100921"></script>
+<script type="text/javascript">
+omniture.meta['section'] = folha.information.section;
+omniture.meta['column'] = (function() { var x = $('h2.columnName').text(); return x.match(/\w+/) ? x : $('h1.columnistName').text(); })();
+omniture.meta['title'] = $('#articleNew h1').text().replace(/\n/g, '');
+omniture.meta['coverage'] = document.title.replace(/^.+ - \d{4} - (.+)$/g, '$1').replace(' - ', '|');
+omniture.meta['year'] = document.title.replace(/^Folha.+ - (\d{4})( - .+|$)/g, '$1');
+</script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture-data.js?1202093"></script>
+<script type="text/javascript" src="http://me.jsuol.com/omtr/folhacom.js?100921"></script>
+<!--/OMNITURE-->
+
+<!--STATS-->
+<script type="text/javascript">
+document.write( '<img src="http://stats.folha.com.br/stats?url=' + escape( location.href ) + '&amp;ref=' + escape( document.referrer || '' ) + '&amp;rand=' + folha.random() + '" width="1" height="1" alt="">' );
+</script>
+<noscript><div><img src="http://stats.folha.com.br/stats" width="1" height="1" alt=""></div></noscript>
+<!--/STATS-->
+
+<script type="text/javascript">folha.ads.clean = $.noop;</script>
+
+<div id="ad-120x35-1-content">
+<script type="text/javascript">folha.advertising.get('120x35-1');</script>
+</div>
+
+<div id="ad-120x600-1-content">
+<script type="text/javascript">folha.advertising.get('120x600-1');</script>
+</div>
+
+<div id="ad-168x28-1-content">
+<script type="text/javascript">folha.advertising.get('168x28-1');</script>
+</div>
+
+<div id="ad-200x25-1-content">
+<script type="text/javascript">folha.advertising.get('200x25-1');</script>
+</div>
+
+<div id="ad-220x90-1-content">
+<script type="text/javascript">folha.advertising.get('220x90-1');</script>
+</div>
+
+<div id="ad-240x400-1-content">
+<script type="text/javascript">folha.advertising.get('240x400-1');</script>
+</div>
+
+<div id="ad-240x400-2-content">
+<script type="text/javascript">folha.advertising.get('240x400-2');</script>
+</div>
+
+<div id="ad-300x40-1-content">
+<script type="text/javascript">folha.advertising.get('300x40-1');</script>
+</div>
+
+<div id="ad-300x40-2-content">
+<script type="text/javascript">folha.advertising.get('300x40-2');</script>
+</div>
+
+<div id="ad-300x40-3-content">
+<script type="text/javascript">folha.advertising.get('300x40-3');</script>
+</div>
+
+<div id="ad-300x40-4-content">
+<script type="text/javascript">folha.advertising.get('300x40-4');</script>
+</div>
+
+<div id="ad-300x250-1-content">
+<script type="text/javascript">folha.advertising.get('300x250-1');</script>
+</div>
+
+<div id="ad-300x250-2-content">
+<script type="text/javascript">folha.advertising.get('300x250-2');</script>
+</div>
+
+<div id="ad-300x250-3-content">
+<script type="text/javascript">folha.advertising.get('300x250-3');</script>
+</div>
+
+<div id="ad-728x90-1-content">
+<script type="text/javascript">folha.advertising.get('728x90-1');</script>
+</div>
+
+<div id="ad-635x50-1-content">
+<script type="text/javascript">folha.advertising.get('635x50-1');</script>
+</div>
+
+
+<div id="ad-180x150-1-content">
+<script type="text/javascript">folha.advertising.get('180x150-1');</script>
+</div>
+
+
+<!--WORLDWIDIZE.COM-->
+<!--<script type="text/javascript" src="http://tts2.worldwidize.com/TTSservice/jsLaunch.aspx"></script>-->
+<!--/WORLDWIDIZE.COM-->
+
+</body>
+
+
+<!--/noindex-->
+</html>
+

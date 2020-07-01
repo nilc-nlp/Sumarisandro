@@ -1,0 +1,28 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial><IMG border=0 align=right src="http://www.globalframe.com.br/gf_base/empresas/MIGA/imagens/857AC331200C5E1069E0093E95A5792605A2_Sérgio%20Rosenthal.jpg">O Conselho Diretor da AASP reelegeu nesta quarta-feira, 18, por unanimidade, a atual Diretoria da Entidade. Com a reeleição, o advogado <STRONG>Sérgio Rosenthal</STRONG> estará novamente à frente da administração da Associação em 2014. </FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>A diretoria será composta também pelos advogados: </FONT></FONT></FONT></P>
+<UL>
+<LI>
+<DIV align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>Vice-presidente: Leonardo Sica;</FONT></FONT></FONT></DIV></LI>
+<LI>
+<DIV align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>1º secretário: Luiz Périssé Duarte Junior;</FONT></FONT></FONT></DIV></LI>
+<LI>
+<DIV align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>2º secretário: Alberto Gosson Jorge Junior;</FONT></FONT></FONT></DIV></LI>
+<LI>
+<DIV align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>1º tesoureiro: Fernando Brandão Whitaker;</FONT></FONT></FONT></DIV></LI>
+<LI>
+<DIV align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>2º tesoureiro: Marcelo Vieira von Adamek;</FONT></FONT></FONT></DIV></LI>
+<LI>
+<DIV align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>Diretor cultural: Luís Carlos Moro. </FONT></FONT></FONT></DIV></LI></UL>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>Sérgio Rosenthal agradeceu a confiança e o apoio de todos ao longo do ano de 2013, particularmente dos diretores: <EM>"Foi um ano especial, de celebração das sete décadas de fundação da Associação, um ano repleto de momentos importantes. Nós atingimos a marca inédita de 60 mil alunos nos nossos cursos, reflexo de uma sistemática nova e das nossas aulas, seminários e palestras transmitidos via satélite por meio das 400 antenas espalhadas pelo Brasil".</EM></FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>Os diretores reeleitos da AASP falaram sobre as expectativas para 2014: <EM>"Tenho duas expectativas, uma de manutenção e outra de renovação e inovação, porque os tempos modernos exigem que a gente não pare. As expectativas são: manter o que a gente já faz e inovar em outras frentes"</EM>, afirmou Leonardo Sica.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial><EM>"Procuraremos dar continuidade ao controle austero das contas da Associação, oferecendo o máximo de atividades, serviços e produtos de qualidade aos nossos associados, sem onerá-los ou, quando necessário, onerando o menos possível para que todos esses produtos e serviços possam ser usufruídos amplamente"</EM>, explicou Fernando Brandão Whitaker.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial><EM>"2014 será um ano diferente de 2013, em que comemoramos os 70 anos demarcados com grandes eventos. O ano já está pautado pela Copa do Mundo, queiramos ou não, e pautado também pelas eleições no final do ano, de modo que temos um espaço de atividades bastante diferente do que tivemos neste ano"</EM>, espera Luís Carlos Moro.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>Na oportunidade, foram homenageados os conselheiros Roberto Parahyba de Arruda Pinto e Dina Darc Ferreira Lima Cardoso, que deixaram o Conselho Diretor após cumprirem nove anos de mandato, e Luiz Antonio Caldeira Miretti, que integrou o sodalício durante seis anos.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>_____________</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><A onclick="" href="http://www.aasp.org.br/aasp/" target=_blank><IMG src="http://www.globalframe.com.br/imagens/fomentadores/aasp.gif"></A><BR></P></FONT></FONT></FONT>
+</FONT>
+
+</div>

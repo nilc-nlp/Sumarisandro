@@ -1,0 +1,3015 @@
+Sentenca(topic=0): ﻿O ministro da Defesa, Nelson Jobim, deve encaminhar o nome da economista Solange Vieira  para assumir uma das diretorias da Agência Nacional de Aviação Civil  (Anac).
+Sentenca(topic=0): Ainda não está definida a diretoria que a economista vai assumir.
+Sentenca(topic=0): Inicialmente, Solange Vieira, que é assessora especial de Jobim havia sido escolhida para comandar a Secretaria Nacional de Aviação Civil, a ser criada na estrutura do ministério, segundo a assessoria de imprensa do ministério.
+Sentenca(topic=0): Mas, diante da dificuldade para encontrar pessoas que aceitassem assumir uma das diretorias da agência reguladora, após a renúncia de três diretores, Jobim decidiu indicar a economista para o cargo.
+Sentenca(topic=1): Uma da três vagas será ocupada pelo major-brigadeiro Allemander Jesus Pereira Filho, indicado para exercer o cargo em substituição a Jorge Luiz Brito Velozo, que pediu demissão no final do mês passado.
+Sentenca(topic=2): Também renunciaram ao cargo de diretor da Anac Denise Abreu e Leur Lomanto.
+Sentenca(topic=3): O ministro da Defesa, Nelson Jobim, informou no fim da noite desta terça-feira que a economista Solange Vieira, de 38 anos, será a nova presidente da Agência Nacional de Aviação Civil  (Anac).
+Sentenca(topic=3): Braço direito do peemedebista desde sua posse, ela é funcionária de carreira do BNDES e comandou a Secretaria de Previdência Complementar no governo Fernando Henrique Cardoso.
+Sentenca(topic=3): - A Solange vai ser a nova presidente da Anac - disse Jobim, em jantar que celebrou os 50 anos da Rede RBS em Brasília.
+Sentenca(topic=4): Alvo de críticas incisivas da oposição desde o acidente com o Airbus da TAM, o atual presidente da Anac, Milton Zuanazzi, já teria concordado em renunciar e deve entregar o cargo nos próximos dias.
+Sentenca(topic=4): Porém, procurado pela GloboNews TV na noite desta terça-feira, ele disse que não pretende deixar a função.
+Sentenca(topic=5): Como os diretores de agências têm mandato de cinco anos, só podem sair por renúncia, decisão judicial ou acusação de improbidade administrativa.
+Sentenca(topic=6): Os dois ministros que davam sustentação a Zuanazzi no cargo, Dilma Rousseff e Walfrido dos Mares Guia, avaliam nesta quarta-feira que ele se tornou uma figura muito vinculada à crise aérea  e passaram a defender sua substituição.
+Sentenca(topic=7): O último remanescente da diretoria da Anac à época do acidente, Josef Barat, diretor de Relações Internacionais, Pesquisas e Capacitação da Anac, também deve sair.
+Sentenca(topic=7): Outros três diretores já entregaram os cargos.
+Sentenca(topic=8): Em 2001, por cerca de oito meses, Solange comandou com mão-de-ferro os fundos de pensão do país, como titular da Secretaria de Previdência Complementar  (SPC) do Ministério da Previdência.
+Sentenca(topic=8): Após vários desentendimentos com o então ministro da pasta, Roberto Brant, foi demitida.
+Sentenca(topic=8): Durante aquele período, comandou a maior reforma dos últimos anos na legislação que regulamenta os fundos de pensão, aumentando a transparência do setor.
+Sentenca(topic=8): Mas também conquistou muito inimigos, principalmente entre os dirigentes de fundos de pensão, que a acusavam de ser muito vaidosa  e de não ter cuidado ao divulgar informações sobre o sistema.
+Sentenca(topic=9): O relatório final da CPI do Apagão da Câmara, que começou a ser lido nesta terça-feira, recomenda o ingresso da iniciativa privada na administração da infra-estrutura dos aeroportos, hoje sob o comando de uma estatal, a Infraero.
+Sentenca(topic=9): O relator, deputado Marco Maia  (PT-RS), só deve apontar conclusões nesta quinta-feira.
+Sentenca(topic=10): Cobrado por familiares de vítimas do acidente da TAM e pela oposição, dificilmente o relator irá sugerir o indiciamento de Zuanazzi.
+Sentenca(topic=10): Ele disse que não está convencido da "participação objetiva" de Zuanazzi nas denúncias contra a agência: - Não podemos indiciar para agradar à oposição, ao governo ou a quem quer que seja  - disse Maia.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ﻿o  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 3
+Word: dev  - Frequency: 1
+Word: encaminh  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: econom  - Frequency: 3
+Word: solang  - Frequency: 2
+Word: vieir  - Frequency: 2
+Word: assum  - Frequency: 3
+Word: diretor  - Frequency: 4
+Word: agênc  - Frequency: 2
+Word: nacional  - Frequency: 2
+Word: aviaçã  - Frequency: 2
+Word: civil  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: está  - Frequency: 1
+Word: defin  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: inicial  - Frequency: 1
+Word: assessor  - Frequency: 2
+Word: especial  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: escolh  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: secret  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: cri  - Frequency: 1
+Word: estrutur  - Frequency: 1
+Word: ministéri  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: dificuldad  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: aceit  - Frequency: 1
+Word: regul  - Frequency: 1
+Word: renúnc  - Frequency: 1
+Word: três  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: carg  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_diretor
+
+Keyword: 0_diretor_jobim_econom_assum
+
+Keyword: 0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã_civil_assessor_ministéri
+
+
+------------------------------------------------------------
+Topic: 1
+Word: três  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: ocup  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: major  - Frequency: 1
+Word: allemand  - Frequency: 1
+Word: jesus  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: filh  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: exerc  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: substituiçã  - Frequency: 1
+Word: jorg  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: brit  - Frequency: 1
+Word: veloz  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: demissã  - Frequency: 1
+Word: final  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: pass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir_filh_indic_exerc_carg_substituiçã_jorg_luiz_brit_veloz_ped_demissã_final_mês_pass
+
+
+------------------------------------------------------------
+Topic: 2
+Word: também  - Frequency: 1
+Word: renunc  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: anac  - Frequency: 1
+Word: denis  - Frequency: 1
+Word: abreu  - Frequency: 1
+Word: leur  - Frequency: 1
+Word: lomant  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant
+
+Keyword: 2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant
+
+
+------------------------------------------------------------
+Topic: 3
+Word: ministr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: econom  - Frequency: 1
+Word: solang  - Frequency: 2
+Word: vieir  - Frequency: 1
+Word: 38  - Frequency: 1
+Word: anos  - Frequency: 2
+Word: ser  - Frequency: 2
+Word: nov  - Frequency: 2
+Word: president  - Frequency: 2
+Word: agênc  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: aviaçã  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: brac  - Frequency: 1
+Word: direit  - Frequency: 1
+Word: peemedeb  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: funcionár  - Frequency: 1
+Word: carreir  - Frequency: 1
+Word: bndes  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: secret  - Frequency: 1
+Word: prevident  - Frequency: 1
+Word: complement  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: henriqu  - Frequency: 1
+Word: cardos  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: anac  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: jant  - Frequency: 1
+Word: celebr  - Frequency: 1
+Word: 50  - Frequency: 1
+Word: red  - Frequency: 1
+Word: rbs  - Frequency: 1
+Word: brasíl  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_jobim_solang_anos_ser_nov_president
+
+Keyword: 3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson_inform_fim_noit_terc_econom_vieir_38_agênc_nacional_aviaçã_civil_brac_direit_peemedeb_poss_funcionár_carreir_bndes_comand_secret_prevident_complement_govern_fern_henriqu_cardos_vai_anac_diss_jant_celebr_50_red_rbs_brasíl
+
+
+------------------------------------------------------------
+Topic: 4
+Word: alvo  - Frequency: 1
+Word: crític  - Frequency: 1
+Word: incis  - Frequency: 1
+Word: oposiçã  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: atual  - Frequency: 1
+Word: president  - Frequency: 1
+Word: anac  - Frequency: 1
+Word: milton  - Frequency: 1
+Word: zuanazz  - Frequency: 1
+Word: já  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: concord  - Frequency: 1
+Word: renunc  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: próx  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: globonews  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: pretend  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: funçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president_anac_milton_zuanazz_já_ter_concord_renunc_dev_entreg_carg_próx_dias_procur_pel_globonews_tv_noit_terc_diss_nã_pretend_deix_funçã
+
+
+------------------------------------------------------------
+Topic: 5
+Word: com  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: mandat  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: só  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: sair  - Frequency: 1
+Word: renúnc  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: judicial  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: improb  - Frequency: 1
+Word: administr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod_sair_renúnc_decisã_judicial_acus_improb_administr
+
+
+------------------------------------------------------------
+Topic: 6
+Word: dois  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: dav  - Frequency: 1
+Word: sustent  - Frequency: 1
+Word: zuanazz  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: dilm  - Frequency: 1
+Word: rousseff  - Frequency: 1
+Word: walfr  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: gui  - Frequency: 1
+Word: aval  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: figur  - Frequency: 1
+Word: vincul  - Frequency: 1
+Word: cris  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: defend  - Frequency: 1
+Word: substituiçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr_mar_gui_aval_quart_torn_figur_vincul_cris_aér_pass_defend_substituiçã
+
+
+------------------------------------------------------------
+Topic: 7
+Word: últim  - Frequency: 1
+Word: remanescent  - Frequency: 1
+Word: diretor  - Frequency: 3
+Word: anac  - Frequency: 2
+Word: époc  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: josef  - Frequency: 1
+Word: barat  - Frequency: 1
+Word: relaçõ  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: capacit  - Frequency: 1
+Word: também  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: sair  - Frequency: 1
+Word: três  - Frequency: 1
+Word: já  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: carg  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_diretor
+
+Keyword: 7_diretor_anac
+
+Keyword: 7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ_internacion_pesquis_capacit_também_dev_sair_três_já_entreg_carg
+
+
+------------------------------------------------------------
+Topic: 8
+Word: 2001  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: solang  - Frequency: 1
+Word: comand  - Frequency: 2
+Word: mã  - Frequency: 1
+Word: fund  - Frequency: 3
+Word: pensã  - Frequency: 3
+Word: país  - Frequency: 1
+Word: com  - Frequency: 1
+Word: titul  - Frequency: 1
+Word: secret  - Frequency: 1
+Word: prevident  - Frequency: 2
+Word: complement  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: desentend  - Frequency: 1
+Word: entã  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: past  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: brant  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: demit  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: reform  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: regulament  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: transparent  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: também  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: inimig  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: dirigent  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: vaidos  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: cuid  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: sistem  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_fund_pensã
+
+Keyword: 8_fund_pensã_comand_prevident
+
+Keyword: 8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang_mã_país_com_titul_secret_complement_ministéri_vári_desentend_entã_ministr_past_robert_brant_foi_demit_durant_períod_maior_reform_últim_anos_legisl_regulament_aument_transparent_setor_também_conquist_inimig_principal_dirigent_acus_ser_vaidos_nã_ter_cuid_divulg_inform_sistem
+
+
+------------------------------------------------------------
+Topic: 9
+Word: relatóri  - Frequency: 1
+Word: final  - Frequency: 1
+Word: cpi  - Frequency: 1
+Word: apagã  - Frequency: 1
+Word: câm  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: lid  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: recomend  - Frequency: 1
+Word: ingress  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: priv  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: com  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: relator  - Frequency: 1
+Word: deput  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: só  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: apont  - Frequency: 1
+Word: conclusõ  - Frequency: 1
+Word: quint  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc_recomend_ingress_inic_priv_administr_infra_aeroport_hoj_com_estatal_infraer_relator_deput_marc_mai_só_dev_apont_conclusõ_quint
+
+
+------------------------------------------------------------
+Topic: 10
+Word: cobr  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: oposiçã  - Frequency: 2
+Word: dificil  - Frequency: 1
+Word: relator  - Frequency: 1
+Word: irá  - Frequency: 1
+Word: suger  - Frequency: 1
+Word: indic  - Frequency: 2
+Word: zuanazz  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: nã  - Frequency: 2
+Word: está  - Frequency: 1
+Word: convenc  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: agrad  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: quer  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: mai  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_oposiçã_indic_zuanazz_diss_nã
+
+Keyword: 10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident_tam_pel_dificil_relator_irá_suger_está_convenc_objet_denúnc_agênc_pod_agrad_govern_quer_sej_mai
+
+NUM: 12
+
+
+NUM: 23
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 44
+
+
+NUM: 32
+
+
+NUM: 16
+
+
+NUM: 21
+
+
+NUM: 19
+
+
+NUM: 50
+
+
+NUM: 29
+
+
+NUM: 26
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 12
+
+
+NUM: 23
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 44
+
+
+NUM: 32
+
+
+NUM: 16
+
+
+NUM: 21
+
+
+NUM: 19
+
+
+NUM: 50
+
+
+NUM: 29
+
+
+NUM: 26
+
+
+---------------BEFORE!-------------
+
+VEC: 0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã_civil_assessor_ministéri
+VEC: 1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir_filh_indic_exerc_carg_substituiçã_jorg_luiz_brit_veloz_ped_demissã_final_mês_pass
+VEC: 2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant
+VEC: 3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson_inform_fim_noit_terc_econom_vieir_38_agênc_nacional_aviaçã_civil_brac_direit_peemedeb_poss_funcionár_carreir_bndes_comand_secret_prevident_complement_govern_fern_henriqu_cardos_vai_anac_diss_jant_celebr_50_red_rbs_brasíl
+VEC: 4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president_anac_milton_zuanazz_já_ter_concord_renunc_dev_entreg_carg_próx_dias_procur_pel_globonews_tv_noit_terc_diss_nã_pretend_deix_funçã
+VEC: 5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod_sair_renúnc_decisã_judicial_acus_improb_administr
+VEC: 6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr_mar_gui_aval_quart_torn_figur_vincul_cris_aér_pass_defend_substituiçã
+VEC: 7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ_internacion_pesquis_capacit_também_dev_sair_três_já_entreg_carg
+VEC: 8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang_mã_país_com_titul_secret_complement_ministéri_vári_desentend_entã_ministr_past_robert_brant_foi_demit_durant_períod_maior_reform_últim_anos_legisl_regulament_aument_transparent_setor_também_conquist_inimig_principal_dirigent_acus_ser_vaidos_nã_ter_cuid_divulg_inform_sistem
+VEC: 9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc_recomend_ingress_inic_priv_administr_infra_aeroport_hoj_com_estatal_infraer_relator_deput_marc_mai_só_dev_apont_conclusõ_quint
+VEC: 10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident_tam_pel_dificil_relator_irá_suger_está_convenc_objet_denúnc_agênc_pod_agrad_govern_quer_sej_mai
+
+---------------AFTER!-------------
+
+VEC: 0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã
+VEC: 1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir
+VEC: 2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant
+VEC: 3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson
+VEC: 4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president
+VEC: 5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod
+VEC: 6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr
+VEC: 7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ
+VEC: 8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang
+VEC: 9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc
+VEC: 10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0476768
+
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" is "0.1"
+
+CHANGE! -- From: 11 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" is "0.2"
+
+CHANGE! -- From: 11 -> TO: 5
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_oposiçã_indic_zuanazz_diss_nã_cobr_famili_vítim_acident" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" is "0.111111"
+
+CHANGE! -- From: 10 -> TO: 4
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0.111111"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_relatóri_final_cpi_apagã_câm_comec_ser_lid_terc" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" is "0.111111"
+
+CHANGE! -- From: 9 -> TO: 4
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_fund_pensã_comand_prevident_2001_cerc_oit_mes_solang" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 3 -- Abs: 5
+
+
+Topic change from "8" to "3"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 3 -- Abs: 5
+
+
+Topic change from "8" to "3"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 3 -- Abs: 5
+
+
+Topic change from "8" to "3"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 3 -- Abs: 5
+
+
+Topic change from "8" to "3"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" and "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" and "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" is "0.111111"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" and "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" is "0.111111"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" and "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0.222222"
+
+CHANGE! -- From: 8 -> TO: 3
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_diretor_anac_últim_remanescent_époc_acident_josef_barat_relaçõ" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" and "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" and "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" and "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" is "0.111111"
+
+CHANGE! -- From: 7 -> TO: 4
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0.111111"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_dois_ministr_dav_sustent_zuanazz_carg_dilm_rousseff_walfr" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" and "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" and "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" is "0.111111"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0.111111"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "5_com_diretor_agênc_têm_mandat_cinc_anos_só_pod" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0.222222"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" and "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" is "0.111111"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_alvo_crític_incis_oposiçã_acident_airbus_tam_atual_president" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" and "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0.111111"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "3_jobim_solang_anos_ser_nov_president_ministr_defes_nelson" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0.222222"
+
+CHANGE! -- From: 4 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" and "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "2_também_renunc_carg_diretor_anac_denis_abreu_leur_lomant" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0.111111"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir" and "0_diretor_jobim_econom_assum_solang_vieir_agênc_nacional_aviaçã" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+NUM_TOPICS: 5
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ﻿o  - Frequency: 1
+Word: ministr  - Frequency: 4
+Word: defes  - Frequency: 2
+Word: nelson  - Frequency: 2
+Word: jobim  - Frequency: 5
+Word: dev  - Frequency: 3
+Word: encaminh  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: econom  - Frequency: 4
+Word: solang  - Frequency: 5
+Word: vieir  - Frequency: 3
+Word: assum  - Frequency: 3
+Word: diretor  - Frequency: 9
+Word: agênc  - Frequency: 4
+Word: nacional  - Frequency: 3
+Word: aviaçã  - Frequency: 3
+Word: civil  - Frequency: 3
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: está  - Frequency: 1
+Word: defin  - Frequency: 1
+Word: vai  - Frequency: 2
+Word: inicial  - Frequency: 1
+Word: assessor  - Frequency: 2
+Word: especial  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: escolh  - Frequency: 1
+Word: comand  - Frequency: 4
+Word: secret  - Frequency: 3
+Word: ser  - Frequency: 5
+Word: cri  - Frequency: 1
+Word: estrutur  - Frequency: 1
+Word: ministéri  - Frequency: 3
+Word: segund  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: dificuldad  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: aceit  - Frequency: 1
+Word: regul  - Frequency: 1
+Word: renúnc  - Frequency: 2
+Word: três  - Frequency: 2
+Word: decid  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: carg  - Frequency: 4
+Word: também  - Frequency: 3
+Word: renunc  - Frequency: 1
+Word: anac  - Frequency: 4
+Word: denis  - Frequency: 1
+Word: abreu  - Frequency: 1
+Word: leur  - Frequency: 1
+Word: lomant  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: fim  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: terc  - Frequency: 2
+Word: 38  - Frequency: 1
+Word: anos  - Frequency: 4
+Word: nov  - Frequency: 2
+Word: president  - Frequency: 2
+Word: brac  - Frequency: 1
+Word: direit  - Frequency: 1
+Word: peemedeb  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: funcionár  - Frequency: 1
+Word: carreir  - Frequency: 1
+Word: bndes  - Frequency: 1
+Word: prevident  - Frequency: 3
+Word: complement  - Frequency: 2
+Word: govern  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: henriqu  - Frequency: 1
+Word: cardos  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: jant  - Frequency: 1
+Word: celebr  - Frequency: 1
+Word: 50  - Frequency: 1
+Word: red  - Frequency: 1
+Word: rbs  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: com  - Frequency: 3
+Word: têm  - Frequency: 1
+Word: mandat  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: só  - Frequency: 2
+Word: pod  - Frequency: 1
+Word: sair  - Frequency: 2
+Word: decisã  - Frequency: 1
+Word: judicial  - Frequency: 1
+Word: acus  - Frequency: 2
+Word: improb  - Frequency: 1
+Word: administr  - Frequency: 2
+Word: dois  - Frequency: 1
+Word: dav  - Frequency: 1
+Word: sustent  - Frequency: 1
+Word: zuanazz  - Frequency: 1
+Word: dilm  - Frequency: 1
+Word: rousseff  - Frequency: 1
+Word: walfr  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: gui  - Frequency: 1
+Word: aval  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: figur  - Frequency: 1
+Word: vincul  - Frequency: 1
+Word: cris  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: defend  - Frequency: 1
+Word: substituiçã  - Frequency: 1
+Word: últim  - Frequency: 2
+Word: remanescent  - Frequency: 1
+Word: époc  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: josef  - Frequency: 1
+Word: barat  - Frequency: 1
+Word: relaçõ  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: capacit  - Frequency: 1
+Word: já  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: 2001  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: mã  - Frequency: 1
+Word: fund  - Frequency: 3
+Word: pensã  - Frequency: 3
+Word: país  - Frequency: 1
+Word: titul  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: desentend  - Frequency: 1
+Word: entã  - Frequency: 1
+Word: past  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: brant  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: demit  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: reform  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: regulament  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: transparent  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: inimig  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: dirigent  - Frequency: 1
+Word: vaidos  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: cuid  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: relatóri  - Frequency: 1
+Word: final  - Frequency: 1
+Word: cpi  - Frequency: 1
+Word: apagã  - Frequency: 1
+Word: câm  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: lid  - Frequency: 1
+Word: recomend  - Frequency: 1
+Word: ingress  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: priv  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: relator  - Frequency: 1
+Word: deput  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: apont  - Frequency: 1
+Word: conclusõ  - Frequency: 1
+Word: quint  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_diretor
+
+Keyword: 0_diretor
+
+Keyword: 0_diretor
+
+Keyword: 0_diretor
+
+Keyword: 0_diretor_jobim_solang_ser
+
+Keyword: 0_diretor_jobim_solang_ser_ministr_econom_agênc_comand_carg_anac_anos
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: três  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: ocup  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: major  - Frequency: 1
+Word: allemand  - Frequency: 1
+Word: jesus  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: filh  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: exerc  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: substituiçã  - Frequency: 1
+Word: jorg  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: brit  - Frequency: 1
+Word: veloz  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: demissã  - Frequency: 1
+Word: final  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: pass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir_filh_indic_exerc_carg_substituiçã_jorg_luiz_brit_veloz_ped_demissã_final_mês_pass
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: alvo  - Frequency: 1
+Word: crític  - Frequency: 1
+Word: incis  - Frequency: 1
+Word: oposiçã  - Frequency: 3
+Word: acident  - Frequency: 2
+Word: airbus  - Frequency: 1
+Word: tam  - Frequency: 2
+Word: atual  - Frequency: 1
+Word: president  - Frequency: 1
+Word: anac  - Frequency: 1
+Word: milton  - Frequency: 1
+Word: zuanazz  - Frequency: 3
+Word: já  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: concord  - Frequency: 1
+Word: renunc  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: próx  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: globonews  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: diss  - Frequency: 3
+Word: nã  - Frequency: 3
+Word: pretend  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: funçã  - Frequency: 1
+Word: cobr  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: dificil  - Frequency: 1
+Word: relator  - Frequency: 1
+Word: irá  - Frequency: 1
+Word: suger  - Frequency: 1
+Word: indic  - Frequency: 2
+Word: está  - Frequency: 1
+Word: convenc  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: agrad  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: quer  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: mai  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_oposiçã_zuanazz_diss_nã
+
+Keyword: 4_oposiçã_zuanazz_diss_nã_acident_tam_pel_indic
+
+NUM: 11
+
+
+NUM: 23
+
+
+NUM: 8
+
+
+LESSER: 8
+
+(FINAL) AVERAGE: 8
+
+NUM: 11
+
+
+NUM: 23
+
+
+NUM: 8
+
+
+LESSER: 8
+
+---------------BEFORE!-------------
+
+VEC: 0_diretor_jobim_solang_ser_ministr_econom_agênc_comand_carg_anac_anos
+VEC: 1_três_vag_ser_ocup_pel_major_allemand_jesus_pereir_filh_indic_exerc_carg_substituiçã_jorg_luiz_brit_veloz_ped_demissã_final_mês_pass
+VEC: 4_oposiçã_zuanazz_diss_nã_acident_tam_pel_indic
+
+---------------AFTER!-------------
+
+VEC: 0_diretor_jobim_solang_ser_ministr_econom_agênc_comand
+VEC: 1_três_vag_ser_ocup_pel_major_allemand_jesus
+VEC: 4_oposiçã_zuanazz_diss_nã_acident_tam_pel_indic
+Keyword: 0_diretor_jobim_solang_ser_ministr_econom_agênc_comand
+Keyword: 1_três_vag_ser_ocup_pel_major_allemand_jesus
+Keyword: 4_oposiçã_zuanazz_diss_nã_acident_tam_pel_indic

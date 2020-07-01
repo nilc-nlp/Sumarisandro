@@ -1,0 +1,5299 @@
+Sentenca(topic=0): A seleção brasileira masculina de vôlei mostrou, mais uma vez, sua superioridade na modalidade.
+Sentenca(topic=0): O time de Bernardinho derrotou a Rússia por 3 sets a 1, parciais de 18/25, 25/23, 28/26 e 25/22, em Katowice (Polônia), e alcançou seu sétimo título da Liga Mundial.
+Sentenca(topic=0): O título reforça ainda mais a superioridade da equipe nacional.
+Sentenca(topic=1): Foi a quinta conquista seguida nesta competição.
+Sentenca(topic=1): Sua última derrota em finais da Liga Mundial, aliás, ocorreu em 2002, coincidentemente para a Rússia.
+Sentenca(topic=1): Antes, o Brasil tinha vencido em 2001 e 1993.
+Sentenca(topic=2): Com esse triunfo, o Brasil se aproxima da Itália, ainda a maior vencedora de Ligas Mundiais --soma oito conquistas.
+Sentenca(topic=3): Em 2007, a seleção nacional teve uma campanha quase irretocável na competição.
+Sentenca(topic=3): Foram 17 vitórias em 18 partidas.
+Sentenca(topic=3): Seu único revés foi diante da Bulgária, na estréia da fase final da competição.
+Sentenca(topic=4): A era Bernardinho, aliás, é a mais vitoriosa do time masculino de vôlei.
+Sentenca(topic=4): Entre outras conquistas, a seleção nacional soma dois títulos do Campeonato Mundial, uma medalha de ouro nos Jogos Olímpicos de Atenas-04 e a Copa do Mundo do Japão, em 2003.
+Sentenca(topic=5): Seu próximo objetivo é os Jogos Pan-Americanos do Rio.
+Sentenca(topic=5): A equipe terá pouco tempo para comemorar seu mais novo feito.
+Sentenca(topic=5): Dia 23 de julho, os comandados de Bernardinho farão sua estréia no Pan do Rio diante do Canadá, no ginásio do Maracanãzinho.
+Sentenca(topic=6): Em Santo Domingo-03, a equipe nacional falhou e terminou em terceiro lugar.
+Sentenca(topic=7): A seleção brasileira de vôlei mais uma vez mostrou o porquê de ser o melhor time do mundo ao vencer a Rússia por 3 sets a 1, com parciais de 18 a 25, 25 a 23, 28 a 26 e 25 a 22, na tarde deste domingo, em Katowice, Polônia, na final da Liga Mundial de vôlei, conquistando o heptacampeonato da competição.
+Sentenca(topic=7): A conquista reforça o status de melhor time de vôlei do mundo, uma vez que o Brasil soma cinco títulos consecutivos da Liga Mundial, além do título da Copa do Mundo e das Olimpíadas de Atenas, em 2004.
+Sentenca(topic=8): Agora, a meta é a medalha de ouro dos Jogos Pan-Americanos, que estão sendo disputados no Rio de Janeiro.
+Sentenca(topic=9): Apresentando erros em seus ataques, o Brasil deixou a Rússia dominar o primeiro set, que foi fechado em 25 a 18, em 22 minutos.
+Sentenca(topic=9): O troco aconteceu logo no segundo set.
+Sentenca(topic=9): Mesmo com a forte marcação imposta pela altura russa, os brasileiros, com boas jogadas de Giba e André Nascimento, fechou em 25 a 23, em 26 minutos.
+Sentenca(topic=10): Mais aliviado com a igualdade no placar, a seleção brasileira impôs seu ritmo, mas foi novamente surpreendida pela vontade russa, que insistia na marcação de rede, exigindo variações das jogadas do armador Ricardinho.
+Sentenca(topic=10): Apesar da dificuldade, o Brasil fechou o terceiro set em 28 a 26, em 31 minutos.
+Sentenca(topic=11): A expectativa do heptacampeonato era grande, mas os jogadores controlaram a ansiedade e o ímpeto russo.
+Sentenca(topic=11): Esperto, o técnico Bernardinho utilizou um bloqueio alto no ponto crucial do quarto set, colocando dois pontos de vantagem no placar, o que foi necessário para fechar em 25 a 22, dando início a mais uma comemoração do vôlei masculino brasileiro.
+Sentenca(topic=12): A seleção brasileira de vôlei voltou a fazer bonito, desta vez na final da Liga Mundial, disputada contra a Rússia neste domingo no ginásio de Spodekna, em Katowice, na Polônia.
+Sentenca(topic=12): O placar da partida foi de 3 sets a 1, com parciais de 18/25, 25/23, 28/26 e 25/22.
+Sentenca(topic=12): Com a vitória, a seleção de Bernardinho conquistou seu quinto título consecutivo e o sétimo no total, na Liga Mundial.
+Sentenca(topic=12): Em 2008, quando a Liga será disputada em Roma, a seleção brasileira tem a chance de, na casa do adversário, igualar a Itália em número de títulos da Liga, conquistando o octacampeonato.
+Sentenca(topic=12): De 2001 para cá, a seleção brasileira chegou a todas as finais, só perdendo em 2002, justamente para a Rússia.
+Sentenca(topic=13): E agora com mais esse título na bagagem, a seleção chega ainda com mais moral para disputar o ouro nos Jogos Pan-Americanos.
+Sentenca(topic=14): Os Estados Unidos, por sua vez, derrotaram a Polônia por 3 sets a 1 e garantiram a terceira posição da Liga Mundial.
+Sentenca(topic=14): A equipe americana venceu com parciais de 25/19, 25/21, 22/25 e 25/19.
+Sentenca(topic=14): A equipe principal de vôlei dos EUA não alcança um pódio de competições de âmbito mundial desde 1992.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: seleçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: superior  - Frequency: 2
+Word: modal  - Frequency: 1
+Word: tim  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: derrot  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: sets  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: parc  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: 25  - Frequency: 2
+Word: 28  - Frequency: 1
+Word: katowic  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: sétim  - Frequency: 1
+Word: títul  - Frequency: 2
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: reforc  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: nacional  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_superior_25_títul
+
+Keyword: 0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr_vez_modal_tim_bernardinh_derrot_rúss_3_sets_1_parc_18_28_katowic_alcanc_sétim_lig_mundial_reforc_aind_equip_nacional
+
+
+------------------------------------------------------------
+Topic: 1
+Word: foi  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: derrot  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: aliás  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: 2002  - Frequency: 1
+Word: coincident  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: 2001  - Frequency: 1
+Word: 1993  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_foi_quint_conquist_segu_competiçã_últim_derrot_fin_lig_mundial_aliás_ocorr_2002_coincident_rúss_antes_brasil_tinh_venc_2001_1993
+
+
+------------------------------------------------------------
+Topic: 2
+Word: triunf  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: itál  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: vencedor  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundi  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: conquist  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig_mundi_oit_conquist
+
+
+------------------------------------------------------------
+Topic: 3
+Word: 2007  - Frequency: 1
+Word: seleçã  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: campanh  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: irretoc  - Frequency: 1
+Word: competiçã  - Frequency: 2
+Word: for  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: part  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: revés  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: bulgár  - Frequency: 1
+Word: estré  - Frequency: 1
+Word: fas  - Frequency: 1
+Word: final  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_competiçã
+
+Keyword: 3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc_for_17_vitór_18_part_únic_revés_foi_diant_bulgár_estré_fas_final
+
+
+------------------------------------------------------------
+Topic: 4
+Word: era  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: aliás  - Frequency: 1
+Word: vitori  - Frequency: 1
+Word: tim  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: seleçã  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: som  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: títul  - Frequency: 1
+Word: campeonat  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: aten  - Frequency: 1
+Word: cop  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: 2003  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist_seleçã_nacional_som_dois_títul_campeonat_mundial_medalh_our_jog_olímp_aten_cop_mund_japã_2003
+
+
+------------------------------------------------------------
+Topic: 5
+Word: próxim  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: rio  - Frequency: 2
+Word: equip  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: comemor  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: farã  - Frequency: 1
+Word: estré  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: canad  - Frequency: 1
+Word: ginási  - Frequency: 1
+Word: maracanãzinh  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_pan_rio
+
+Keyword: 5_pan_rio_próxim_objet_jog_equip_ter_temp_comemor_nov_feit_dia_23_julh_comand_bernardinh_farã_estré_diant_canad_ginási_maracanãzinh
+
+
+------------------------------------------------------------
+Topic: 6
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: lug  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_sant_doming_equip_nacional_falh_termin_terceir_lug
+
+Keyword: 6_sant_doming_equip_nacional_falh_termin_terceir_lug
+
+
+------------------------------------------------------------
+Topic: 7
+Word: seleçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: v�  - Frequency: 3
+Word: vez  - Frequency: 2
+Word: mostr  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: melhor  - Frequency: 2
+Word: tim  - Frequency: 2
+Word: mund  - Frequency: 3
+Word: venc  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: sets  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: parc  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: 25  - Frequency: 3
+Word: 23  - Frequency: 1
+Word: 28  - Frequency: 1
+Word: 26  - Frequency: 1
+Word: 22  - Frequency: 1
+Word: tard  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: katowic  - Frequency: 1
+Word: pol�  - Frequency: 1
+Word: final  - Frequency: 1
+Word: lig  - Frequency: 2
+Word: mundial  - Frequency: 2
+Word: conquist  - Frequency: 2
+Word: heptacampeonat  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: reforc  - Frequency: 1
+Word: status  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: som  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: títul  - Frequency: 2
+Word: consecut  - Frequency: 1
+Word: além  - Frequency: 1
+Word: cop  - Frequency: 1
+Word: olimpí  - Frequency: 1
+Word: aten  - Frequency: 1
+Word: 2004  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_v�_mund_25
+
+Keyword: 7_v�_mund_25_vez_melhor_tim_lig_mundial_conquist_títul
+
+
+------------------------------------------------------------
+Topic: 8
+Word: agor  - Frequency: 1
+Word: met  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: janeir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_agor_met_medalh_our_jog_pan_estã_send_disput_rio_janeir
+
+
+------------------------------------------------------------
+Topic: 9
+Word: apresent  - Frequency: 1
+Word: erros  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: domin  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: set  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: fech  - Frequency: 2
+Word: 25  - Frequency: 2
+Word: 18  - Frequency: 1
+Word: 22  - Frequency: 1
+Word: minut  - Frequency: 2
+Word: troc  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: marcaçã  - Frequency: 1
+Word: impost  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: boas  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: gib  - Frequency: 1
+Word: andré  - Frequency: 1
+Word: nasciment  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: 26  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_set_fech_25_minut
+
+Keyword: 9_set_fech_25_minut_apresent_erros_ataqu_brasil_deix_rúss_domin_primeir_foi_18_22_troc_acontec_segund_fort_marcaçã_impost_pel_altur_russ_brasileir_boas_jog_gib_andré_nasciment_23_26
+
+
+------------------------------------------------------------
+Topic: 10
+Word: alivi  - Frequency: 1
+Word: igualdad  - Frequency: 1
+Word: plac  - Frequency: 1
+Word: seleçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: imp�  - Frequency: 1
+Word: ritm  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: surpreend  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: vontad  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: insist  - Frequency: 1
+Word: marcaçã  - Frequency: 1
+Word: red  - Frequency: 1
+Word: exig  - Frequency: 1
+Word: variaçõ  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: armador  - Frequency: 1
+Word: ricardinh  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: dificuldad  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: set  - Frequency: 1
+Word: 28  - Frequency: 1
+Word: 26  - Frequency: 1
+Word: 31  - Frequency: 1
+Word: minut  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi_nov_surpreend_pel_vontad_russ_insist_marcaçã_red_exig_variaçõ_jog_armador_ricardinh_apes_dificuldad_brasil_fech_terceir_set_28_26_31_minut
+
+
+------------------------------------------------------------
+Topic: 11
+Word: expect  - Frequency: 1
+Word: heptacampeonat  - Frequency: 1
+Word: era  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: jogador  - Frequency: 1
+Word: control  - Frequency: 1
+Word: ansiedad  - Frequency: 1
+Word: ímpet  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: espert  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: bloquei  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: crucial  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: set  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: plac  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: 22  - Frequency: 1
+Word: dand  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: comemor  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: brasileir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_pont
+
+Keyword: 11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad_ímpet_russ_espert_técnic_bernardinh_utiliz_bloquei_alto_crucial_quart_set_coloc_dois_vantag_plac_foi_necessári_fech_25_22_dand_iníci_comemor_v�_masculin_brasileir
+
+
+------------------------------------------------------------
+Topic: 12
+Word: seleçã  - Frequency: 4
+Word: brasileir  - Frequency: 3
+Word: v�  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: bonit  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: final  - Frequency: 1
+Word: lig  - Frequency: 4
+Word: mundial  - Frequency: 2
+Word: disput  - Frequency: 2
+Word: rúss  - Frequency: 2
+Word: doming  - Frequency: 1
+Word: ginási  - Frequency: 1
+Word: spodekn  - Frequency: 1
+Word: katowic  - Frequency: 1
+Word: pol�  - Frequency: 1
+Word: plac  - Frequency: 1
+Word: part  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: sets  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: parc  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: 25  - Frequency: 2
+Word: 28  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: conquist  - Frequency: 2
+Word: quint  - Frequency: 1
+Word: títul  - Frequency: 2
+Word: consecut  - Frequency: 1
+Word: sétim  - Frequency: 1
+Word: total  - Frequency: 1
+Word: 2008  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: rom  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: chanc  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: adversári  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: itál  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: octacampeonat  - Frequency: 1
+Word: 2001  - Frequency: 1
+Word: cá  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: só  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: 2002  - Frequency: 1
+Word: just  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_seleçã_lig
+
+Keyword: 12_seleçã_lig_brasileir
+
+Keyword: 12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist_títul
+
+
+------------------------------------------------------------
+Topic: 13
+Word: agor  - Frequency: 1
+Word: títul  - Frequency: 1
+Word: bagag  - Frequency: 1
+Word: seleçã  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: moral  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: our  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_agor_títul_bagag_seleçã_cheg_aind_moral_disput_our_jog_pan
+
+
+------------------------------------------------------------
+Topic: 14
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: derrot  - Frequency: 1
+Word: pol�  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: sets  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 2
+Word: equip  - Frequency: 2
+Word: american  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: parc  - Frequency: 1
+Word: 25  - Frequency: 3
+Word: 22  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: eua  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: competiçõ  - Frequency: 1
+Word: âmbit  - Frequency: 1
+Word: 1992  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_25
+
+Keyword: 14_25_mundial_equip
+
+Keyword: 14_25_mundial_equip_estad_unid_vez_derrot_pol�_3_sets_1_garant_terceir_posiçã_lig_american_venc_parc_22_principal_v�_eua_nã_alcanc_pódi_competiçõ_âmbit_1992
+
+NUM: 29
+
+
+NUM: 21
+
+
+NUM: 11
+
+
+NUM: 21
+
+
+NUM: 24
+
+
+NUM: 22
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 10
+
+
+NUM: 11
+
+
+NUM: 32
+
+
+NUM: 31
+
+
+NUM: 34
+
+
+NUM: 9
+
+
+NUM: 11
+
+
+NUM: 28
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 29
+
+
+NUM: 21
+
+
+NUM: 11
+
+
+NUM: 21
+
+
+NUM: 24
+
+
+NUM: 22
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 10
+
+
+NUM: 11
+
+
+NUM: 32
+
+
+NUM: 31
+
+
+NUM: 34
+
+
+NUM: 9
+
+
+NUM: 11
+
+
+NUM: 28
+
+
+---------------BEFORE!-------------
+
+VEC: 0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr_vez_modal_tim_bernardinh_derrot_rúss_3_sets_1_parc_18_28_katowic_alcanc_sétim_lig_mundial_reforc_aind_equip_nacional
+VEC: 1_foi_quint_conquist_segu_competiçã_últim_derrot_fin_lig_mundial_aliás_ocorr_2002_coincident_rúss_antes_brasil_tinh_venc_2001_1993
+VEC: 2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig_mundi_oit_conquist
+VEC: 3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc_for_17_vitór_18_part_únic_revés_foi_diant_bulgár_estré_fas_final
+VEC: 4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist_seleçã_nacional_som_dois_títul_campeonat_mundial_medalh_our_jog_olímp_aten_cop_mund_japã_2003
+VEC: 5_pan_rio_próxim_objet_jog_equip_ter_temp_comemor_nov_feit_dia_23_julh_comand_bernardinh_farã_estré_diant_canad_ginási_maracanãzinh
+VEC: 6_sant_doming_equip_nacional_falh_termin_terceir_lug
+VEC: 7_v�_mund_25_vez_melhor_tim_lig_mundial_conquist_títul
+VEC: 8_agor_met_medalh_our_jog_pan_estã_send_disput_rio_janeir
+VEC: 9_set_fech_25_minut_apresent_erros_ataqu_brasil_deix_rúss_domin_primeir_foi_18_22_troc_acontec_segund_fort_marcaçã_impost_pel_altur_russ_brasileir_boas_jog_gib_andré_nasciment_23_26
+VEC: 10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi_nov_surpreend_pel_vontad_russ_insist_marcaçã_red_exig_variaçõ_jog_armador_ricardinh_apes_dificuldad_brasil_fech_terceir_set_28_26_31_minut
+VEC: 11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad_ímpet_russ_espert_técnic_bernardinh_utiliz_bloquei_alto_crucial_quart_set_coloc_dois_vantag_plac_foi_necessári_fech_25_22_dand_iníci_comemor_v�_masculin_brasileir
+VEC: 12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist_títul
+VEC: 13_agor_títul_bagag_seleçã_cheg_aind_moral_disput_our_jog_pan
+VEC: 14_25_mundial_equip_estad_unid_vez_derrot_pol�_3_sets_1_garant_terceir_posiçã_lig_american_venc_parc_22_principal_v�_eua_nã_alcanc_pódi_competiçõ_âmbit_1992
+
+---------------AFTER!-------------
+
+VEC: 0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr
+VEC: 1_foi_quint_conquist_segu_competiçã_últim_derrot_fin
+VEC: 2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig
+VEC: 3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc
+VEC: 4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist
+VEC: 5_pan_rio_próxim_objet_jog_equip_ter_temp
+VEC: 6_sant_doming_equip_nacional_falh_termin_terceir_lug
+VEC: 7_v�_mund_25_vez_melhor_tim_lig_mundial
+VEC: 8_agor_met_medalh_our_jog_pan_estã_send
+VEC: 9_set_fech_25_minut_apresent_erros_ataqu_brasil
+VEC: 10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi
+VEC: 11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad
+VEC: 12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist
+VEC: 13_agor_títul_bagag_seleçã_cheg_aind_moral_disput
+VEC: 14_25_mundial_equip_estad_unid_vez_derrot_pol�
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0689154
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" is "0.111111"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" is "0.333333"
+
+CHANGE! -- From: 15 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "9_set_fech_25_minut_apresent_erros_ataqu_brasil" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "8_agor_met_medalh_our_jog_pan_estã_send" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "7_v�_mund_25_vez_melhor_tim_lig_mundial" is "0.333333"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0.111111"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_25_mundial_equip_estad_unid_vez_derrot_pol�" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" is "0.333333"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "9_set_fech_25_minut_apresent_erros_ataqu_brasil" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "8_agor_met_medalh_our_jog_pan_estã_send" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "7_v�_mund_25_vez_melhor_tim_lig_mundial" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "13_agor_títul_bagag_seleçã_cheg_aind_moral_disput" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" is "0.111111"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" is "0.333333"
+
+CHANGE! -- From: 13 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "9_set_fech_25_minut_apresent_erros_ataqu_brasil" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "8_agor_met_medalh_our_jog_pan_estã_send" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "7_v�_mund_25_vez_melhor_tim_lig_mundial" is "0.333333"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0.111111"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "12_seleçã_lig_brasileir_mundial_disput_rúss_25_conquist" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.333333"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" is "0.111111"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "9_set_fech_25_minut_apresent_erros_ataqu_brasil" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "8_agor_met_medalh_our_jog_pan_estã_send" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "7_v�_mund_25_vez_melhor_tim_lig_mundial" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "9_set_fech_25_minut_apresent_erros_ataqu_brasil" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "8_agor_met_medalh_our_jog_pan_estã_send" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "7_v�_mund_25_vez_melhor_tim_lig_mundial" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0.111111"
+
+CHANGE! -- From: 11 -> TO: 4
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0.111111"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "10_alivi_igualdad_plac_seleçã_brasileir_imp�_ritm_foi" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.222222"
+
+CHANGE! -- From: 11 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "8_agor_met_medalh_our_jog_pan_estã_send" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "7_v�_mund_25_vez_melhor_tim_lig_mundial" is "0.125"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0.125"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_set_fech_25_minut_apresent_erros_ataqu_brasil" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "7_v�_mund_25_vez_melhor_tim_lig_mundial" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0.25"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_agor_met_medalh_our_jog_pan_estã_send" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_v�_mund_25_vez_melhor_tim_lig_mundial" and "6_sant_doming_equip_nacional_falh_termin_terceir_lug" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_v�_mund_25_vez_melhor_tim_lig_mundial" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "7_v�_mund_25_vez_melhor_tim_lig_mundial" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0.25"
+
+CHANGE! -- From: 8 -> TO: 5
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_v�_mund_25_vez_melhor_tim_lig_mundial" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_v�_mund_25_vez_melhor_tim_lig_mundial" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0.125"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_v�_mund_25_vez_melhor_tim_lig_mundial" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "7_v�_mund_25_vez_melhor_tim_lig_mundial" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 5 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_sant_doming_equip_nacional_falh_termin_terceir_lug" and "5_pan_rio_próxim_objet_jog_equip_ter_temp" is "0.125"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_sant_doming_equip_nacional_falh_termin_terceir_lug" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_sant_doming_equip_nacional_falh_termin_terceir_lug" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0.125"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_sant_doming_equip_nacional_falh_termin_terceir_lug" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_sant_doming_equip_nacional_falh_termin_terceir_lug" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_sant_doming_equip_nacional_falh_termin_terceir_lug" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pan_rio_próxim_objet_jog_equip_ter_temp" and "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pan_rio_próxim_objet_jog_equip_ter_temp" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pan_rio_próxim_objet_jog_equip_ter_temp" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pan_rio_próxim_objet_jog_equip_ter_temp" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pan_rio_próxim_objet_jog_equip_ter_temp" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" and "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0.125"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "4_era_bernardinh_aliás_vitori_tim_masculin_v�_conquist" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.25"
+
+CHANGE! -- From: 5 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 5 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" and "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0.125"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_competiçã_2007_seleçã_nacional_tev_campanh_quas_irretoc" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" and "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_foi_quint_conquist_segu_competiçã_últim_derrot_fin" and "0_superior_25_títul_seleçã_brasileir_masculin_v�_mostr" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 1
+Topic: 1
+Topic: 1
+NUM_TOPICS: 13
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: seleçã  - Frequency: 8
+Word: brasileir  - Frequency: 7
+Word: masculin  - Frequency: 2
+Word: v�  - Frequency: 7
+Word: mostr  - Frequency: 2
+Word: vez  - Frequency: 5
+Word: superior  - Frequency: 2
+Word: modal  - Frequency: 1
+Word: tim  - Frequency: 4
+Word: bernardinh  - Frequency: 3
+Word: derrot  - Frequency: 2
+Word: rúss  - Frequency: 5
+Word: 3  - Frequency: 4
+Word: sets  - Frequency: 4
+Word: 1  - Frequency: 4
+Word: parc  - Frequency: 4
+Word: 18  - Frequency: 4
+Word: 25  - Frequency: 12
+Word: 28  - Frequency: 4
+Word: katowic  - Frequency: 3
+Word: alcanc  - Frequency: 2
+Word: sétim  - Frequency: 2
+Word: títul  - Frequency: 7
+Word: lig  - Frequency: 8
+Word: mundial  - Frequency: 8
+Word: reforc  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: equip  - Frequency: 3
+Word: nacional  - Frequency: 2
+Word: era  - Frequency: 1
+Word: aliás  - Frequency: 1
+Word: vitori  - Frequency: 1
+Word: conquist  - Frequency: 5
+Word: som  - Frequency: 2
+Word: dois  - Frequency: 1
+Word: campeonat  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: jog  - Frequency: 3
+Word: olímp  - Frequency: 1
+Word: aten  - Frequency: 2
+Word: cop  - Frequency: 2
+Word: mund  - Frequency: 4
+Word: japã  - Frequency: 1
+Word: 2003  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: melhor  - Frequency: 2
+Word: venc  - Frequency: 2
+Word: 23  - Frequency: 2
+Word: 26  - Frequency: 3
+Word: 22  - Frequency: 3
+Word: tard  - Frequency: 1
+Word: doming  - Frequency: 2
+Word: pol�  - Frequency: 3
+Word: final  - Frequency: 2
+Word: heptacampeonat  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: status  - Frequency: 1
+Word: brasil  - Frequency: 3
+Word: cinc  - Frequency: 1
+Word: consecut  - Frequency: 2
+Word: além  - Frequency: 1
+Word: olimpí  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: erros  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: domin  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: set  - Frequency: 3
+Word: foi  - Frequency: 3
+Word: fech  - Frequency: 3
+Word: minut  - Frequency: 3
+Word: troc  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: marcaçã  - Frequency: 2
+Word: impost  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: altur  - Frequency: 1
+Word: russ  - Frequency: 2
+Word: boas  - Frequency: 1
+Word: gib  - Frequency: 1
+Word: andré  - Frequency: 1
+Word: nasciment  - Frequency: 1
+Word: alivi  - Frequency: 1
+Word: igualdad  - Frequency: 1
+Word: plac  - Frequency: 2
+Word: imp�  - Frequency: 1
+Word: ritm  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: surpreend  - Frequency: 1
+Word: vontad  - Frequency: 1
+Word: insist  - Frequency: 1
+Word: red  - Frequency: 1
+Word: exig  - Frequency: 1
+Word: variaçõ  - Frequency: 1
+Word: armador  - Frequency: 1
+Word: ricardinh  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: dificuldad  - Frequency: 1
+Word: terceir  - Frequency: 2
+Word: 31  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: bonit  - Frequency: 1
+Word: disput  - Frequency: 2
+Word: ginási  - Frequency: 1
+Word: spodekn  - Frequency: 1
+Word: part  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: total  - Frequency: 1
+Word: 2008  - Frequency: 1
+Word: rom  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: chanc  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: adversári  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: itál  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: octacampeonat  - Frequency: 1
+Word: 2001  - Frequency: 1
+Word: cá  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: só  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: 2002  - Frequency: 1
+Word: just  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: american  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: eua  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: competiçõ  - Frequency: 1
+Word: âmbit  - Frequency: 1
+Word: 1992  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25_seleçã_lig_mundial
+
+Keyword: 0_25_seleçã_lig_mundial_brasileir_v�_títul
+
+Keyword: 0_25_seleçã_lig_mundial_brasileir_v�_títul
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: foi  - Frequency: 2
+Word: quint  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: competiçã  - Frequency: 3
+Word: últim  - Frequency: 1
+Word: derrot  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: aliás  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: 2002  - Frequency: 1
+Word: coincident  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: 2001  - Frequency: 1
+Word: 1993  - Frequency: 1
+Word: 2007  - Frequency: 1
+Word: seleçã  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: campanh  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: irretoc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: part  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: revés  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: bulgár  - Frequency: 1
+Word: estré  - Frequency: 1
+Word: fas  - Frequency: 1
+Word: final  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_competiçã
+
+Keyword: 1_competiçã_foi
+
+Keyword: 1_competiçã_foi_quint_conquist_segu_últim_derrot_fin_lig_mundial_aliás_ocorr_2002_coincident_rúss_antes_brasil_tinh_venc_2001_1993_2007_seleçã_nacional_tev_campanh_quas_irretoc_for_17_vitór_18_part_únic_revés_diant_bulgár_estré_fas_final
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: triunf  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: itál  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: vencedor  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundi  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: conquist  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig_mundi_oit_conquist
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: próxim  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: jog  - Frequency: 2
+Word: pan  - Frequency: 3
+Word: rio  - Frequency: 3
+Word: equip  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: comemor  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: farã  - Frequency: 1
+Word: estré  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: canad  - Frequency: 1
+Word: ginási  - Frequency: 1
+Word: maracanãzinh  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: met  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: janeir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_pan_rio
+
+Keyword: 5_pan_rio_jog
+
+Keyword: 5_pan_rio_jog_próxim_objet_equip_ter_temp_comemor_nov_feit_dia_23_julh_comand_bernardinh_farã_estré_diant_canad_ginási_maracanãzinh_agor_met_medalh_our_estã_send_disput_janeir
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: lug  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_sant_doming_equip_nacional_falh_termin_terceir_lug
+
+Keyword: 6_sant_doming_equip_nacional_falh_termin_terceir_lug
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: expect  - Frequency: 1
+Word: heptacampeonat  - Frequency: 1
+Word: era  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: jogador  - Frequency: 1
+Word: control  - Frequency: 1
+Word: ansiedad  - Frequency: 1
+Word: ímpet  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: espert  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: bloquei  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: crucial  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: set  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: plac  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: 22  - Frequency: 1
+Word: dand  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: comemor  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: brasileir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_pont
+
+Keyword: 11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad_ímpet_russ_espert_técnic_bernardinh_utiliz_bloquei_alto_crucial_quart_set_coloc_dois_vantag_plac_foi_necessári_fech_25_22_dand_iníci_comemor_v�_masculin_brasileir
+
+Cur_topic: 13
+
+
+
+------------------------------------------------------------
+Topic: 13
+Word: agor  - Frequency: 1
+Word: títul  - Frequency: 1
+Word: bagag  - Frequency: 1
+Word: seleçã  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: moral  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: our  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_agor_títul_bagag_seleçã_cheg_aind_moral_disput_our_jog_pan
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 40
+
+
+NUM: 11
+
+
+NUM: 30
+
+
+NUM: 8
+
+
+NUM: 34
+
+
+NUM: 11
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 40
+
+
+NUM: 11
+
+
+NUM: 30
+
+
+NUM: 8
+
+
+NUM: 34
+
+
+NUM: 11
+
+
+---------------BEFORE!-------------
+
+VEC: 0_25_seleçã_lig_mundial_brasileir_v�_títul
+VEC: 1_competiçã_foi_quint_conquist_segu_últim_derrot_fin_lig_mundial_aliás_ocorr_2002_coincident_rúss_antes_brasil_tinh_venc_2001_1993_2007_seleçã_nacional_tev_campanh_quas_irretoc_for_17_vitór_18_part_únic_revés_diant_bulgár_estré_fas_final
+VEC: 2_triunf_brasil_aproxim_itál_aind_maior_vencedor_lig_mundi_oit_conquist
+VEC: 5_pan_rio_jog_próxim_objet_equip_ter_temp_comemor_nov_feit_dia_23_julh_comand_bernardinh_farã_estré_diant_canad_ginási_maracanãzinh_agor_met_medalh_our_estã_send_disput_janeir
+VEC: 6_sant_doming_equip_nacional_falh_termin_terceir_lug
+VEC: 11_pont_expect_heptacampeonat_era_grand_jogador_control_ansiedad_ímpet_russ_espert_técnic_bernardinh_utiliz_bloquei_alto_crucial_quart_set_coloc_dois_vantag_plac_foi_necessári_fech_25_22_dand_iníci_comemor_v�_masculin_brasileir
+VEC: 13_agor_títul_bagag_seleçã_cheg_aind_moral_disput_our_jog_pan
+
+---------------AFTER!-------------
+
+VEC: 0_25_seleçã_lig_mundial_brasileir_v�_títul
+VEC: 1_competiçã_foi_quint_conquist_segu_últim_derrot
+VEC: 2_triunf_brasil_aproxim_itál_aind_maior_vencedor
+VEC: 5_pan_rio_jog_próxim_objet_equip_ter
+VEC: 6_sant_doming_equip_nacional_falh_termin_terceir
+VEC: 11_pont_expect_heptacampeonat_era_grand_jogador_control
+VEC: 13_agor_títul_bagag_seleçã_cheg_aind_moral
+Keyword: 0_25_seleçã_lig_mundial_brasileir_v�_títul
+Keyword: 1_competiçã_foi_quint_conquist_segu_últim_derrot
+Keyword: 2_triunf_brasil_aproxim_itál_aind_maior_vencedor
+Keyword: 5_pan_rio_jog_próxim_objet_equip_ter
+Keyword: 6_sant_doming_equip_nacional_falh_termin_terceir
+Keyword: 11_pont_expect_heptacampeonat_era_grand_jogador_control
+Keyword: 13_agor_títul_bagag_seleçã_cheg_aind_moral

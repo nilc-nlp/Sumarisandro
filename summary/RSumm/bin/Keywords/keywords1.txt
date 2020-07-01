@@ -1,0 +1,2885 @@
+Sentenca(topic=0): Ao menos 17 pessoas morreram após a queda de um avião de passageiros na República Democrática do Congo.
+Sentenca(topic=0): Segundo uma porta-voz da ONU, o avião, de fabricação russa, estava tentando aterrissar no aeroporto de Bukavu em meio a uma tempestade.
+Sentenca(topic=0): A aeronave se chocou com uma montanha e caiu, em chamas, sobre uma floresta a 15 quilômetros de distância da pista do aeroporto.
+Sentenca(topic=1): Acidentes aéreos são freqüentes no Congo, onde 51 companhias privadas operam com aviões antigos principalmente fabricados na antiga União Soviética.
+Sentenca(topic=2): O avião acidentado, operado pela Air Traset, levava 14 passageiros e três tripulantes.
+Sentenca(topic=2): Ele havia saído da cidade mineira de Lugushwa em direção a Bukavu, numa distância de 130 quilômetros.
+Sentenca(topic=3): Aviões são usados extensivamente para transporte na República Democrática do Congo, um vasto país no qual há poucas estradas pavimentadas.
+Sentenca(topic=4): Em março, a União Européia proibiu quase todas as companhias aéreas do Congo de operar na Europa.
+Sentenca(topic=4): Apenas uma manteve a permissão.
+Sentenca(topic=4): Em junho, a Associação Internacional de Transporte Aéreo incluiu o Congo num grupo de vários países africanos  que classificou como "uma vergonha" para o setor.
+Sentenca(topic=5): Um acidente aéreo na localidade de Bukavu, no leste da República Democrática do Congo (RDC) , matou 17 pessoas na quinta-feira à tarde, informou nesta sexta-feira um porta-voz das Nações Unidas.
+Sentenca(topic=6): As vítimas do acidente foram 14 passageiros e três membros da tripulação.
+Sentenca(topic=6): Todos morreram quando o avião, prejudicado pelo mau tempo, não conseguiu chegar à pista de aterrissagem e caiu numa floresta a 15 quilômetros do aeroporto de Bukavu.
+Sentenca(topic=6): Segundo fontes aeroportuárias, os membros da tripulação eram de nacionalidade russa.
+Sentenca(topic=7): O avião explodiu e se incendiou, acrescentou o porta-voz da ONU em Kinshasa, Jean-Tobias Okala.
+Sentenca(topic=7): "Não houve sobreviventes", disse Okala.
+Sentenca(topic=7): O porta-voz informou que o avião, um Soviet Antonov-28 de fabricação ucraniana e propriedade de uma companhia congolesa, a Trasept Congo, também levava uma carga de minerais.
+Sentenca(topic=8): Um acidente aéreo na localidade de Bukavu, no leste da República Democrática do Congo, matou 17 pessoas na quinta-feira à tarde, informou hoje um porta-voz das Nações Unidas.
+Sentenca(topic=9): As vítimas do acidente foram 14 passageiros e três membros da tripulação.
+Sentenca(topic=9): Todos morreram quando o avião, prejudicado pelo mau tempo, não conseguiu chegar à pista de aterrissagem e caiu numa floresta a 15 Km do aeroporto de Bukavu.
+Sentenca(topic=9): O avião explodiu e se incendiou, acrescentou o porta-voz da ONU em Kinshasa, Jean-Tobias Okala.
+Sentenca(topic=9): "Não houve sobreviventes", disse Okala.
+Sentenca(topic=10): O porta-voz informou que o avião, um Soviet Antonov-28 de fabricação ucraniana e propriedade de uma companhia congolesa, a Trasept Congo, também levava uma carga de minerais.
+Sentenca(topic=10): Segundo fontes aeroportuárias, os membros da tripulação eram de nacionalidade russa.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: 17  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: qued  - Frequency: 1
+Word: aviã  - Frequency: 2
+Word: passageir  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: democrát  - Frequency: 1
+Word: cong  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: port  - Frequency: 1
+Word: onu  - Frequency: 1
+Word: fabric  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: aterriss  - Frequency: 1
+Word: aeroport  - Frequency: 2
+Word: bukavu  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: tempestad  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: choc  - Frequency: 1
+Word: montanh  - Frequency: 1
+Word: caiu  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: florest  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: distânc  - Frequency: 1
+Word: pist  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_aviã_aeroport
+
+Keyword: 0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong_segund_port_onu_fabric_russ_estav_tent_aterriss_bukavu_mei_tempestad_aeronav_choc_montanh_caiu_cham_florest_15_quil�_distânc_pist
+
+
+------------------------------------------------------------
+Topic: 1
+Word: acident  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: freqüent  - Frequency: 1
+Word: cong  - Frequency: 1
+Word: 51  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: priv  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: aviõ  - Frequency: 1
+Word: antig  - Frequency: 2
+Word: principal  - Frequency: 1
+Word: fabric  - Frequency: 1
+Word: uniã  - Frequency: 1
+Word: soviét  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_antig
+
+Keyword: 1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper_aviõ_principal_fabric_uniã_soviét
+
+
+------------------------------------------------------------
+Topic: 2
+Word: aviã  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: air  - Frequency: 1
+Word: traset  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: saíd  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: mineir  - Frequency: 1
+Word: lugushw  - Frequency: 1
+Word: direçã  - Frequency: 1
+Word: bukavu  - Frequency: 1
+Word: num  - Frequency: 1
+Word: distânc  - Frequency: 1
+Word: 130  - Frequency: 1
+Word: quil�  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três_tripul_hav_saíd_cidad_mineir_lugushw_direçã_bukavu_num_distânc_130_quil�
+
+
+------------------------------------------------------------
+Topic: 3
+Word: aviõ  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: usad  - Frequency: 1
+Word: extens  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: democrát  - Frequency: 1
+Word: cong  - Frequency: 1
+Word: vast  - Frequency: 1
+Word: país  - Frequency: 1
+Word: há  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: paviment  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país_há_estrad_paviment
+
+
+------------------------------------------------------------
+Topic: 4
+Word: marc  - Frequency: 1
+Word: uniã  - Frequency: 1
+Word: europ  - Frequency: 2
+Word: proib  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: aér  - Frequency: 2
+Word: cong  - Frequency: 2
+Word: oper  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: permissã  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: assoc  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: num  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: país  - Frequency: 1
+Word: african  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: com  - Frequency: 1
+Word: vergonh  - Frequency: 1
+Word: setor  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_europ_aér_cong
+
+Keyword: 4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev_permissã_junh_assoc_internacional_transport_inclu_num_grup_vári_país_african_classific_com_vergonh_setor
+
+
+------------------------------------------------------------
+Topic: 5
+Word: acident  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: local  - Frequency: 1
+Word: bukavu  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: democrát  - Frequency: 1
+Word: cong  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: tard  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: port  - Frequency: 1
+Word: naçõ  - Frequency: 1
+Word: unid  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17_pesso_quint_tard_inform_sext_port_naçõ_unid
+
+
+------------------------------------------------------------
+Topic: 6
+Word: vítim  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: for  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: membr  - Frequency: 2
+Word: tripul  - Frequency: 2
+Word: morr  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: prejudic  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: mau  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: aterrissag  - Frequency: 1
+Word: caiu  - Frequency: 1
+Word: num  - Frequency: 1
+Word: florest  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: bukavu  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: font  - Frequency: 1
+Word: aeroportuár  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: russ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_membr_tripul
+
+Keyword: 6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã_prejudic_pel_mau_temp_nã_consegu_cheg_pist_aterrissag_caiu_num_florest_15_quil�_aeroport_bukavu_segund_font_aeroportuár_eram_nacional_russ
+
+
+------------------------------------------------------------
+Topic: 7
+Word: aviã  - Frequency: 2
+Word: explod  - Frequency: 1
+Word: incendi  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: port  - Frequency: 2
+Word: onu  - Frequency: 1
+Word: kinshas  - Frequency: 1
+Word: jean  - Frequency: 1
+Word: okal  - Frequency: 2
+Word: houv  - Frequency: 1
+Word: sobrevivent  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: soviet  - Frequency: 1
+Word: antonov  - Frequency: 1
+Word: fabric  - Frequency: 1
+Word: ucranian  - Frequency: 1
+Word: propriedad  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: congoles  - Frequency: 1
+Word: trasept  - Frequency: 1
+Word: cong  - Frequency: 1
+Word: também  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: miner  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_aviã_port_okal
+
+Keyword: 7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv_sobrevivent_diss_inform_soviet_antonov_fabric_ucranian_propriedad_companh_congoles_trasept_cong_também_lev_carg_miner
+
+
+------------------------------------------------------------
+Topic: 8
+Word: acident  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: local  - Frequency: 1
+Word: bukavu  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: democrát  - Frequency: 1
+Word: cong  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: tard  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: port  - Frequency: 1
+Word: naçõ  - Frequency: 1
+Word: unid  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17_pesso_quint_tard_inform_hoj_port_naçõ_unid
+
+
+------------------------------------------------------------
+Topic: 9
+Word: vítim  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: for  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: aviã  - Frequency: 2
+Word: prejudic  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: mau  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: aterrissag  - Frequency: 1
+Word: caiu  - Frequency: 1
+Word: num  - Frequency: 1
+Word: florest  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: km  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: bukavu  - Frequency: 1
+Word: explod  - Frequency: 1
+Word: incendi  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: port  - Frequency: 1
+Word: onu  - Frequency: 1
+Word: kinshas  - Frequency: 1
+Word: jean  - Frequency: 1
+Word: okal  - Frequency: 2
+Word: houv  - Frequency: 1
+Word: sobrevivent  - Frequency: 1
+Word: diss  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_aviã_okal
+
+Keyword: 9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul_morr_prejudic_pel_mau_temp_nã_consegu_cheg_pist_aterrissag_caiu_num_florest_15_km_aeroport_bukavu_explod_incendi_acrescent_port_onu_kinshas_jean_houv_sobrevivent_diss
+
+
+------------------------------------------------------------
+Topic: 10
+Word: port  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: soviet  - Frequency: 1
+Word: antonov  - Frequency: 1
+Word: fabric  - Frequency: 1
+Word: ucranian  - Frequency: 1
+Word: propriedad  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: congoles  - Frequency: 1
+Word: trasept  - Frequency: 1
+Word: cong  - Frequency: 1
+Word: também  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: miner  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: font  - Frequency: 1
+Word: aeroportuár  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: russ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles_trasept_cong_também_lev_carg_miner_segund_font_aeroportuár_membr_tripul_eram_nacional_russ
+
+NUM: 31
+
+
+NUM: 15
+
+
+NUM: 22
+
+
+NUM: 13
+
+
+NUM: 25
+
+
+NUM: 18
+
+
+NUM: 32
+
+
+NUM: 26
+
+
+NUM: 18
+
+
+NUM: 37
+
+
+NUM: 24
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 31
+
+
+NUM: 15
+
+
+NUM: 22
+
+
+NUM: 13
+
+
+NUM: 25
+
+
+NUM: 18
+
+
+NUM: 32
+
+
+NUM: 26
+
+
+NUM: 18
+
+
+NUM: 37
+
+
+NUM: 24
+
+
+---------------BEFORE!-------------
+
+VEC: 0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong_segund_port_onu_fabric_russ_estav_tent_aterriss_bukavu_mei_tempestad_aeronav_choc_montanh_caiu_cham_florest_15_quil�_distânc_pist
+VEC: 1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper_aviõ_principal_fabric_uniã_soviét
+VEC: 2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três_tripul_hav_saíd_cidad_mineir_lugushw_direçã_bukavu_num_distânc_130_quil�
+VEC: 3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país_há_estrad_paviment
+VEC: 4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev_permissã_junh_assoc_internacional_transport_inclu_num_grup_vári_país_african_classific_com_vergonh_setor
+VEC: 5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17_pesso_quint_tard_inform_sext_port_naçõ_unid
+VEC: 6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã_prejudic_pel_mau_temp_nã_consegu_cheg_pist_aterrissag_caiu_num_florest_15_quil�_aeroport_bukavu_segund_font_aeroportuár_eram_nacional_russ
+VEC: 7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv_sobrevivent_diss_inform_soviet_antonov_fabric_ucranian_propriedad_companh_congoles_trasept_cong_também_lev_carg_miner
+VEC: 8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17_pesso_quint_tard_inform_hoj_port_naçõ_unid
+VEC: 9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul_morr_prejudic_pel_mau_temp_nã_consegu_cheg_pist_aterrissag_caiu_num_florest_15_km_aeroport_bukavu_explod_incendi_acrescent_port_onu_kinshas_jean_houv_sobrevivent_diss
+VEC: 10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles_trasept_cong_também_lev_carg_miner_segund_font_aeroportuár_membr_tripul_eram_nacional_russ
+
+---------------AFTER!-------------
+
+VEC: 0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong
+VEC: 1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper
+VEC: 2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três
+VEC: 3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país
+VEC: 4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev
+VEC: 5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17
+VEC: 6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã
+VEC: 7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv
+VEC: 8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17
+VEC: 9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul
+VEC: 10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 9
+Similaridade entre eles: 0.9
+
+
+SIM: 0.9
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 10
+Similaridade entre eles: 1
+
+
+SIM: 1
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+TRESHOLD: 0.173223
+
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" is "0.0909091"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" is "0.181818"
+
+CHANGE! -- From: 11 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" is "0.0909091"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_port_inform_aviã_soviet_antonov_fabric_ucranian_propriedad_companh_congoles" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.0909091"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 7 -- Abs: 3
+
+
+Topic change from "10" to "7"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 7 -- Abs: 3
+
+
+Topic change from "10" to "7"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" is "0.1"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" is "0.2"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 9
+Similaridade entre eles: 0.9
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" is "0.9"
+
+CHANGE! -- From: 10 -> TO: 7
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" is "0.1"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0.5"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.1"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_aviã_okal_vítim_acident_for_14_passageir_três_membr_tripul" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 6 -- Abs: 3
+
+
+Topic change from "9" to "6"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 6 -- Abs: 3
+
+
+Topic change from "9" to "6"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 6 -- Abs: 3
+
+
+Topic change from "9" to "6"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 6 -- Abs: 3
+
+
+Topic change from "9" to "6"
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" is "0.1"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 10
+Similaridade entre eles: 1
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" is "1"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" is "0.2"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" is "0.3"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0.1"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.3"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "8_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.4"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" and "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" is "0.1"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" and "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" and "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" and "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0.1"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_aviã_port_okal_explod_incendi_acrescent_onu_kinshas_jean_houv" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" and "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" is "0.1"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" and "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" and "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0.5"
+
+CHANGE! -- From: 7 -> TO: 3
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.1"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "6_membr_tripul_vítim_acident_for_14_passageir_três_morr_aviã" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.3"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" is "0.2"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" is "0.3"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0.1"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.3"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "5_acident_aér_local_bukavu_lest_repúbl_democrát_cong_mat_17" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.4"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" and "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" is "0.1"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0.1"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.4"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_europ_aér_cong_marc_uniã_proib_quas_companh_oper_mantev" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" and "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.2"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "3_aviõ_sã_usad_extens_transport_repúbl_democrát_cong_vast_país" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.3"
+
+CHANGE! -- From: 4 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" and "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" is "0.2"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "2_aviã_acident_oper_pel_air_traset_lev_14_passageir_três" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "1_antig_acident_aér_sã_freqüent_cong_51_companh_priv_oper" and "0_aviã_aeroport_17_pesso_morr_qued_passageir_repúbl_democrát_cong" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+NUM_TOPICS: 10
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: 17  - Frequency: 3
+Word: pesso  - Frequency: 3
+Word: morr  - Frequency: 1
+Word: qued  - Frequency: 1
+Word: aviã  - Frequency: 2
+Word: passageir  - Frequency: 1
+Word: repúbl  - Frequency: 4
+Word: democrát  - Frequency: 4
+Word: cong  - Frequency: 4
+Word: segund  - Frequency: 1
+Word: port  - Frequency: 3
+Word: onu  - Frequency: 1
+Word: fabric  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: aterriss  - Frequency: 1
+Word: aeroport  - Frequency: 2
+Word: bukavu  - Frequency: 3
+Word: mei  - Frequency: 1
+Word: tempestad  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: choc  - Frequency: 1
+Word: montanh  - Frequency: 1
+Word: caiu  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: florest  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: distânc  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: aviõ  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: usad  - Frequency: 1
+Word: extens  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: vast  - Frequency: 1
+Word: país  - Frequency: 1
+Word: há  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: paviment  - Frequency: 1
+Word: acident  - Frequency: 2
+Word: aér  - Frequency: 2
+Word: local  - Frequency: 2
+Word: lest  - Frequency: 2
+Word: mat  - Frequency: 2
+Word: quint  - Frequency: 2
+Word: tard  - Frequency: 2
+Word: inform  - Frequency: 2
+Word: sext  - Frequency: 1
+Word: naçõ  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: hoj  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_repúbl_democrát_cong
+
+Keyword: 0_repúbl_democrát_cong_17_pesso_port_bukavu
+
+Keyword: 0_repúbl_democrát_cong_17_pesso_port_bukavu_aviã_aeroport_acident_aér_local_lest_mat_quint_tard_inform_naçõ_unid
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: acident  - Frequency: 1
+Word: aér  - Frequency: 3
+Word: sã  - Frequency: 1
+Word: freqüent  - Frequency: 1
+Word: cong  - Frequency: 3
+Word: 51  - Frequency: 1
+Word: companh  - Frequency: 2
+Word: priv  - Frequency: 1
+Word: oper  - Frequency: 2
+Word: aviõ  - Frequency: 1
+Word: antig  - Frequency: 2
+Word: principal  - Frequency: 1
+Word: fabric  - Frequency: 1
+Word: uniã  - Frequency: 2
+Word: soviét  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: europ  - Frequency: 2
+Word: proib  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: permissã  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: assoc  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: num  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: país  - Frequency: 1
+Word: african  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: com  - Frequency: 1
+Word: vergonh  - Frequency: 1
+Word: setor  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_aér_cong
+
+Keyword: 1_aér_cong_companh_oper_antig_uniã_europ
+
+Keyword: 1_aér_cong_companh_oper_antig_uniã_europ_acident_sã_freqüent_51_priv_aviõ_principal_fabric_soviét_marc_proib_quas_mantev_permissã_junh_assoc_internacional_transport_inclu_num_grup_vári_país_african_classific_com_vergonh_setor
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: aviã  - Frequency: 4
+Word: acident  - Frequency: 3
+Word: oper  - Frequency: 1
+Word: pel  - Frequency: 3
+Word: air  - Frequency: 1
+Word: traset  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: 14  - Frequency: 3
+Word: passageir  - Frequency: 3
+Word: três  - Frequency: 3
+Word: tripul  - Frequency: 4
+Word: hav  - Frequency: 1
+Word: saíd  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: mineir  - Frequency: 1
+Word: lugushw  - Frequency: 1
+Word: direçã  - Frequency: 1
+Word: bukavu  - Frequency: 3
+Word: num  - Frequency: 3
+Word: distânc  - Frequency: 1
+Word: 130  - Frequency: 1
+Word: quil�  - Frequency: 2
+Word: vítim  - Frequency: 2
+Word: for  - Frequency: 2
+Word: membr  - Frequency: 3
+Word: morr  - Frequency: 2
+Word: prejudic  - Frequency: 2
+Word: mau  - Frequency: 2
+Word: temp  - Frequency: 2
+Word: nã  - Frequency: 2
+Word: consegu  - Frequency: 2
+Word: cheg  - Frequency: 2
+Word: pist  - Frequency: 2
+Word: aterrissag  - Frequency: 2
+Word: caiu  - Frequency: 2
+Word: florest  - Frequency: 2
+Word: 15  - Frequency: 2
+Word: aeroport  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: font  - Frequency: 1
+Word: aeroportuár  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: km  - Frequency: 1
+Word: explod  - Frequency: 1
+Word: incendi  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: port  - Frequency: 1
+Word: onu  - Frequency: 1
+Word: kinshas  - Frequency: 1
+Word: jean  - Frequency: 1
+Word: okal  - Frequency: 2
+Word: houv  - Frequency: 1
+Word: sobrevivent  - Frequency: 1
+Word: diss  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_aviã_tripul
+
+Keyword: 2_aviã_tripul_acident_pel_14_passageir_três_bukavu_num_membr
+
+Cur_topic: 7
+
+
+
+------------------------------------------------------------
+Topic: 7
+Word: aviã  - Frequency: 3
+Word: explod  - Frequency: 1
+Word: incendi  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: port  - Frequency: 3
+Word: onu  - Frequency: 1
+Word: kinshas  - Frequency: 1
+Word: jean  - Frequency: 1
+Word: okal  - Frequency: 2
+Word: houv  - Frequency: 1
+Word: sobrevivent  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: soviet  - Frequency: 2
+Word: antonov  - Frequency: 2
+Word: fabric  - Frequency: 2
+Word: ucranian  - Frequency: 2
+Word: propriedad  - Frequency: 2
+Word: companh  - Frequency: 2
+Word: congoles  - Frequency: 2
+Word: trasept  - Frequency: 2
+Word: cong  - Frequency: 2
+Word: também  - Frequency: 2
+Word: lev  - Frequency: 2
+Word: carg  - Frequency: 2
+Word: miner  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: font  - Frequency: 1
+Word: aeroportuár  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: russ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_aviã_port
+
+Keyword: 7_aviã_port_okal_inform_soviet_antonov_fabric_ucranian_propriedad_companh_congoles_trasept_cong_também_lev_carg_miner
+
+NUM: 19
+
+
+NUM: 35
+
+
+NUM: 10
+
+
+NUM: 17
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 19
+
+
+NUM: 35
+
+
+NUM: 10
+
+
+NUM: 17
+
+
+---------------BEFORE!-------------
+
+VEC: 0_repúbl_democrát_cong_17_pesso_port_bukavu_aviã_aeroport_acident_aér_local_lest_mat_quint_tard_inform_naçõ_unid
+VEC: 1_aér_cong_companh_oper_antig_uniã_europ_acident_sã_freqüent_51_priv_aviõ_principal_fabric_soviét_marc_proib_quas_mantev_permissã_junh_assoc_internacional_transport_inclu_num_grup_vári_país_african_classific_com_vergonh_setor
+VEC: 2_aviã_tripul_acident_pel_14_passageir_três_bukavu_num_membr
+VEC: 7_aviã_port_okal_inform_soviet_antonov_fabric_ucranian_propriedad_companh_congoles_trasept_cong_também_lev_carg_miner
+
+---------------AFTER!-------------
+
+VEC: 0_repúbl_democrát_cong_17_pesso_port_bukavu_aviã_aeroport_acident
+VEC: 1_aér_cong_companh_oper_antig_uniã_europ_acident_sã_freqüent
+VEC: 2_aviã_tripul_acident_pel_14_passageir_três_bukavu_num_membr
+VEC: 7_aviã_port_okal_inform_soviet_antonov_fabric_ucranian_propriedad_companh
+Keyword: 0_repúbl_democrát_cong_17_pesso_port_bukavu_aviã_aeroport_acident
+Keyword: 1_aér_cong_companh_oper_antig_uniã_europ_acident_sã_freqüent
+Keyword: 2_aviã_tripul_acident_pel_14_passageir_três_bukavu_num_membr
+Keyword: 7_aviã_port_okal_inform_soviet_antonov_fabric_ucranian_propriedad_companh

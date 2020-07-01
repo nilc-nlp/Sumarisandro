@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus>
+
+	<body>
+<s id="s1" ref="" source="Running text" forest="1" text="">
+	<graph root="s1_500">
+		<terminals>
+		</terminals>
+
+		<nonterminals>
+			<nt id="s1_500" cat="s">
+				<edge label="UTT" idref="s1_501"/>
+			</nt>
+			<nt id="s1_501" cat="x">
+			</nt>
+		</nonterminals>
+	</body>
+</corpus>

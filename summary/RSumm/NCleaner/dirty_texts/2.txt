@@ -1,0 +1,1710 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-BR" lang="pt-BR">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <title>BBC Brasil - Notícias - Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'</title>
+      <meta http-equiv="X-UA-Compatible" content="IE=8" />
+      <meta http-equiv="content-language" content="pt-BR" />
+      <meta http-equiv="content-script-type" content="text/javascript" />
+      <meta http-equiv="imagetoolbar" content="no" />
+      <link rel="schema.dc" href="http://purl.org/dc/elements/1.1/" />
+      <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+      <meta name="dc.language" content="pt-BR" />
+      <meta name="dc.publisher" content="British Broadcasting Corporation" />
+      <meta name="dc.identifier"
+            content="http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml" />
+      <meta name="dcterms.created" content="2012-05-08T13:27:48-03:00" />
+      <meta name="dcterms.modified" content="2012-05-08T13:54:52-03:00" />
+      <meta name="description"
+            content="Presidente da Fifa encontrou-se em Zurique com representantes do governo brasileiro e do Comitê Organizador Local." />
+      <meta name="keywords"
+            content="brasil, copa do mundo, top, esportes, esporte, Joseph Blatter, Fifa, Zurique, Aldo Rebelo, Ronaldo, Jerome Valcke" />
+      <meta name="generator" content="Topcat2" />
+      
+	
+		
+	
+
+
+	
+
+	
+
+		
+
+		
+	
+		
+		
+			
+		
+	
+	
+		
+	
+		
+		
+			
+		
+			
+	
+		
+	
+		
+		
+			
+		
+		
+		
+
+	
+
+		
+
+	
+	
+			
+	
+				
+			
+		
+				
+		
+		
+				
+			
+		
+				
+			
+		
+				
+		
+		
+				
+			
+		
+			
+		
+					
+					
+				
+				
+				
+					
+				
+					
+					
+					
+					
+					
+			
+			
+			
+			
+			
+			
+			
+			
+				
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+																				
+				
+		
+				
+			
+		
+				
+				
+		
+				
+		
+		
+				
+		
+		
+				
+			
+		
+				
+			
+		
+				
+			
+		
+				
+			
+		
+				
+		
+			
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+			
+		
+				
+		
+		
+				
+			
+		
+				
+			
+		
+				
+			
+		
+				
+			
+		
+				
+			
+		
+				
+			
+		
+				
+				
+		
+				
+		
+		
+				
+		
+		
+				
+		
+		
+				
+			
+		
+				
+					
+		
+				
+						
+		
+	
+	
+
+
+
+	
+
+
+
+
+	
+		
+			
+		
+	
+
+
+
+
+
+
+	
+		
+			
+		
+	
+
+
+
+	
+		
+	
+
+
+
+
+	
+		
+	
+
+
+	
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+	
+
+
+
+	
+	
+
+
+
+
+
+<!-- /* includes legend */ -->
+
+<!-- 
+	ws	- worldservice
+	v	- vocab
+	c	- config
+	u	- url
+	
+	ac	- audio console
+	cf	- contact form
+	dt	- document tools
+	esf - email subscribe form
+	ls	- livestats
+	lt	- livetext
+	stf	- send to friend form
+-->
+
+<!--  vocab and config for includes -->
+
+<!-- 	/* site config */ -->
+	 <!-- e.g. same as tc2_config.xml  -->
+	 <!-- e.g. same as tc2_config.xml  -->
+	 <!-- BBCTurkce.com -->
+	 <!-- e.g. /nepali -->
+	 <!-- e.g. BBCBrasil.com - RSS -->
+
+<!-- 	/* contact us config */ -->
+	 <!-- Localised error page TC2 -->
+	 <!-- Localised success page TC2 -->
+	 <!-- e.g. nepali@bbc.co.uk -->
+	 <!-- Service - Contact Us Form -->
+	 <!-- Max characters -->
+	
+<!-- 	/* contact us vocab */ -->
+     <!-- Contact Us -->
+	 <!-- Your Feedback -->
+	 <!-- Your Contact Details -->
+	 <!-- Indicates required fields -->
+	 <!-- Name -->
+	 <!-- Town, Country -->
+	 <!-- Your email address -->
+	 <!-- Telephone -->
+	 <!-- Your Message -->
+	 <!-- Comment -->
+	 <!-- (X maximum characters) -->
+	 <!-- Disclaimer -->
+	 <!-- The disclaimer -->
+	 <!-- Clear -->
+	 <!-- Submit -->
+
+
+<!-- 	/* email subscribe config */ -->
+	 <!-- Localised success page TC2 -->
+
+<!-- 	/* email subscribe vocab */ -->
+	 <!-- e.g. BBCBrasil.com e-mail newsletter -->
+	 <!-- Subscribe e-mail newsletter info -->
+	 <!-- Sign-up to email news info -->
+	 <!-- Indicates required fields -->
+	 <!-- Type your email address in the field below -->
+	 <!-- Your comment -->
+	 <!-- Your email -->
+	 <!-- Now select Plain text or HTML info -->
+	 <!-- Plain text -->
+	 <!-- HTML -->
+	 <!-- Select "Subscribe" and then press "Send" -->
+	 <!-- Subscribe label -->
+	 <!-- Submit -->
+	 <!-- Confirm your request info -->
+	 <!-- How to unsubscribe -->
+	 <!-- How to unsubscribe info -->
+	 <!-- Cancel label -->
+
+
+<!-- 	/* livetext vocab */ -->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+     <!-- This page is regularly updated. Please click the Refresh button for the latest content. -->
+      <!-- More Updates -->	
+
+	
+	
+<!-- 	/* ugc vocab */ -->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<!-- 	/* document tools config */ -->
+	 <!--  width/height e.g. 325x520 -->
+
+<!-- 	/* top stories vocab */ -->
+	 <!-- Top Stories -->
+
+<!-- 	/* topic stories config */ -->
+     <!-- Num of headlines to show -->
+
+<!-- 	/* topic stories vocab */ -->
+     <!-- More from {dont add topic_name} -->
+    
+	
+<!-- 	/* livestats config */ -->
+	 <!-- Livestats service name if not the same as tc2 service name -->
+	 <!-- Enable Read Tab -->
+	 <!-- Path to most read stats -->
+	 <!-- Enable Shared Tab -->
+	 <!-- Path to most shared stats -->
+	 <!-- Enable Watched/Listened Tab -->
+	 <!-- Path to Watched/Listened Tab stats -->
+	 <!-- Add Genres here, comma seperated, to exclude from livestats  -->
+	 <!-- Only necessary if not defaulting to read. Should be added to include's query string   -->
+  	
+<!-- 	/* livestats vocab */ -->
+	 <!-- Most Popular Now -->
+	 <!-- Most Read -->
+	 <!-- Read tab -->
+	 <!-- Shared tab -->
+	 <!-- Watched/Listened tab -->
+	
+<!-- 	/* document tools vocab */ -->
+	 <!-- Send to a friend -->
+	 <!-- Print page -->
+	 <!-- Back to top link -->
+	 <!-- Click cta -->	
+	
+<!-- 	/* rss feeds vocab */ -->
+	 <!-- RSS -->
+	 <!-- What is RSS? -->
+
+
+<!-- 	/* audio console config */ -->
+	 <!--  Localised success page TC2 -->
+	 <!--  Localised success page TC2 -->
+	 <!--  width/height e.g. 325x520 -->
+
+<!-- 	/* audio console vocab */ -->
+     <!-- Title -->
+	 <!-- To play this content JavaScript must be turned on and the latest Flash player installed. -->
+	 <!-- Get the latest Flash Player -->
+	 <!-- Play in Real Player or Windows Media Player -->
+	
+
+<!-- 	/* send to friend config */ -->
+	 <!-- Localised privacy page TC2 -->
+	 <!-- Localised faq page TC2 -->
+	 <!-- Localised accessibility page TC2 -->
+	 <!-- Max characters -->
+	
+<!-- 	/* send to friend vocab */ -->
+	 <!-- Title -->
+	 <!-- Send the page: -->
+	 <!-- indicates compulsory fields. -->
+	 <!-- To: -->
+	 <!-- To email address -->
+	 <!-- From: -->
+	 <!-- Your name -->
+	 <!-- Your email address -->
+	 <!-- Your message -->
+	 <!-- SEND -->
+	 <!-- (X maximum characters) -->
+	 <!-- Email a friend disclaimer -->
+	 <!-- The disclaimer -->
+	 <!-- Privacy Statement -->
+	
+	 <!-- frequently asked questions -->
+	 <!-- Accessibility Links -->
+	 <!-- Accessibility help -->
+	 <!-- Submission sent -->	
+	 <!-- Submission failed -->
+	 <!-- Back to form -->
+
+<!-- 	/* rolling news config */ -->
+	 <!-- publishing location from root: e.g. /gel/rolling_news -->
+	 <!-- TC2 genre for rolling news -->
+	 
+
+<!-- 	/* rolling news vocab */ -->
+	 <!-- Title -->
+	 <!-- Sub Title -->
+	 <!-- Disclaimer -->
+	 <!-- See Latest -->
+	
+
+	 <!-- 	/* weather config */ -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+
+  <!-- 	/* weather vocab */ -->	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+    
+	
+  <!-- 	/* weather module setup */ -->
+    <!-- onecity or multicity -->  
+  	
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   <!-- business data -->
+  
+  	
+  <!-- market data -->
+  
+  
+  
+  				
+  
+  
+  	
+  
+  
+  <!-- for each market comparison, provide a code and (optional) title  -->
+  
+  
+  
+  
+  	
+    <!-- /* pulse survey setup */ -->
+     <!-- Add genres here, comma separated  -->
+		
+  <!-- /* blq translations head*/ -->
+  
+  
+  
+  
+  
+  
+  
+  
+	<!-- 	/* GEL SEARCH */ -->
+   <!-- Search Results -->
+   <!-- Back to homepage -->
+   <!-- Article -->
+   <!-- Audio & Video -->
+   <!-- See more audio/video results-->
+   <!-- sort by date-->
+   <!-- sort by relevance-->
+
+<!-- mr: making sure ads are not on -->
+
+
+<script type="text/javascript">
+//call before barlesque for ads
+wsads = {
+
+ 
+	
+	  
+	queryString: '',
+	referrer: 'http://www.bbc.co.uk/portuguese/topicos/brasil/',
+	section: 'brasil',
+	service: 'portuguese',
+	storyId: '17192767',
+	documentType: 'story',  
+	uri: '/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml',
+	isMobile: null
+}
+</script>
+
+
+                                            <!-- Glow cachebust:    
+                -->       <!-- Barlesque 2.0.5 -->       <meta http-equiv="X-UA-Compatible" content="IE=8" />     <link rel="schema.dcterms" href="http://purl.org/dc/terms/" />  <link rel="index" href="http://www.bbc.co.uk/a-z/" title="A to Z" /> <link rel="help" href="http://www.bbc.co.uk/help/" title="BBC Help" /> <link rel="copyright" href="http://www.bbc.co.uk/terms/" title="Terms of Use" /> <link rel="icon" href="http://www.bbc.co.uk/favicon.ico" type="image/x-icon" />  <meta name="viewport" content="width = 974" />    <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5/style/main.css"  />  <link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/bbcdotcom/0.3.117/style/3pt_ads.css"  />      <script type="text/javascript"> if (! window.gloader) { window.gloader = [ "glow", {map: "http://node1.bbcimg.co.uk/glow/glow/map.1.7.7.js"}]; } </script>  <script type="text/javascript" src="http://node1.bbcimg.co.uk/glow/gloader.0.1.6.js"></script>   <script type="text/javascript" src="http://static.bbci.co.uk/frameworks/requirejs/0.11.1/sharedmodules/require.js"></script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.6.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.1.8/sharedmodules/jquery-1.4", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.3/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.9.3/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.3/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbci.co.uk/frameworks/istats/0.8.2/modules/istats-1", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.4/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.5/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.5/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.3/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.8/modules/jcarousel-1"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>      <script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5/script/barlesque.js"></script>
+ <!--[if IE 6]>  <script type="text/javascript"> try { document.execCommand("BackgroundImageCache",false,true); } catch(e) {} </script>  <style type="text/css"> /* Use filters for IE6 */ #blq-blocks a { background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5//img/blq-blocks_white_alpha.png', sizingMethod='image'); } .blq-masthead-focus #blq-blocks a, .blq-mast-text-dark #blq-blocks a { background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5//img/blq-blocks_grey_alpha.png', sizingMethod='image'); } #blq-nav-search button span { background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5//img/blq-search_white_alpha.png', sizingMethod='image'); } .blq-masthead-focus #blq-nav-search button span, .blq-mast-text-dark #blq-nav-search button span { background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5//img/blq-search_grey_alpha.png', sizingMethod='image'); } #blq-nav-promo span { background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5//img/promo_olympics_light.png', sizingMethod='image'); } .blq-masthead-focus #blq-nav-promo span { background-image: none; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5//img/promo_olympics_dark.png', sizingMethod='image'); } </style> <![endif]--> <!--[if (IE 7])|(IE 8)> <style type="text/css"> .blq-clearfix { display: inline-block; } </style> <![endif]--> <script type="text/javascript">  blq.setEnvironment('live');  if (blq.setLabel) blq.setLabel('searchSuggestion', "Busca");   </script> <!-- ISTATS -->
+
+    
+
+
+
+    
+
+
+
+
+
+
+    
+                
+                        <meta name="application-name" content="BBC"/>
+            <meta name="msapplication-tooltip" content="Explore the BBC, for latest news, sport and weather, TV &amp; radio schedules and highlights, with nature, food, comedy, children's programmes and much more"/>
+            <meta name="msapplication-starturl" content="http://www.bbc.com"/>
+            <meta name="msapplication-window" content="width=1024;height=768"/>
+            <meta name="msapplication-task" content="name=BBC Home;action-uri=http://www.bbc.com/;icon-uri=http://static.bbci.co.uk/bbcdotcom/0.3.117/img/favicon_16.ico" />
+            <meta name="msapplication-task" content="name=BBC News;action-uri=http://www.bbc.com/news/;icon-uri=http://static.bbci.co.uk/bbcdotcom/0.3.117/img/favicon_16.ico" />
+            <meta name="msapplication-task" content="name=BBC Sport;action-uri=http://www.bbc.com/sport/;icon-uri=http://static.bbci.co.uk/bbcdotcom/0.3.117/img/favicon_16.ico" />
+            <meta name="msapplication-task" content="name=BBC Future;action-uri=http://www.bbc.com/future/;icon-uri=http://static.bbci.co.uk/bbcdotcom/0.3.117/img/favicon_16.ico" />
+            <meta name="msapplication-task" content="name=BBC Travel;action-uri=http://www.bbc.com/travel/;icon-uri=http://static.bbci.co.uk/bbcdotcom/0.3.117/img/favicon_16.ico" />
+            <meta name="msapplication-task" content="name=BBC Weather;action-uri=http://www.bbc.com/weather/;icon-uri=http://static.bbci.co.uk/bbcdotcom/0.3.117/img/favicon_16.ico" />
+        
+        <!-- BBCDOTCOM journalismVariant: false ipIsAdvertiseCombined: true adsEnabled: true flagpole: ON -->
+        <script type="text/javascript">
+            /*<![CDATA[*/
+            if(typeof(bbcdotcom) === 'undefined') { var bbcdotcom = {}; }
+            bbcdotcom.createObject = function(namespace){
+                var names   = namespace.split('.'),
+                    next    = '',
+                    i       = 0,
+                    len     = names.length;
+                for(i; i < len; i++){
+                    if('' !== next) {
+                        next = ('object' === typeof next[names[i]]) ? next[names[i]] : next[names[i]] = {};
+                    } else {
+                        next = ('object' === typeof window[names[i]]) ? window[names[i]] : window[names[i]] = {};
+                    }
+                }
+            };
+            bbcdotcom.createObject('bbcdotcom.stats');
+            /*]]>*/
+        </script>
+                    <script type="text/javascript">
+                /*<![CDATA[*/
+                if(typeof BBC === 'undefined') var BBC = {};
+                BBC.adverts = {setZone: function(){}, configure: function(){}, write: function(){}, show: function(){}, isActive: function(){return false}, setScriptRoot: function(){}};
+                /*]]>*/
+            </script>
+            <script type="text/javascript" src="http://static.bbci.co.uk/bbcdotcom/0.3.117/script/bbccom.js"></script>
+            <script type="text/javascript">
+                /*<![CDATA[*/
+                (function(){
+                    var zone = "3pt_zone_file";
+                    var zoneOverride = false;
+                                        if(/[?|&]zone=((?!preview)\w*\/*\w+)(&|$)/.test(window.location.search)) {
+                        zone = RegExp.$1;
+                        zoneOverride = false;
+                    };
+                    if(/[?|&]zone=(http:\/\/.+(\.bbc\.co\.uk){1}.*(bbc\.com){1}.*\.js)(&|$)/.test(window.location.search)) {
+                        if (RegExp.$1.indexOf("/../") === -1) {
+                            zone = RegExp.$1;
+                            zoneOverride = true;
+                        };
+                    };
+                    BBC.adverts.setScriptRoot("http://static.bbci.co.uk/bbcdotcom/0.3.117/script/");
+                    BBC.adverts.setImgRoot("http://static.bbci.co.uk/bbcdotcom/0.3.117/img/");
+                    BBC.adverts.init({
+                        domain: "127.0.0.1:8888",
+                        location: window.location.pathname,
+                        zoneVersion: zone,
+                        zoneAuto: false,
+                        siteAuto: false,
+                        keywordsAuto: false,
+                        zoneOverride: zoneOverride,
+                        zoneReferrer: document.referrer
+                    });
+                })();
+            /*]]>*/
+            </script>
+                            
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+	
+	    <link rel="stylesheet" type="text/css" href="http://wscdn.bbc.co.uk/worldservice/styles/core/2/screen/all.css?direction=ltr&script=latin&service=portuguese&v=251" />
+	
+	
+	
+	
+	<!--[if lte IE 7]>
+		<link rel="stylesheet" type="text/css" href="http://wscdn.bbc.co.uk/worldservice/styles/core/2/screen/core_ie6.css?251" />
+	<![endif]-->
+	
+	<!--[if (IE 7)|(IE 8)]>
+		<link rel="stylesheet" type="text/css" href="http://wscdn.bbc.co.uk/worldservice/styles/core/2/screen/blq_ie.css?251" />
+	<![endif]-->
+
+
+<!--  fix print bug -->
+<style type="text/css" media="print">
+.story-body{
+	overflow:visible;
+}
+</style>
+
+
+
+	<script type="text/javascript" src="http://wscdn.bbc.co.uk/worldservice/scripts/core/2/core.js?251"></script>
+
+
+<script type="text/javascript">
+	
+    ws.env.serverDate = new Date(2012,05-1, 9, 3,06,53);
+    //ws.env.serverEpoch = new Date(%s);    
+    ws.env.serverDayOfWeek = '3';
+    ws.env.service = 'portuguese';
+    ws.env.servicePath = '/portuguese';
+    ws.env.genre = 'news';
+    ws.env.documentType = 'story';
+    ws.env.isMobile = '(none)';
+    ws.env.assetsVersion = '251';	
+</script>
+
+<script type="text/javascript">
+	
+	 
+		
+		  
+	ws.siteCatalyst = {
+		queryString: '',
+		referrer: 'http://www.bbc.co.uk/portuguese/topicos/brasil/',
+		section: 'brasil',
+		service: 'portuguese',
+		siteVersion: 'gel',
+		storyId: '17192767',
+		documentType: 'story',  
+		uri: '/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml',
+		isMobile: null
+	}
+</script>
+
+
+<script type="text/javascript">
+	
+	
+	
+	ws.flagpole.flastmod.livestats = new Date(2012,05-1, 9, 4,02,51);
+	
+	
+	
+	ws.flagpole.flastmod.commodities = new Date(2012,05-1, 8,21,47,04);
+	
+	
+	
+	ws.flagpole.flastmod.currencies = new Date(2012,05-1, 9, 4,05,16);
+	
+	
+	
+	ws.flagpole.flastmod.markets = new Date(2012,05-1, 9, 4,05,51);
+	
+	ws.flagpole.init();
+</script>
+
+
+<script type="text/javascript" src="http://wscdn.bbc.co.uk/emp/swfobject.js?251"></script>
+
+    <script type="text/javascript" src="http://www.bbc.co.uk/emp/bump?emp=worldwide"></script>
+
+
+<!--  logic to check for rss xml -->
+
+
+
+
+
+
+	
+		
+		
+	
+
+
+			
+
+
+
+
+
+<link href="http://www.bbc.co.uk/portuguese/index.xml" rel="alternate" type="application/atom+xml" title="RSS - BBCBrasil.com" />
+
+			
+
+
+
+
+<script type="text/javascript">//<![CDATA[
+			
+				ws.onload(function(){
+				
+				});
+				
+				//]]></script></head>
+   <body id="www-bbcbrasil-com" class="story genre-news ltr">
+                      <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=SET-COUNTER&app_type=web&ml_name=SSI&ml_version=0.8.2&language=pt-BR'; if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } /*]]>*/</script>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/</script> <noscript><p class="blq-hide"><img src="//sa.bbc.co.uk/bbc/bbc/s?name=SET-COUNTER&amp;app_type=web&amp;ml_name=SSI&amp;ml_version=0.8.2&amp;language=pt-BR" height="1" width="1" alt="" /></p></noscript> <!-- End iStats (UX-CMC) -->   <div id="blq-global"> <div id="blq-pre-mast" lang="en-GB"> <!-- Pre mast -->  </div> </div> <div id="blq-masthead" class="blq-clearfix blq-mast-bg-transparent-dark blq-lang-pt-BR blq-ltr"> <span id="blq-mast-background"><span></span></span>  <div id="blq-mast" class="blq-rst">  <div id="blq-mast-bar" class="blq-masthead-container blq-worldservice-worldwide"> <div id="blq-blocks"> <a href="/" hreflang="en-GB"> <abbr title="British Broadcasting Corporation" class="blq-home"> <img src="http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5/img/blq-blocks_grey_alpha.png" alt="BBC" width="84" height="24" /> </abbr> </a> </div> <div id="blq-acc-links"> <h2 id="page-top">Links de acessibilidade</h2> <ul>  <li><a href="#blq-content">Ir para a navegação</a></li>  <li><a href="#blq-local-nav"></a></li>  <li><a href="/portuguese/help/accessibility.shtml">Ajuda sobre acesso</a></li> </ul> </div> <div id="blq-sign-in" class="blq-gel"></div> <div id="blq-nav"> <h2>bbc.co.uk navigation</h2>     <ul id="blq-nav-main">   <li id="blq-nav-more"> <a href="#blq-nav-more-links">Links da BBC</a><span class="blq-dropdown-arrow"><span></span></span> </li>    </ul>   <div id="blq-nav-search"> <form method="get" action="http://search.bbc.co.uk/search" accept-charset="utf-8" id="blq-search-form"> <div>  <input type="hidden" name="go" value="toolbar" />   <input type="hidden" name="uri" value="/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml" />    <input type="hidden" name="scope" value="portuguese" />  <label for="blq-search-q" class="blq-hide">Buscar tópico:</label> <input id="blq-search-q" type="text" name="q" value="" maxlength="128" /> <button id="blq-search-btn" type="submit"><span><img src="http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5/img/blq-search_grey_alpha.png" width="13" height="13" alt="Busca"/></span></button> </div> </form> </div>  </div> </div> </div> </div> <div id="blq-container-outer" class="blq-worldservice-worldwide blq-ltr" >  <div id="blq-container" class="blq-lang-pt-BR blq-dotcom blq-int-nav"> <div id="blq-container-inner" lang="pt-BR">   <div id="blq-main" class="blq-clearfix">       
+
+
+      <div id="banner">
+         	
+	
+	<a href="/portuguese" class="brand"><span>BBC Brasil</span></a> 
+	<span class="tagline"></span>
+	<a href="/portuguese/institutional/2009/06/090625_servicos_para_celular.shtml" id="promo-mobile"><span>Acesse a BBC Brasil no celular</span></a>
+	
+	
+      </div>
+      <div id="blq-content">
+         <div class="g-group">
+            <div class="g-container">
+               
+            </div>
+         </div>
+         <div class="g-group">
+            <div class=" g-w20 g-first">
+               <div class="g-container">
+                  <h1>Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'</h1>
+               </div>
+               <div class="g-container">
+                  <div class="datestamp"><span class="lastupdated">Atualizado em </span> 8 de maio, 2012 - 13:54 (Brasília) 16:54 GMT
+                  </div>
+                  
+
+
+
+
+  
+  
+
+
+
+<div class="tools-container">
+
+	
+		
+    <ul class="document-tools blq-clearfix">
+    	
+		
+		
+
+
+	<li class="facebook">
+		<a href="http://www.facebook.com/sharer.php?u=http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml&amp;t=BBCBrasil.com+-+Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'" title="Compartir esta historia en Facebook" class="popup-750x350">Facebook</a>
+	</li>		
+	<li class="twitter">
+		<a href="http://twitter.com/home?status=http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml" title="Compartir esta historia en Twitter" class="popup-750x350">Twitter</a>
+	</li>
+	<li class="orkut"> 
+		<a href="http://promote.orkut.com/preview?nt=orkut.com&tt=BBCBrasil.com+-+Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'&du=http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml" title="Compartir esta historia en Orkut" class="popup-750x350">Orkut</a>
+	</li>
+	<!--li class="share">
+		<a href="#" title="Share this story">Share</a>
+	</li-->
+
+
+  
+  
+
+
+
+        
+        
+		<li class="email">
+			<a class="popup-325x520-scrolling" href="/worldservice/apps/portuguese/sendemail/g/http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml?t=Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'" title="Enviar a página">Enviar a página</a>
+		</li>
+		
+			
+		<li class="print">
+			<a href="?print=1" title="Versão para impressão">Versão para impressão</a>
+		</li>
+        
+	</ul>
+	
+</div>
+
+               </div>
+               <div class="g-container story-body">
+                  <div class="bodytext">
+                     <div class="module ">
+                        <div class="image img-w304"><img width="304" height="171"
+                                src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/08/120508162559_blatter_ronaldo_304x171_reuters_nocredit.jpg"
+                                alt="Bebeto, Blatter, Valcke e Ronaldo. Reuters" /><p class="caption">Bebeto, Blatter, Valcke e Ronaldo fizeram brincadeira antes da reunião</p>
+                        </div>
+                     </div>
+                     <p class="ingress">Em tom de cobrança, o presidente da Fifa, Joseph Blatter, disse nesta terça-feira que a Copa das Confederações e a Copa do Mundo, que serão realizadas no Brasil, são "amanhã e depois de amanhã".</p>
+                     <p>Blatter encontrou-se com o ministro dos Esportes, Aldo Rebelo, e com integrantes do Comitê Organizador Local (COL) – o presidente José Maria Marin e os conselheiros Bebeto e Ronaldo. Os temores de atrasos nas obras permearam o encontro.</p>
+                     <p>"Há muitos aspectos que são importantes para se realizar uma Copa do Mundo, e o Brasil organizará esta muito bem. Mas a Copa do Mundo e a Copa das Confederações acontecem amanhã e depois de amanhã", disse Blatter, segundo declarações divulgadas pela Fifa, após o encontro.</p>
+                     <p>"Sem contar com as possibilidades do governo e sem garantias, seria impossível organizar o Mundial. E a organização não se dá apenas em uma cidade, mas é, sim, uma ação coletiva que acontece em diversas cidades brasileiras."</p>
+                     <p>"A última Copa do Mundo na América do Sul foi em 1978, com 16 times. Agora serão 32 equipes e 64 jogos, e isso requer logística e organização."</p>
+                     <h2>Valcke</h2>
+                     <p>Também participou da reunião o secretário-geral da Fifa, Jérôme Valcke, que no começo do ano provocou polêmica ao dizer que o Brasil precisava de um "chute no traseiro" para acelerar a organização do Mundial. Esta é a primeira reunião do governo brasileiro e do COL com Valcke desde que o secretário pediu desculpas pelas suas declarações.</p>
+                     <p>Na segunda-feira, em entrevista à BBC Brasil, o ministro dos Esportes, Aldo Rebelo, havia dito que a prioridade do governo brasileiro era tranquilizar a Fifa sobre preocupações de que alguns estádios possam estar com o cronograma atrasado.</p>
+                     <p>Rebelo disse que não tem dúvida de que seis estádios estarão prontos em tempo para a Copa das Confederações, em 2013, e que os demais também serão concluídos antes de dezembro de 2013, quase meio ano antes da Copa do Mundo.</p>
+                     <p>Nesta terça, Rebelo disse em Zurique que o Brasil tem condição de fazer "a melhor Copa de todos os tempos".</p>
+                     <p>"O que precisamos é de muito trabalho, disciplina e dedicação, e isso não falta à equipe do governo e nem aos organizadores. Estamos todos empenhados em fazer, com esse trabalho, a melhor Copa do Mundo de todos os tempos", disse o ministro após a reunião com a Fifa.</p>
+                     <h2>Brincadeiras e fotos</h2>
+                     <p>Antes da reunião, integrantes do governo brasileiro, do COL e da Fifa posaram para fotos em um gramado de futebol. Em clima descontraído, o ministro Rebelo chegou a cobrar um pênalti com Ronaldo no gol.</p>
+                     <p>Valcke, que foi alvo de críticas entre os brasileiros há alguns meses, também participou da brincadeira. Mas após a reunião, o secretário-geral da Fifa voltou a cobrar a organização brasileira.</p>
+                     <p>"Precisamos nos certificar de que, no pouco tempo que temos, encontraremos respostas imediatas para as questões que se apresentam. Este foi o principal acordo hoje. Trabalharemos juntos para isso, e essa é uma mensagem de comum acordo entre COL, governo e Fifa."</p>
+                     <p>Ronaldo anunciou que o Comitê Organizador Local, que é uma entidade privada ligada à Confederação Brasileira de Futebol, abrirá uma vaga para um representante do governo federal, que participará das decisões da organização da Copa. O integrante escolhido é o secretário-executivo dos Esportes, Luís Fernandes, que ingressou no ministério no começo deste ano, a convite de Rebelo.</p>
+                     <p>Nesta semana, o Senado brasileiro deve votar a Lei Geral da Copa, que regula diversos aspectos da organização do Mundial. Senadores votarão uma proposta que já foi aprovada na Câmara dos Deputados que retira do Estatuto do Torcedor a proibição da venda de bebidas alcoólicas em estádios.</p>
+                     <p>O texto pode abrir caminho para que uma das exigências da Fifa – a liberação de venda de bebidas em estádios durante o Mundial – seja cumprida. No entanto, não está claro se a Fifa ainda terá que negociar a questão com cada Estado brasileiro que sediará Jogos da Copa, já que a venda de bebidas em estádios pode ser regulada por leis estaduais.</p>
+                  </div>
+               </div>
+               <div class="g-container story-body">
+                  
+
+
+
+
+  
+  
+
+
+
+<div class="tools-container-end">
+
+	
+	<a class="backtotop" href="#page-top">
+		<span class="label">Clique</span>
+		<span class="link-title">De volta ao topo</span>
+	</a>
+	
+		
+    <ul class="document-tools blq-clearfix">
+    	
+		
+		
+
+
+	<li class="facebook">
+		<a href="http://www.facebook.com/sharer.php?u=http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml&amp;t=BBCBrasil.com+-+Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'" title="Compartir esta historia en Facebook" class="popup-750x350">Facebook</a>
+	</li>		
+	<li class="twitter">
+		<a href="http://twitter.com/home?status=http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml" title="Compartir esta historia en Twitter" class="popup-750x350">Twitter</a>
+	</li>
+	<li class="orkut"> 
+		<a href="http://promote.orkut.com/preview?nt=orkut.com&tt=BBCBrasil.com+-+Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'&du=http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml" title="Compartir esta historia en Orkut" class="popup-750x350">Orkut</a>
+	</li>
+	<!--li class="share">
+		<a href="#" title="Share this story">Share</a>
+	</li-->
+
+
+  
+  
+
+
+
+        
+        
+		<li class="email">
+			<a class="popup-325x520-scrolling" href="/worldservice/apps/portuguese/sendemail/g/http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml?t=Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã'" title="Enviar a página">Enviar a página</a>
+		</li>
+		
+			
+		<li class="print">
+			<a href="?print=1" title="Versão para impressão">Versão para impressão</a>
+		</li>
+        
+	</ul>
+	
+</div>
+
+               </div>
+               <div class="g-block story-body contextual-links">
+                  <h2>Leia mais sobre esse assunto</h2>
+                  <div class="g-container g-first contextual-published-list"></div>
+                  <div class="g-container">
+                     <div class="list li-relatedlinks">
+                        <h3 class="title">Notícias relacionadas</h3>
+                        <div class="content">
+                           <ul>
+                              <li class="ts-headline body-disabled first teaser"><a href="/portuguese/noticias/2012/05/120507_rebelo_fifa_dg.shtml">Aldo Rebelo diz que levará à Fifa 'convicção' de que estádios ficarão prontos</a><p class="date timeago" id="dt-2012-05-08T05:10:14-03:00">8 maio, 2012</p>, 
+                                 <p class="topics"><a href="http://www.bbc.co.uk/portuguese/topicos/brasil" class="topic">Brasil</a></p>
+                              </li>
+                              <li class="ts-headline body-disabled teaser"><a href="/portuguese/noticias/2012/04/120427_ronaldo_bbc_dg.shtml">Ronaldo diz que busca 'melhor organização de todos os tempos' em 2014</a><p class="date timeago" id="dt-2012-04-27T07:42:35-03:00">27 abril, 2012</p>, 
+                                 <p class="topics"><a href="http://www.bbc.co.uk/portuguese/topicos/esporte" class="topic">Esporte</a></p>
+                              </li>
+                              <li class="ts-headline body-disabled teaser"><a href="/portuguese/noticias/2012/04/120426_copa_rebelo_ac.shtml">Ministro diz que CPI não afetará Copa e atrasos serão superados</a><p class="date timeago" id="dt-2012-04-26T14:27:55-03:00">26 abril, 2012</p>, 
+                                 <p class="topics"><a href="http://www.bbc.co.uk/portuguese/topicos/copadomundo" class="topic">Copa do Mundo</a></p>
+                              </li>
+                              <li class="ts-headline body-disabled teaser"><a href="/portuguese/noticias/2012/03/120330_catar_alcool_copa_jc.shtml">Na Copa de 2022 no Catar, álcool nos estádios é assunto sensível</a><p class="date timeago" id="dt-2012-03-31T07:46:08-03:00">31 março, 2012</p>, 
+                                 <p class="topics"><a href="http://www.bbc.co.uk/portuguese/topicos/orientemedio" class="topic">Oriente médio</a></p>
+                              </li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="g-container">
+                     <div class="list li-relatedtopics">
+                        <h2 class="title">Tópicos relacionados</h2>
+                        <div class="content">
+                           <ul>
+                              <li class="primary-topic"><a href="http://www.bbc.co.uk/portuguese/topicos/brasil" class="topic">Brasil</a>,
+                              </li>
+                              <li><a href="http://www.bbc.co.uk/portuguese/topicos/esporte" class="topic">Esporte</a>,
+                              </li>
+                              <li><a href="http://www.bbc.co.uk/portuguese/topicos/copadomundo" class="topic">Copa do Mundo</a></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="g-container">
+                     
+                  </div>
+                  <div class="g-container"></div>
+                  <div class="g-container"></div>
+                  <div class="g-container"></div>
+               </div>
+            </div>
+            <div class=" g-w11 sidebar">
+               <div class="g-container">
+                  
+	
+	<div xmlns="http://www.w3.org/1999/xhtml" class="list li-carousel"><h2 class="title"><a href="http://www.bbc.co.uk/portuguese/topicos/video/index.shtml">Vídeos</a></h2><div class="content"><ul><li class="ts-144x81 ts-video first teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120508_videopilulaschinaebc.shtml">Coreia apreende pílulas com 'carne humana'<img alt="Pílulas. Reuters" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/08/120508173941_pills_144x81_reuters_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">01:10</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120508_sealand_futebol_fn.shtml">Seleção do menor país do mundo disputa jogo<img alt="País ocupa uma plataforma desativada (BBC)" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/08/120508152305_sealandgame144.jpg" /><span class="cta"><span>Assistir</span><span class="duration">02:10</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120507_tornadojapao_pai.shtml">Tornado devasta área ao norte de Tóquio<img alt="" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/07/120507074354_tornado_japao_144x81_bbc_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">00:52</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120506_superlua_rc.shtml">&#8216;Superlua&#8217;, maior e brilhante, é vista em todo o mundo<img alt="BBC" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/06/120506213151_lua144.jpg" /><span class="cta"><span>Assistir</span><span class="duration">00:43</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120504_meteoro_california_valeeste_fn.shtml">Queda de meteorito desencadeia 'caçada' nos EUA<img alt="Moradores encontraram fragmentos preciosos do corpo celeste (BBC)" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/04/120504164549_meteor144jpg.jpg" /><span class="cta"><span>Assistir</span><span class="duration">03:12</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120504_mundofreak_rp.shtml">Mundo Freak: A privada motorizada<img alt="Privada motorizada. BBC" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/04/120504182721_privada144.jpg" /><span class="cta"><span>Assistir</span><span class="duration">03:02</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120504_boletim_olimpico_12_rw.shtml">Eventos 'testam' Parque Olímpico<img alt="Parque Olímpico" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/04/120504110614_parque_olimpico_144x81_x_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">01:36</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120503_videoclickebc.shtml">BBC Click: Samsung é líder em celulares<img alt="Samsung Galaxy. Reuters" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/03/120503181304_samsunggalaxy_144x81_reuters_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">02:07</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120504_quitestplace_rp.shtml">Instalação mostra 'último som original da Terra'<img alt="Foto: BBC" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/04/120504135200_quietest_144x81_bbc_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">01:45</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/noticias/2012/05/120504_cegos_visao_bg.shtml">Cegos recuperam visão após implante de chips<img alt="Raio x de chip implantado atrás da retina de pessoas cegas (BBC)" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/04/120504115153_cego-_implante_144x81_bbc_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">02:04</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120504_leoa_bebe_zoo_eua_fn.shtml">Leoa tenta pegar bebê através de vidro em zoo<img alt="Jack não se abalou com as investidas da leoa africana Kya (BBC)" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/04/120504125858_liontoddler144.jpg" /><span class="cta"><span>Assistir</span><span class="duration">01:00</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120502_videoarterevistaebc.shtml">Arte em revista: Grafiteiros pintam cúpula de igreja<img alt="Igreja de Santa Eulália, Barcelona" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/02/120502150459_graffitti_144x81_bbc_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">02:51</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120503_mae_eua_bronzeamento_fn.shtml">Mãe leva filha de 5 para bronzeamento artificial<img alt="Patricia Krentcil afirma que é inocente e nunca levou filha para cabine de bronzeamento artificial (BBC)" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/03/120503173417_mothertanning144.jpg" /><span class="cta"><span>Assistir</span><span class="duration">01:13</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120502_barcelona_turistas_presos_fn.shtml">Turistas ficam presos em torre em Barcelona<img alt="Bombeiros de Barcelona precisaram de um guindaste para resgatar os turistas (BBC)" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/02/120502134348_barcelona144.jpg" /><span class="cta"><span>Assistir</span><span class="duration">00:46</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/noticias/2012/05/120502_raspados_cancer_bg.shtml">Alunos britânicos raspam a cabeça em apoio a colega<img alt=" " width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/02/120502122319_shaven_heads_144x81_bbc_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">01:05</span></span></a></p><div class="body"></div></li><li class="ts-144x81 ts-video teaser"><p class="link title"><a href="/portuguese/videos_e_fotos/2012/05/120502_tornado_toulouse_pai.shtml">Imagens de tornado raro são captadas no sul da França<img alt="" width="144" height="81" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/02/120502091637_tornado_144x81_bbc_nocredit.jpg" /><span class="cta"><span>Assistir</span><span class="duration">00:30</span></span></a></p><div class="body"></div></li></ul></div></div>
+	
+
+
+
+
+
+
+
+<!-- mr:hp homepage/(none)/(none) 
+
+
+-->
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="list li-plain topstories-list">
+
+	<h2 class="title">Principais Notícias</h2>
+
+
+
+	<a class="rss" href="/portuguese/index.xml">RSS</a>
+
+
+	<div class="content">
+		<ul>
+		    
+	    	    
+	    	    
+	    	    
+	    	    
+	    	    
+	    	    
+	    	    
+		    		<li class="teaser ts-headline body-disabled first">
+		    			<a href="/portuguese/noticias/2012/05/120508_siria_observador_lk.shtml">Brasil enviará mais 10 observadores militares à Síria</a>
+		    			<span id="dt-2012-05-08T18:16:07-03:00" class="timeago">8 maio, 2012</span>
+		    		</li>
+		    	
+			
+			
+	    	    
+	    	    
+	    	    
+	    	    
+	    	    
+	    	    
+	    	    
+	    		<li class="teaser ts-headline body-disabled">
+	    			<a href="/portuguese/noticias/2012/05/120509_double_agent_eua_pu.shtml">Suposto homem-bomba da Al-Qaeda era agente infiltrado, dizem EUA</a>
+	    			<span id="dt-2012-05-08T22:07:44-03:00" class="timeago">8 maio, 2012</span>
+	    		</li>
+		    	
+			
+			
+			    
+			    
+			    
+			    
+		   	    
+			    
+	    	    
+				<li class="teaser ts-headline body-disabled">
+					<a href="/portuguese/noticias/2012/05/120508_netanyahu_israel_gf.shtml">Acordo dá a Netanyahu apoio político sem precedentes em Israel</a>
+					<span id="dt-2012-05-08T12:49:13-03:00" class="timeago">8 maio, 2012</span>
+				</li>
+		    	
+			
+			
+			       
+			  
+			 
+			 
+			                                  		
+		</ul>
+	</div>
+</div> 
+
+	<div xmlns="http://www.w3.org/1999/xhtml" class="list li-specialfeatures"><h2 class="title"><a href=" ">Destaques &amp; Análises</a></h2><div class="content"><ul><li class="ts-304x171 first teaser"><h3 class="link title"><a href="/portuguese/noticias/2012/05/120507_bacterias_magneticas_mv.shtml">Bactérias magnéticas podem ajudar a fabricar 'biocomputadores', diz estudo<img alt="Foto: Universidade de Leeds" width="304" height="171" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/08/120508155121_sp_bacterias_magneticas_304x171_divulgacao_nocredit.jpg" /></a></h3><div class="body"><p class="summary">Equipe do Japão e Grã-Bretanha quer usar micróbios que digerem ferro para fabricar nanocomponentes.</p></div></li><li class="ts-112x63 teaser"><h3 class="link title"><a href="/portuguese/noticias/2012/05/120507_listeningproject_pai.shtml">História <img alt="Foto: BBC" width="112" height="63" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/07/120507142535_conversa_112x63_bbc_nocredit.jpg" /></a></h3><div class="body"><p class="summary">Projeto britânico arquiva conversas que marcam a vida de pessoas comuns.</p></div></li><li class="ts-112x63 teaser"><h3 class="link title"><a href="/portuguese/noticias/2012/05/120507_momentoolimpico_vanderlei_pai.shtml">Momentos olímpicos<img alt="Vanderlei Cordeiro de Lima no momento em que foi atacado pelo padre Cornelius Horan (Getty)" width="112" height="63" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/07/120507101202_vanderlei_112x63_getty_nocredit.jpg" /></a></h3><div class="body"><p class="summary">Bronze fez Vanderlei Cordeiro esquecer momento inusitado nos Jogos de 2004.</p></div></li><li class="ts-112x63 teaser"><h3 class="link title"><a href="/portuguese/noticias/2012/05/120507_chat_bernard_chamada_rw.shtml">Bernard<img alt="Bernard" width="112" height="63" src="http://wscdn.bbc.co.uk/worldservice/assets/images/2012/05/07/120507150409_bernard_112x63_cob_nocredit.jpg" /></a></h3><div class="body"><p class="summary">Ex-ídolo do vôlei conversa na quarta-feira com leitores da BBC Brasil no Facebook. </p></div></li></ul></div></div>
+	
+
+
+
+  
+      
+
+
+    
+      
+
+<div class="box bx-livestats tabbed">						
+	
+	<h2 class="title">Mais Populares</h2>
+	<h3 class="tab open"><a href="#">Texto</a></h3>
+							
+	<div class="content open">
+		<div class="body">
+		      ﻿<ol>
+  <li
+    class="li-1">
+    <a
+      href="http://www.bbc.co.uk/portuguese/noticias/2012/05/120509_double_agent_eua_pu.shtml">Suposto homem-bomba da Al-Qaeda era agente infiltrado, d...</a>
+  </li>
+  <li
+    class="li-2">
+    <a
+      href="http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_siria_observador_lk.shtml">Brasil enviará mais 10 observadores militares à Síria</a>
+  </li>
+  <li
+    class="li-3">
+    <a
+      href="http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_savethechildren_maes_is.shtml">Níger substitui Afeganistão como pior lugar do mundo par...</a>
+  </li>
+  <li
+    class="li-4">
+    <a
+      href="http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_natureza_alergias_mv.shtml">Pouco contato com natureza 'aumenta a incidência de aler...</a>
+  </li>
+  <li
+    class="li-5">
+    <a
+      href="http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_mexico_vestido_debate_bg.shtml">Vestido 'revelador' de assistente rouba atenção em debat...</a>
+  </li>
+</ol>
+		</div>	
+	</div>
+		
+	
+	<h3 class="tab"><a href="#">Vídeo</a></h3>
+	<div class="content watched-listened">
+		<div class="body">
+			﻿<ol>
+  <li
+    class="li-1">
+    <a
+      href="http://www.bbc.co.uk/portuguese/videos_e_fotos/2012/05/120508_videopilulaschinaebc.shtml">Coreia diz ter apreendido pílulas com 'carne humana'</a>
+  </li>
+  <li
+    class="li-2">
+    <a
+      href="http://www.bbc.co.uk/portuguese/videos_e_fotos/2012/05/120508_sealand_futebol_fn.shtml">Seleção do menor país do mundo disputa primeiro jogo</a>
+  </li>
+  <li
+    class="li-3">
+    <a
+      href="http://www.bbc.co.uk/portuguese/videos_e_fotos/2012/05/120503_mae_eua_bronzeamento_fn.shtml">Americana é processada por levar filha de 5 anos para fa...</a>
+  </li>
+  <li
+    class="li-4">
+    <a
+      href="http://www.bbc.co.uk/portuguese/videos_e_fotos/2012/05/120506_superlua_rc.shtml">‘Superlua’ é vista em todo o mundo</a>
+  </li>
+  <li
+    class="li-5">
+    <a
+      href="http://www.bbc.co.uk/portuguese/noticias/2012/04/120427_video_igreja_lgbt_lgb_valeeste.shtml">Travesti diz que igreja inclusiva lhe dá 'liberdade'</a>
+  </li>
+</ol>						
+		</div>	
+	</div>										
+			
+</div>
+
+	<div class="box bx-social-promo">
+	<h2 class="title">BBC Brasil na internet</h2>	
+	<div class="content">
+		<div class="body">
+			<ol>
+				<li class="facebook-promo">
+					<p><a href="http://www.facebook.com/bbcbrasil"><span></span>BBC Brasil no Facebook</a></p>
+					<a class="cta" href="http://www.facebook.com/bbcbrasil"><span>curtir</span></a>
+				</li>
+				<li class="twitter-promo">
+					<p><a href="http://twitter.com/#!/bbcbrasil"><span></span>BBC Brasil no Twitter</a></p>
+					<a class="cta" href="http://twitter.com/#!/bbcbrasil"><span>seguir</span></a>
+				</li>
+				<li class="youtube-promo">
+					<p><a href="http://www.youtube.com/bbcbrasil"><span></span>BBC Brasil no YouTube</a></p>
+					<a class="cta" href="http://www.youtube.com/bbcbrasil"><span>junte-se</span></a>
+				</li>
+			</ol>	
+		</div>
+		<!--p class="disclaimer">Disclaimer info</p-->			
+	</div>
+</div>
+
+
+
+               </div>
+            </div>
+         </div>
+      </div>
+      <div id="blq-local-nav">
+         
+ <!-- $subdir can be set in light/local_nav.sssi -->
+  
+  	
+  
+  
+  
+    
+  
+
+  
+  
+  <ul class="blq-clearfix">
+	
+	
+		<li class="first-child">
+    	
+	
+    <a href="/portuguese/">Primeira Página</a>
+		<ul>
+			<li><a href="/portuguese/topicos/aprenda_ingles/">Aprenda Inglês</a></li>
+			<li><a href="/portuguese/tempo/">Tempo</a></li>
+		</ul>
+  	</li>
+	<li class="nav-current"><a href="/portuguese/topicos/brasil/">Brasil</a></li>
+	<li><a href="/portuguese/topicos/america_latina/">América Latina</a></li>
+	<li><a href="/portuguese/topicos/internacional/">Internacional</a></li>
+	<li><a href="/portuguese/topicos/economia/">Economia</a></li>
+	<li><a href="/portuguese/topicos/saude/">Saúde</a></li>	
+	<li><a href="/portuguese/topicos/ciencia_e_tecnologia/">Ciência e Tecnologia</a></li>
+	<li><a href="/portuguese/topicos/cultura/">Cultura</a></li>
+	<li><a href="/portuguese/videos_e_fotos/">Vídeos e Fotos</a></li>
+	<li><a href="/portuguese/especiais/">Especiais</a></li>
+  </ul>
+
+<!-- ****************************************************************
+For topics, margin from banner needs to be hardcoded in 
+/portuguese/includes/gel/head.sssi
+********************************************************************* --> 
+      </div>
+      <div id="footer">
+         <div class="footer" id="related-services">
+   <div id="news-services">
+      <h2>Serviços</h2>
+      <ul>
+		 <li id="service-mobile">
+         	<a href="/portuguese/institutional/2009/06/090625_servicos_para_celular.shtml"><span class="services-icon">&nbsp;</span><span class="services-text">BBC Brasil no celular</span></a>
+         </li>
+		 <li id="service-feeds">
+         	<a href="http://www.bbc.co.uk/portuguese/index.xml"><span class="services-icon">&nbsp;</span><span class="services-text">Feeds de notícias</span></a>
+         </li>
+		 <li id="service-widgets">
+         	<a href="/portuguese/institutional/2009/07/090707_widget_platforms.shtml"><span class="services-icon">&nbsp;</span><span class="services-text">Widget</span></a>
+         </li>
+		 <li id="service-email-news">
+         	<a href="/portuguese/institutional/2009/02/090204_newsletter_tc2.shtml"><span class="services-icon">&nbsp;</span><span class="services-text">Notícias por e-mail</span></a>
+         </li>
+		 <li id="service-uploader">
+         	<a href="/portuguese/institutional/2011/06/000001_ugc.shtml"><span class="services-icon">&nbsp;</span><span class="services-text">Envie seu material</span></a>
+         </li>
+      </ul>
+   </div> 
+   <div id="news-related-sites">
+      <h2>Links</h2>
+      <ul>
+        <li class="column-1"><a href="/worldservice/languages/index.shtml">Sites da BBC em outras línguas</a></li>
+        <li class="column-1"><a href="/mundo/">BBC Mundo</a></li>
+        <li class="column-1"><a href="/news/">BBC News</a></li>
+		<li class="column-1"><a href="/portuguese/institutional/2011/06/000001_parceiros.shtml">Parceiros da BBC Brasil</a></li>
+		<li class="column-1"><a href="/portuguese/institutional/2011/06/000001_empregos.shtml">Empregos</a></li>
+      </ul>
+   </div>
+</div>
+
+      </div>
+      
+
+
+	
+		
+			<!-- start live stats -->
+			<img src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~ws~RS~t~RS~HighWeb_Story~RS~i~RS~17192767~RS~p~RS~1436~RS~u~RS~http://www.bbc.co.uk/portuguese/noticias/2012/05/120508_blatter_fifa_dg.shtml~RS~r~RS~http://www.bbc.co.uk/portuguese/topicos/brasil/~RS~a~RS~portuguese~RS~q~RS~num_headlines=3~RS~z~RS~53~RS~" height="1" width="1" alt="" id="ls-wb" /> 
+			<!-- end live stats -->
+		
+	    
+    
+
+
+	<!-- Pulse survey code -->
+	
+
+
+
+	
+
+<!-- Nielson stats code -->
+<script type="text/javascript" src="http://wscdn.bbc.co.uk/worldservice/js/nielson_stats.js"></script>
+<script type="text/javascript" src="//secure-uk.imrworldwide.com/v53.js"></script>
+<noscript><div><img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=bbc&amp;cg=0" alt=""/></div></noscript>
+
+
+
+<!-- SiteCatalyst code version: H.22.1. 
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved -->
+<script language="JavaScript" type="text/javascript" src="http://wscdn.bbc.co.uk/worldservice/js/site_catalyst/s_code.js"></script>
+<noscript><div><img src="http://bbc.112.2o7.net/b/ss/bbcworldservicedev/1/H.22.1--NS/0" height="1" width="1" border="0" alt="" /></div></noscript>
+<!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. -->
+
+
+
+<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J08781"></script>
+<script type="text/javascript">
+    DM_tag();
+</script>
+
+
+
+
+
+
+
+	
+
+
+
+
+	
+
+
+
+
+
+
+
+
+               </div>   <div id="blq-nav-more-links" class=" blq-rst blq-ws-font blq-clearfix" lang="en-GB" dir="ltr"> <h2>  Links da BBC   </h2> <div id="blq-nav-links-inner">   <p id="blq-eng" lang="pt-BR">Sites da BBC em inglês:</p> <p class="blq-hide">Three navigation lists follow:</p> <ol class="blq-nav-sub blq-first"> <li><a href="http://www.bbc.co.uk/news/">News</a></li> <li><a href="http://news.bbc.co.uk/sport/">Sport</a></li> </ol> <ol class="blq-nav-sub"> <li><a href="http://news.bbc.co.uk/weather/">Weather</a></li> <li><a href="/worldservice/languages/">Languages</a></li> </ol> <ol class="blq-nav-sub blq-last"> <li><a href="/tv/">TV</a></li> <li><a href="/radio/">Radio</a></li> </ol>  </div> </div>  <div id="blq-foot" lang="pt-BR" class="blq-rst blq-clearfix blq-ws-font blq-foot-grey">  <div id="blq-footlinks"> <h2 class="blq-hide">Links da BBC</h2> <ul> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list">  <li><a href="/portuguese/celular/">Celular</a></li> <li>     <a href="/portuguese/institutional/termsofuse.shtml">Condições de uso</a> </li> <li>     <a href="/portuguese/institutional/aboutus.shtml">Sobre a BBC</a> </li> </ul> </li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list">  <li>     <a href="/portuguese/institutional/privacy.shtml">Política de privacidade</a> </li> <li>     <a href="/portuguese/help/">Ajuda da BBC</a> </li> </ul> </li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list">  <li>     <a href=""></a> </li> <li>     <a href="/portuguese/help/accessibility.shtml">Ajuda sobre acesso</a> </li> </ul> </li> <li class="blq-footlinks-row"> <ul class="blq-footlinks-row-list"> <li>     <a href=""></a> </li>  <li>     <a href="/portuguese/institutional/contactus.shtml">Fale conosco</a> </li>  </ul> </li>  </ul> </div>   <div id="blq-foot-blocks" class="blq-footer-image-light"><img src="http://static.bbci.co.uk/frameworks/barlesque/2.0.5/desktop/3.5/img/blocks/light.png" width="84" height="24" alt="BBC" /></div>  <p id="blq-disclaim"><span id="blq-copy">BBC &copy; 2012</span> <a href="/portuguese/institutional/termsofuse.shtml">A BBC não se responsabiliza pelo conteúdo de sites externos.</a></p> <div id="blq-obit"><p><strong>Esta página é melhor visualizada em um navegador atualizado e que permita o uso de linguagens de estilo (CSS). Com seu navegador atual, embora você seja capaz de ver o conteúdo da página, não poderá enxergar todos os recursos que ela apresenta. Sugerimos que você instale um navegados mais atualizado, compatível com a tecnologia.</strong></p></div> </div> </div>  </div> </div>  <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementById('blq-main') }); istats.track('download', { region: document.getElementById('blq-main') }); }); } </script>                  
+
+   </body>
+</html>

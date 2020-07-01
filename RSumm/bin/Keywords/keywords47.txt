@@ -1,0 +1,8932 @@
+Sentenca(topic=0): O Parlamento da Turquia aprovou por ampla maioria (507 votos contra 19), nesta quarta-feira, um pedido do governo para permitir que tropas do país cruzem a fronteira para o norte do Iraque, a fim de combater rebeldes separatistas curdos refugiados na região montanhosa.
+Sentenca(topic=0): A medida fez com que o preço do petróleo disparasse no cenário internacional, mas a Petrobras garantiu que isso não interferirá no mercado de combustíveis brasileiro.
+Sentenca(topic=0): Pouco antes de o Congresso dar o sinal verde à operação militar, o primeiro-ministro da Turquia, o islamita Recep Tayyip Erdogan, disse que "a paciência do povo turco se esgotou" com as ações dos guerrilheiros separatistas curdos do Partido dos Trabalhadores do Curdistão (conhecido como PKK) que estão refugiados no Norte do Iraque.
+Sentenca(topic=1): A possibilidade de incursão militar da Turquia, que é membro da Otan (organização militar que reúne 26 países, entre eles EUA, Grã-Bretanha, França e Alemanha), no Iraque está deixando a Casa Branca em estado de alerta.
+Sentenca(topic=1): O presidente dos EUA, George W.
+Sentenca(topic=1): Bush, pediu nesta quarta-feira que o Exército turco busque uma solução diplomática para a questão.
+Sentenca(topic=1): Washington teme que uma incursão turca possa desestabilizar a mais pacífica região iraquiana e, provavelmente, toda a região do Oriente Médio, levando o Irã, seu arquiinimigo, a intervir.
+Sentenca(topic=2): A Comissão Européia, por sua vez, exortou a Turquia a respeitar a integridade do território iraquiano.
+Sentenca(topic=2): - É crucial que a Turquia continue a atacar esse problema pela cooperação entre as autoridades relevantes - declarou Krisztina Nagy, porta-voz da Comissão Européia.
+Sentenca(topic=2): Erdogan deu de ombros às preocupações de aliados da Otan: - O que importa é o que o Parlamento diz.
+Sentenca(topic=2): O premier está sob forte pressão interna por causa de uma série de ataques cometidos por guerrilheiros curdos que usam o Norte do Iraque como base.
+Sentenca(topic=3): Em Istambul, maior cidade turca, professores e estudantes realizaram grande manifestação contra o terrorismo e a política externa dos EUA.
+Sentenca(topic=4): A Turquia intensificou nesta quarta-feira (17) a sua pressão sobre o Iraque para que atue contra os rebeldes do Partido dos Trabalhadores do Curdistão (PKK), enquanto o vice-presidente iraquiano, Tariq al-Hashimi, tratava de acalmar os ânimos e evitar um ataque militar em uma visita-relâmpago a Ancara.
+Sentenca(topic=5): O primeiro-ministro turco, o islamita Recep Tayyip Erdogan, expressou aos congressistas do Partido da Justiça e do Desenvolvimento (AKP, governista) que "a paciência do povo turco se esgotou".
+Sentenca(topic=5): "A boa vontade da Turquia não produziu resultados até agora", disse Erdogan, que acusou os governos de Washington e de Bagdá de não terem feito o suficiente para frear os ataques contra o Exército turco por parte do PKK, cujo comando central se encontra no norte do Iraque.
+Sentenca(topic=6): O gabinete turco decidiu na terça-feira (16) enviar ao Parlamento uma moção para autorizar uma intervenção militar no conflituoso país vizinho, em medida que deve ser aprovada, já que o AKP conta com uma grande maioria no Congresso e com o apoio dos principais partidos da oposição nesse projeto.
+Sentenca(topic=6): A permissão de enviar tropas para o Iraque com o objetivo de combater os guerrilheiros do PKK  tem validade de um ano, e as ações poderão começar assim que o Exército considerar necessário.
+Sentenca(topic=7): Erdogan destacou que a concessão da autorização, que será debatida e votada amanhã no Congresso, não implica em uma invasão ao Iraque de forma imediata.
+Sentenca(topic=7): "O que é necessário será feito quando necessário, assim que chegar o momento e as condições forem as ideais. A organização terrorista (do PKK) é o único alvo", acrescentou o primeiro-ministro.
+Sentenca(topic=8): O governo de Erdogan se encontra sob pressão para fazer algo contra a crescente ofensiva do PKK, e também para responder ao recente voto de uma comissão do Congresso dos Estados Unidos que qualifica como "genocídio" os massacres de armênios no Império Otomano cometidos durante a Primeira Guerra Mundial.
+Sentenca(topic=8): Ancara protestou contra esse voto chamando seu embaixador em Washington para consultas.
+Sentenca(topic=9): Depois de se reunir hoje com o governo turco em Ancara, o vice-presidente iraquiano Hashimi expressou sua esperança de convencer as autoridades turcas para que tratem do problema do PKK em conjunto e por meio de diálogo.
+Sentenca(topic=9): "O objetivo principal é dar uma chance à diplomacia nesta situação tão crítica", disse o líder à imprensa.
+Sentenca(topic=9): Hashimi reiterou que Bagdá considera o PKK uma organização terrorista e disse que "os governos iraquiano e turco podem resolver seus problemas com um acordo conjunto", acrescentando que uma possível solução trará benefícios para os dois países.
+Sentenca(topic=10): Enquanto isso, em Bagdá, o primeiro-ministro iraquiano, Nouri al-Maliki, reuniu em caráter de urgência seu gabinete de crise para abordar a tensa situação na fronteira com a Turquia.
+Sentenca(topic=10): "O governo iraquiano está interessado em acabar com a crise com a Turquia. Além disso, deseja estabilidade e segurança nos Estados vizinhos", declarou Maliki em comunicado.
+Sentenca(topic=11): Treze soldados turcos morreram há dez dias em uma emboscada do PKK no sudeste da Turquia, naquele que é considerado o mais grave ataque rebelde curdo contra o Exército de Ancara em 12 anos.
+Sentenca(topic=11): Outro soldado morreu ao pisar em uma mina colocada supostamente pelo PKK na província de Bingol, também no sudeste do país, perto da fronteira com o Iraque.
+Sentenca(topic=12): A Turquia intensificou nesta quarta-feira  (17) a sua pressão sobre o Iraque para que atue contra os rebeldes do Partido dos Trabalhadores do Curdistão (PKK), enquanto o vice-presidente iraquiano, Tariq al-Hashimi, tratava de acalmar os ânimos e evitar um ataque militar em uma visita-relâmpago a Ancara.
+Sentenca(topic=12): O primeiro-ministro turco, o islamita Recep Tayyip Erdogan, expressou aos congressistas do Partido da Justiça e do Desenvolvimento (AKP, governista) que "a paciência do povo turco se esgotou".
+Sentenca(topic=12): "A boa vontade da Turquia não produziu resultados até agora", disse Erdogan, que acusou os governos de Washington e de Bagdá de não terem feito o suficiente para frear os ataques contra o Exército turco por parte do PKK, cujo comando central se encontra no norte do Iraque.
+Sentenca(topic=13): O gabinete turco decidiu na terça-feira (16) enviar ao Parlamento uma moção para autorizar uma intervenção militar no conflituoso país vizinho, em medida que deve ser aprovada, já que o AKP conta com uma grande maioria no Congresso e com o apoio dos principais partidos da oposição nesse projeto.
+Sentenca(topic=13): A permissão de enviar tropas para o Iraque com o objetivo de combater os guerrilheiros do PKK tem validade de um ano, e as ações poderão começar assim que o Exército considerar necessário.
+Sentenca(topic=14): Erdogan destacou que a concessão da autorização, que será debatida e votada amanhã no Congresso, não implica em uma invasão ao Iraque de forma imediata.
+Sentenca(topic=14): "O que é necessário será feito quando necessário, assim que chegar o momento e as condições forem as ideais. A organização terrorista (do PKK) é o único alvo", acrescentou o primeiro-ministro.
+Sentenca(topic=15): O governo de Erdogan se encontra sob pressão para fazer algo contra a crescente ofensiva do PKK, e também para responder ao recente voto de uma comissão do Congresso dos Estados Unidos que qualifica como "genocídio" os massacres de armênios no Império Otomano cometidos durante a Primeira Guerra Mundial.
+Sentenca(topic=16): Ancara protestou contra esse voto chamando seu embaixador em Washington para consultas.
+Sentenca(topic=17): Depois de se reunir hoje com o governo turco em Ancara,  o vice-presidente iraquiano Hashimi expressou sua esperança de convencer as autoridades turcas para que tratem do problema do PKK em conjunto e por meio de diálogo.
+Sentenca(topic=17): "O objetivo principal é dar uma chance à diplomacia nesta situação tão crítica", disse o líder à imprensa.
+Sentenca(topic=17): Hashimi reiterou que Bagdá considera o PKK uma organização terrorista e disse que "os governos iraquiano e turco podem resolver seus problemas com um acordo conjunto", acrescentando que uma possível solução trará benefícios para os dois países.
+Sentenca(topic=18): Enquanto isso, em Bagdá, o primeiro-ministro iraquiano, Nouri al-Maliki, reuniu em caráter de urgência seu gabinete de crise para abordar a tensa situação na fronteira com a Turquia.
+Sentenca(topic=18): "O governo iraquiano está interessado em acabar com a crise com a Turquia. Além disso, deseja estabilidade e segurança nos Estados vizinhos", declarou Maliki em comunicado.
+Sentenca(topic=19): Treze soldados turcos morreram há dez dias em uma emboscada do PKK no sudeste da Turquia, naquele que é considerado o mais grave ataque rebelde curdo contra o Exército de Ancara em 12 anos.
+Sentenca(topic=19): Outro soldado morreu ao pisar em uma mina colocada supostamente pelo PKK na província de Bingol, também no sudeste do país, perto da fronteira com o Iraque.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: parlament  - Frequency: 1
+Word: turqu  - Frequency: 2
+Word: aprov  - Frequency: 1
+Word: ampla  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: 19  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: país  - Frequency: 1
+Word: cruz  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: iraqu  - Frequency: 2
+Word: fim  - Frequency: 1
+Word: combat  - Frequency: 1
+Word: rebeld  - Frequency: 1
+Word: separat  - Frequency: 2
+Word: curd  - Frequency: 2
+Word: refugi  - Frequency: 2
+Word: regiã  - Frequency: 1
+Word: montanh  - Frequency: 1
+Word: med  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: prec  - Frequency: 1
+Word: petról  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: cenári  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: petrobr  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: interfer  - Frequency: 1
+Word: merc  - Frequency: 1
+Word: combustív  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: sinal  - Frequency: 1
+Word: verd  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: islamit  - Frequency: 1
+Word: recep  - Frequency: 1
+Word: tayyip  - Frequency: 1
+Word: erdogan  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: paciênc  - Frequency: 1
+Word: pov  - Frequency: 1
+Word: turc  - Frequency: 1
+Word: esgot  - Frequency: 1
+Word: açõ  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: part  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: curdistã  - Frequency: 1
+Word: com  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: estã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_turqu_nort_iraqu_separat_curd_refugi
+
+Keyword: 0_turqu_nort_iraqu_separat_curd_refugi_parlament_aprov_ampla_maior_vot_19_quart_ped_govern_permit_trop_país_cruz_fronteir_fim_combat_rebeld_regiã_montanh_med_fez_prec_petról_dispar_cenári_internacional_petrobr_garant_nã_interfer_merc_combustív_brasileir_antes_congress_dar_sinal_verd_oper_milit_primeir_islamit_recep_tayyip_erdogan_diss_paciênc_pov_turc_esgot_açõ_guerrilheir_part_trabalh_curdistã_com_pkk_estã
+
+
+------------------------------------------------------------
+Topic: 1
+Word: possibil  - Frequency: 1
+Word: incursã  - Frequency: 2
+Word: milit  - Frequency: 2
+Word: turqu  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: otan  - Frequency: 1
+Word: reún  - Frequency: 1
+Word: 26  - Frequency: 1
+Word: país  - Frequency: 1
+Word: eua  - Frequency: 2
+Word: grã  - Frequency: 1
+Word: franc  - Frequency: 1
+Word: alemanh  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: está  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: alert  - Frequency: 1
+Word: president  - Frequency: 1
+Word: georg  - Frequency: 1
+Word: w  - Frequency: 1
+Word: bush  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: turc  - Frequency: 2
+Word: busqu  - Frequency: 1
+Word: soluçã  - Frequency: 1
+Word: diplomát  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: desestabiliz  - Frequency: 1
+Word: pacíf  - Frequency: 1
+Word: regiã  - Frequency: 2
+Word: iraquian  - Frequency: 1
+Word: provavel  - Frequency: 1
+Word: orient  - Frequency: 1
+Word: médi  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: irã  - Frequency: 1
+Word: arquiinimig  - Frequency: 1
+Word: interv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_incursã_milit_eua_turc_regiã
+
+Keyword: 1_incursã_milit_eua_turc_regiã_possibil_turqu_membr_otan_reún_26_país_grã_franc_alemanh_iraqu_está_deix_cas_branc_estad_alert_president_georg_w_bush_ped_quart_exércit_busqu_soluçã_diplomát_questã_washington_tem_poss_desestabiliz_pacíf_iraquian_provavel_orient_médi_lev_irã_arquiinimig_interv
+
+
+------------------------------------------------------------
+Topic: 2
+Word: comissã  - Frequency: 2
+Word: europ  - Frequency: 2
+Word: vez  - Frequency: 1
+Word: exort  - Frequency: 1
+Word: turqu  - Frequency: 2
+Word: respeit  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: iraquian  - Frequency: 1
+Word: crucial  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: atac  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: cooper  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: relev  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: krisztin  - Frequency: 1
+Word: nagy  - Frequency: 1
+Word: port  - Frequency: 1
+Word: erdogan  - Frequency: 1
+Word: deu  - Frequency: 1
+Word: ombros  - Frequency: 1
+Word: às  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: ali  - Frequency: 1
+Word: otan  - Frequency: 1
+Word: import  - Frequency: 1
+Word: parlament  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: premi  - Frequency: 1
+Word: está  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: curd  - Frequency: 1
+Word: usam  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: com  - Frequency: 1
+Word: bas  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_comissã_europ_turqu
+
+Keyword: 2_comissã_europ_turqu_vez_exort_respeit_integr_territóri_iraquian_crucial_continu_atac_problem_pel_cooper_autor_relev_declar_krisztin_nagy_port_erdogan_deu_ombros_às_preocup_ali_otan_import_parlament_diz_premi_está_fort_pressã_intern_caus_séri_ataqu_comet_guerrilheir_curd_usam_nort_iraqu_com_bas
+
+
+------------------------------------------------------------
+Topic: 3
+Word: istambul  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: turc  - Frequency: 1
+Word: professor  - Frequency: 1
+Word: estud  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: manifest  - Frequency: 1
+Word: terror  - Frequency: 1
+Word: polít  - Frequency: 1
+Word: extern  - Frequency: 1
+Word: eua  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_istambul_maior_cidad_turc_professor_estud_realiz_grand_manifest_terror_polít_extern_eua
+
+
+------------------------------------------------------------
+Topic: 4
+Word: turqu  - Frequency: 1
+Word: intensific  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: atu  - Frequency: 1
+Word: rebeld  - Frequency: 1
+Word: part  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: curdistã  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: iraquian  - Frequency: 1
+Word: tariq  - Frequency: 1
+Word: al  - Frequency: 1
+Word: trat  - Frequency: 1
+Word: acalm  - Frequency: 1
+Word: ânim  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: visit  - Frequency: 1
+Word: ancar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_turqu_intensific_quart_pressã_iraqu_atu_rebeld_part_trabalh_curdistã_vic_iraquian_tariq_al_trat_acalm_ânim_evit_ataqu_milit_visit_ancar
+
+
+------------------------------------------------------------
+Topic: 5
+Word: primeir  - Frequency: 1
+Word: turc  - Frequency: 3
+Word: islamit  - Frequency: 1
+Word: recep  - Frequency: 1
+Word: tayyip  - Frequency: 1
+Word: erdogan  - Frequency: 2
+Word: express  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: part  - Frequency: 2
+Word: justic  - Frequency: 1
+Word: desenvolv  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: paciênc  - Frequency: 1
+Word: pov  - Frequency: 1
+Word: esgot  - Frequency: 1
+Word: boa  - Frequency: 1
+Word: vontad  - Frequency: 1
+Word: turqu  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: produz  - Frequency: 1
+Word: result  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: bagd  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: suficient  - Frequency: 1
+Word: fre  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: com  - Frequency: 1
+Word: central  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: iraqu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_turc
+
+Keyword: 5_turc_erdogan_part_govern_nã
+
+Keyword: 5_turc_erdogan_part_govern_nã_primeir_islamit_recep_tayyip_express_congress_justic_desenvolv_paciênc_pov_esgot_boa_vontad_turqu_produz_result_agor_diss_acus_washington_bagd_ter_feit_suficient_fre_ataqu_exércit_pkk_com_central_encontr_nort_iraqu
+
+
+------------------------------------------------------------
+Topic: 6
+Word: gabinet  - Frequency: 1
+Word: turc  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: envi  - Frequency: 2
+Word: parlament  - Frequency: 1
+Word: moçã  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: intervençã  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: conflitu  - Frequency: 1
+Word: país  - Frequency: 1
+Word: vizinh  - Frequency: 1
+Word: med  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: aprov  - Frequency: 1
+Word: já  - Frequency: 1
+Word: akp  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: princip  - Frequency: 1
+Word: part  - Frequency: 1
+Word: oposiçã  - Frequency: 1
+Word: projet  - Frequency: 1
+Word: permissã  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: combat  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: validad  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: açõ  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: necessári  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_envi
+
+Keyword: 6_envi_gabinet_turc_decid_terc_parlament_moçã_autoriz_intervençã_milit_conflitu_país_vizinh_med_dev_ser_aprov_já_akp_cont_grand_maior_congress_apoi_princip_part_oposiçã_projet_permissã_trop_iraqu_objet_combat_guerrilheir_pkk_tem_validad_ano_açõ_pod_comec_assim_exércit_consider_necessári
+
+
+------------------------------------------------------------
+Topic: 7
+Word: erdogan  - Frequency: 1
+Word: destac  - Frequency: 1
+Word: concessã  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: debat  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: amanhã  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: implic  - Frequency: 1
+Word: invasã  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: form  - Frequency: 1
+Word: imediat  - Frequency: 1
+Word: necessári  - Frequency: 2
+Word: feit  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: condiçõ  - Frequency: 1
+Word: for  - Frequency: 1
+Word: ide  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: terror  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: alvo  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: primeir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_ser_necessári
+
+Keyword: 7_ser_necessári_erdogan_destac_concessã_autoriz_debat_vot_amanhã_congress_nã_implic_invasã_iraqu_form_imediat_feit_assim_cheg_moment_condiçõ_for_ide_organiz_terror_pkk_únic_alvo_acrescent_primeir
+
+
+------------------------------------------------------------
+Topic: 8
+Word: govern  - Frequency: 1
+Word: erdogan  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: crescent  - Frequency: 1
+Word: ofens  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: também  - Frequency: 1
+Word: respond  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: vot  - Frequency: 2
+Word: comissã  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: qualif  - Frequency: 1
+Word: com  - Frequency: 1
+Word: massacr  - Frequency: 1
+Word: armêni  - Frequency: 1
+Word: impéri  - Frequency: 1
+Word: otoman  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: guerr  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: ancar  - Frequency: 1
+Word: protest  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: embaix  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: consult  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_vot
+
+Keyword: 8_vot_govern_erdogan_encontr_pressã_faz_crescent_ofens_pkk_também_respond_recent_comissã_congress_estad_unid_qualif_com_massacr_armêni_impéri_otoman_comet_durant_primeir_guerr_mundial_ancar_protest_cham_embaix_washington_consult
+
+
+------------------------------------------------------------
+Topic: 9
+Word: depo  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: turc  - Frequency: 3
+Word: ancar  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: iraquian  - Frequency: 2
+Word: hashim  - Frequency: 2
+Word: express  - Frequency: 1
+Word: esperanc  - Frequency: 1
+Word: convenc  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: trat  - Frequency: 1
+Word: problem  - Frequency: 2
+Word: pkk  - Frequency: 2
+Word: conjunt  - Frequency: 2
+Word: mei  - Frequency: 1
+Word: diálog  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: chanc  - Frequency: 1
+Word: diplomac  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: tã  - Frequency: 1
+Word: crític  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: líd  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: reiter  - Frequency: 1
+Word: bagd  - Frequency: 1
+Word: consid  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: terror  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: resolv  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: soluçã  - Frequency: 1
+Word: trar  - Frequency: 1
+Word: benefíci  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_turc
+
+Keyword: 9_turc_govern_iraquian_hashim_problem_pkk_conjunt_diss
+
+Keyword: 9_turc_govern_iraquian_hashim_problem_pkk_conjunt_diss_depo_reun_hoj_ancar_vic_express_esperanc_convenc_autor_trat_mei_diálog_objet_principal_dar_chanc_diplomac_situaçã_tã_crític_líd_imprens_reiter_bagd_consid_organiz_terror_pod_resolv_acord_acrescent_possível_soluçã_trar_benefíci_dois_país
+
+
+------------------------------------------------------------
+Topic: 10
+Word: bagd  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: iraquian  - Frequency: 2
+Word: nour  - Frequency: 1
+Word: al  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: carát  - Frequency: 1
+Word: urgênc  - Frequency: 1
+Word: gabinet  - Frequency: 1
+Word: cris  - Frequency: 2
+Word: abord  - Frequency: 1
+Word: tens  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: turqu  - Frequency: 2
+Word: govern  - Frequency: 1
+Word: está  - Frequency: 1
+Word: interess  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: além  - Frequency: 1
+Word: desej  - Frequency: 1
+Word: estabil  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: vizinh  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: malik  - Frequency: 1
+Word: comunic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_iraquian_cris_turqu
+
+Keyword: 10_iraquian_cris_turqu_bagd_primeir_nour_al_reun_carát_urgênc_gabinet_abord_tens_situaçã_fronteir_govern_está_interess_acab_além_desej_estabil_seguranc_estad_vizinh_declar_malik_comunic
+
+
+------------------------------------------------------------
+Topic: 11
+Word: trez  - Frequency: 1
+Word: sold  - Frequency: 2
+Word: turc  - Frequency: 1
+Word: morr  - Frequency: 2
+Word: há  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: embosc  - Frequency: 1
+Word: pkk  - Frequency: 2
+Word: sud  - Frequency: 2
+Word: turqu  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: rebeld  - Frequency: 1
+Word: curd  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: ancar  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: pis  - Frequency: 1
+Word: min  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: provínc  - Frequency: 1
+Word: bingol  - Frequency: 1
+Word: também  - Frequency: 1
+Word: país  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: iraqu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_sold_morr_pkk_sud
+
+Keyword: 11_sold_morr_pkk_sud_trez_turc_há_dez_dias_embosc_turqu_consider_grav_ataqu_rebeld_curd_exércit_ancar_12_anos_pis_min_coloc_supost_pel_provínc_bingol_também_país_pert_fronteir_iraqu
+
+
+------------------------------------------------------------
+Topic: 12
+Word: turqu  - Frequency: 2
+Word: intensific  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: iraqu  - Frequency: 2
+Word: atu  - Frequency: 1
+Word: rebeld  - Frequency: 1
+Word: part  - Frequency: 3
+Word: trabalh  - Frequency: 1
+Word: curdistã  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: iraquian  - Frequency: 1
+Word: tariq  - Frequency: 1
+Word: al  - Frequency: 1
+Word: trat  - Frequency: 1
+Word: acalm  - Frequency: 1
+Word: ânim  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: ataqu  - Frequency: 2
+Word: milit  - Frequency: 1
+Word: visit  - Frequency: 1
+Word: ancar  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: turc  - Frequency: 3
+Word: islamit  - Frequency: 1
+Word: recep  - Frequency: 1
+Word: tayyip  - Frequency: 1
+Word: erdogan  - Frequency: 2
+Word: express  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: desenvolv  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: paciênc  - Frequency: 1
+Word: pov  - Frequency: 1
+Word: esgot  - Frequency: 1
+Word: boa  - Frequency: 1
+Word: vontad  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: produz  - Frequency: 1
+Word: result  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: bagd  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: suficient  - Frequency: 1
+Word: fre  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: com  - Frequency: 1
+Word: central  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: nort  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_part_turc
+
+Keyword: 12_part_turc_turqu_iraqu_ataqu_erdogan_govern_nã
+
+Keyword: 12_part_turc_turqu_iraqu_ataqu_erdogan_govern_nã_intensific_quart_pressã_atu_rebeld_trabalh_curdistã_vic_iraquian_tariq_al_trat_acalm_ânim_evit_milit_visit_ancar_primeir_islamit_recep_tayyip_express_congress_justic_desenvolv_paciênc_pov_esgot_boa_vontad_produz_result_agor_diss_acus_washington_bagd_ter_feit_suficient_fre_exércit_pkk_com_central_encontr_nort
+
+
+------------------------------------------------------------
+Topic: 13
+Word: gabinet  - Frequency: 1
+Word: turc  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: envi  - Frequency: 2
+Word: parlament  - Frequency: 1
+Word: moçã  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: intervençã  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: conflitu  - Frequency: 1
+Word: país  - Frequency: 1
+Word: vizinh  - Frequency: 1
+Word: med  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: aprov  - Frequency: 1
+Word: já  - Frequency: 1
+Word: akp  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: princip  - Frequency: 1
+Word: part  - Frequency: 1
+Word: oposiçã  - Frequency: 1
+Word: projet  - Frequency: 1
+Word: permissã  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: combat  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: validad  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: açõ  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: necessári  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_envi
+
+Keyword: 13_envi_gabinet_turc_decid_terc_parlament_moçã_autoriz_intervençã_milit_conflitu_país_vizinh_med_dev_ser_aprov_já_akp_cont_grand_maior_congress_apoi_princip_part_oposiçã_projet_permissã_trop_iraqu_objet_combat_guerrilheir_pkk_tem_validad_ano_açõ_pod_comec_assim_exércit_consider_necessári
+
+
+------------------------------------------------------------
+Topic: 14
+Word: erdogan  - Frequency: 1
+Word: destac  - Frequency: 1
+Word: concessã  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: debat  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: amanhã  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: implic  - Frequency: 1
+Word: invasã  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: form  - Frequency: 1
+Word: imediat  - Frequency: 1
+Word: necessári  - Frequency: 2
+Word: feit  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: condiçõ  - Frequency: 1
+Word: for  - Frequency: 1
+Word: ide  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: terror  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: alvo  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: primeir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_ser_necessári
+
+Keyword: 14_ser_necessári_erdogan_destac_concessã_autoriz_debat_vot_amanhã_congress_nã_implic_invasã_iraqu_form_imediat_feit_assim_cheg_moment_condiçõ_for_ide_organiz_terror_pkk_únic_alvo_acrescent_primeir
+
+
+------------------------------------------------------------
+Topic: 15
+Word: govern  - Frequency: 1
+Word: erdogan  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: crescent  - Frequency: 1
+Word: ofens  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: também  - Frequency: 1
+Word: respond  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: comissã  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: qualif  - Frequency: 1
+Word: com  - Frequency: 1
+Word: massacr  - Frequency: 1
+Word: armêni  - Frequency: 1
+Word: impéri  - Frequency: 1
+Word: otoman  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: guerr  - Frequency: 1
+Word: mundial  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_govern_erdogan_encontr_pressã_faz_crescent_ofens_pkk_também_respond_recent_vot_comissã_congress_estad_unid_qualif_com_massacr_armêni_impéri_otoman_comet_durant_primeir_guerr_mundial
+
+
+------------------------------------------------------------
+Topic: 16
+Word: ancar  - Frequency: 1
+Word: protest  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: embaix  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: consult  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_ancar_protest_vot_cham_embaix_washington_consult
+
+Keyword: 16_ancar_protest_vot_cham_embaix_washington_consult
+
+
+------------------------------------------------------------
+Topic: 17
+Word: depo  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: turc  - Frequency: 3
+Word: ancar  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: iraquian  - Frequency: 2
+Word: hashim  - Frequency: 2
+Word: express  - Frequency: 1
+Word: esperanc  - Frequency: 1
+Word: convenc  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: trat  - Frequency: 1
+Word: problem  - Frequency: 2
+Word: pkk  - Frequency: 2
+Word: conjunt  - Frequency: 2
+Word: mei  - Frequency: 1
+Word: diálog  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: chanc  - Frequency: 1
+Word: diplomac  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: tã  - Frequency: 1
+Word: crític  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: líd  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: reiter  - Frequency: 1
+Word: bagd  - Frequency: 1
+Word: consid  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: terror  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: resolv  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: soluçã  - Frequency: 1
+Word: trar  - Frequency: 1
+Word: benefíci  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_turc
+
+Keyword: 17_turc_govern_iraquian_hashim_problem_pkk_conjunt_diss
+
+Keyword: 17_turc_govern_iraquian_hashim_problem_pkk_conjunt_diss_depo_reun_hoj_ancar_vic_express_esperanc_convenc_autor_trat_mei_diálog_objet_principal_dar_chanc_diplomac_situaçã_tã_crític_líd_imprens_reiter_bagd_consid_organiz_terror_pod_resolv_acord_acrescent_possível_soluçã_trar_benefíci_dois_país
+
+
+------------------------------------------------------------
+Topic: 18
+Word: bagd  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: iraquian  - Frequency: 2
+Word: nour  - Frequency: 1
+Word: al  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: carát  - Frequency: 1
+Word: urgênc  - Frequency: 1
+Word: gabinet  - Frequency: 1
+Word: cris  - Frequency: 2
+Word: abord  - Frequency: 1
+Word: tens  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: turqu  - Frequency: 2
+Word: govern  - Frequency: 1
+Word: está  - Frequency: 1
+Word: interess  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: além  - Frequency: 1
+Word: desej  - Frequency: 1
+Word: estabil  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: vizinh  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: malik  - Frequency: 1
+Word: comunic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 18_iraquian_cris_turqu
+
+Keyword: 18_iraquian_cris_turqu_bagd_primeir_nour_al_reun_carát_urgênc_gabinet_abord_tens_situaçã_fronteir_govern_está_interess_acab_além_desej_estabil_seguranc_estad_vizinh_declar_malik_comunic
+
+
+------------------------------------------------------------
+Topic: 19
+Word: trez  - Frequency: 1
+Word: sold  - Frequency: 2
+Word: turc  - Frequency: 1
+Word: morr  - Frequency: 2
+Word: há  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: embosc  - Frequency: 1
+Word: pkk  - Frequency: 2
+Word: sud  - Frequency: 2
+Word: turqu  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: rebeld  - Frequency: 1
+Word: curd  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: ancar  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: pis  - Frequency: 1
+Word: min  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: provínc  - Frequency: 1
+Word: bingol  - Frequency: 1
+Word: também  - Frequency: 1
+Word: país  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: iraqu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 19_sold_morr_pkk_sud
+
+Keyword: 19_sold_morr_pkk_sud_trez_turc_há_dez_dias_embosc_turqu_consider_grav_ataqu_rebeld_curd_exércit_ancar_12_anos_pis_min_coloc_supost_pel_provínc_bingol_também_país_pert_fronteir_iraqu
+
+NUM: 64
+
+
+NUM: 46
+
+
+NUM: 47
+
+
+NUM: 13
+
+
+NUM: 22
+
+
+NUM: 38
+
+
+NUM: 45
+
+
+NUM: 30
+
+
+NUM: 33
+
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 32
+
+
+NUM: 56
+
+
+NUM: 45
+
+
+NUM: 30
+
+
+NUM: 27
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 32
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 64
+
+
+NUM: 46
+
+
+NUM: 47
+
+
+NUM: 13
+
+
+NUM: 22
+
+
+NUM: 38
+
+
+NUM: 45
+
+
+NUM: 30
+
+
+NUM: 33
+
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 32
+
+
+NUM: 56
+
+
+NUM: 45
+
+
+NUM: 30
+
+
+NUM: 27
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 32
+
+
+---------------BEFORE!-------------
+
+VEC: 0_turqu_nort_iraqu_separat_curd_refugi_parlament_aprov_ampla_maior_vot_19_quart_ped_govern_permit_trop_país_cruz_fronteir_fim_combat_rebeld_regiã_montanh_med_fez_prec_petról_dispar_cenári_internacional_petrobr_garant_nã_interfer_merc_combustív_brasileir_antes_congress_dar_sinal_verd_oper_milit_primeir_islamit_recep_tayyip_erdogan_diss_paciênc_pov_turc_esgot_açõ_guerrilheir_part_trabalh_curdistã_com_pkk_estã
+VEC: 1_incursã_milit_eua_turc_regiã_possibil_turqu_membr_otan_reún_26_país_grã_franc_alemanh_iraqu_está_deix_cas_branc_estad_alert_president_georg_w_bush_ped_quart_exércit_busqu_soluçã_diplomát_questã_washington_tem_poss_desestabiliz_pacíf_iraquian_provavel_orient_médi_lev_irã_arquiinimig_interv
+VEC: 2_comissã_europ_turqu_vez_exort_respeit_integr_territóri_iraquian_crucial_continu_atac_problem_pel_cooper_autor_relev_declar_krisztin_nagy_port_erdogan_deu_ombros_às_preocup_ali_otan_import_parlament_diz_premi_está_fort_pressã_intern_caus_séri_ataqu_comet_guerrilheir_curd_usam_nort_iraqu_com_bas
+VEC: 3_istambul_maior_cidad_turc_professor_estud_realiz_grand_manifest_terror_polít_extern_eua
+VEC: 4_turqu_intensific_quart_pressã_iraqu_atu_rebeld_part_trabalh_curdistã_vic_iraquian_tariq_al_trat_acalm_ânim_evit_ataqu_milit_visit_ancar
+VEC: 5_turc_erdogan_part_govern_nã_primeir_islamit_recep_tayyip_express_congress_justic_desenvolv_paciênc_pov_esgot_boa_vontad_turqu_produz_result_agor_diss_acus_washington_bagd_ter_feit_suficient_fre_ataqu_exércit_pkk_com_central_encontr_nort_iraqu
+VEC: 6_envi_gabinet_turc_decid_terc_parlament_moçã_autoriz_intervençã_milit_conflitu_país_vizinh_med_dev_ser_aprov_já_akp_cont_grand_maior_congress_apoi_princip_part_oposiçã_projet_permissã_trop_iraqu_objet_combat_guerrilheir_pkk_tem_validad_ano_açõ_pod_comec_assim_exércit_consider_necessári
+VEC: 7_ser_necessári_erdogan_destac_concessã_autoriz_debat_vot_amanhã_congress_nã_implic_invasã_iraqu_form_imediat_feit_assim_cheg_moment_condiçõ_for_ide_organiz_terror_pkk_únic_alvo_acrescent_primeir
+VEC: 8_vot_govern_erdogan_encontr_pressã_faz_crescent_ofens_pkk_também_respond_recent_comissã_congress_estad_unid_qualif_com_massacr_armêni_impéri_otoman_comet_durant_primeir_guerr_mundial_ancar_protest_cham_embaix_washington_consult
+VEC: 9_turc_govern_iraquian_hashim_problem_pkk_conjunt_diss_depo_reun_hoj_ancar_vic_express_esperanc_convenc_autor_trat_mei_diálog_objet_principal_dar_chanc_diplomac_situaçã_tã_crític_líd_imprens_reiter_bagd_consid_organiz_terror_pod_resolv_acord_acrescent_possível_soluçã_trar_benefíci_dois_país
+VEC: 10_iraquian_cris_turqu_bagd_primeir_nour_al_reun_carát_urgênc_gabinet_abord_tens_situaçã_fronteir_govern_está_interess_acab_além_desej_estabil_seguranc_estad_vizinh_declar_malik_comunic
+VEC: 11_sold_morr_pkk_sud_trez_turc_há_dez_dias_embosc_turqu_consider_grav_ataqu_rebeld_curd_exércit_ancar_12_anos_pis_min_coloc_supost_pel_provínc_bingol_também_país_pert_fronteir_iraqu
+VEC: 12_part_turc_turqu_iraqu_ataqu_erdogan_govern_nã_intensific_quart_pressã_atu_rebeld_trabalh_curdistã_vic_iraquian_tariq_al_trat_acalm_ânim_evit_milit_visit_ancar_primeir_islamit_recep_tayyip_express_congress_justic_desenvolv_paciênc_pov_esgot_boa_vontad_produz_result_agor_diss_acus_washington_bagd_ter_feit_suficient_fre_exércit_pkk_com_central_encontr_nort
+VEC: 13_envi_gabinet_turc_decid_terc_parlament_moçã_autoriz_intervençã_milit_conflitu_país_vizinh_med_dev_ser_aprov_já_akp_cont_grand_maior_congress_apoi_princip_part_oposiçã_projet_permissã_trop_iraqu_objet_combat_guerrilheir_pkk_tem_validad_ano_açõ_pod_comec_assim_exércit_consider_necessári
+VEC: 14_ser_necessári_erdogan_destac_concessã_autoriz_debat_vot_amanhã_congress_nã_implic_invasã_iraqu_form_imediat_feit_assim_cheg_moment_condiçõ_for_ide_organiz_terror_pkk_únic_alvo_acrescent_primeir
+VEC: 15_govern_erdogan_encontr_pressã_faz_crescent_ofens_pkk_também_respond_recent_vot_comissã_congress_estad_unid_qualif_com_massacr_armêni_impéri_otoman_comet_durant_primeir_guerr_mundial
+VEC: 16_ancar_protest_vot_cham_embaix_washington_consult
+VEC: 17_turc_govern_iraquian_hashim_problem_pkk_conjunt_diss_depo_reun_hoj_ancar_vic_express_esperanc_convenc_autor_trat_mei_diálog_objet_principal_dar_chanc_diplomac_situaçã_tã_crític_líd_imprens_reiter_bagd_consid_organiz_terror_pod_resolv_acord_acrescent_possível_soluçã_trar_benefíci_dois_país
+VEC: 18_iraquian_cris_turqu_bagd_primeir_nour_al_reun_carát_urgênc_gabinet_abord_tens_situaçã_fronteir_govern_está_interess_acab_além_desej_estabil_seguranc_estad_vizinh_declar_malik_comunic
+VEC: 19_sold_morr_pkk_sud_trez_turc_há_dez_dias_embosc_turqu_consider_grav_ataqu_rebeld_curd_exércit_ancar_12_anos_pis_min_coloc_supost_pel_provínc_bingol_também_país_pert_fronteir_iraqu
+
+---------------AFTER!-------------
+
+VEC: 0_turqu_nort_iraqu_separat_curd_refugi_parlament
+VEC: 1_incursã_milit_eua_turc_regiã_possibil_turqu
+VEC: 2_comissã_europ_turqu_vez_exort_respeit_integr
+VEC: 3_istambul_maior_cidad_turc_professor_estud_realiz
+VEC: 4_turqu_intensific_quart_pressã_iraqu_atu_rebeld
+VEC: 5_turc_erdogan_part_govern_nã_primeir_islamit
+VEC: 6_envi_gabinet_turc_decid_terc_parlament_moçã
+VEC: 7_ser_necessári_erdogan_destac_concessã_autoriz_debat
+VEC: 8_vot_govern_erdogan_encontr_pressã_faz_crescent
+VEC: 9_turc_govern_iraquian_hashim_problem_pkk_conjunt
+VEC: 10_iraquian_cris_turqu_bagd_primeir_nour_al
+VEC: 11_sold_morr_pkk_sud_trez_turc_há
+VEC: 12_part_turc_turqu_iraqu_ataqu_erdogan_govern
+VEC: 13_envi_gabinet_turc_decid_terc_parlament_moçã
+VEC: 14_ser_necessári_erdogan_destac_concessã_autoriz_debat
+VEC: 15_govern_erdogan_encontr_pressã_faz_crescent_ofens
+VEC: 16_ancar_protest_vot_cham_embaix_washington_consult
+VEC: 17_turc_govern_iraquian_hashim_problem_pkk_conjunt
+VEC: 18_iraquian_cris_turqu_bagd_primeir_nour_al
+VEC: 19_sold_morr_pkk_sud_trez_turc_há
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 8
+Similaridade entre eles: 1
+
+
+SIM: 1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 8
+Similaridade entre eles: 1
+
+
+SIM: 1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+SIM: 0.875
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+SIM: 0.75
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+SIM: 0.875
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+SIM: 0.875
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+TRESHOLD: 0.129323
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "18_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.375"
+
+CHANGE! -- From: 20 -> TO: 18
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "16_ancar_protest_vot_cham_embaix_washington_consult" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "13_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.25"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" is "0.25"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 8
+Similaridade entre eles: 1
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "11_sold_morr_pkk_sud_trez_turc_há" is "1"
+
+CHANGE! -- From: 20 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.25"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.125"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_sold_morr_pkk_sud_trez_turc_há" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 19
+Topic: 20
+Topic: 20
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 19 -- Topic s_aux: 11 -- Abs: 8
+
+
+Topic change from "19" to "11"
+
+Topic: 19 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 19 -- Topic s_aux: 11 -- Abs: 8
+
+
+Topic change from "19" to "11"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 19
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.25"
+
+CHANGE! -- From: 19 -> TO: 18
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "16_ancar_protest_vot_cham_embaix_washington_consult" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "13_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" is "0.25"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "11_sold_morr_pkk_sud_trez_turc_há" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 8
+Similaridade entre eles: 1
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "1"
+
+CHANGE! -- From: 19 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.125"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0.125"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_iraquian_cris_turqu_bagd_primeir_nour_al" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 19
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 18 -- Topic s_aux: 10 -- Abs: 8
+
+
+Topic change from "18" to "10"
+
+Topic: 18 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 18 -- Topic s_aux: 10 -- Abs: 8
+
+
+Topic change from "18" to "10"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "16_ancar_protest_vot_cham_embaix_washington_consult" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" is "0.25"
+
+CHANGE! -- From: 18 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "13_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.25"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" is "0.375"
+
+CHANGE! -- From: 18 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "11_sold_morr_pkk_sud_trez_turc_há" is "0.375"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.25"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.875"
+
+CHANGE! -- From: 18 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0.125"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.25"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.125"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 9 -- Abs: 8
+
+
+Topic change from "17" to "9"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 9 -- Abs: 8
+
+
+Topic change from "17" to "9"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 9 -- Abs: 8
+
+
+Topic change from "17" to "9"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "13_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "11_sold_morr_pkk_sud_trez_turc_há" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0.125"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_ancar_protest_vot_cham_embaix_washington_consult" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.25"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "13_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" is "0.375"
+
+CHANGE! -- From: 16 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "11_sold_morr_pkk_sud_trez_turc_há" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.125"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0.75"
+
+CHANGE! -- From: 16 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.125"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.25"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0.125"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_govern_erdogan_encontr_pressã_faz_crescent_ofens" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 15 -- Topic s_aux: 8 -- Abs: 7
+
+
+Topic change from "15" to "8"
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "13_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" is "0.25"
+
+CHANGE! -- From: 15 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "11_sold_morr_pkk_sud_trez_turc_há" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0.125"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.875"
+
+CHANGE! -- From: 15 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 7 -- Abs: 7
+
+
+Topic change from "14" to "7"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 7 -- Abs: 7
+
+
+Topic change from "14" to "7"
+
+Topic: 8 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" is "0.25"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "11_sold_morr_pkk_sud_trez_turc_há" is "0.25"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.125"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.875"
+
+CHANGE! -- From: 14 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.125"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_envi_gabinet_turc_decid_terc_parlament_moçã" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "11_sold_morr_pkk_sud_trez_turc_há" is "0.25"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.25"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.25"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0.25"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.125"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.5"
+
+CHANGE! -- From: 13 -> TO: 6
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0.25"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.125"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.25"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "12_part_turc_turqu_iraqu_ataqu_erdogan_govern" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "10_iraquian_cris_turqu_bagd_primeir_nour_al" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.25"
+
+CHANGE! -- From: 12 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.125"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.125"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_sold_morr_pkk_sud_trez_turc_há" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" is "0.125"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0.125"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_iraquian_cris_turqu_bagd_primeir_nour_al" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "8_vot_govern_erdogan_encontr_pressã_faz_crescent" is "0.142857"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0.142857"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.285714"
+
+CHANGE! -- From: 10 -> TO: 6
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.142857"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.142857"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_turc_govern_iraquian_hashim_problem_pkk_conjunt" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 10
+Topic: 10
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" is "0.142857"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.285714"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0.142857"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_vot_govern_erdogan_encontr_pressã_faz_crescent" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 16 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "6_envi_gabinet_turc_decid_terc_parlament_moçã" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.142857"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ser_necessári_erdogan_destac_concessã_autoriz_debat" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 5 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_envi_gabinet_turc_decid_terc_parlament_moçã" and "5_turc_erdogan_part_govern_nã_primeir_islamit" is "0.142857"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_envi_gabinet_turc_decid_terc_parlament_moçã" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_envi_gabinet_turc_decid_terc_parlament_moçã" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.142857"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_envi_gabinet_turc_decid_terc_parlament_moçã" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_envi_gabinet_turc_decid_terc_parlament_moçã" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.142857"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_envi_gabinet_turc_decid_terc_parlament_moçã" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_turc_erdogan_part_govern_nã_primeir_islamit" and "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "5_turc_erdogan_part_govern_nã_primeir_islamit" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0.142857"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_turc_erdogan_part_govern_nã_primeir_islamit" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "5_turc_erdogan_part_govern_nã_primeir_islamit" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.142857"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_turc_erdogan_part_govern_nã_primeir_islamit" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 16 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 17
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" and "3_istambul_maior_cidad_turc_professor_estud_realiz" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0.142857"
+
+CHANGE! -- From: 5 -> TO: 3
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.142857"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "4_turqu_intensific_quart_pressã_iraqu_atu_rebeld" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.285714"
+
+CHANGE! -- From: 5 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 17
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 17
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_istambul_maior_cidad_turc_professor_estud_realiz" and "2_comissã_europ_turqu_vez_exort_respeit_integr" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "3_istambul_maior_cidad_turc_professor_estud_realiz" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.142857"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_istambul_maior_cidad_turc_professor_estud_realiz" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 17
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 16 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 17
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "2_comissã_europ_turqu_vez_exort_respeit_integr" and "1_incursã_milit_eua_turc_regiã_possibil_turqu" is "0.142857"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "2_comissã_europ_turqu_vez_exort_respeit_integr" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 17
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 17
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "1_incursã_milit_eua_turc_regiã_possibil_turqu" and "0_turqu_nort_iraqu_separat_curd_refugi_parlament" is "0.142857"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 17
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 17
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+NUM_TOPICS: 15
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: parlament  - Frequency: 1
+Word: turqu  - Frequency: 3
+Word: aprov  - Frequency: 1
+Word: ampla  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: 19  - Frequency: 1
+Word: quart  - Frequency: 2
+Word: ped  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: país  - Frequency: 1
+Word: cruz  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: iraqu  - Frequency: 3
+Word: fim  - Frequency: 1
+Word: combat  - Frequency: 1
+Word: rebeld  - Frequency: 2
+Word: separat  - Frequency: 2
+Word: curd  - Frequency: 2
+Word: refugi  - Frequency: 2
+Word: regiã  - Frequency: 1
+Word: montanh  - Frequency: 1
+Word: med  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: prec  - Frequency: 1
+Word: petról  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: cenári  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: petrobr  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: interfer  - Frequency: 1
+Word: merc  - Frequency: 1
+Word: combustív  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: congress  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: sinal  - Frequency: 1
+Word: verd  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: milit  - Frequency: 2
+Word: primeir  - Frequency: 1
+Word: islamit  - Frequency: 1
+Word: recep  - Frequency: 1
+Word: tayyip  - Frequency: 1
+Word: erdogan  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: paciênc  - Frequency: 1
+Word: pov  - Frequency: 1
+Word: turc  - Frequency: 1
+Word: esgot  - Frequency: 1
+Word: açõ  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: part  - Frequency: 2
+Word: trabalh  - Frequency: 2
+Word: curdistã  - Frequency: 2
+Word: com  - Frequency: 1
+Word: pkk  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: intensific  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: atu  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: iraquian  - Frequency: 1
+Word: tariq  - Frequency: 1
+Word: al  - Frequency: 1
+Word: trat  - Frequency: 1
+Word: acalm  - Frequency: 1
+Word: ânim  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: visit  - Frequency: 1
+Word: ancar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_turqu_iraqu
+
+Keyword: 0_turqu_iraqu_quart_nort_rebeld_separat_curd_refugi_milit_part_trabalh_curdistã
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: possibil  - Frequency: 1
+Word: incursã  - Frequency: 2
+Word: milit  - Frequency: 3
+Word: turqu  - Frequency: 6
+Word: membr  - Frequency: 1
+Word: otan  - Frequency: 1
+Word: reún  - Frequency: 1
+Word: 26  - Frequency: 1
+Word: país  - Frequency: 5
+Word: eua  - Frequency: 3
+Word: grã  - Frequency: 1
+Word: franc  - Frequency: 1
+Word: alemanh  - Frequency: 1
+Word: iraqu  - Frequency: 8
+Word: está  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: estad  - Frequency: 3
+Word: alert  - Frequency: 1
+Word: president  - Frequency: 1
+Word: georg  - Frequency: 1
+Word: w  - Frequency: 1
+Word: bush  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: quart  - Frequency: 2
+Word: exércit  - Frequency: 5
+Word: turc  - Frequency: 17
+Word: busqu  - Frequency: 1
+Word: soluçã  - Frequency: 3
+Word: diplomát  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: washington  - Frequency: 4
+Word: tem  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: desestabiliz  - Frequency: 1
+Word: pacíf  - Frequency: 1
+Word: regiã  - Frequency: 2
+Word: iraquian  - Frequency: 6
+Word: provavel  - Frequency: 1
+Word: orient  - Frequency: 1
+Word: médi  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: irã  - Frequency: 1
+Word: arquiinimig  - Frequency: 1
+Word: interv  - Frequency: 1
+Word: istambul  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: professor  - Frequency: 1
+Word: estud  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: manifest  - Frequency: 1
+Word: terror  - Frequency: 5
+Word: polít  - Frequency: 1
+Word: extern  - Frequency: 1
+Word: primeir  - Frequency: 6
+Word: islamit  - Frequency: 2
+Word: recep  - Frequency: 2
+Word: tayyip  - Frequency: 2
+Word: erdogan  - Frequency: 8
+Word: express  - Frequency: 4
+Word: congress  - Frequency: 6
+Word: part  - Frequency: 5
+Word: justic  - Frequency: 2
+Word: desenvolv  - Frequency: 2
+Word: govern  - Frequency: 10
+Word: paciênc  - Frequency: 2
+Word: pov  - Frequency: 2
+Word: esgot  - Frequency: 2
+Word: boa  - Frequency: 2
+Word: vontad  - Frequency: 2
+Word: nã  - Frequency: 6
+Word: produz  - Frequency: 2
+Word: result  - Frequency: 2
+Word: agor  - Frequency: 2
+Word: diss  - Frequency: 6
+Word: acus  - Frequency: 2
+Word: bagd  - Frequency: 4
+Word: ter  - Frequency: 2
+Word: feit  - Frequency: 4
+Word: suficient  - Frequency: 2
+Word: fre  - Frequency: 2
+Word: ataqu  - Frequency: 5
+Word: pkk  - Frequency: 14
+Word: com  - Frequency: 4
+Word: central  - Frequency: 2
+Word: encontr  - Frequency: 4
+Word: nort  - Frequency: 2
+Word: destac  - Frequency: 2
+Word: concessã  - Frequency: 2
+Word: autoriz  - Frequency: 2
+Word: ser  - Frequency: 4
+Word: debat  - Frequency: 2
+Word: vot  - Frequency: 5
+Word: amanhã  - Frequency: 2
+Word: implic  - Frequency: 2
+Word: invasã  - Frequency: 2
+Word: form  - Frequency: 2
+Word: imediat  - Frequency: 2
+Word: necessári  - Frequency: 4
+Word: assim  - Frequency: 2
+Word: cheg  - Frequency: 2
+Word: moment  - Frequency: 2
+Word: condiçõ  - Frequency: 2
+Word: for  - Frequency: 2
+Word: ide  - Frequency: 2
+Word: organiz  - Frequency: 4
+Word: únic  - Frequency: 2
+Word: alvo  - Frequency: 2
+Word: acrescent  - Frequency: 4
+Word: pressã  - Frequency: 3
+Word: faz  - Frequency: 2
+Word: crescent  - Frequency: 2
+Word: ofens  - Frequency: 2
+Word: também  - Frequency: 4
+Word: respond  - Frequency: 2
+Word: recent  - Frequency: 2
+Word: comissã  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: qualif  - Frequency: 2
+Word: massacr  - Frequency: 2
+Word: armêni  - Frequency: 2
+Word: impéri  - Frequency: 2
+Word: otoman  - Frequency: 2
+Word: comet  - Frequency: 2
+Word: durant  - Frequency: 2
+Word: guerr  - Frequency: 2
+Word: mundial  - Frequency: 2
+Word: ancar  - Frequency: 6
+Word: protest  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: embaix  - Frequency: 1
+Word: consult  - Frequency: 1
+Word: depo  - Frequency: 2
+Word: reun  - Frequency: 2
+Word: hoj  - Frequency: 2
+Word: vic  - Frequency: 3
+Word: hashim  - Frequency: 4
+Word: esperanc  - Frequency: 2
+Word: convenc  - Frequency: 2
+Word: autor  - Frequency: 2
+Word: trat  - Frequency: 3
+Word: problem  - Frequency: 4
+Word: conjunt  - Frequency: 4
+Word: mei  - Frequency: 2
+Word: diálog  - Frequency: 2
+Word: objet  - Frequency: 2
+Word: principal  - Frequency: 2
+Word: dar  - Frequency: 2
+Word: chanc  - Frequency: 2
+Word: diplomac  - Frequency: 2
+Word: situaçã  - Frequency: 2
+Word: tã  - Frequency: 2
+Word: crític  - Frequency: 2
+Word: líd  - Frequency: 2
+Word: imprens  - Frequency: 2
+Word: reiter  - Frequency: 2
+Word: consid  - Frequency: 2
+Word: pod  - Frequency: 2
+Word: resolv  - Frequency: 2
+Word: acord  - Frequency: 2
+Word: possível  - Frequency: 2
+Word: trar  - Frequency: 2
+Word: benefíci  - Frequency: 2
+Word: dois  - Frequency: 2
+Word: trez  - Frequency: 2
+Word: sold  - Frequency: 4
+Word: morr  - Frequency: 4
+Word: há  - Frequency: 2
+Word: dez  - Frequency: 2
+Word: dias  - Frequency: 2
+Word: embosc  - Frequency: 2
+Word: sud  - Frequency: 4
+Word: consider  - Frequency: 2
+Word: grav  - Frequency: 2
+Word: rebeld  - Frequency: 3
+Word: curd  - Frequency: 2
+Word: 12  - Frequency: 2
+Word: anos  - Frequency: 2
+Word: pis  - Frequency: 2
+Word: min  - Frequency: 2
+Word: coloc  - Frequency: 2
+Word: supost  - Frequency: 2
+Word: pel  - Frequency: 2
+Word: provínc  - Frequency: 2
+Word: bingol  - Frequency: 2
+Word: pert  - Frequency: 2
+Word: fronteir  - Frequency: 2
+Word: intensific  - Frequency: 1
+Word: atu  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: curdistã  - Frequency: 1
+Word: tariq  - Frequency: 1
+Word: al  - Frequency: 1
+Word: acalm  - Frequency: 1
+Word: ânim  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: visit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_turc
+
+Keyword: 1_turc
+
+Keyword: 1_turc
+
+Keyword: 1_turc_pkk
+
+Keyword: 1_turc_pkk
+
+Keyword: 1_turc_pkk
+
+Keyword: 1_turc_pkk
+
+Keyword: 1_turc_pkk_govern
+
+Keyword: 1_turc_pkk_govern
+
+Keyword: 1_turc_pkk_govern_iraqu_erdogan
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: comissã  - Frequency: 2
+Word: europ  - Frequency: 2
+Word: vez  - Frequency: 1
+Word: exort  - Frequency: 1
+Word: turqu  - Frequency: 2
+Word: respeit  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: iraquian  - Frequency: 1
+Word: crucial  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: atac  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: cooper  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: relev  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: krisztin  - Frequency: 1
+Word: nagy  - Frequency: 1
+Word: port  - Frequency: 1
+Word: erdogan  - Frequency: 1
+Word: deu  - Frequency: 1
+Word: ombros  - Frequency: 1
+Word: às  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: ali  - Frequency: 1
+Word: otan  - Frequency: 1
+Word: import  - Frequency: 1
+Word: parlament  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: premi  - Frequency: 1
+Word: está  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: curd  - Frequency: 1
+Word: usam  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: iraqu  - Frequency: 1
+Word: com  - Frequency: 1
+Word: bas  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_comissã_europ_turqu
+
+Keyword: 2_comissã_europ_turqu_vez_exort_respeit_integr_territóri_iraquian_crucial_continu_atac_problem_pel_cooper_autor_relev_declar_krisztin_nagy_port_erdogan_deu_ombros_às_preocup_ali_otan_import_parlament_diz_premi_está_fort_pressã_intern_caus_séri_ataqu_comet_guerrilheir_curd_usam_nort_iraqu_com_bas
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: gabinet  - Frequency: 2
+Word: turc  - Frequency: 2
+Word: decid  - Frequency: 2
+Word: terc  - Frequency: 2
+Word: envi  - Frequency: 4
+Word: parlament  - Frequency: 2
+Word: moçã  - Frequency: 2
+Word: autoriz  - Frequency: 2
+Word: intervençã  - Frequency: 2
+Word: milit  - Frequency: 2
+Word: conflitu  - Frequency: 2
+Word: país  - Frequency: 2
+Word: vizinh  - Frequency: 2
+Word: med  - Frequency: 2
+Word: dev  - Frequency: 2
+Word: ser  - Frequency: 2
+Word: aprov  - Frequency: 2
+Word: já  - Frequency: 2
+Word: akp  - Frequency: 2
+Word: cont  - Frequency: 2
+Word: grand  - Frequency: 2
+Word: maior  - Frequency: 2
+Word: congress  - Frequency: 2
+Word: apoi  - Frequency: 2
+Word: princip  - Frequency: 2
+Word: part  - Frequency: 2
+Word: oposiçã  - Frequency: 2
+Word: projet  - Frequency: 2
+Word: permissã  - Frequency: 2
+Word: trop  - Frequency: 2
+Word: iraqu  - Frequency: 2
+Word: objet  - Frequency: 2
+Word: combat  - Frequency: 2
+Word: guerrilheir  - Frequency: 2
+Word: pkk  - Frequency: 2
+Word: tem  - Frequency: 2
+Word: validad  - Frequency: 2
+Word: ano  - Frequency: 2
+Word: açõ  - Frequency: 2
+Word: pod  - Frequency: 2
+Word: comec  - Frequency: 2
+Word: assim  - Frequency: 2
+Word: exércit  - Frequency: 2
+Word: consider  - Frequency: 2
+Word: necessári  - Frequency: 2
+
+
+------------------------------------------------------------
+
+Keyword: 6_envi
+
+Keyword: 6_envi
+
+Keyword: 6_envi_gabinet_turc_decid_terc_parlament_moçã_autoriz_intervençã_milit_conflitu_país_vizinh_med_dev_ser_aprov_já_akp_cont_grand_maior_congress_apoi_princip_part_oposiçã_projet_permissã_trop_iraqu_objet_combat_guerrilheir_pkk_tem_validad_ano_açõ_pod_comec_assim_exércit_consider_necessári
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: bagd  - Frequency: 2
+Word: primeir  - Frequency: 2
+Word: iraquian  - Frequency: 4
+Word: nour  - Frequency: 2
+Word: al  - Frequency: 2
+Word: reun  - Frequency: 2
+Word: carát  - Frequency: 2
+Word: urgênc  - Frequency: 2
+Word: gabinet  - Frequency: 2
+Word: cris  - Frequency: 4
+Word: abord  - Frequency: 2
+Word: tens  - Frequency: 2
+Word: situaçã  - Frequency: 2
+Word: fronteir  - Frequency: 2
+Word: turqu  - Frequency: 4
+Word: govern  - Frequency: 2
+Word: está  - Frequency: 2
+Word: interess  - Frequency: 2
+Word: acab  - Frequency: 2
+Word: além  - Frequency: 2
+Word: desej  - Frequency: 2
+Word: estabil  - Frequency: 2
+Word: seguranc  - Frequency: 2
+Word: estad  - Frequency: 2
+Word: vizinh  - Frequency: 2
+Word: declar  - Frequency: 2
+Word: malik  - Frequency: 2
+Word: comunic  - Frequency: 2
+
+
+------------------------------------------------------------
+
+Keyword: 10_iraquian_cris_turqu
+
+Keyword: 10_iraquian_cris_turqu
+
+Keyword: 10_iraquian_cris_turqu_bagd_primeir_nour_al_reun_carát_urgênc_gabinet_abord_tens_situaçã_fronteir_govern_está_interess_acab_além_desej_estabil_seguranc_estad_vizinh_declar_malik_comunic
+
+Cur_topic: 16
+
+
+
+------------------------------------------------------------
+Topic: 16
+Word: ancar  - Frequency: 1
+Word: protest  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: embaix  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: consult  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_ancar_protest_vot_cham_embaix_washington_consult
+
+Keyword: 16_ancar_protest_vot_cham_embaix_washington_consult
+
+NUM: 12
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 47
+
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 7
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 12
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 47
+
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 7
+
+
+---------------BEFORE!-------------
+
+VEC: 0_turqu_iraqu_quart_nort_rebeld_separat_curd_refugi_milit_part_trabalh_curdistã
+VEC: 1_turc_pkk_govern_iraqu_erdogan
+VEC: 2_comissã_europ_turqu_vez_exort_respeit_integr_territóri_iraquian_crucial_continu_atac_problem_pel_cooper_autor_relev_declar_krisztin_nagy_port_erdogan_deu_ombros_às_preocup_ali_otan_import_parlament_diz_premi_está_fort_pressã_intern_caus_séri_ataqu_comet_guerrilheir_curd_usam_nort_iraqu_com_bas
+VEC: 6_envi_gabinet_turc_decid_terc_parlament_moçã_autoriz_intervençã_milit_conflitu_país_vizinh_med_dev_ser_aprov_já_akp_cont_grand_maior_congress_apoi_princip_part_oposiçã_projet_permissã_trop_iraqu_objet_combat_guerrilheir_pkk_tem_validad_ano_açõ_pod_comec_assim_exércit_consider_necessári
+VEC: 10_iraquian_cris_turqu_bagd_primeir_nour_al_reun_carát_urgênc_gabinet_abord_tens_situaçã_fronteir_govern_está_interess_acab_além_desej_estabil_seguranc_estad_vizinh_declar_malik_comunic
+VEC: 16_ancar_protest_vot_cham_embaix_washington_consult
+
+---------------AFTER!-------------
+
+VEC: 0_turqu_iraqu_quart_nort_rebeld
+VEC: 1_turc_pkk_govern_iraqu_erdogan
+VEC: 2_comissã_europ_turqu_vez_exort
+VEC: 6_envi_gabinet_turc_decid_terc
+VEC: 10_iraquian_cris_turqu_bagd_primeir
+VEC: 16_ancar_protest_vot_cham_embaix
+Keyword: 0_turqu_iraqu_quart_nort_rebeld
+Keyword: 1_turc_pkk_govern_iraqu_erdogan
+Keyword: 2_comissã_europ_turqu_vez_exort
+Keyword: 6_envi_gabinet_turc_decid_terc
+Keyword: 10_iraquian_cris_turqu_bagd_primeir
+Keyword: 16_ancar_protest_vot_cham_embaix

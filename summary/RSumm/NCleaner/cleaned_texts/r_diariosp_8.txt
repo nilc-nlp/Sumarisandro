@@ -1,0 +1,23 @@
+<div class="conteudoGC">
+						
+                            <!--<div class="publicidadeNova">
+								<div id='div-gpt-ad-1358965016960-2' class="arrobaNoticias">
+									<script type='text/javascript'>
+										googletag.cmd.push(function() { googletag.display('div-gpt-ad-1358965016960-2'); });
+									</script>
+								</div>
+                            </div>-->
+							
+							<!-- ???
+                            <div class="publicidadeNova">
+                                <div class="botaoNoticias">
+                                    <script type='text/javascript'>
+                                        GA_googleFillSlot("DSP_diaadia_internas_botaonoticias_290x100");
+                                    </script>
+                                </div>
+                            </div>
+							-->
+							
+                            <div>Uma operação da Polícia Civil de Minas Gerais aponta que a quadrilha, acusada de envolvimento em fraudes de vestibulares de medicina, também é suspeita de ter fraudado as provas do Exame Nacional do Ensino Médio (Enem) 2013.</div><div><br></div><div>As investigações apontam que os criminosos agiram em Barbacena, na região central do estado, vendendo gabaritos a candidatos por preços que variavam de R$ 70 mil a R$ 100 mil.</div><div><br></div><div>Os resultados repassados seriam do caderno amarelo de questões do exame. O caso agora está sob investigação da Polícia Federal.</div><div><br></div><div>Segundo as investigações da Polícia Civil, integrantes do grupo criminoso denominados "pilotos" faziam a prova - para garantir o índice de 75% de acerto das questões - e deixavam rapidamente os locais dos exames, fornecendo o gabarito aos chefes da organização que, por sua vez, o repassavam aos candidatos, via SMS ou ponto eletrônico.</div><div><br></div><div>A operação policial, chamada Hemostase, levou ao indiciamento de 36 pessoas por envolvimento em fraudes no vestibular de medicina em faculdades particulares mineiras e fluminenses.</div><div><br></div><div>De acordo com o delegado de Caratinga, Fernando José Barbosa Lima, que presidiu o inquérito, quando constatada a possível fraude no Enem, o caso foi imediatamente repassado à Polícia Federal, que deve conduzir as investigações.</div><div><br></div><div>Em nota, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) , responsável pelo Enem, informou que "está acompanhando, juntamente com a Polícia Federal, os desdobramentos da Operação Hemostase, deflagrada no início de dezembro pela Polícia Civil de Minas Gerais.</div><div><br></div><div>Até o momento, de acordo com a Polícia Federal, não existe qualquer elemento que indique, mesmo de forma pontual, que qualquer candidato tenha sido beneficiado".</div><div><br></div><div>A autarquia acrescenta: "O Inep reforça que as investigações devem ocorrer com todo rigor necessário. Conforme prevê o edital do exame, os candidatos identificados, que tiverem utilizado aparelhos eletrônicos durante as provas, serão eliminados".</div><div><br></div><div>O Enem 2013 foi aplicado em mais de 1,1 mil cidades brasileiras. Mais de 5 milhões de candidatos fizeram o exame. A prova está sendo corrigida e a divulgação do resultado está prevista para janeiro.</div>
+
+                        </div>

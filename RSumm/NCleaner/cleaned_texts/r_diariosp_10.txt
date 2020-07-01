@@ -1,0 +1,23 @@
+<div class="conteudoGC">
+						
+                            <!--<div class="publicidadeNova">
+								<div id='div-gpt-ad-1358965016960-2' class="arrobaNoticias">
+									<script type='text/javascript'>
+										googletag.cmd.push(function() { googletag.display('div-gpt-ad-1358965016960-2'); });
+									</script>
+								</div>
+                            </div>-->
+							
+							<!-- ???
+                            <div class="publicidadeNova">
+                                <div class="botaoNoticias">
+                                    <script type='text/javascript'>
+                                        GA_googleFillSlot("DSP_diaadia_internas_botaonoticias_290x100");
+                                    </script>
+                                </div>
+                            </div>
+							-->
+							
+                            <div>A Polícia Civil de Ribeirão Preto decidiu não indiciar Natália Pontes, de 29 anos, mãe do menino Joaquim Pontes, 3, encontrado morto no Rio Pardo, em Barretos.</div><div><br></div><div>O padrasto da criança, Guilherme Raymo Longo, 28, vai ser acusado formalmente de homicídio doloso triplamente qualificado.</div><div><br></div><div>Joaquim desapareceu na madrugada do dia 5 de novembro de dentro da sua casa, em Ribeirão Preto.</div><div><br></div><div>Desde o primeiro momento a polícia considerou o casal o principal suspeito do crime. A criança foi encontrada cinco dias depois dentro da água, em Barretos.</div><div><br></div><div>De acordo com o delegado Paulo Henrique Martins de Castro, responsável pela investigação, não há provas de que Natália teve alguma participação na morte do filho.</div><div><br></div><div>Ela chegou a ficar presa temporariamente por um mês na Cadeia Pública Feminina de Franca, mas foi libertada após decisão do Tribunal de Justiça, que considerou não ter motivos para a mãe permanecer detida.</div><div><br></div><div>O Ministério Público já adiantou ontem não concordar com a tese da polícia. “Ela, no mínimo, foi omissa. Natália tinha pleno conhecimento de que o marido era usuário de drogas e sabia, portanto, dos riscos”, afirmou o promotor Marcus Tulio Alves Nicolino.</div><div><br></div><div>Na denúncia contra Guilherme, o delegado diz que “a vítima não pôde se defender e ele usou meios cruéis e motivo fútil para tirar a vida da criança”.</div>
+
+                        </div>

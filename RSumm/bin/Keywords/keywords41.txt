@@ -1,0 +1,8091 @@
+Sentenca(topic=0): Em uma disputa emocionante, o Brasil conquistou nesta sexta-feira a medalha de ouro no revezamento 4x100 metros livre, uma das provas mais charmosas da natação, ao cravar o tempo de 3min15s90 (novo recorde pan-americano e sul-americano).
+Sentenca(topic=0): Foi a 13ª medalha dourada do País nos Jogos Pan-Americanos e a 8ª conquistada pelos nadadores.
+Sentenca(topic=0): O Brasil entrou na piscina com Fernando Silva, Nicholas Santos, Eduardo Deboni e César Cielo - este último não disputou as eliminatórias (foi substituído na quinta-feira por Thiago Pereira) para ser poupado para a final, o que foi fundamental para a vitória, já que Cielo foi o mais rápido dos brasileiros.
+Sentenca(topic=1): O ouro no revezamento foi especial para Thiago Pereira (ele ganha a medalha mesmo não atuando na final), que conquistou sua segunda medalha dourada nesta sexta-feira e a quinta no Pan.
+Sentenca(topic=1): Com a quinta medalha dourada, ele superou Xuxa e igualou a marca do norte-americano Mark Spitz, que conquistou cinco medalhas douradas no Pan de Winnipeg, em 1967.
+Sentenca(topic=1): Nesta sexta-feira, Thiago disputou os 200 m medley (sua especialidade) e venceu com facilidade ao cravar 1min57s79 - isso porque ele também disputou nesta sexta as eliminatórias dos 200 m peito, garantindo vaga para a final de sábado.
+Sentenca(topic=2): Maior astro do Brasil na natação, Thiago já levou ouro nas provas dos 400 metros estilo medley; no revezamento 4 x 200 metros livre e nos 200 metros costas.
+Sentenca(topic=2): Se subir em mais dois pódios, ele se tornará o maior ganhador de medalhas do Brasil em uma única edição de Pan, superando o ex-nadador Djan Madruga, que levou seis medalhas em San Juan (1979).
+Sentenca(topic=2): Aos 21 anos, o nadador ainda participará das provas dos 100 metros costas e dos revezamentos 4x100 m medley.
+Sentenca(topic=2): Além disso, Thiago Pereira já tem garantido cinco índices para os Jogos de Pequim: 200 m peito, 200 m livre, 200 m costas, 400 m medley e revezamento 4x200 m.
+Sentenca(topic=3): A conquista do revezamento 4x100 livre foi a oitava de ouro da natação no Pan.
+Sentenca(topic=3): Além dos ouros de Thiago Pereira, também subiram ao lugar mais alto do pódio: César Cielo (100 metros livre); Kaio Márcio de Almeida (100 metros borboleta) e Rebeca Gusmão (50 metros livre).
+Sentenca(topic=4): A natação brasileira mais uma vez está em festa.
+Sentenca(topic=4): Na manhã desta sexta-feira o nadador Thiago Pereira conquistou sua quarta medalha de ouro pelos 200m medley na final da disputa no Complexo Aquático Maria Lenk, com a marca de 1m57s59.
+Sentenca(topic=5): O americano Robert Margalis levou a medalha de prata com o tempo de 2min00s69 e o bronze ficou Bradley Ally, de Barbados, completando o pódio com o tempo de 2min00s96.
+Sentenca(topic=6): O nadador conquistou mais dois ouros: um nos 200m medley e outro como reserva da equipe de revezamento 4x100m livre.
+Sentenca(topic=6): Com as vitórias desta sexta, Thiago soma cinco ouros no Pan do Rio, tornando-se o novo recordista brasileiro em número de medalhas douradas em uma mesma competição.
+Sentenca(topic=6): O recorde anterior era de Fernando Scherer, com quatro em Winnipeg, em 1999.
+Sentenca(topic=7): O outro brasileiro que disputava a final, Diogo Yabe, terminou na oitava colocação com o tempo de 2min05s72.
+Sentenca(topic=7): Logo depois, Cesar Cielo levou mais uma medalha dourada nos 4x100m livre com o tempo de 3min15s90, batendo o recorde Pan-Americano da modalidade.
+Sentenca(topic=8): Thiago Pereira foi mais uma vez a estrela da natação brasileira na manhã desta sexta-feira (20), no Parque Aquático Maria Lenk.
+Sentenca(topic=8): O nadador conquistou mais dois ouros: um nos 200m medley e outro como reserva da equipe de revezamento 4x100m livre.
+Sentenca(topic=8): Com as vitórias desta sexta, Thiago soma cinco ouros no Pan, tornando-se o novo recordista brasileiro em número de medalhas douradas em uma mesma competição.
+Sentenca(topic=8): O recorde anterior era de Fernando Scherer com quatro em Winnipeg, em 99.
+Sentenca(topic=9): No feminino, Monique ferreira garantiu mais um bronze para o Brasil nos 200m livre.
+Sentenca(topic=9): A manhã começou com uma notícia triste.
+Sentenca(topic=9): O principal nome do Brasil nos 800m livre feminino, Poliana Okimoto, está com infecção intestinal e, por isso, teve que ficar fora da decisão.
+Sentenca(topic=10): Nayara Ribeiro, que acabou sendo a única representante do país, terminou em sétimo lugar (9m09s11) em sua bateria e em décimo na classificação geral.
+Sentenca(topic=11): Em seguida, nos 200m livre, Nicolas Oliveira deixou a medalha de ouro escapar.
+Sentenca(topic=11): O brasileiro dominou quase toda a prova, mas, nos metros finais, perdeu o ritmo  e acabou apenas na quarta colocação, com o tempo de 1m49s49.
+Sentenca(topic=11): Rodrigo Castro ficou em quinto (1m49s60).
+Sentenca(topic=12): Na decisão feminina, Monique Ferreira conquistou a primeira medalha do dia para o Brasil, terminando em terceiro lugar (2m01s38).
+Sentenca(topic=13): Nos 200m medley, Thiago Pereira conquistou sua quarta medalha de ouro no Pan do Rio de Janeiro.
+Sentenca(topic=13): O brasileiro ainda bateu mais um recorde pan-americano com o tempo de 2m57s59.
+Sentenca(topic=13): A marca anterior era de 1m59s49.
+Sentenca(topic=14): Diogo Yabe terminou em oitavo com 2m05s72.
+Sentenca(topic=15): No feminino, Joanna Maranhão e Lilian Cerroni terminaram na quarta (2m16s99) e sexta (2m23s73) colocações.
+Sentenca(topic=16): Para encerrar mais uma manhã vitoriosa para o Brasil, a equipe masculina do revezamento 4x100m livre, formado pelas atletas Fernando Silva, Eduardo Debon, Nicolas Oliveira e César Cielo, Eduardo Deboni, conquistou mais um ouro para o país.
+Sentenca(topic=16): O Brasil ainda derrubou o antigo recorde pan-americano, que era de 3m17s18, com a nova marca de 3m15s90.
+Sentenca(topic=17): Medalha de ouro nos 100m borboleta, Kaio Márcio fez o melhor tempo (1m57s99) das semifinais dos 200m da modalidade e se classificou para a final.
+Sentenca(topic=17): Lucas Sallata fez apenas a décima melhor marca (2m01s22) e não conseguiu avançar na competição.
+Sentenca(topic=17): No feminino, Daiene Dias conseguiu vaga na final, com o quinto (2m16s97) melhor tempo.
+Sentenca(topic=17): Já Larissa Cieslak, ficou em nono e não participará da decisão.
+Sentenca(topic=18): Na semifinal dos 200m peito masculino, Thiago Pereira conquistou vaga para mais uma decisão, com o quinto melhor tempo (2m17s64).
+Sentenca(topic=18): Henrique Barbosa foi ainda melhor terminando na segunda colocação (2m17s44) na classificação geral das semis.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: disput  - Frequency: 2
+Word: emocion  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: conquist  - Frequency: 2
+Word: sext  - Frequency: 1
+Word: medalh  - Frequency: 2
+Word: our  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x100  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: charmos  - Frequency: 1
+Word: nataçã  - Frequency: 1
+Word: crav  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 3min15s90  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: sul  - Frequency: 1
+Word: foi  - Frequency: 3
+Word: 13  - Frequency: 1
+Word: dour  - Frequency: 1
+Word: país  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: 8  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: entrou  - Frequency: 1
+Word: piscin  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: nichol  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: eduard  - Frequency: 1
+Word: debon  - Frequency: 1
+Word: cés  - Frequency: 1
+Word: ciel  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: eliminatór  - Frequency: 1
+Word: substituíd  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: poup  - Frequency: 1
+Word: final  - Frequency: 1
+Word: fundamental  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: já  - Frequency: 1
+Word: ráp  - Frequency: 1
+Word: brasileir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_foi
+
+Keyword: 0_foi_disput_brasil_conquist_medalh_pan_ciel
+
+Keyword: 0_foi_disput_brasil_conquist_medalh_pan_ciel_emocion_sext_our_revez_4x100_metr_livr_prov_charmos_nataçã_crav_temp_3min15s90_record_sul_13_dour_país_jog_8_pel_nadador_entrou_piscin_fern_silv_nichol_sant_eduard_debon_cés_últim_nã_eliminatór_substituíd_quint_thiag_pereir_ser_poup_final_fundamental_vitór_já_ráp_brasileir
+
+
+------------------------------------------------------------
+Topic: 1
+Word: our  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: especial  - Frequency: 2
+Word: thiag  - Frequency: 2
+Word: pereir  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: medalh  - Frequency: 4
+Word: nã  - Frequency: 1
+Word: atu  - Frequency: 1
+Word: final  - Frequency: 2
+Word: conquist  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: dour  - Frequency: 3
+Word: sext  - Frequency: 3
+Word: quint  - Frequency: 2
+Word: pan  - Frequency: 2
+Word: super  - Frequency: 1
+Word: xux  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: mark  - Frequency: 1
+Word: spitz  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: winnipeg  - Frequency: 1
+Word: 1967  - Frequency: 1
+Word: disput  - Frequency: 2
+Word: 200  - Frequency: 2
+Word: medley  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: facil  - Frequency: 1
+Word: crav  - Frequency: 1
+Word: 1min57s79  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: também  - Frequency: 1
+Word: eliminatór  - Frequency: 1
+Word: peit  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: sáb  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_medalh
+
+Keyword: 1_medalh_dour_sext
+
+Keyword: 1_medalh_dour_sext_especial_thiag_final_conquist_quint_pan_disput_200
+
+
+------------------------------------------------------------
+Topic: 2
+Word: maior  - Frequency: 2
+Word: astro  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: nataçã  - Frequency: 1
+Word: thiag  - Frequency: 2
+Word: já  - Frequency: 2
+Word: lev  - Frequency: 2
+Word: our  - Frequency: 1
+Word: prov  - Frequency: 2
+Word: 400  - Frequency: 2
+Word: metr  - Frequency: 4
+Word: estil  - Frequency: 1
+Word: medley  - Frequency: 3
+Word: revez  - Frequency: 3
+Word: 4  - Frequency: 1
+Word: x  - Frequency: 1
+Word: 200  - Frequency: 5
+Word: livr  - Frequency: 2
+Word: cost  - Frequency: 3
+Word: sub  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: ganhador  - Frequency: 1
+Word: medalh  - Frequency: 2
+Word: únic  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: super  - Frequency: 1
+Word: ex  - Frequency: 1
+Word: djan  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: san  - Frequency: 1
+Word: juan  - Frequency: 1
+Word: 21  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: 4x100  - Frequency: 1
+Word: além  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pequim  - Frequency: 1
+Word: peit  - Frequency: 1
+Word: 4x200  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_200
+
+Keyword: 2_200_metr
+
+Keyword: 2_200_metr_medley_revez_cost
+
+Keyword: 2_200_metr_medley_revez_cost_maior_brasil_thiag_já_lev_prov_400_livr_medalh
+
+
+------------------------------------------------------------
+Topic: 3
+Word: conquist  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x100  - Frequency: 1
+Word: livr  - Frequency: 3
+Word: foi  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: our  - Frequency: 2
+Word: nataçã  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: além  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: também  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: cés  - Frequency: 1
+Word: ciel  - Frequency: 1
+Word: metr  - Frequency: 3
+Word: kai  - Frequency: 1
+Word: márci  - Frequency: 1
+Word: alme  - Frequency: 1
+Word: borbolet  - Frequency: 1
+Word: rebec  - Frequency: 1
+Word: gusmã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_livr_metr
+
+Keyword: 3_livr_metr_our
+
+Keyword: 3_livr_metr_our_conquist_revez_4x100_foi_oit_nataçã_pan_além_thiag_pereir_também_sub_lug_alto_pódi_cés_ciel_kai_márci_alme_borbolet_rebec_gusmã
+
+
+------------------------------------------------------------
+Topic: 4
+Word: nataçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: está  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: 200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: final  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: complex  - Frequency: 1
+Word: aquát  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: lenk  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 1m57s59  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_nataçã_brasileir_vez_está_fest_manhã_sext_nadador_thiag_pereir_conquist_quart_medalh_our_pel_200m_medley_final_disput_complex_aquát_mar_lenk_marc_1m57s59
+
+
+------------------------------------------------------------
+Topic: 5
+Word: american  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: margal  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: prat  - Frequency: 1
+Word: temp  - Frequency: 2
+Word: 2min00s69  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: bradley  - Frequency: 1
+Word: ally  - Frequency: 1
+Word: barb  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: 2min00s96  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_temp
+
+Keyword: 5_temp_american_robert_margal_lev_medalh_prat_2min00s69_bronz_fic_bradley_ally_barb_complet_pódi_2min00s96
+
+
+------------------------------------------------------------
+Topic: 6
+Word: nadador  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: our  - Frequency: 2
+Word: 200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: com  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x100m  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: som  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: record  - Frequency: 2
+Word: brasileir  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: dour  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: era  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: scher  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: winnipeg  - Frequency: 1
+Word: 1999  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_our_record
+
+Keyword: 6_our_record_nadador_conquist_dois_200m_medley_com_reserv_equip_revez_4x100m_livr_vitór_sext_thiag_som_cinc_pan_rio_torn_nov_brasileir_númer_medalh_dour_competiçã_anterior_era_fern_scher_quatr_winnipeg_1999
+
+
+------------------------------------------------------------
+Topic: 7
+Word: brasileir  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: final  - Frequency: 1
+Word: diog  - Frequency: 1
+Word: yab  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: temp  - Frequency: 2
+Word: 2min05s72  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: ces  - Frequency: 1
+Word: ciel  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: dour  - Frequency: 1
+Word: 4x100m  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: 3min15s90  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: modal  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_temp
+
+Keyword: 7_temp_brasileir_disput_final_diog_yab_termin_oit_coloc_2min05s72_depo_ces_ciel_lev_medalh_dour_4x100m_livr_3min15s90_bat_record_pan_modal
+
+
+------------------------------------------------------------
+Topic: 8
+Word: thiag  - Frequency: 2
+Word: pereir  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: estrel  - Frequency: 1
+Word: nataçã  - Frequency: 1
+Word: brasileir  - Frequency: 2
+Word: manhã  - Frequency: 1
+Word: sext  - Frequency: 2
+Word: parqu  - Frequency: 1
+Word: aquát  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: lenk  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: our  - Frequency: 2
+Word: 200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: com  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x100m  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: som  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: record  - Frequency: 2
+Word: númer  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: dour  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: era  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: scher  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: winnipeg  - Frequency: 1
+Word: 99  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_thiag_brasileir_sext_our_record
+
+Keyword: 8_thiag_brasileir_sext_our_record_pereir_foi_vez_estrel_nataçã_manhã_parqu_aquát_mar_lenk_nadador_conquist_dois_200m_medley_com_reserv_equip_revez_4x100m_livr_vitór_som_cinc_pan_torn_nov_númer_medalh_dour_competiçã_anterior_era_fern_scher_quatr_winnipeg_99
+
+
+------------------------------------------------------------
+Topic: 9
+Word: feminin  - Frequency: 2
+Word: moniqu  - Frequency: 1
+Word: ferreir  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: 200m  - Frequency: 1
+Word: livr  - Frequency: 2
+Word: manhã  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: trist  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: 800m  - Frequency: 1
+Word: polian  - Frequency: 1
+Word: okimot  - Frequency: 1
+Word: está  - Frequency: 1
+Word: infecçã  - Frequency: 1
+Word: intestinal  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: for  - Frequency: 1
+Word: decisã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_feminin_brasil_livr
+
+Keyword: 9_feminin_brasil_livr_moniqu_ferreir_garant_bronz_200m_manhã_comec_notíc_trist_principal_nom_800m_polian_okimot_está_infecçã_intestinal_tev_fic_for_decisã
+
+
+------------------------------------------------------------
+Topic: 10
+Word: nay  - Frequency: 1
+Word: ribeir  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: send  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: país  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: sétim  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: décim  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: geral  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_nay_ribeir_acab_send_únic_represent_país_termin_sétim_lug_bat_décim_classific_geral
+
+
+------------------------------------------------------------
+Topic: 11
+Word: segu  - Frequency: 1
+Word: 200m  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: escap  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: domin  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: ritm  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 1m49s49  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: quint  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_segu_200m_livr_nicol_oliveir_deix_medalh_our_escap_brasileir_domin_quas_prov_metr_fin_perd_ritm_acab_quart_coloc_temp_1m49s49_rodrig_castr_fic_quint
+
+
+------------------------------------------------------------
+Topic: 12
+Word: decisã  - Frequency: 1
+Word: feminin  - Frequency: 1
+Word: moniqu  - Frequency: 1
+Word: ferreir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: lug  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_decisã_feminin_moniqu_ferreir_conquist_primeir_medalh_dia_brasil_termin_terceir_lug
+
+
+------------------------------------------------------------
+Topic: 13
+Word: 200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: rio  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: record  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 2m57s59  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: era  - Frequency: 1
+Word: 1m59s49  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_pan
+
+Keyword: 13_pan_200m_medley_thiag_pereir_conquist_quart_medalh_our_rio_janeir_brasileir_aind_bat_record_temp_2m57s59_marc_anterior_era_1m59s49
+
+
+------------------------------------------------------------
+Topic: 14
+Word: diog  - Frequency: 1
+Word: yab  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: oitav  - Frequency: 1
+Word: 2m05s72  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_diog_yab_termin_oitav_2m05s72
+
+Keyword: 14_diog_yab_termin_oitav_2m05s72
+
+Keyword: 14_diog_yab_termin_oitav_2m05s72
+
+
+------------------------------------------------------------
+Topic: 15
+Word: feminin  - Frequency: 1
+Word: joann  - Frequency: 1
+Word: maranhã  - Frequency: 1
+Word: lilian  - Frequency: 1
+Word: cerron  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: coloc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_feminin_joann_maranhã_lilian_cerron_termin_quart_sext_coloc
+
+Keyword: 15_feminin_joann_maranhã_lilian_cerron_termin_quart_sext_coloc
+
+
+------------------------------------------------------------
+Topic: 16
+Word: encerr  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: vitori  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: equip  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x100m  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: form  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: atlet  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: eduard  - Frequency: 2
+Word: debon  - Frequency: 2
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: cés  - Frequency: 1
+Word: ciel  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: our  - Frequency: 1
+Word: país  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: derrub  - Frequency: 1
+Word: antig  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: era  - Frequency: 1
+Word: 3m17s18  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 3m15s90  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_brasil_eduard_debon
+
+Keyword: 16_brasil_eduard_debon_encerr_manhã_vitori_equip_masculin_revez_4x100m_livr_form_pel_atlet_fern_silv_nicol_oliveir_cés_ciel_conquist_our_país_aind_derrub_antig_record_pan_era_3m17s18_nov_marc_3m15s90
+
+
+------------------------------------------------------------
+Topic: 17
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: 100m  - Frequency: 1
+Word: borbolet  - Frequency: 1
+Word: kai  - Frequency: 1
+Word: márci  - Frequency: 1
+Word: fez  - Frequency: 2
+Word: melhor  - Frequency: 3
+Word: temp  - Frequency: 2
+Word: semifin  - Frequency: 1
+Word: 200m  - Frequency: 1
+Word: modal  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: final  - Frequency: 2
+Word: luc  - Frequency: 1
+Word: sallat  - Frequency: 1
+Word: décim  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: consegu  - Frequency: 2
+Word: avanc  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: feminin  - Frequency: 1
+Word: daien  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: já  - Frequency: 1
+Word: lariss  - Frequency: 1
+Word: cieslak  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: non  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: decisã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_melhor
+
+Keyword: 17_melhor_fez_temp_final_nã_consegu
+
+Keyword: 17_melhor_fez_temp_final_nã_consegu_medalh_our_100m_borbolet_kai_márci_semifin_200m_modal_classific_luc_sallat_décim_marc_avanc_competiçã_feminin_daien_dias_vag_quint_já_lariss_cieslak_fic_non_particip_decisã
+
+
+------------------------------------------------------------
+Topic: 18
+Word: semifinal  - Frequency: 1
+Word: 200m  - Frequency: 1
+Word: peit  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: melhor  - Frequency: 2
+Word: temp  - Frequency: 1
+Word: henriqu  - Frequency: 1
+Word: barbos  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: geral  - Frequency: 1
+Word: sem  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 18_melhor
+
+Keyword: 18_melhor_semifinal_200m_peit_masculin_thiag_pereir_conquist_vag_decisã_quint_temp_henriqu_barbos_foi_aind_termin_segund_coloc_classific_geral_sem
+
+NUM: 53
+
+
+NUM: 11
+
+
+NUM: 14
+
+
+NUM: 26
+
+
+NUM: 25
+
+
+NUM: 16
+
+
+NUM: 34
+
+
+NUM: 23
+
+
+NUM: 43
+
+
+NUM: 24
+
+
+NUM: 14
+
+
+NUM: 26
+
+
+NUM: 12
+
+
+NUM: 21
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 9
+
+
+NUM: 33
+
+
+NUM: 34
+
+
+NUM: 22
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 53
+
+
+NUM: 11
+
+
+NUM: 14
+
+
+NUM: 26
+
+
+NUM: 25
+
+
+NUM: 16
+
+
+NUM: 34
+
+
+NUM: 23
+
+
+NUM: 43
+
+
+NUM: 24
+
+
+NUM: 14
+
+
+NUM: 26
+
+
+NUM: 12
+
+
+NUM: 21
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 9
+
+
+NUM: 33
+
+
+NUM: 34
+
+
+NUM: 22
+
+
+---------------BEFORE!-------------
+
+VEC: 0_foi_disput_brasil_conquist_medalh_pan_ciel_emocion_sext_our_revez_4x100_metr_livr_prov_charmos_nataçã_crav_temp_3min15s90_record_sul_13_dour_país_jog_8_pel_nadador_entrou_piscin_fern_silv_nichol_sant_eduard_debon_cés_últim_nã_eliminatór_substituíd_quint_thiag_pereir_ser_poup_final_fundamental_vitór_já_ráp_brasileir
+VEC: 1_medalh_dour_sext_especial_thiag_final_conquist_quint_pan_disput_200
+VEC: 2_200_metr_medley_revez_cost_maior_brasil_thiag_já_lev_prov_400_livr_medalh
+VEC: 3_livr_metr_our_conquist_revez_4x100_foi_oit_nataçã_pan_além_thiag_pereir_também_sub_lug_alto_pódi_cés_ciel_kai_márci_alme_borbolet_rebec_gusmã
+VEC: 4_nataçã_brasileir_vez_está_fest_manhã_sext_nadador_thiag_pereir_conquist_quart_medalh_our_pel_200m_medley_final_disput_complex_aquát_mar_lenk_marc_1m57s59
+VEC: 5_temp_american_robert_margal_lev_medalh_prat_2min00s69_bronz_fic_bradley_ally_barb_complet_pódi_2min00s96
+VEC: 6_our_record_nadador_conquist_dois_200m_medley_com_reserv_equip_revez_4x100m_livr_vitór_sext_thiag_som_cinc_pan_rio_torn_nov_brasileir_númer_medalh_dour_competiçã_anterior_era_fern_scher_quatr_winnipeg_1999
+VEC: 7_temp_brasileir_disput_final_diog_yab_termin_oit_coloc_2min05s72_depo_ces_ciel_lev_medalh_dour_4x100m_livr_3min15s90_bat_record_pan_modal
+VEC: 8_thiag_brasileir_sext_our_record_pereir_foi_vez_estrel_nataçã_manhã_parqu_aquát_mar_lenk_nadador_conquist_dois_200m_medley_com_reserv_equip_revez_4x100m_livr_vitór_som_cinc_pan_torn_nov_númer_medalh_dour_competiçã_anterior_era_fern_scher_quatr_winnipeg_99
+VEC: 9_feminin_brasil_livr_moniqu_ferreir_garant_bronz_200m_manhã_comec_notíc_trist_principal_nom_800m_polian_okimot_está_infecçã_intestinal_tev_fic_for_decisã
+VEC: 10_nay_ribeir_acab_send_únic_represent_país_termin_sétim_lug_bat_décim_classific_geral
+VEC: 11_segu_200m_livr_nicol_oliveir_deix_medalh_our_escap_brasileir_domin_quas_prov_metr_fin_perd_ritm_acab_quart_coloc_temp_1m49s49_rodrig_castr_fic_quint
+VEC: 12_decisã_feminin_moniqu_ferreir_conquist_primeir_medalh_dia_brasil_termin_terceir_lug
+VEC: 13_pan_200m_medley_thiag_pereir_conquist_quart_medalh_our_rio_janeir_brasileir_aind_bat_record_temp_2m57s59_marc_anterior_era_1m59s49
+VEC: 14_diog_yab_termin_oitav_2m05s72
+VEC: 15_feminin_joann_maranhã_lilian_cerron_termin_quart_sext_coloc
+VEC: 16_brasil_eduard_debon_encerr_manhã_vitori_equip_masculin_revez_4x100m_livr_form_pel_atlet_fern_silv_nicol_oliveir_cés_ciel_conquist_our_país_aind_derrub_antig_record_pan_era_3m17s18_nov_marc_3m15s90
+VEC: 17_melhor_fez_temp_final_nã_consegu_medalh_our_100m_borbolet_kai_márci_semifin_200m_modal_classific_luc_sallat_décim_marc_avanc_competiçã_feminin_daien_dias_vag_quint_já_lariss_cieslak_fic_non_particip_decisã
+VEC: 18_melhor_semifinal_200m_peit_masculin_thiag_pereir_conquist_vag_decisã_quint_temp_henriqu_barbos_foi_aind_termin_segund_coloc_classific_geral_sem
+
+---------------AFTER!-------------
+
+VEC: 0_foi_disput_brasil_conquist_medalh
+VEC: 1_medalh_dour_sext_especial_thiag
+VEC: 2_200_metr_medley_revez_cost
+VEC: 3_livr_metr_our_conquist_revez
+VEC: 4_nataçã_brasileir_vez_está_fest
+VEC: 5_temp_american_robert_margal_lev
+VEC: 6_our_record_nadador_conquist_dois
+VEC: 7_temp_brasileir_disput_final_diog
+VEC: 8_thiag_brasileir_sext_our_record
+VEC: 9_feminin_brasil_livr_moniqu_ferreir
+VEC: 10_nay_ribeir_acab_send_únic
+VEC: 11_segu_200m_livr_nicol_oliveir
+VEC: 12_decisã_feminin_moniqu_ferreir_conquist
+VEC: 13_pan_200m_medley_thiag_pereir
+VEC: 14_diog_yab_termin_oitav_2m05s72
+VEC: 15_feminin_joann_maranhã_lilian_cerron
+VEC: 16_brasil_eduard_debon_encerr_manhã
+VEC: 17_melhor_fez_temp_final_nã
+VEC: 18_melhor_semifinal_200m_peit_masculin
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+TRESHOLD: 0.0797271
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "17_melhor_fez_temp_final_nã" is "0.333333"
+
+CHANGE! -- From: 19 -> TO: 18
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "16_brasil_eduard_debon_encerr_manhã" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "15_feminin_joann_maranhã_lilian_cerron" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "14_diog_yab_termin_oitav_2m05s72" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "13_pan_200m_medley_thiag_pereir" is "0.333333"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "12_decisã_feminin_moniqu_ferreir_conquist" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "11_segu_200m_livr_nicol_oliveir" is "0.333333"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "9_feminin_brasil_livr_moniqu_ferreir" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_melhor_semifinal_200m_peit_masculin" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "16_brasil_eduard_debon_encerr_manhã" is "0.166667"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "15_feminin_joann_maranhã_lilian_cerron" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "14_diog_yab_termin_oitav_2m05s72" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "13_pan_200m_medley_thiag_pereir" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "12_decisã_feminin_moniqu_ferreir_conquist" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "11_segu_200m_livr_nicol_oliveir" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "9_feminin_brasil_livr_moniqu_ferreir" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "7_temp_brasileir_disput_final_diog" is "0.333333"
+
+CHANGE! -- From: 18 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "5_temp_american_robert_margal_lev" is "0.166667"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_melhor_fez_temp_final_nã" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 7 -- Abs: 10
+
+
+Topic change from "17" to "7"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 7 -- Abs: 10
+
+
+Topic change from "17" to "7"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 7 -- Abs: 10
+
+
+Topic change from "17" to "7"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 7 -- Abs: 10
+
+
+Topic change from "17" to "7"
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "15_feminin_joann_maranhã_lilian_cerron" is "0.166667"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "14_diog_yab_termin_oitav_2m05s72" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "13_pan_200m_medley_thiag_pereir" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "12_decisã_feminin_moniqu_ferreir_conquist" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "11_segu_200m_livr_nicol_oliveir" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "9_feminin_brasil_livr_moniqu_ferreir" is "0.166667"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "16_brasil_eduard_debon_encerr_manhã" and "0_foi_disput_brasil_conquist_medalh" is "0.166667"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "14_diog_yab_termin_oitav_2m05s72" is "0.166667"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "13_pan_200m_medley_thiag_pereir" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "12_decisã_feminin_moniqu_ferreir_conquist" is "0.333333"
+
+CHANGE! -- From: 16 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "11_segu_200m_livr_nicol_oliveir" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "9_feminin_brasil_livr_moniqu_ferreir" is "0.166667"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_feminin_joann_maranhã_lilian_cerron" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 12 -- Abs: 3
+
+
+Topic change from "15" to "12"
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 13
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "13_pan_200m_medley_thiag_pereir" is "0.166667"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "12_decisã_feminin_moniqu_ferreir_conquist" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "11_segu_200m_livr_nicol_oliveir" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "9_feminin_brasil_livr_moniqu_ferreir" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "7_temp_brasileir_disput_final_diog" is "0.166667"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_diog_yab_termin_oitav_2m05s72" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 13
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 13
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "12_decisã_feminin_moniqu_ferreir_conquist" is "0.166667"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "11_segu_200m_livr_nicol_oliveir" is "0.333333"
+
+CHANGE! -- From: 14 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "9_feminin_brasil_livr_moniqu_ferreir" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "8_thiag_brasileir_sext_our_record" is "0.166667"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "2_200_metr_medley_revez_cost" is "0.166667"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "1_medalh_dour_sext_especial_thiag" is "0.166667"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_pan_200m_medley_thiag_pereir" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 13
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 11 -- Abs: 2
+
+
+Topic change from "13" to "11"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 11 -- Abs: 2
+
+
+Topic change from "13" to "11"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 11 -- Abs: 2
+
+
+Topic change from "13" to "11"
+
+Topic: 14 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 13
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "11_segu_200m_livr_nicol_oliveir" is "0.166667"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.5
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "9_feminin_brasil_livr_moniqu_ferreir" is "0.5"
+
+CHANGE! -- From: 13 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "6_our_record_nadador_conquist_dois" is "0.166667"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "3_livr_metr_our_conquist_revez" is "0.166667"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "12_decisã_feminin_moniqu_ferreir_conquist" and "0_foi_disput_brasil_conquist_medalh" is "0.166667"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 13
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 9 -- Abs: 3
+
+
+Topic change from "12" to "9"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 9 -- Abs: 3
+
+
+Topic change from "12" to "9"
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 10
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "10_nay_ribeir_acab_send_únic" is "0.166667"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "9_feminin_brasil_livr_moniqu_ferreir" is "0.166667"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "3_livr_metr_our_conquist_revez" is "0.166667"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segu_200m_livr_nicol_oliveir" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 10
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 10
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "9_feminin_brasil_livr_moniqu_ferreir" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nay_ribeir_acab_send_únic" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 10
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 10
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "8_thiag_brasileir_sext_our_record" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "7_temp_brasileir_disput_final_diog" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "3_livr_metr_our_conquist_revez" is "0.2"
+
+CHANGE! -- From: 10 -> TO: 4
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_feminin_brasil_livr_moniqu_ferreir" and "0_foi_disput_brasil_conquist_medalh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 10
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "7_temp_brasileir_disput_final_diog" is "0.2"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "6_our_record_nadador_conquist_dois" is "0.4"
+
+CHANGE! -- From: 9 -> TO: 7
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "4_nataçã_brasileir_vez_está_fest" is "0.2"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "3_livr_metr_our_conquist_revez" is "0.2"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "1_medalh_dour_sext_especial_thiag" is "0.4"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_thiag_brasileir_sext_our_record" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 6 -- Abs: 2
+
+
+Topic change from "8" to "6"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 6 -- Abs: 2
+
+
+Topic change from "8" to "6"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 6 -- Abs: 2
+
+
+Topic change from "8" to "6"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 6 -- Abs: 2
+
+
+Topic change from "8" to "6"
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_temp_brasileir_disput_final_diog" and "6_our_record_nadador_conquist_dois" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_temp_brasileir_disput_final_diog" and "5_temp_american_robert_margal_lev" is "0.2"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_temp_brasileir_disput_final_diog" and "4_nataçã_brasileir_vez_está_fest" is "0.2"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_temp_brasileir_disput_final_diog" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_temp_brasileir_disput_final_diog" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_temp_brasileir_disput_final_diog" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_temp_brasileir_disput_final_diog" and "0_foi_disput_brasil_conquist_medalh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_our_record_nadador_conquist_dois" and "5_temp_american_robert_margal_lev" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_our_record_nadador_conquist_dois" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "6_our_record_nadador_conquist_dois" and "3_livr_metr_our_conquist_revez" is "0.4"
+
+CHANGE! -- From: 7 -> TO: 4
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_our_record_nadador_conquist_dois" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_our_record_nadador_conquist_dois" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_our_record_nadador_conquist_dois" and "0_foi_disput_brasil_conquist_medalh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_temp_american_robert_margal_lev" and "4_nataçã_brasileir_vez_está_fest" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_temp_american_robert_margal_lev" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_temp_american_robert_margal_lev" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_temp_american_robert_margal_lev" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_temp_american_robert_margal_lev" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_nataçã_brasileir_vez_está_fest" and "3_livr_metr_our_conquist_revez" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_nataçã_brasileir_vez_está_fest" and "2_200_metr_medley_revez_cost" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_nataçã_brasileir_vez_está_fest" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_nataçã_brasileir_vez_está_fest" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "3_livr_metr_our_conquist_revez" and "2_200_metr_medley_revez_cost" is "0.4"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_livr_metr_our_conquist_revez" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "3_livr_metr_our_conquist_revez" and "0_foi_disput_brasil_conquist_medalh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_200_metr_medley_revez_cost" and "1_medalh_dour_sext_especial_thiag" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_200_metr_medley_revez_cost" and "0_foi_disput_brasil_conquist_medalh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "1_medalh_dour_sext_especial_thiag" and "0_foi_disput_brasil_conquist_medalh" is "0.2"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 15
+Topic: 4
+Topic: 17
+Topic: 17
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 19
+Topic: 19
+NUM_TOPICS: 17
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: disput  - Frequency: 2
+Word: emocion  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: conquist  - Frequency: 2
+Word: sext  - Frequency: 1
+Word: medalh  - Frequency: 2
+Word: our  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x100  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: charmos  - Frequency: 1
+Word: nataçã  - Frequency: 1
+Word: crav  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 3min15s90  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: sul  - Frequency: 1
+Word: foi  - Frequency: 3
+Word: 13  - Frequency: 1
+Word: dour  - Frequency: 1
+Word: país  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: 8  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: entrou  - Frequency: 1
+Word: piscin  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: nichol  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: eduard  - Frequency: 1
+Word: debon  - Frequency: 1
+Word: cés  - Frequency: 1
+Word: ciel  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: eliminatór  - Frequency: 1
+Word: substituíd  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: poup  - Frequency: 1
+Word: final  - Frequency: 1
+Word: fundamental  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: já  - Frequency: 1
+Word: ráp  - Frequency: 1
+Word: brasileir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_foi
+
+Keyword: 0_foi_disput_brasil_conquist_medalh_pan_ciel
+
+Keyword: 0_foi_disput_brasil_conquist_medalh_pan_ciel_emocion_sext_our_revez_4x100_metr_livr_prov_charmos_nataçã_crav_temp_3min15s90_record_sul_13_dour_país_jog_8_pel_nadador_entrou_piscin_fern_silv_nichol_sant_eduard_debon_cés_últim_nã_eliminatór_substituíd_quint_thiag_pereir_ser_poup_final_fundamental_vitór_já_ráp_brasileir
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: our  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: especial  - Frequency: 2
+Word: thiag  - Frequency: 2
+Word: pereir  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: medalh  - Frequency: 4
+Word: nã  - Frequency: 1
+Word: atu  - Frequency: 1
+Word: final  - Frequency: 2
+Word: conquist  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: dour  - Frequency: 3
+Word: sext  - Frequency: 3
+Word: quint  - Frequency: 2
+Word: pan  - Frequency: 2
+Word: super  - Frequency: 1
+Word: xux  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: mark  - Frequency: 1
+Word: spitz  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: winnipeg  - Frequency: 1
+Word: 1967  - Frequency: 1
+Word: disput  - Frequency: 2
+Word: 200  - Frequency: 2
+Word: medley  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: facil  - Frequency: 1
+Word: crav  - Frequency: 1
+Word: 1min57s79  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: também  - Frequency: 1
+Word: eliminatór  - Frequency: 1
+Word: peit  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: sáb  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_medalh
+
+Keyword: 1_medalh_dour_sext
+
+Keyword: 1_medalh_dour_sext_especial_thiag_final_conquist_quint_pan_disput_200
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: maior  - Frequency: 2
+Word: astro  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: nataçã  - Frequency: 1
+Word: thiag  - Frequency: 2
+Word: já  - Frequency: 2
+Word: lev  - Frequency: 2
+Word: our  - Frequency: 1
+Word: prov  - Frequency: 2
+Word: 400  - Frequency: 2
+Word: metr  - Frequency: 4
+Word: estil  - Frequency: 1
+Word: medley  - Frequency: 3
+Word: revez  - Frequency: 3
+Word: 4  - Frequency: 1
+Word: x  - Frequency: 1
+Word: 200  - Frequency: 5
+Word: livr  - Frequency: 2
+Word: cost  - Frequency: 3
+Word: sub  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: ganhador  - Frequency: 1
+Word: medalh  - Frequency: 2
+Word: únic  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: super  - Frequency: 1
+Word: ex  - Frequency: 1
+Word: djan  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: san  - Frequency: 1
+Word: juan  - Frequency: 1
+Word: 21  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: 4x100  - Frequency: 1
+Word: além  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pequim  - Frequency: 1
+Word: peit  - Frequency: 1
+Word: 4x200  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_200
+
+Keyword: 2_200_metr
+
+Keyword: 2_200_metr_medley_revez_cost
+
+Keyword: 2_200_metr_medley_revez_cost_maior_brasil_thiag_já_lev_prov_400_livr_medalh
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: conquist  - Frequency: 4
+Word: revez  - Frequency: 3
+Word: 4x100  - Frequency: 1
+Word: livr  - Frequency: 7
+Word: foi  - Frequency: 2
+Word: oit  - Frequency: 1
+Word: our  - Frequency: 6
+Word: nataçã  - Frequency: 2
+Word: pan  - Frequency: 3
+Word: além  - Frequency: 1
+Word: thiag  - Frequency: 4
+Word: pereir  - Frequency: 2
+Word: também  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: lug  - Frequency: 2
+Word: alto  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: cés  - Frequency: 1
+Word: ciel  - Frequency: 1
+Word: metr  - Frequency: 3
+Word: kai  - Frequency: 1
+Word: márci  - Frequency: 1
+Word: alme  - Frequency: 1
+Word: borbolet  - Frequency: 1
+Word: rebec  - Frequency: 1
+Word: gusmã  - Frequency: 1
+Word: nadador  - Frequency: 2
+Word: dois  - Frequency: 2
+Word: 200m  - Frequency: 3
+Word: medley  - Frequency: 2
+Word: com  - Frequency: 2
+Word: reserv  - Frequency: 2
+Word: equip  - Frequency: 2
+Word: 4x100m  - Frequency: 2
+Word: vitór  - Frequency: 2
+Word: sext  - Frequency: 4
+Word: som  - Frequency: 2
+Word: cinc  - Frequency: 2
+Word: rio  - Frequency: 1
+Word: torn  - Frequency: 2
+Word: nov  - Frequency: 2
+Word: record  - Frequency: 4
+Word: brasileir  - Frequency: 3
+Word: númer  - Frequency: 2
+Word: medalh  - Frequency: 3
+Word: dour  - Frequency: 2
+Word: competiçã  - Frequency: 2
+Word: anterior  - Frequency: 2
+Word: era  - Frequency: 2
+Word: fern  - Frequency: 2
+Word: scher  - Frequency: 2
+Word: quatr  - Frequency: 2
+Word: winnipeg  - Frequency: 2
+Word: 1999  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: estrel  - Frequency: 1
+Word: manhã  - Frequency: 2
+Word: parqu  - Frequency: 1
+Word: aquát  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: lenk  - Frequency: 1
+Word: 99  - Frequency: 1
+Word: feminin  - Frequency: 4
+Word: moniqu  - Frequency: 2
+Word: ferreir  - Frequency: 2
+Word: garant  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: brasil  - Frequency: 3
+Word: comec  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: trist  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: 800m  - Frequency: 1
+Word: polian  - Frequency: 1
+Word: okimot  - Frequency: 1
+Word: está  - Frequency: 1
+Word: infecçã  - Frequency: 1
+Word: intestinal  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: for  - Frequency: 1
+Word: decisã  - Frequency: 2
+Word: primeir  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: termin  - Frequency: 2
+Word: terceir  - Frequency: 1
+Word: joann  - Frequency: 1
+Word: maranhã  - Frequency: 1
+Word: lilian  - Frequency: 1
+Word: cerron  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: coloc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_livr
+
+Keyword: 3_livr_our
+
+Keyword: 3_livr_our
+
+Keyword: 3_livr_our_conquist_thiag_sext_record_feminin
+
+Keyword: 3_livr_our_conquist_thiag_sext_record_feminin_revez_pan_metr_200m_brasileir_medalh_brasil
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: nataçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: está  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: 200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: final  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: complex  - Frequency: 1
+Word: aquát  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: lenk  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 1m57s59  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_nataçã_brasileir_vez_está_fest_manhã_sext_nadador_thiag_pereir_conquist_quart_medalh_our_pel_200m_medley_final_disput_complex_aquát_mar_lenk_marc_1m57s59
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: american  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: margal  - Frequency: 1
+Word: lev  - Frequency: 2
+Word: medalh  - Frequency: 3
+Word: prat  - Frequency: 1
+Word: temp  - Frequency: 6
+Word: 2min00s69  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: bradley  - Frequency: 1
+Word: ally  - Frequency: 1
+Word: barb  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: 2min00s96  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: final  - Frequency: 3
+Word: diog  - Frequency: 1
+Word: yab  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: 2min05s72  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: ces  - Frequency: 1
+Word: ciel  - Frequency: 1
+Word: dour  - Frequency: 1
+Word: 4x100m  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: 3min15s90  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: modal  - Frequency: 2
+Word: our  - Frequency: 1
+Word: 100m  - Frequency: 1
+Word: borbolet  - Frequency: 1
+Word: kai  - Frequency: 1
+Word: márci  - Frequency: 1
+Word: fez  - Frequency: 2
+Word: melhor  - Frequency: 3
+Word: semifin  - Frequency: 1
+Word: 200m  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: luc  - Frequency: 1
+Word: sallat  - Frequency: 1
+Word: décim  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: consegu  - Frequency: 2
+Word: avanc  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: feminin  - Frequency: 1
+Word: daien  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: já  - Frequency: 1
+Word: lariss  - Frequency: 1
+Word: cieslak  - Frequency: 1
+Word: non  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: decisã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_temp
+
+Keyword: 5_temp
+
+Keyword: 5_temp
+
+Keyword: 5_temp_medalh_final_melhor
+
+Keyword: 5_temp_medalh_final_melhor_lev_fic_modal_fez_nã_consegu
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: nay  - Frequency: 1
+Word: ribeir  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: send  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: país  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: sétim  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: décim  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: geral  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_nay_ribeir_acab_send_únic_represent_país_termin_sétim_lug_bat_décim_classific_geral
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: segu  - Frequency: 1
+Word: 200m  - Frequency: 2
+Word: livr  - Frequency: 1
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: medalh  - Frequency: 2
+Word: our  - Frequency: 2
+Word: escap  - Frequency: 1
+Word: brasileir  - Frequency: 2
+Word: domin  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: ritm  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: quart  - Frequency: 2
+Word: coloc  - Frequency: 1
+Word: temp  - Frequency: 2
+Word: 1m49s49  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: rio  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: record  - Frequency: 1
+Word: 2m57s59  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: era  - Frequency: 1
+Word: 1m59s49  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_200m_medalh_our_brasileir_quart_temp_pan
+
+Keyword: 11_200m_medalh_our_brasileir_quart_temp_pan_segu_livr_nicol_oliveir_deix_escap_domin_quas_prov_metr_fin_perd_ritm_acab_coloc_1m49s49_rodrig_castr_fic_quint_medley_thiag_pereir_conquist_rio_janeir_aind_bat_record_2m57s59_marc_anterior_era_1m59s49
+
+Cur_topic: 14
+
+
+
+------------------------------------------------------------
+Topic: 14
+Word: diog  - Frequency: 1
+Word: yab  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: oitav  - Frequency: 1
+Word: 2m05s72  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_diog_yab_termin_oitav_2m05s72
+
+Keyword: 14_diog_yab_termin_oitav_2m05s72
+
+Keyword: 14_diog_yab_termin_oitav_2m05s72
+
+Cur_topic: 16
+
+
+
+------------------------------------------------------------
+Topic: 16
+Word: encerr  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: vitori  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: equip  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x100m  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: form  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: atlet  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: eduard  - Frequency: 2
+Word: debon  - Frequency: 2
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: cés  - Frequency: 1
+Word: ciel  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: our  - Frequency: 1
+Word: país  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: derrub  - Frequency: 1
+Word: antig  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: era  - Frequency: 1
+Word: 3m17s18  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 3m15s90  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_brasil_eduard_debon
+
+Keyword: 16_brasil_eduard_debon_encerr_manhã_vitori_equip_masculin_revez_4x100m_livr_form_pel_atlet_fern_silv_nicol_oliveir_cés_ciel_conquist_our_país_aind_derrub_antig_record_pan_era_3m17s18_nov_marc_3m15s90
+
+Cur_topic: 18
+
+
+
+------------------------------------------------------------
+Topic: 18
+Word: semifinal  - Frequency: 1
+Word: 200m  - Frequency: 1
+Word: peit  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: melhor  - Frequency: 2
+Word: temp  - Frequency: 1
+Word: henriqu  - Frequency: 1
+Word: barbos  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: geral  - Frequency: 1
+Word: sem  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 18_melhor
+
+Keyword: 18_melhor_semifinal_200m_peit_masculin_thiag_pereir_conquist_vag_decisã_quint_temp_henriqu_barbos_foi_aind_termin_segund_coloc_classific_geral_sem
+
+NUM: 53
+
+
+NUM: 11
+
+
+NUM: 14
+
+
+NUM: 14
+
+
+NUM: 25
+
+
+NUM: 10
+
+
+NUM: 14
+
+
+NUM: 41
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 33
+
+
+NUM: 22
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 53
+
+
+NUM: 11
+
+
+NUM: 14
+
+
+NUM: 14
+
+
+NUM: 25
+
+
+NUM: 10
+
+
+NUM: 14
+
+
+NUM: 41
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 33
+
+
+NUM: 22
+
+
+---------------BEFORE!-------------
+
+VEC: 0_foi_disput_brasil_conquist_medalh_pan_ciel_emocion_sext_our_revez_4x100_metr_livr_prov_charmos_nataçã_crav_temp_3min15s90_record_sul_13_dour_país_jog_8_pel_nadador_entrou_piscin_fern_silv_nichol_sant_eduard_debon_cés_últim_nã_eliminatór_substituíd_quint_thiag_pereir_ser_poup_final_fundamental_vitór_já_ráp_brasileir
+VEC: 1_medalh_dour_sext_especial_thiag_final_conquist_quint_pan_disput_200
+VEC: 2_200_metr_medley_revez_cost_maior_brasil_thiag_já_lev_prov_400_livr_medalh
+VEC: 3_livr_our_conquist_thiag_sext_record_feminin_revez_pan_metr_200m_brasileir_medalh_brasil
+VEC: 4_nataçã_brasileir_vez_está_fest_manhã_sext_nadador_thiag_pereir_conquist_quart_medalh_our_pel_200m_medley_final_disput_complex_aquát_mar_lenk_marc_1m57s59
+VEC: 5_temp_medalh_final_melhor_lev_fic_modal_fez_nã_consegu
+VEC: 10_nay_ribeir_acab_send_únic_represent_país_termin_sétim_lug_bat_décim_classific_geral
+VEC: 11_200m_medalh_our_brasileir_quart_temp_pan_segu_livr_nicol_oliveir_deix_escap_domin_quas_prov_metr_fin_perd_ritm_acab_coloc_1m49s49_rodrig_castr_fic_quint_medley_thiag_pereir_conquist_rio_janeir_aind_bat_record_2m57s59_marc_anterior_era_1m59s49
+VEC: 14_diog_yab_termin_oitav_2m05s72
+VEC: 16_brasil_eduard_debon_encerr_manhã_vitori_equip_masculin_revez_4x100m_livr_form_pel_atlet_fern_silv_nicol_oliveir_cés_ciel_conquist_our_país_aind_derrub_antig_record_pan_era_3m17s18_nov_marc_3m15s90
+VEC: 18_melhor_semifinal_200m_peit_masculin_thiag_pereir_conquist_vag_decisã_quint_temp_henriqu_barbos_foi_aind_termin_segund_coloc_classific_geral_sem
+
+---------------AFTER!-------------
+
+VEC: 0_foi_disput_brasil_conquist_medalh
+VEC: 1_medalh_dour_sext_especial_thiag
+VEC: 2_200_metr_medley_revez_cost
+VEC: 3_livr_our_conquist_thiag_sext
+VEC: 4_nataçã_brasileir_vez_está_fest
+VEC: 5_temp_medalh_final_melhor_lev
+VEC: 10_nay_ribeir_acab_send_únic
+VEC: 11_200m_medalh_our_brasileir_quart
+VEC: 14_diog_yab_termin_oitav_2m05s72
+VEC: 16_brasil_eduard_debon_encerr_manhã
+VEC: 18_melhor_semifinal_200m_peit_masculin
+Keyword: 0_foi_disput_brasil_conquist_medalh
+Keyword: 1_medalh_dour_sext_especial_thiag
+Keyword: 2_200_metr_medley_revez_cost
+Keyword: 3_livr_our_conquist_thiag_sext
+Keyword: 4_nataçã_brasileir_vez_está_fest
+Keyword: 5_temp_medalh_final_melhor_lev
+Keyword: 10_nay_ribeir_acab_send_únic
+Keyword: 11_200m_medalh_our_brasileir_quart
+Keyword: 14_diog_yab_termin_oitav_2m05s72
+Keyword: 16_brasil_eduard_debon_encerr_manhã
+Keyword: 18_melhor_semifinal_200m_peit_masculin

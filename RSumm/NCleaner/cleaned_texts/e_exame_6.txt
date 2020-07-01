@@ -1,0 +1,14 @@
+<p>
+São Paulo -- O <strong><a href="http://www.exame.com.br/topicos/google">Google </a></strong>desenvolve um novo receptor de <strong><a href="http://www.exame.com.br/topicos/tv">TV</a></strong> via internet com o sistema <strong><a href="http://www.exame.com.br/topicos/android">Android</a></strong>, o Nexus TV, afirma Amir Efrati, do site <a href="https://www.theinformation.com/Google-s-Latest-TV-Takeover-Attempt-Nexus-TV" target="_blank">The Information</a> (de acesso restrito). O receptor poderá ter câmera embutida para videoconferência. É possível que tome o lugar do atual Google TV.</p>
+<p>
+Efrati diz ter recebido a informação de pessoas que viram o produto ou foram informadas sobre ele. É um rumor que já apareceu antes, como notou o blog <a href="http://%20http//9to5google.com/2013/12/06/google-reportedly-gearing-up-to-launch-android-powered-nexus-tv-set-top-box/" target="_blank">9to5Google</a>. Em julho, o <a href="http://blogs.wsj.com/digits/2013/07/25/google-has-showed-another-living-room-device-sources/" target="_blank">Wall Street Journal</a> relatou que o Google já havia demonstrado, em janeiro, um aparelho desse tipo a algumas pessoas.</p>
+<p>
+Ligado a um televisor, esse Nexus TV (o nome não é oficial) permitiria rodar apps do Android, incluindo jogos, além de exibir vídeos do YouTube e de outras fontes na internet. As videoconferências seriam feitas com a câmera embutida por meio do sistema Hangout, do Google.</p>
+<p>
+Em outubro, foi a vez de o site <a href="http://gigaom.com/2013/10/10/google-tv-rebranded-android-tv/" target="_blank">GigaOm</a> afirmar que o Google TV, uma linha de dispositivos produzidos por fabricantes como Sony e LG, passaria a se chamar Android TV. Apesar da diferença nos nomes, GigaOm, Wall Street Journal e The Information parece estar se referindo ao mesmo aparelho.</p>
+<p>
+Lançado em 2010, o Google TV já teve várias versões, mas nunca fez muito sucesso. É oposto do que acontece com o &nbsp;Chromecast, um dispositivo muito mais simples, com o sistema Chrome OS, lançado em julho deste ano. Ele recebe imagens e som de um computador, smartphone ou tablet para exibir no televisor.&nbsp;</p>
+<p>
+Diferentemente do Google TV, ele não tem uma interface que exija navegação na tela do televisor. Em vez disso, é controlado pelo próprio smartphone ou tablet, dispensando controle remoto e teclado. Essa simplicidade faz com que custe apenas 35 dólares nos Estados Unidos, o que o torna muito bem sucedido.</p>
+<p>
+Quanto ao Nexus TV, é possível que seja uma nova versão do atual Google TV, que pode chegar com novo nome. Com o ano terminando, parece que teremos de esperar até 2014 para confirmar. É possível que a empresa mostre esse novo produto durante a feira CES, no início de janeiro em Las Vegas.</p>

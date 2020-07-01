@@ -1,0 +1,5061 @@
+Sentenca(topic=0): O presidente Luiz Inácio Lula da Silva afirmou nesta segunda-feira, durante o programa de rádio "Café com o Presidente", que vai anunciar obras de infra-estrutura que transformarão o Brasil em um "verdadeiro canteiro de obras".
+Sentenca(topic=0): "Quando eu voltar desta viagem pela América Central, nós vamos começar a anunciar as obras de infra-estrutura no que diz respeito a estradas, às ferrovias, a gasodutos, a tudo, a portos, a aeroportos, ou seja, tudo que tiver de infra-estrutura na área de transportes nós vamos anunciar também e começar a liberar o dinheiro para que as obras comecem a acontecer Algumas já estão em andamento, outras vão começar a andar agora, outras ainda precisam de licenciamento O dado concreto é que nós vamos fazer deste país um verdadeiro canteiro de obras em se tratando de infra-estrutura", disse.
+Sentenca(topic=1): Lula disse que a prioridade é a realização de obras nas regiões metropolitanas de grandes centros urbanos.
+Sentenca(topic=1): "Nós demos prioridade para regiões metropolitanas dos grandes centros urbanos brasileiros porque é lá que está o maior problema de degradação da moradia, degradação da estrutura familiar, violência, crime, narcotráfico, ou seja, quando nós chegarmos com urbanização de uma favela, o saneamento básico, junto vai chegar uma escola, junto vai chegar uma área de lazer, junto vai chegar um ponto de cultura, junto vai chegar, sabe, uma melhoria na segurança pública naquele bairro E a novidade é o compromisso dos governadores."
+Sentenca(topic=1): O presidente afirmou ainda que o critério para os municípios e Estados contemplados com obras é técnico.
+Sentenca(topic=1): "O critério é eminentemente técnico, ou seja, eu não quero saber se o prefeito é do PFL, do PT, do PMDB, do PSDB, do PTB, do PR, do PC do B Eu quero saber se aquela cidade tem as condições técnicas que permitem que este dinheiro seja aplicado e se tem o processo de necessidade da população Então, o critério é um critério técnico Ou seja, nós olhamos para a cara da população, para as necessidades da população  e aí, se tiver o problema, recebe o dinheiro."
+Sentenca(topic=2): O presidente Luiz Inácio Lula da Silva disse, nesta segunda-feira, 6, que irá transformar o Brasil em "um verdadeiro canteiro de obra".
+Sentenca(topic=2): Lula disse que, na próxima semana, quando voltar da viagem que está fazendo pela América Central, irá começar a anunciar as obras de infra-estrutura em transporte como estradas, ferrovias, gasodutos a portos e aeroportos.
+Sentenca(topic=2): "Algumas (obras) já estão em andamento, outras vão começar a andar agora, outras ainda precisam de licenciamento".
+Sentenca(topic=3): Lula anunciou na sexta-feira R$ 6 bilhões em investimentos do Programa de Aceleração do Crescimento (PAC) para urbanização de favelas e saneamento básico.
+Sentenca(topic=3): Em seu programa semanal de rádio, Café com o Presidente, Lula disse que este será o maior investimento em saneamento "da história do País".
+Sentenca(topic=3): Para o presidente, "na cabeça de muitos políticos" saneamento não dá voto, porque não dá para colocar nome de parente na obra.
+Sentenca(topic=3): "A saúde preventiva é importante porque fica mais barato você evitar que a pessoa fique doente do que você cuidar da pessoa depois que ela ficou doente", disse Lula.
+Sentenca(topic=4): Segundo o presidente, serão investidos R$ 504 bilhões no PAC - R$ 106 bilhões em habitação e R$ 40 bilhões em saneamento - até 2010.
+Sentenca(topic=4): Lula disse que o critério para o investimento nas cidades será técnico, não partidário.
+Sentenca(topic=4): Lula disse que o governo federal chamou governadores e prefeitos de 375 cidades para assinarem um protocolo com as obras de prioridade.
+Sentenca(topic=4): Ele explicou que a prioridade foi para regiões metropolitanas, porque, segundo ele, é lá que está o maior problema de degradação de moradia, estrutura familiar, violência, crime e narcotráfico.
+Sentenca(topic=5): "Quando nós chegarmos com urbanização de uma favela, o saneamento básico, junto vai chegar uma escola, junto vai chegar uma área de lazer, junto vai chegar um ponto de cultura, junto vai chegar, sabe, uma melhoria na segurança pública naquele bairro".
+Sentenca(topic=6): Lula disse que além de melhorar a qualidade de vida dos brasileiros, as obras vão gerar empregos.
+Sentenca(topic=6): "O nosso desejo, agora, é que essas obras que foram anunciadas agora, até fevereiro elas estejam licitadas e estejam gerando os empregos e a melhoria de vida que tanto nós precisamos para o nosso Brasil".
+Sentenca(topic=7): O presidente Luiz Inácio Lula da Silva disse na manhã desta segunda-feira, no programa Café com o Presidente, que o Brasil se transformará em um "canteiro de obra".
+Sentenca(topic=8): O governo federal prepara o anúncio de uma série de investimentos na malha de transportes.
+Sentenca(topic=8): Eles devem ser anunciados pelo presidente na próxima semana, após viagem pela América Central.
+Sentenca(topic=9): Os recursos para a malha de transportes fazem parte dos R$ 504 bilhões previstos no Programa de Aceleração do Crescimento (PAC).
+Sentenca(topic=10): Lula ressaltou que algumas das obras a serem anunciadas já estão em andamento e outras devem começar de imediato.
+Sentenca(topic=10): Também está prevista a inclusão de obras que ainda necessitam de licenciamento.
+Sentenca(topic=11): - O dado concreto é que nós vamos fazer deste País um verdadeiro canteiro de obra em se tratando de infra-estrutura - disse o presidente.
+Sentenca(topic=12): Ele não antecipou o volume de recursos nem onde serão aplicados.
+Sentenca(topic=12): Mas, segundo o presidente, as obras de infra-estrutura serão realizadas em rodovias, ferrovias, gasodutos e aeroportos.
+Sentenca(topic=13): - Tudo que tiver de infra-estrutura na área de transportes nós vamos anunciar também e começar a liberar o dinheiro para que as obras comecem a acontecer.
+Sentenca(topic=14): Lula destacou que a liberação de recursos para obras de saneamento básico e habitação previstos no Programa de Aceleração do Crescimento (PAC) obedecerá critérios exclusivamente técnicos.
+Sentenca(topic=14): Segundo o presidente, R$ 106 bilhões serão destinados ao setor de habitação e outros R$ 40 bilhões serão investidos em saneamento básico.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: president  - Frequency: 2
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: program  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: anunc  - Frequency: 3
+Word: obras  - Frequency: 5
+Word: infra  - Frequency: 4
+Word: transform  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: canteir  - Frequency: 2
+Word: volt  - Frequency: 1
+Word: viag  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: amér  - Frequency: 1
+Word: central  - Frequency: 1
+Word: nós  - Frequency: 3
+Word: vam  - Frequency: 3
+Word: comec  - Frequency: 4
+Word: diz  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: às  - Frequency: 1
+Word: ferrov  - Frequency: 1
+Word: gasodut  - Frequency: 1
+Word: port  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: também  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: já  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: andament  - Frequency: 1
+Word: vã  - Frequency: 1
+Word: andar  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: licenc  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: concret  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: país  - Frequency: 1
+Word: verdadeir  - Frequency: 1
+Word: trat  - Frequency: 1
+Word: diss  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_obras
+
+Keyword: 0_obras_infra_comec
+
+Keyword: 0_obras_infra_comec_anunc_nós_vam
+
+Keyword: 0_obras_infra_comec_anunc_nós_vam_president_canteir
+
+
+------------------------------------------------------------
+Topic: 1
+Word: lul  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: prioridad  - Frequency: 2
+Word: realiz  - Frequency: 1
+Word: obras  - Frequency: 2
+Word: regiõ  - Frequency: 2
+Word: metropolitan  - Frequency: 2
+Word: grand  - Frequency: 2
+Word: centr  - Frequency: 2
+Word: urban  - Frequency: 2
+Word: dem  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: lá  - Frequency: 1
+Word: está  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: problem  - Frequency: 2
+Word: degrad  - Frequency: 2
+Word: morad  - Frequency: 1
+Word: estrutur  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: violênc  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+Word: sej  - Frequency: 4
+Word: nós  - Frequency: 2
+Word: cheg  - Frequency: 5
+Word: urbaniz  - Frequency: 1
+Word: favel  - Frequency: 1
+Word: saneament  - Frequency: 1
+Word: básic  - Frequency: 1
+Word: junt  - Frequency: 4
+Word: vai  - Frequency: 4
+Word: escol  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: laz  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: cultur  - Frequency: 1
+Word: sab  - Frequency: 3
+Word: melhor  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: bairr  - Frequency: 1
+Word: novidad  - Frequency: 1
+Word: compromiss  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: president  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: critéri  - Frequency: 4
+Word: municípi  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: contempl  - Frequency: 1
+Word: técnic  - Frequency: 4
+Word: eminent  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: quer  - Frequency: 2
+Word: prefeit  - Frequency: 1
+Word: pfl  - Frequency: 1
+Word: pt  - Frequency: 1
+Word: pmdb  - Frequency: 1
+Word: psdb  - Frequency: 1
+Word: ptb  - Frequency: 1
+Word: pr  - Frequency: 1
+Word: pc  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: tem  - Frequency: 2
+Word: condiçõ  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: dinheir  - Frequency: 2
+Word: aplic  - Frequency: 1
+Word: process  - Frequency: 1
+Word: necess  - Frequency: 2
+Word: popul  - Frequency: 3
+Word: entã  - Frequency: 1
+Word: olham  - Frequency: 1
+Word: car  - Frequency: 1
+Word: aí  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: receb  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_cheg
+
+Keyword: 1_cheg_sej_junt_vai_critéri_técnic
+
+Keyword: 1_cheg_sej_junt_vai_critéri_técnic_sab_popul
+
+
+------------------------------------------------------------
+Topic: 2
+Word: president  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 2
+Word: silv  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: irá  - Frequency: 2
+Word: transform  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: verdadeir  - Frequency: 1
+Word: canteir  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: viag  - Frequency: 1
+Word: está  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: amér  - Frequency: 1
+Word: central  - Frequency: 1
+Word: comec  - Frequency: 2
+Word: anunc  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: com  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: ferrov  - Frequency: 1
+Word: gasodut  - Frequency: 1
+Word: port  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: já  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: andament  - Frequency: 1
+Word: vã  - Frequency: 1
+Word: andar  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: licenc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_lul_diss_irá_comec
+
+Keyword: 2_lul_diss_irá_comec_president_luiz_ináci_silv_segund_6_transform_brasil_verdadeir_canteir_obra_próxim_seman_volt_viag_está_faz_pel_amér_central_anunc_obras_infra_transport_com_estrad_ferrov_gasodut_port_aeroport_já_estã_andament_vã_andar_agor_aind_precis_licenc
+
+
+------------------------------------------------------------
+Topic: 3
+Word: lul  - Frequency: 3
+Word: anunc  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: invest  - Frequency: 2
+Word: program  - Frequency: 2
+Word: aceler  - Frequency: 1
+Word: cresciment  - Frequency: 1
+Word: urbaniz  - Frequency: 1
+Word: favel  - Frequency: 1
+Word: saneament  - Frequency: 3
+Word: básic  - Frequency: 1
+Word: semanal  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: caf  - Frequency: 1
+Word: president  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: país  - Frequency: 1
+Word: cabec  - Frequency: 1
+Word: polít  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: dá  - Frequency: 2
+Word: vot  - Frequency: 1
+Word: porqu  - Frequency: 2
+Word: coloc  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: parent  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: prevent  - Frequency: 1
+Word: import  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: barat  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: fiqu  - Frequency: 1
+Word: doent  - Frequency: 2
+Word: cuid  - Frequency: 1
+Word: depo  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_lul_saneament
+
+Keyword: 3_lul_saneament_invest_program_president_diss_nã_dá_porqu_fic_pesso_doent
+
+
+------------------------------------------------------------
+Topic: 4
+Word: segund  - Frequency: 2
+Word: president  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: invest  - Frequency: 2
+Word: r$  - Frequency: 3
+Word: 504  - Frequency: 1
+Word: bilhõ  - Frequency: 3
+Word: pac  - Frequency: 1
+Word: 106  - Frequency: 1
+Word: habit  - Frequency: 1
+Word: 40  - Frequency: 1
+Word: saneament  - Frequency: 1
+Word: 2010  - Frequency: 1
+Word: lul  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: critéri  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: partidári  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: federal  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: prefeit  - Frequency: 1
+Word: 375  - Frequency: 1
+Word: assin  - Frequency: 1
+Word: protocol  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: prioridad  - Frequency: 2
+Word: explic  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: metropolitan  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: lá  - Frequency: 1
+Word: está  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: degrad  - Frequency: 1
+Word: morad  - Frequency: 1
+Word: estrutur  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: violênc  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_r$_bilhõ
+
+Keyword: 4_r$_bilhõ_segund_invest_lul_diss_cidad_govern_prioridad
+
+Keyword: 4_r$_bilhõ_segund_invest_lul_diss_cidad_govern_prioridad_president_serã_504_pac_106_habit_40_saneament_2010_critéri_ser_técnic_nã_partidári_federal_cham_prefeit_375_assin_protocol_obras_explic_foi_regiõ_metropolitan_porqu_lá_está_maior_problem_degrad_morad_estrutur_famili_violênc_crim_narcotráf
+
+
+------------------------------------------------------------
+Topic: 5
+Word: nós  - Frequency: 1
+Word: cheg  - Frequency: 5
+Word: urbaniz  - Frequency: 1
+Word: favel  - Frequency: 1
+Word: saneament  - Frequency: 1
+Word: básic  - Frequency: 1
+Word: junt  - Frequency: 4
+Word: vai  - Frequency: 4
+Word: escol  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: laz  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: cultur  - Frequency: 1
+Word: sab  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: bairr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_cheg
+
+Keyword: 5_cheg_junt_vai
+
+Keyword: 5_cheg_junt_vai
+
+Keyword: 5_cheg_junt_vai
+
+Keyword: 5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic_escol_áre_laz_pont_cultur_sab_melhor_seguranc_públic_bairr
+
+
+------------------------------------------------------------
+Topic: 6
+Word: lul  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: além  - Frequency: 1
+Word: melhor  - Frequency: 2
+Word: qualidad  - Frequency: 1
+Word: vid  - Frequency: 2
+Word: brasileir  - Frequency: 1
+Word: obras  - Frequency: 2
+Word: vã  - Frequency: 1
+Word: ger  - Frequency: 2
+Word: empreg  - Frequency: 2
+Word: noss  - Frequency: 2
+Word: desej  - Frequency: 1
+Word: agor  - Frequency: 2
+Word: for  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: fevereir  - Frequency: 1
+Word: estej  - Frequency: 2
+Word: licit  - Frequency: 1
+Word: nós  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: brasil  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_melhor_vid_obras_ger_empreg_noss_agor_estej
+
+Keyword: 6_melhor_vid_obras_ger_empreg_noss_agor_estej_lul_diss_além_qualidad_brasileir_vã_desej_for_anunc_fevereir_licit_nós_precis_brasil
+
+
+------------------------------------------------------------
+Topic: 7
+Word: president  - Frequency: 2
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: program  - Frequency: 1
+Word: caf  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: transform  - Frequency: 1
+Word: obra  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_president
+
+Keyword: 7_president_luiz_ináci_lul_silv_diss_manhã_segund_program_caf_brasil_transform_obra
+
+
+------------------------------------------------------------
+Topic: 8
+Word: govern  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: prep  - Frequency: 1
+Word: anúnci  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: malh  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: president  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: viag  - Frequency: 1
+Word: amér  - Frequency: 1
+Word: central  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_pel
+
+Keyword: 8_pel_govern_federal_prep_anúnci_séri_invest_malh_transport_dev_ser_anunc_president_próxim_seman_viag_amér_central
+
+
+------------------------------------------------------------
+Topic: 9
+Word: recurs  - Frequency: 1
+Word: malh  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 504  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: previst  - Frequency: 1
+Word: program  - Frequency: 1
+Word: aceler  - Frequency: 1
+Word: cresciment  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_recurs_malh_transport_faz_part_r$_504_bilhõ_previst_program_aceler_cresciment
+
+
+------------------------------------------------------------
+Topic: 10
+Word: lul  - Frequency: 1
+Word: ressalt  - Frequency: 1
+Word: obras  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: já  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: andament  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: imediat  - Frequency: 1
+Word: também  - Frequency: 1
+Word: está  - Frequency: 1
+Word: previst  - Frequency: 1
+Word: inclusã  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: necessit  - Frequency: 1
+Word: licenc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_obras
+
+Keyword: 10_obras_lul_ressalt_ser_anunc_já_estã_andament_dev_comec_imediat_também_está_previst_inclusã_aind_necessit_licenc
+
+
+------------------------------------------------------------
+Topic: 11
+Word: dad  - Frequency: 1
+Word: concret  - Frequency: 1
+Word: nós  - Frequency: 1
+Word: vam  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: país  - Frequency: 1
+Word: verdadeir  - Frequency: 1
+Word: canteir  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: trat  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: president  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_dad_concret_nós_vam_faz_país_verdadeir_canteir_obra_trat_infra_diss_president
+
+
+------------------------------------------------------------
+Topic: 12
+Word: nã  - Frequency: 1
+Word: antecip  - Frequency: 1
+Word: volum  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: serã  - Frequency: 2
+Word: aplic  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: president  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: rodov  - Frequency: 1
+Word: ferrov  - Frequency: 1
+Word: gasodut  - Frequency: 1
+Word: aeroport  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_serã
+
+Keyword: 12_serã_nã_antecip_volum_recurs_aplic_segund_president_obras_infra_realiz_rodov_ferrov_gasodut_aeroport
+
+
+------------------------------------------------------------
+Topic: 13
+Word: tiv  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: nós  - Frequency: 1
+Word: vam  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: também  - Frequency: 1
+Word: comec  - Frequency: 2
+Word: liber  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: acontec  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_comec
+
+Keyword: 13_comec_tiv_infra_áre_transport_nós_vam_anunc_também_liber_dinheir_obras_acontec
+
+
+------------------------------------------------------------
+Topic: 14
+Word: lul  - Frequency: 1
+Word: destac  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: saneament  - Frequency: 2
+Word: básic  - Frequency: 2
+Word: habit  - Frequency: 2
+Word: previst  - Frequency: 1
+Word: program  - Frequency: 1
+Word: aceler  - Frequency: 1
+Word: cresciment  - Frequency: 1
+Word: obedec  - Frequency: 1
+Word: critéri  - Frequency: 1
+Word: exclus  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: president  - Frequency: 1
+Word: r$  - Frequency: 2
+Word: 106  - Frequency: 1
+Word: bilhõ  - Frequency: 2
+Word: serã  - Frequency: 2
+Word: destin  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: 40  - Frequency: 1
+Word: invest  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_saneament_básic_habit_r$_bilhõ_serã
+
+Keyword: 14_saneament_básic_habit_r$_bilhõ_serã_lul_destac_liber_recurs_obras_previst_program_aceler_cresciment_obedec_critéri_exclus_técnic_segund_president_106_destin_setor_40_invest
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 8
+
+
+NUM: 43
+
+
+NUM: 12
+
+
+NUM: 46
+
+
+NUM: 18
+
+
+NUM: 22
+
+
+NUM: 13
+
+
+NUM: 18
+
+
+NUM: 12
+
+
+NUM: 18
+
+
+NUM: 13
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+NUM: 26
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 8
+
+
+NUM: 43
+
+
+NUM: 12
+
+
+NUM: 46
+
+
+NUM: 18
+
+
+NUM: 22
+
+
+NUM: 13
+
+
+NUM: 18
+
+
+NUM: 12
+
+
+NUM: 18
+
+
+NUM: 13
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+NUM: 26
+
+
+---------------BEFORE!-------------
+
+VEC: 0_obras_infra_comec_anunc_nós_vam_president_canteir
+VEC: 1_cheg_sej_junt_vai_critéri_técnic_sab_popul
+VEC: 2_lul_diss_irá_comec_president_luiz_ináci_silv_segund_6_transform_brasil_verdadeir_canteir_obra_próxim_seman_volt_viag_está_faz_pel_amér_central_anunc_obras_infra_transport_com_estrad_ferrov_gasodut_port_aeroport_já_estã_andament_vã_andar_agor_aind_precis_licenc
+VEC: 3_lul_saneament_invest_program_president_diss_nã_dá_porqu_fic_pesso_doent
+VEC: 4_r$_bilhõ_segund_invest_lul_diss_cidad_govern_prioridad_president_serã_504_pac_106_habit_40_saneament_2010_critéri_ser_técnic_nã_partidári_federal_cham_prefeit_375_assin_protocol_obras_explic_foi_regiõ_metropolitan_porqu_lá_está_maior_problem_degrad_morad_estrutur_famili_violênc_crim_narcotráf
+VEC: 5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic_escol_áre_laz_pont_cultur_sab_melhor_seguranc_públic_bairr
+VEC: 6_melhor_vid_obras_ger_empreg_noss_agor_estej_lul_diss_além_qualidad_brasileir_vã_desej_for_anunc_fevereir_licit_nós_precis_brasil
+VEC: 7_president_luiz_ináci_lul_silv_diss_manhã_segund_program_caf_brasil_transform_obra
+VEC: 8_pel_govern_federal_prep_anúnci_séri_invest_malh_transport_dev_ser_anunc_president_próxim_seman_viag_amér_central
+VEC: 9_recurs_malh_transport_faz_part_r$_504_bilhõ_previst_program_aceler_cresciment
+VEC: 10_obras_lul_ressalt_ser_anunc_já_estã_andament_dev_comec_imediat_também_está_previst_inclusã_aind_necessit_licenc
+VEC: 11_dad_concret_nós_vam_faz_país_verdadeir_canteir_obra_trat_infra_diss_president
+VEC: 12_serã_nã_antecip_volum_recurs_aplic_segund_president_obras_infra_realiz_rodov_ferrov_gasodut_aeroport
+VEC: 13_comec_tiv_infra_áre_transport_nós_vam_anunc_também_liber_dinheir_obras_acontec
+VEC: 14_saneament_básic_habit_r$_bilhõ_serã_lul_destac_liber_recurs_obras_previst_program_aceler_cresciment_obedec_critéri_exclus_técnic_segund_president_106_destin_setor_40_invest
+
+---------------AFTER!-------------
+
+VEC: 0_obras_infra_comec_anunc_nós_vam_president_canteir
+VEC: 1_cheg_sej_junt_vai_critéri_técnic_sab_popul
+VEC: 2_lul_diss_irá_comec_president_luiz_ináci_silv
+VEC: 3_lul_saneament_invest_program_president_diss_nã_dá
+VEC: 4_r$_bilhõ_segund_invest_lul_diss_cidad_govern
+VEC: 5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic
+VEC: 6_melhor_vid_obras_ger_empreg_noss_agor_estej
+VEC: 7_president_luiz_ináci_lul_silv_diss_manhã_segund
+VEC: 8_pel_govern_federal_prep_anúnci_séri_invest_malh
+VEC: 9_recurs_malh_transport_faz_part_r$_504_bilhõ
+VEC: 10_obras_lul_ressalt_ser_anunc_já_estã_andament
+VEC: 11_dad_concret_nós_vam_faz_país_verdadeir_canteir
+VEC: 12_serã_nã_antecip_volum_recurs_aplic_segund_president
+VEC: 13_comec_tiv_infra_áre_transport_nós_vam_anunc
+VEC: 14_saneament_básic_habit_r$_bilhõ_serã_lul_destac
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+SIM: 0.75
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.1
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "13_comec_tiv_infra_áre_transport_nós_vam_anunc" is "0.111111"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "12_serã_nã_antecip_volum_recurs_aplic_segund_president" is "0.222222"
+
+CHANGE! -- From: 15 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "10_obras_lul_ressalt_ser_anunc_já_estã_andament" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "9_recurs_malh_transport_faz_part_r$_504_bilhõ" is "0.222222"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "8_pel_govern_federal_prep_anúnci_séri_invest_malh" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "7_president_luiz_ináci_lul_silv_diss_manhã_segund" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0.222222"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0.333333"
+
+CHANGE! -- From: 15 -> TO: 5
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0.222222"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_saneament_básic_habit_r$_bilhõ_serã_lul_destac" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 4 -- Abs: 10
+
+
+Topic change from "14" to "4"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 4 -- Abs: 10
+
+
+Topic change from "14" to "4"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "12_serã_nã_antecip_volum_recurs_aplic_segund_president" is "0.111111"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" is "0.333333"
+
+CHANGE! -- From: 14 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "10_obras_lul_ressalt_ser_anunc_já_estã_andament" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "9_recurs_malh_transport_faz_part_r$_504_bilhõ" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "8_pel_govern_federal_prep_anúnci_séri_invest_malh" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "7_president_luiz_ináci_lul_silv_diss_manhã_segund" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "13_comec_tiv_infra_áre_transport_nós_vam_anunc" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.555556"
+
+CHANGE! -- From: 14 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 13 -- Topic s_aux: 0 -- Abs: 13
+
+
+Topic change from "13" to "0"
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" is "0.111111"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "10_obras_lul_ressalt_ser_anunc_já_estã_andament" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "9_recurs_malh_transport_faz_part_r$_504_bilhõ" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "8_pel_govern_federal_prep_anúnci_séri_invest_malh" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "7_president_luiz_ináci_lul_silv_diss_manhã_segund" is "0.222222"
+
+CHANGE! -- From: 13 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0.222222"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_serã_nã_antecip_volum_recurs_aplic_segund_president" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 7 -- Abs: 5
+
+
+Topic change from "12" to "7"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 7 -- Abs: 5
+
+
+Topic change from "12" to "7"
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "10_obras_lul_ressalt_ser_anunc_já_estã_andament" is "0.111111"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "9_recurs_malh_transport_faz_part_r$_504_bilhõ" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "8_pel_govern_federal_prep_anúnci_séri_invest_malh" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "7_president_luiz_ináci_lul_silv_diss_manhã_segund" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "11_dad_concret_nós_vam_faz_país_verdadeir_canteir" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.333333"
+
+CHANGE! -- From: 12 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 0 -- Abs: 11
+
+
+Topic change from "11" to "0"
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "9_recurs_malh_transport_faz_part_r$_504_bilhõ" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "8_pel_govern_federal_prep_anúnci_séri_invest_malh" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "7_president_luiz_ináci_lul_silv_diss_manhã_segund" is "0.111111"
+
+CHANGE! -- From: 11 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "10_obras_lul_ressalt_ser_anunc_já_estã_andament" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.222222"
+
+CHANGE! -- From: 11 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 0 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "8_pel_govern_federal_prep_anúnci_séri_invest_malh" is "0.125"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "7_president_luiz_ináci_lul_silv_diss_manhã_segund" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0.25"
+
+CHANGE! -- From: 10 -> TO: 5
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_recurs_malh_transport_faz_part_r$_504_bilhõ" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 4 -- Abs: 5
+
+
+Topic change from "9" to "4"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "7_president_luiz_ináci_lul_silv_diss_manhã_segund" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0.25"
+
+CHANGE! -- From: 9 -> TO: 5
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0.125"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_govern_federal_prep_anúnci_séri_invest_malh" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_president_luiz_ináci_lul_silv_diss_manhã_segund" and "6_melhor_vid_obras_ger_empreg_noss_agor_estej" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_president_luiz_ináci_lul_silv_diss_manhã_segund" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "7_president_luiz_ináci_lul_silv_diss_manhã_segund" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0.375"
+
+CHANGE! -- From: 8 -> TO: 5
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "7_president_luiz_ináci_lul_silv_diss_manhã_segund" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0.375"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+Similarity between "7_president_luiz_ináci_lul_silv_diss_manhã_segund" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0.75"
+
+CHANGE! -- From: 8 -> TO: 3
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_president_luiz_ináci_lul_silv_diss_manhã_segund" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_president_luiz_ináci_lul_silv_diss_manhã_segund" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_melhor_vid_obras_ger_empreg_noss_agor_estej" and "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_melhor_vid_obras_ger_empreg_noss_agor_estej" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_melhor_vid_obras_ger_empreg_noss_agor_estej" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_melhor_vid_obras_ger_empreg_noss_agor_estej" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_melhor_vid_obras_ger_empreg_noss_agor_estej" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_melhor_vid_obras_ger_empreg_noss_agor_estej" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.125"
+
+CHANGE! -- From: 7 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 2 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" and "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0.125"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0.375"
+
+CHANGE! -- From: 6 -> TO: 2
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_cheg_junt_vai_nós_urbaniz_favel_saneament_básic" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" and "3_lul_saneament_invest_program_president_diss_nã_dá" is "0.375"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0.25"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_r$_bilhõ_segund_invest_lul_diss_cidad_govern" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "3_lul_saneament_invest_program_president_diss_nã_dá" and "2_lul_diss_irá_comec_president_luiz_ináci_silv" is "0.375"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_lul_saneament_invest_program_president_diss_nã_dá" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_lul_saneament_invest_program_president_diss_nã_dá" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_lul_diss_irá_comec_president_luiz_ináci_silv" and "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "2_lul_diss_irá_comec_president_luiz_ináci_silv" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0.25"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_cheg_sej_junt_vai_critéri_técnic_sab_popul" and "0_obras_infra_comec_anunc_nós_vam_president_canteir" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+NUM_TOPICS: 9
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: president  - Frequency: 7
+Word: luiz  - Frequency: 3
+Word: ináci  - Frequency: 3
+Word: lul  - Frequency: 6
+Word: silv  - Frequency: 3
+Word: afirm  - Frequency: 1
+Word: segund  - Frequency: 4
+Word: durant  - Frequency: 1
+Word: program  - Frequency: 2
+Word: rádi  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: anunc  - Frequency: 7
+Word: obras  - Frequency: 12
+Word: infra  - Frequency: 8
+Word: transform  - Frequency: 3
+Word: brasil  - Frequency: 4
+Word: canteir  - Frequency: 4
+Word: volt  - Frequency: 2
+Word: viag  - Frequency: 2
+Word: pel  - Frequency: 2
+Word: amér  - Frequency: 2
+Word: central  - Frequency: 2
+Word: nós  - Frequency: 6
+Word: vam  - Frequency: 5
+Word: comec  - Frequency: 9
+Word: diz  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: estrad  - Frequency: 2
+Word: às  - Frequency: 1
+Word: ferrov  - Frequency: 3
+Word: gasodut  - Frequency: 3
+Word: port  - Frequency: 2
+Word: aeroport  - Frequency: 3
+Word: sej  - Frequency: 1
+Word: tiv  - Frequency: 2
+Word: áre  - Frequency: 2
+Word: transport  - Frequency: 3
+Word: também  - Frequency: 3
+Word: liber  - Frequency: 2
+Word: dinheir  - Frequency: 2
+Word: acontec  - Frequency: 2
+Word: já  - Frequency: 3
+Word: estã  - Frequency: 3
+Word: andament  - Frequency: 3
+Word: vã  - Frequency: 3
+Word: andar  - Frequency: 2
+Word: agor  - Frequency: 4
+Word: aind  - Frequency: 3
+Word: precis  - Frequency: 3
+Word: licenc  - Frequency: 3
+Word: dad  - Frequency: 2
+Word: concret  - Frequency: 2
+Word: faz  - Frequency: 3
+Word: país  - Frequency: 2
+Word: verdadeir  - Frequency: 3
+Word: trat  - Frequency: 2
+Word: diss  - Frequency: 6
+Word: 6  - Frequency: 1
+Word: irá  - Frequency: 2
+Word: obra  - Frequency: 3
+Word: próxim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: está  - Frequency: 2
+Word: com  - Frequency: 1
+Word: além  - Frequency: 1
+Word: melhor  - Frequency: 2
+Word: qualidad  - Frequency: 1
+Word: vid  - Frequency: 2
+Word: brasileir  - Frequency: 1
+Word: ger  - Frequency: 2
+Word: empreg  - Frequency: 2
+Word: noss  - Frequency: 2
+Word: desej  - Frequency: 1
+Word: for  - Frequency: 1
+Word: fevereir  - Frequency: 1
+Word: estej  - Frequency: 2
+Word: licit  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: caf  - Frequency: 1
+Word: ressalt  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: imediat  - Frequency: 1
+Word: previst  - Frequency: 1
+Word: inclusã  - Frequency: 1
+Word: necessit  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: antecip  - Frequency: 1
+Word: volum  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: serã  - Frequency: 2
+Word: aplic  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: rodov  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_obras
+
+Keyword: 0_obras
+
+Keyword: 0_obras
+
+Keyword: 0_obras_comec
+
+Keyword: 0_obras_comec_infra
+
+Keyword: 0_obras_comec_infra_president_anunc
+
+Keyword: 0_obras_comec_infra_president_anunc_lul_nós_diss
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: lul  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: prioridad  - Frequency: 2
+Word: realiz  - Frequency: 1
+Word: obras  - Frequency: 2
+Word: regiõ  - Frequency: 2
+Word: metropolitan  - Frequency: 2
+Word: grand  - Frequency: 2
+Word: centr  - Frequency: 2
+Word: urban  - Frequency: 2
+Word: dem  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: lá  - Frequency: 1
+Word: está  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: problem  - Frequency: 2
+Word: degrad  - Frequency: 2
+Word: morad  - Frequency: 1
+Word: estrutur  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: violênc  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+Word: sej  - Frequency: 4
+Word: nós  - Frequency: 3
+Word: cheg  - Frequency: 10
+Word: urbaniz  - Frequency: 2
+Word: favel  - Frequency: 2
+Word: saneament  - Frequency: 2
+Word: básic  - Frequency: 2
+Word: junt  - Frequency: 8
+Word: vai  - Frequency: 8
+Word: escol  - Frequency: 2
+Word: áre  - Frequency: 2
+Word: laz  - Frequency: 2
+Word: pont  - Frequency: 2
+Word: cultur  - Frequency: 2
+Word: sab  - Frequency: 4
+Word: melhor  - Frequency: 2
+Word: seguranc  - Frequency: 2
+Word: públic  - Frequency: 2
+Word: bairr  - Frequency: 2
+Word: novidad  - Frequency: 1
+Word: compromiss  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: president  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: critéri  - Frequency: 4
+Word: municípi  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: contempl  - Frequency: 1
+Word: técnic  - Frequency: 4
+Word: eminent  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: quer  - Frequency: 2
+Word: prefeit  - Frequency: 1
+Word: pfl  - Frequency: 1
+Word: pt  - Frequency: 1
+Word: pmdb  - Frequency: 1
+Word: psdb  - Frequency: 1
+Word: ptb  - Frequency: 1
+Word: pr  - Frequency: 1
+Word: pc  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: tem  - Frequency: 2
+Word: condiçõ  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: dinheir  - Frequency: 2
+Word: aplic  - Frequency: 1
+Word: process  - Frequency: 1
+Word: necess  - Frequency: 2
+Word: popul  - Frequency: 3
+Word: entã  - Frequency: 1
+Word: olham  - Frequency: 1
+Word: car  - Frequency: 1
+Word: aí  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: receb  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_cheg
+
+Keyword: 1_cheg
+
+Keyword: 1_cheg_junt_vai
+
+Keyword: 1_cheg_junt_vai
+
+Keyword: 1_cheg_junt_vai
+
+Keyword: 1_cheg_junt_vai
+
+Keyword: 1_cheg_junt_vai_sej_sab_critéri_técnic
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: lul  - Frequency: 3
+Word: anunc  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: invest  - Frequency: 2
+Word: program  - Frequency: 2
+Word: aceler  - Frequency: 1
+Word: cresciment  - Frequency: 1
+Word: urbaniz  - Frequency: 1
+Word: favel  - Frequency: 1
+Word: saneament  - Frequency: 3
+Word: básic  - Frequency: 1
+Word: semanal  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: caf  - Frequency: 1
+Word: president  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: país  - Frequency: 1
+Word: cabec  - Frequency: 1
+Word: polít  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: dá  - Frequency: 2
+Word: vot  - Frequency: 1
+Word: porqu  - Frequency: 2
+Word: coloc  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: parent  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: prevent  - Frequency: 1
+Word: import  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: barat  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: fiqu  - Frequency: 1
+Word: doent  - Frequency: 2
+Word: cuid  - Frequency: 1
+Word: depo  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_lul_saneament
+
+Keyword: 3_lul_saneament_invest_program_president_diss_nã_dá_porqu_fic_pesso_doent
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: segund  - Frequency: 3
+Word: president  - Frequency: 3
+Word: serã  - Frequency: 3
+Word: invest  - Frequency: 4
+Word: r$  - Frequency: 6
+Word: 504  - Frequency: 2
+Word: bilhõ  - Frequency: 6
+Word: pac  - Frequency: 1
+Word: 106  - Frequency: 2
+Word: habit  - Frequency: 3
+Word: 40  - Frequency: 2
+Word: saneament  - Frequency: 3
+Word: 2010  - Frequency: 1
+Word: lul  - Frequency: 3
+Word: diss  - Frequency: 2
+Word: critéri  - Frequency: 2
+Word: cidad  - Frequency: 2
+Word: ser  - Frequency: 2
+Word: técnic  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: partidári  - Frequency: 1
+Word: govern  - Frequency: 3
+Word: federal  - Frequency: 2
+Word: cham  - Frequency: 1
+Word: prefeit  - Frequency: 1
+Word: 375  - Frequency: 1
+Word: assin  - Frequency: 1
+Word: protocol  - Frequency: 1
+Word: obras  - Frequency: 2
+Word: prioridad  - Frequency: 2
+Word: explic  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: metropolitan  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: lá  - Frequency: 1
+Word: está  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: degrad  - Frequency: 1
+Word: morad  - Frequency: 1
+Word: estrutur  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: violênc  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+Word: prep  - Frequency: 1
+Word: anúnci  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: malh  - Frequency: 2
+Word: transport  - Frequency: 2
+Word: dev  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: próxim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: viag  - Frequency: 1
+Word: amér  - Frequency: 1
+Word: central  - Frequency: 1
+Word: recurs  - Frequency: 2
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: previst  - Frequency: 2
+Word: program  - Frequency: 2
+Word: aceler  - Frequency: 2
+Word: cresciment  - Frequency: 2
+Word: destac  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: básic  - Frequency: 2
+Word: obedec  - Frequency: 1
+Word: exclus  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: setor  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_r$_bilhõ
+
+Keyword: 4_r$_bilhõ
+
+Keyword: 4_r$_bilhõ_invest
+
+Keyword: 4_r$_bilhõ_invest_segund_president_serã_habit_saneament_lul_govern
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 12
+
+
+NUM: 10
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 12
+
+
+NUM: 10
+
+
+---------------BEFORE!-------------
+
+VEC: 0_obras_comec_infra_president_anunc_lul_nós_diss
+VEC: 1_cheg_junt_vai_sej_sab_critéri_técnic
+VEC: 3_lul_saneament_invest_program_president_diss_nã_dá_porqu_fic_pesso_doent
+VEC: 4_r$_bilhõ_invest_segund_president_serã_habit_saneament_lul_govern
+
+---------------AFTER!-------------
+
+VEC: 0_obras_comec_infra_president_anunc_lul_nós
+VEC: 1_cheg_junt_vai_sej_sab_critéri_técnic
+VEC: 3_lul_saneament_invest_program_president_diss_nã
+VEC: 4_r$_bilhõ_invest_segund_president_serã_habit
+Keyword: 0_obras_comec_infra_president_anunc_lul_nós
+Keyword: 1_cheg_junt_vai_sej_sab_critéri_técnic
+Keyword: 3_lul_saneament_invest_program_president_diss_nã
+Keyword: 4_r$_bilhõ_invest_segund_president_serã_habit

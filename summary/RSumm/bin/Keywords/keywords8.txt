@@ -1,0 +1,3861 @@
+Sentenca(topic=0): A seleção brasileira masculina de vôlei conseguiu, nesta sexta-feira, a sétima vitória consecutiva na Liga Mundial ao derrotar a Finlândia por 3 sets a 0 - parciais de 25/17, 25/22 e 25/21 -, em jogo realizado na cidade de Tampere, na Finlândia.
+Sentenca(topic=1): Invicto na competição, o Brasil está tranqüilo na liderança do Grupo B.
+Sentenca(topic=1): Os finlandeses estão na terceira colocação, com três vitórias e quatro derrotas.
+Sentenca(topic=2): Portugal e Argentina - que duelam duas vezes neste final de semana, em Portugal - completam a chave.
+Sentenca(topic=3): O time comandado pelo treinador Bernardinho só encontrou um pouco mais de dificuldades no segundo set.
+Sentenca(topic=3): No terceiro, mesmo com vários reservas como o levantador Marcelinho e Samuel, os brasileiros conseguiram fechar a partida com tranqüilidade.
+Sentenca(topic=4): Brasil e Finlândia se enfrentarão novamente neste sábado, às 12h30 (horário de Brasília), com transmissão ao vivo do canal de TV a cabo SporTV.
+Sentenca(topic=4): Nas duas últimas rodadas da fase de classificação da Liga Mundial, a seleção brasileira receberá portugueses e finlandeses.
+Sentenca(topic=4): A fase final da competição deste ano acontecerá na Rússia.
+Sentenca(topic=5): A seleção brasileira masculina de vôlei, que é treinada por Bernardinho, venceu a Finlândia por 3 sets a 0, parciais de 25/17, 25/22 e 25/21, nesta sexta-feira, em Tampere (FIN), e manteve sua invencibilidade na Liga Mundial-06.
+Sentenca(topic=5): Este foi o sétimo triunfo consecutivo dos brasileiros na competição --antes, o país conquistou quatro vitórias contra a seleção argentina e duas diante de Portugal.
+Sentenca(topic=5): Os dois times voltam a se enfrentar às 12h30 deste sábado, no mesmo ginásio, que normalmente é utilizado para competições de hóquei no gelo.
+Sentenca(topic=6): O resultado de hoje deixou o Brasil perto de conquistar a única vaga do Grupo B da Liga Mundial, que classifica o melhor de cada uma das quatro chaves, a Rússia  (país-sede) e mais um time convidado pela Federação Internacional de Vôlei, para a fase final, de 23 a 27 de agosto, em Moscou  (Rússia).
+Sentenca(topic=7): A equipe brasileira masculina já conquistou cinco vezes a Liga Mundial --1993, 2001, 2003, 2004 e 2005.
+Sentenca(topic=7): Com oito títulos, a Itália é a maior vencedora da competição.
+Sentenca(topic=8): O Brasil arrasou a Finlândia no primeiro confronto entre as seleções, nesta sexta-feira, na cidade de Tampere, pela Liga Mundial de vôlei 2006, por 3 sets a 0, com parciais de 25/17, 25/22 e 25/21.
+Sentenca(topic=8): Amanhã, as equipes voltam a se enfrentar, às 12h30 (horário de Brasília) , no mesmo local, com acompanhamento ao vivo do Terra Esportes.
+Sentenca(topic=9): Com o resultado, o Brasil continua sendo a única equipe invicta da competição, mantendo a liderança do Grupo B da Liga, com sete vitórias em sete partidas.
+Sentenca(topic=9): O time está perto da classificação para a próxima fase.
+Sentenca(topic=10): O time da Finlândia nunca fora antes enfrentado pelo técnico do Brasil, Bernardinho, que se utilizou de vídeos para saber um pouco mais sobre o adversário e exibir para os atletas.
+Sentenca(topic=11): O primeiro set permaneceu equilibrado até a metade, quando o meio-de-rede André Heller foi para o saque.
+Sentenca(topic=11): O jogador conseguiu uma boa seqüência de pontos, desestabilizou a defesa finlandesa e o Brasil abriu uma vantagem que deu tranqüilidade para fechar a parcial por 25 a 17.
+Sentenca(topic=11): Embalado pela vitória, o Brasil começou o segundo set na frente, mas permitiu a reação dos donos da casa, que chegaram a empatar a parcial em 17.
+Sentenca(topic=11): Entretanto, os campeões olímpicos tiveram tranqüilidade para se recuperar e fechar o set por 25 a 22 em um bloqueio.
+Sentenca(topic=12): Na última parcial, a Finlândia novamente emparelhou o jogo com o Brasil até a metade do set, mas depois de uma seqüência de pontos brasileiros não conseguiu reagir e perdeu por 25 a 21.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: seleçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: sétim  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: consecut  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: derrot  - Frequency: 1
+Word: finlând  - Frequency: 2
+Word: 3  - Frequency: 1
+Word: sets  - Frequency: 1
+Word: 0  - Frequency: 1
+Word: parc  - Frequency: 1
+Word: 25  - Frequency: 3
+Word: jog  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: tamper  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_25
+
+Keyword: 0_25_finlând
+
+Keyword: 0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim_vitór_consecut_lig_mundial_derrot_3_sets_0_parc_jog_realiz_cidad_tamper
+
+
+------------------------------------------------------------
+Topic: 1
+Word: invict  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: está  - Frequency: 1
+Word: tranqüil  - Frequency: 1
+Word: lideranc  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: finlandes  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: três  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: derrot  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã_terceir_coloc_três_vitór_quatr_derrot
+
+
+------------------------------------------------------------
+Topic: 2
+Word: portugal  - Frequency: 2
+Word: argentin  - Frequency: 1
+Word: duel  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: final  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: chav  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_portugal
+
+Keyword: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+
+Keyword: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+
+
+------------------------------------------------------------
+Topic: 3
+Word: tim  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: treinador  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: só  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: dificuldad  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: set  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: com  - Frequency: 1
+Word: levant  - Frequency: 1
+Word: marcelinh  - Frequency: 1
+Word: samuel  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: part  - Frequency: 1
+Word: tranqüil  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund_set_terceir_vári_reserv_com_levant_marcelinh_samuel_brasileir_consegu_fech_part_tranqüil
+
+
+------------------------------------------------------------
+Topic: 4
+Word: brasil  - Frequency: 1
+Word: finlând  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: sáb  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 12h30  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: transmissã  - Frequency: 1
+Word: viv  - Frequency: 1
+Word: canal  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: cab  - Frequency: 1
+Word: sportv  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: rod  - Frequency: 1
+Word: fas  - Frequency: 2
+Word: classific  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: seleçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: portugues  - Frequency: 1
+Word: finlandes  - Frequency: 1
+Word: final  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: rúss  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_fas
+
+Keyword: 4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl_transmissã_viv_canal_tv_cab_sportv_duas_últim_rod_classific_lig_mundial_seleçã_brasileir_receb_portugues_finlandes_final_competiçã_ano_acontec_rúss
+
+
+------------------------------------------------------------
+Topic: 5
+Word: seleçã  - Frequency: 2
+Word: brasileir  - Frequency: 2
+Word: masculin  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: trein  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: finlând  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: sets  - Frequency: 1
+Word: 0  - Frequency: 1
+Word: parc  - Frequency: 1
+Word: 25  - Frequency: 3
+Word: sext  - Frequency: 1
+Word: tamper  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: invencibil  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: sétim  - Frequency: 1
+Word: triunf  - Frequency: 1
+Word: consecut  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: país  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: argentin  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: portugal  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: tim  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 12h30  - Frequency: 1
+Word: sáb  - Frequency: 1
+Word: ginási  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: competiçõ  - Frequency: 1
+Word: hóqu  - Frequency: 1
+Word: gel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_25
+
+Keyword: 5_25_seleçã_brasileir
+
+Keyword: 5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând_3_sets_0_parc_sext_tamper_mantev_invencibil_lig_mundial_foi_sétim_triunf_consecut_competiçã_país_conquist_quatr_vitór_argentin_duas_diant_portugal_dois_tim_volt_enfrent_às_12h30_sáb_ginási_normal_utiliz_competiçõ_hóqu_gel
+
+
+------------------------------------------------------------
+Topic: 6
+Word: result  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: classif  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: chav  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: tim  - Frequency: 1
+Word: convid  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: feder  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: fas  - Frequency: 1
+Word: final  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: 27  - Frequency: 1
+Word: agost  - Frequency: 1
+Word: mosc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup_lig_mundial_classif_melhor_quatr_chav_rúss_tim_convid_pel_feder_internacional_v�_fas_final_23_27_agost_mosc
+
+
+------------------------------------------------------------
+Topic: 7
+Word: equip  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: masculin  - Frequency: 1
+Word: já  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: 2001  - Frequency: 1
+Word: 2003  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: 2005  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: títul  - Frequency: 1
+Word: itál  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: vencedor  - Frequency: 1
+Word: competiçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial_2001_2003_2004_2005_oit_títul_itál_maior_vencedor_competiçã
+
+
+------------------------------------------------------------
+Topic: 8
+Word: brasil  - Frequency: 1
+Word: arras  - Frequency: 1
+Word: finlând  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: confront  - Frequency: 1
+Word: seleçõ  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: tamper  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: sets  - Frequency: 1
+Word: 0  - Frequency: 1
+Word: parc  - Frequency: 1
+Word: 25  - Frequency: 3
+Word: amanhã  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 12h30  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: local  - Frequency: 1
+Word: acompanh  - Frequency: 1
+Word: viv  - Frequency: 1
+Word: terr  - Frequency: 1
+Word: esport  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_25
+
+Keyword: 8_25
+
+Keyword: 8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad_tamper_pel_lig_mundial_v�_2006_3_sets_0_parc_amanhã_equip_volt_enfrent_às_12h30_brasíl_local_acompanh_viv_terr_esport
+
+
+------------------------------------------------------------
+Topic: 9
+Word: result  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: send  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: invict  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: mant  - Frequency: 1
+Word: lideranc  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: set  - Frequency: 2
+Word: vitór  - Frequency: 1
+Word: part  - Frequency: 1
+Word: tim  - Frequency: 1
+Word: está  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: fas  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_set
+
+Keyword: 9_set_result_brasil_continu_send_únic_equip_invict_competiçã_mant_lideranc_grup_lig_vitór_part_tim_está_pert_classific_próxim_fas
+
+
+------------------------------------------------------------
+Topic: 10
+Word: tim  - Frequency: 1
+Word: finlând  - Frequency: 1
+Word: nunc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: víd  - Frequency: 1
+Word: sab  - Frequency: 1
+Word: adversári  - Frequency: 1
+Word: exib  - Frequency: 1
+Word: atlet  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil_bernardinh_utiliz_víd_sab_adversári_exib_atlet
+
+
+------------------------------------------------------------
+Topic: 11
+Word: primeir  - Frequency: 1
+Word: set  - Frequency: 3
+Word: permanec  - Frequency: 1
+Word: equilibr  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: andré  - Frequency: 1
+Word: hell  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: saqu  - Frequency: 1
+Word: jogador  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: boa  - Frequency: 1
+Word: seqüênc  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: desestabiliz  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: finlandes  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: abriu  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: deu  - Frequency: 1
+Word: tranqüil  - Frequency: 2
+Word: fech  - Frequency: 2
+Word: parcial  - Frequency: 2
+Word: 25  - Frequency: 2
+Word: 17  - Frequency: 2
+Word: embal  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: don  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: empat  - Frequency: 1
+Word: entretant  - Frequency: 1
+Word: campeõ  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: 22  - Frequency: 1
+Word: bloquei  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_set
+
+Keyword: 11_set_brasil_tranqüil_fech_parcial_25_17
+
+Keyword: 11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec_equilibr_metad_mei_andré_hell_foi_saqu_jogador_consegu_boa_seqüênc_pont_desestabiliz_defes_finlandes_abriu_vantag_deu_embal_pel_vitór_comec_segund_frent_permit_reaçã_don_cas_cheg_empat_entretant_campeõ_olímp_tiv_recuper_22_bloquei
+
+
+------------------------------------------------------------
+Topic: 12
+Word: últim  - Frequency: 1
+Word: parcial  - Frequency: 1
+Word: finlând  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: emparelh  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: set  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: seqüênc  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: reag  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: 21  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set_depo_seqüênc_pont_brasileir_nã_consegu_reag_perd_25_21
+
+NUM: 22
+
+
+NUM: 15
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 22
+
+
+NUM: 31
+
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 19
+
+
+NUM: 31
+
+
+NUM: 21
+
+
+NUM: 16
+
+
+NUM: 46
+
+
+NUM: 19
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 22
+
+
+NUM: 15
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 22
+
+
+NUM: 31
+
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 19
+
+
+NUM: 31
+
+
+NUM: 21
+
+
+NUM: 16
+
+
+NUM: 46
+
+
+NUM: 19
+
+
+---------------BEFORE!-------------
+
+VEC: 0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim_vitór_consecut_lig_mundial_derrot_3_sets_0_parc_jog_realiz_cidad_tamper
+VEC: 1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã_terceir_coloc_três_vitór_quatr_derrot
+VEC: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+VEC: 3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund_set_terceir_vári_reserv_com_levant_marcelinh_samuel_brasileir_consegu_fech_part_tranqüil
+VEC: 4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl_transmissã_viv_canal_tv_cab_sportv_duas_últim_rod_classific_lig_mundial_seleçã_brasileir_receb_portugues_finlandes_final_competiçã_ano_acontec_rúss
+VEC: 5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând_3_sets_0_parc_sext_tamper_mantev_invencibil_lig_mundial_foi_sétim_triunf_consecut_competiçã_país_conquist_quatr_vitór_argentin_duas_diant_portugal_dois_tim_volt_enfrent_às_12h30_sáb_ginási_normal_utiliz_competiçõ_hóqu_gel
+VEC: 6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup_lig_mundial_classif_melhor_quatr_chav_rúss_tim_convid_pel_feder_internacional_v�_fas_final_23_27_agost_mosc
+VEC: 7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial_2001_2003_2004_2005_oit_títul_itál_maior_vencedor_competiçã
+VEC: 8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad_tamper_pel_lig_mundial_v�_2006_3_sets_0_parc_amanhã_equip_volt_enfrent_às_12h30_brasíl_local_acompanh_viv_terr_esport
+VEC: 9_set_result_brasil_continu_send_únic_equip_invict_competiçã_mant_lideranc_grup_lig_vitór_part_tim_está_pert_classific_próxim_fas
+VEC: 10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil_bernardinh_utiliz_víd_sab_adversári_exib_atlet
+VEC: 11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec_equilibr_metad_mei_andré_hell_foi_saqu_jogador_consegu_boa_seqüênc_pont_desestabiliz_defes_finlandes_abriu_vantag_deu_embal_pel_vitór_comec_segund_frent_permit_reaçã_don_cas_cheg_empat_entretant_campeõ_olímp_tiv_recuper_22_bloquei
+VEC: 12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set_depo_seqüênc_pont_brasileir_nã_consegu_reag_perd_25_21
+
+---------------AFTER!-------------
+
+VEC: 0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim
+VEC: 1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã
+VEC: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+VEC: 3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund
+VEC: 4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl
+VEC: 5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând
+VEC: 6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup
+VEC: 7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial
+VEC: 8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad
+VEC: 9_set_result_brasil_continu_send_únic_equip_invict_competiçã
+VEC: 10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil
+VEC: 11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec
+VEC: 12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.666667
+
+
+SIM: 0.666667
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.107835
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" is "0.4"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" is "0.3"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" is "0.2"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" is "0.2"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0.3"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" is "0.2"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" is "0.2"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" is "0.3"
+
+CHANGE! -- From: 12 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0.1"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0.2"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_set_brasil_tranqüil_fech_parcial_25_17_primeir_permanec" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 11 -- Topic s_aux: 8 -- Abs: 3
+
+
+Topic change from "11" to "8"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 11 -- Topic s_aux: 8 -- Abs: 3
+
+
+Topic change from "11" to "8"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 11 -- Topic s_aux: 8 -- Abs: 3
+
+
+Topic change from "11" to "8"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 11 -- Topic s_aux: 8 -- Abs: 3
+
+
+Topic change from "11" to "8"
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" is "0.1"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" is "0.2"
+
+CHANGE! -- From: 11 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0.3"
+
+CHANGE! -- From: 11 -> TO: 5
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0.2"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_tim_finlând_nunc_for_antes_enfrent_pel_técnic_brasil" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" is "0.111111"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" is "0.111111"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" is "0.333333"
+
+CHANGE! -- From: 10 -> TO: 7
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0.111111"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0.333333"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_set_result_brasil_continu_send_únic_equip_invict_competiçã" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 6 -- Abs: 3
+
+
+Topic change from "9" to "6"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 6 -- Abs: 3
+
+
+Topic change from "9" to "6"
+
+Topic: 4 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" is "0.111111"
+
+CHANGE! -- From: 9 -> TO: 7
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" is "0.222222"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0.222222"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0.111111"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "8_25_brasil_arras_finlând_primeir_confront_seleçõ_sext_cidad" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0.333333"
+
+CHANGE! -- From: 9 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" and "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" is "0.111111"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" and "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" is "0.222222"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0.111111"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_equip_brasileir_masculin_já_conquist_cinc_vez_lig_mundial" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" and "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0.111111"
+
+CHANGE! -- From: 7 -> TO: 5
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0.222222"
+
+CHANGE! -- From: 7 -> TO: 2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_result_hoj_deix_brasil_pert_conquist_únic_vag_grup" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" and "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" is "0.111111"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0.111111"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.666667
+
+
+Similarity between "5_25_seleçã_brasileir_masculin_v�_trein_bernardinh_venc_finlând" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0.666667"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 1 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" and "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0.111111"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_fas_brasil_finlând_enfrent_nov_sáb_às_12h30_brasíl" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" and "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" and "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_portugal_argentin_duel_duas_vez_final_seman_complet_chav" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_invict_competiçã_brasil_está_tranqüil_lideranc_grup_finlandes_estã" and "0_25_finlând_seleçã_brasileir_masculin_v�_consegu_sext_sétim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+NUM_TOPICS: 10
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: seleçã  - Frequency: 3
+Word: brasileir  - Frequency: 4
+Word: masculin  - Frequency: 3
+Word: v�  - Frequency: 3
+Word: consegu  - Frequency: 2
+Word: sext  - Frequency: 3
+Word: sétim  - Frequency: 2
+Word: vitór  - Frequency: 3
+Word: consecut  - Frequency: 2
+Word: lig  - Frequency: 4
+Word: mundial  - Frequency: 4
+Word: derrot  - Frequency: 1
+Word: finlând  - Frequency: 4
+Word: 3  - Frequency: 3
+Word: sets  - Frequency: 3
+Word: 0  - Frequency: 3
+Word: parc  - Frequency: 3
+Word: 25  - Frequency: 11
+Word: jog  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: tamper  - Frequency: 3
+Word: trein  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: invencibil  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: triunf  - Frequency: 1
+Word: competiçã  - Frequency: 2
+Word: país  - Frequency: 1
+Word: conquist  - Frequency: 2
+Word: quatr  - Frequency: 1
+Word: argentin  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: portugal  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: tim  - Frequency: 1
+Word: volt  - Frequency: 2
+Word: enfrent  - Frequency: 2
+Word: às  - Frequency: 2
+Word: 12h30  - Frequency: 2
+Word: sáb  - Frequency: 1
+Word: ginási  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: competiçõ  - Frequency: 1
+Word: hóqu  - Frequency: 1
+Word: gel  - Frequency: 1
+Word: equip  - Frequency: 2
+Word: já  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: 2001  - Frequency: 1
+Word: 2003  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: 2005  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: títul  - Frequency: 1
+Word: itál  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: vencedor  - Frequency: 1
+Word: brasil  - Frequency: 3
+Word: arras  - Frequency: 1
+Word: primeir  - Frequency: 2
+Word: confront  - Frequency: 1
+Word: seleçõ  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: 2006  - Frequency: 1
+Word: amanhã  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: local  - Frequency: 1
+Word: acompanh  - Frequency: 1
+Word: viv  - Frequency: 1
+Word: terr  - Frequency: 1
+Word: esport  - Frequency: 1
+Word: set  - Frequency: 3
+Word: permanec  - Frequency: 1
+Word: equilibr  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: andré  - Frequency: 1
+Word: hell  - Frequency: 1
+Word: saqu  - Frequency: 1
+Word: jogador  - Frequency: 1
+Word: boa  - Frequency: 1
+Word: seqüênc  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: desestabiliz  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: finlandes  - Frequency: 1
+Word: abriu  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: deu  - Frequency: 1
+Word: tranqüil  - Frequency: 2
+Word: fech  - Frequency: 2
+Word: parcial  - Frequency: 2
+Word: 17  - Frequency: 2
+Word: embal  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: don  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: empat  - Frequency: 1
+Word: entretant  - Frequency: 1
+Word: campeõ  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: 22  - Frequency: 1
+Word: bloquei  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25
+
+Keyword: 0_25_brasileir_lig_mundial_finlând
+
+Keyword: 0_25_brasileir_lig_mundial_finlând_seleçã_masculin_v�_sext_vitór_3_sets_0_parc_tamper_brasil_set
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: invict  - Frequency: 2
+Word: competiçã  - Frequency: 3
+Word: brasil  - Frequency: 5
+Word: está  - Frequency: 2
+Word: tranqüil  - Frequency: 1
+Word: lideranc  - Frequency: 2
+Word: grup  - Frequency: 3
+Word: finlandes  - Frequency: 2
+Word: estã  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: três  - Frequency: 1
+Word: vitór  - Frequency: 2
+Word: quatr  - Frequency: 2
+Word: derrot  - Frequency: 1
+Word: finlând  - Frequency: 2
+Word: enfrent  - Frequency: 2
+Word: nov  - Frequency: 1
+Word: sáb  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 12h30  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: transmissã  - Frequency: 1
+Word: viv  - Frequency: 1
+Word: canal  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: cab  - Frequency: 1
+Word: sportv  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: rod  - Frequency: 1
+Word: fas  - Frequency: 4
+Word: classific  - Frequency: 2
+Word: lig  - Frequency: 3
+Word: mundial  - Frequency: 2
+Word: seleçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: portugues  - Frequency: 1
+Word: final  - Frequency: 2
+Word: ano  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: rúss  - Frequency: 2
+Word: result  - Frequency: 2
+Word: hoj  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: pert  - Frequency: 2
+Word: conquist  - Frequency: 1
+Word: únic  - Frequency: 2
+Word: vag  - Frequency: 1
+Word: classif  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: chav  - Frequency: 1
+Word: tim  - Frequency: 3
+Word: convid  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: feder  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: 27  - Frequency: 1
+Word: agost  - Frequency: 1
+Word: mosc  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: send  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: mant  - Frequency: 1
+Word: set  - Frequency: 2
+Word: part  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: nunc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: víd  - Frequency: 1
+Word: sab  - Frequency: 1
+Word: adversári  - Frequency: 1
+Word: exib  - Frequency: 1
+Word: atlet  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_brasil
+
+Keyword: 1_brasil_fas
+
+Keyword: 1_brasil_fas_competiçã_grup_lig_tim
+
+Keyword: 1_brasil_fas_competiçã_grup_lig_tim_invict_está_lideranc_finlandes_vitór_quatr_finlând_enfrent_classific_mundial_final_rúss_result_pert_únic_pel_set
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: portugal  - Frequency: 2
+Word: argentin  - Frequency: 1
+Word: duel  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: final  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: chav  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_portugal
+
+Keyword: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+
+Keyword: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: tim  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: treinador  - Frequency: 1
+Word: bernardinh  - Frequency: 1
+Word: só  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: dificuldad  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: set  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: com  - Frequency: 1
+Word: levant  - Frequency: 1
+Word: marcelinh  - Frequency: 1
+Word: samuel  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: part  - Frequency: 1
+Word: tranqüil  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund_set_terceir_vári_reserv_com_levant_marcelinh_samuel_brasileir_consegu_fech_part_tranqüil
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: últim  - Frequency: 1
+Word: parcial  - Frequency: 1
+Word: finlând  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: emparelh  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: set  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: seqüênc  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: reag  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: 21  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set_depo_seqüênc_pont_brasileir_nã_consegu_reag_perd_25_21
+
+NUM: 17
+
+
+NUM: 23
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 22
+
+
+NUM: 19
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 17
+
+
+NUM: 23
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 22
+
+
+NUM: 19
+
+
+---------------BEFORE!-------------
+
+VEC: 0_25_brasileir_lig_mundial_finlând_seleçã_masculin_v�_sext_vitór_3_sets_0_parc_tamper_brasil_set
+VEC: 1_brasil_fas_competiçã_grup_lig_tim_invict_está_lideranc_finlandes_vitór_quatr_finlând_enfrent_classific_mundial_final_rúss_result_pert_únic_pel_set
+VEC: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+VEC: 3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund_set_terceir_vári_reserv_com_levant_marcelinh_samuel_brasileir_consegu_fech_part_tranqüil
+VEC: 12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set_depo_seqüênc_pont_brasileir_nã_consegu_reag_perd_25_21
+
+---------------AFTER!-------------
+
+VEC: 0_25_brasileir_lig_mundial_finlând_seleçã_masculin_v�_sext
+VEC: 1_brasil_fas_competiçã_grup_lig_tim_invict_está_lideranc
+VEC: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+VEC: 3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund
+VEC: 12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set
+Keyword: 0_25_brasileir_lig_mundial_finlând_seleçã_masculin_v�_sext
+Keyword: 1_brasil_fas_competiçã_grup_lig_tim_invict_está_lideranc
+Keyword: 2_portugal_argentin_duel_duas_vez_final_seman_complet_chav
+Keyword: 3_tim_comand_pel_treinador_bernardinh_só_encontr_dificuldad_segund
+Keyword: 12_últim_parcial_finlând_nov_emparelh_jog_brasil_metad_set

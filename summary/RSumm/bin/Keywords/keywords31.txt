@@ -1,0 +1,1159 @@
+Sentenca(topic=0): A ginasta Jade Barbosa, que obteve três medalhas nos Jogos Pan-Americanos do Rio, em julho, venceu votação na internet e será a representante brasileira no revezamento da tocha olímpica para Pequim-2008.
+Sentenca(topic=1): A tocha passará por vinte países, mas o Brasil não estará no percurso olímpico.
+Sentenca(topic=1): Por isso, Jade participará do evento em Buenos Aires, na Argentina, única cidade da América do Sul a receber o símbolo dos Jogos.
+Sentenca(topic=2): O revezamento terminará em 8 de agosto, primeiro dia das Olimpíadas de Pequim.
+Sentenca(topic=3): Um dos destaques desta temporada do esporte brasileiro, a ginasta Jade Barbosa foi escolhida, na noite desta terça-feira,  para ser a representante do Brasil no revezamento da tocha dos Jogos Olímpicos de Pequim.
+Sentenca(topic=3): Em votação pela internet, a ginasta recebeu mais de 100 mil votos e superou o nadador Thiago Pereira, que ganhou seis ouros nos Jogos Pan-Americanos.
+Sentenca(topic=4): O Brasil não faz parte do trajeto da tocha olímpica.
+Sentenca(topic=4): Na América do Sul, a chama passará por Buenos Aires, onde Jade participará do revezamento, no dia 11 de abril.
+Sentenca(topic=5): Aos 16 anos, Jade conquistou três medalhas no Pan:  ouro na disputa dos saltos, prata na apresentação por equipes e bronze no solo.
+Sentenca(topic=6): Ao todo, a chama olímpica percorrerá 20 países antes de chegar a Pequim para a abertura da competição, no dia 8 de agosto.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ginast  - Frequency: 1
+Word: jad  - Frequency: 1
+Word: barbos  - Frequency: 1
+Word: obtev  - Frequency: 1
+Word: três  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: votaçã  - Frequency: 1
+Word: internet  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: toch  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: pequim  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_ginast_jad_barbos_obtev_três_medalh_jog_pan_rio_julh_venc_votaçã_internet_ser_represent_brasileir_revez_toch_olímp_pequim
+
+
+------------------------------------------------------------
+Topic: 1
+Word: toch  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: vint  - Frequency: 1
+Word: país  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: percurs  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: jad  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: event  - Frequency: 1
+Word: buen  - Frequency: 1
+Word: air  - Frequency: 1
+Word: argentin  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: amér  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: símbol  - Frequency: 1
+Word: jog  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_toch_pass_vint_país_brasil_nã_estar_percurs_olímp_jad_particip_event_buen_air_argentin_únic_cidad_amér_sul_receb_símbol_jog
+
+
+------------------------------------------------------------
+Topic: 2
+Word: revez  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: 8  - Frequency: 1
+Word: agost  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: olimpí  - Frequency: 1
+Word: pequim  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+
+Keyword: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+
+
+------------------------------------------------------------
+Topic: 3
+Word: destaqu  - Frequency: 1
+Word: tempor  - Frequency: 1
+Word: esport  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: ginast  - Frequency: 2
+Word: jad  - Frequency: 1
+Word: barbos  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: escolh  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: toch  - Frequency: 1
+Word: jog  - Frequency: 2
+Word: olímp  - Frequency: 1
+Word: pequim  - Frequency: 1
+Word: votaçã  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: internet  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: super  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: our  - Frequency: 1
+Word: pan  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_ginast_jog
+
+Keyword: 3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos_foi_escolh_noit_terc_ser_represent_brasil_revez_toch_olímp_pequim_votaçã_pel_internet_receb_100_mil_vot_super_nadador_thiag_pereir_ganh_seis_our_pan
+
+
+------------------------------------------------------------
+Topic: 4
+Word: brasil  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: trajet  - Frequency: 1
+Word: toch  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: amér  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: buen  - Frequency: 1
+Word: air  - Frequency: 1
+Word: jad  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: abril  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_brasil_nã_faz_part_trajet_toch_olímp_amér_sul_cham_pass_buen_air_jad_particip_revez_dia_11_abril
+
+
+------------------------------------------------------------
+Topic: 5
+Word: 16  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: jad  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: três  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: our  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: prat  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: sol  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_16_anos_jad_conquist_três_medalh_pan_our_disput_salt_prat_apresent_equip_bronz_sol
+
+
+------------------------------------------------------------
+Topic: 6
+Word: cham  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: percorr  - Frequency: 1
+Word: 20  - Frequency: 1
+Word: país  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: pequim  - Frequency: 1
+Word: abertur  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 8  - Frequency: 1
+Word: agost  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_cham_olímp_percorr_20_país_antes_cheg_pequim_abertur_competiçã_dia_8_agost
+
+NUM: 20
+
+
+NUM: 22
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 34
+
+
+NUM: 19
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 20
+
+
+NUM: 22
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 34
+
+
+NUM: 19
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+---------------BEFORE!-------------
+
+VEC: 0_ginast_jad_barbos_obtev_três_medalh_jog_pan_rio_julh_venc_votaçã_internet_ser_represent_brasileir_revez_toch_olímp_pequim
+VEC: 1_toch_pass_vint_país_brasil_nã_estar_percurs_olímp_jad_particip_event_buen_air_argentin_únic_cidad_amér_sul_receb_símbol_jog
+VEC: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+VEC: 3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos_foi_escolh_noit_terc_ser_represent_brasil_revez_toch_olímp_pequim_votaçã_pel_internet_receb_100_mil_vot_super_nadador_thiag_pereir_ganh_seis_our_pan
+VEC: 4_brasil_nã_faz_part_trajet_toch_olímp_amér_sul_cham_pass_buen_air_jad_particip_revez_dia_11_abril
+VEC: 5_16_anos_jad_conquist_três_medalh_pan_our_disput_salt_prat_apresent_equip_bronz_sol
+VEC: 6_cham_olímp_percorr_20_país_antes_cheg_pequim_abertur_competiçã_dia_8_agost
+
+---------------AFTER!-------------
+
+VEC: 0_ginast_jad_barbos_obtev_três_medalh_jog_pan
+VEC: 1_toch_pass_vint_país_brasil_nã_estar_percurs
+VEC: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+VEC: 3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos
+VEC: 4_brasil_nã_faz_part_trajet_toch_olímp_amér
+VEC: 5_16_anos_jad_conquist_três_medalh_pan_our
+VEC: 6_cham_olímp_percorr_20_país_antes_cheg_pequim
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0892857
+
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cham_olímp_percorr_20_país_antes_cheg_pequim" and "5_16_anos_jad_conquist_três_medalh_pan_our" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_cham_olímp_percorr_20_país_antes_cheg_pequim" and "4_brasil_nã_faz_part_trajet_toch_olímp_amér" is "0.125"
+
+CHANGE! -- From: 7 -> TO: 5
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cham_olímp_percorr_20_país_antes_cheg_pequim" and "3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_cham_olímp_percorr_20_país_antes_cheg_pequim" and "2_revez_termin_8_agost_primeir_dia_olimpí_pequim" is "0.125"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_cham_olímp_percorr_20_país_antes_cheg_pequim" and "1_toch_pass_vint_país_brasil_nã_estar_percurs" is "0.125"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cham_olímp_percorr_20_país_antes_cheg_pequim" and "0_ginast_jad_barbos_obtev_três_medalh_jog_pan" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 4 -- Abs: 2
+
+
+Topic change from "6" to "4"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_16_anos_jad_conquist_três_medalh_pan_our" and "4_brasil_nã_faz_part_trajet_toch_olímp_amér" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_16_anos_jad_conquist_três_medalh_pan_our" and "3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos" is "0.125"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_16_anos_jad_conquist_três_medalh_pan_our" and "2_revez_termin_8_agost_primeir_dia_olimpí_pequim" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_16_anos_jad_conquist_três_medalh_pan_our" and "1_toch_pass_vint_país_brasil_nã_estar_percurs" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+Similarity between "5_16_anos_jad_conquist_três_medalh_pan_our" and "0_ginast_jad_barbos_obtev_três_medalh_jog_pan" is "0.5"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 5
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_brasil_nã_faz_part_trajet_toch_olímp_amér" and "3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_brasil_nã_faz_part_trajet_toch_olímp_amér" and "2_revez_termin_8_agost_primeir_dia_olimpí_pequim" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "4_brasil_nã_faz_part_trajet_toch_olímp_amér" and "1_toch_pass_vint_país_brasil_nã_estar_percurs" is "0.375"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_brasil_nã_faz_part_trajet_toch_olímp_amér" and "0_ginast_jad_barbos_obtev_três_medalh_jog_pan" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 5
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 0 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos" and "2_revez_termin_8_agost_primeir_dia_olimpí_pequim" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos" and "1_toch_pass_vint_país_brasil_nã_estar_percurs" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+Similarity between "3_ginast_jog_destaqu_tempor_esport_brasileir_jad_barbos" and "0_ginast_jad_barbos_obtev_três_medalh_jog_pan" is "0.5"
+
+CHANGE! -- From: 4 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_revez_termin_8_agost_primeir_dia_olimpí_pequim" and "1_toch_pass_vint_país_brasil_nã_estar_percurs" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_revez_termin_8_agost_primeir_dia_olimpí_pequim" and "0_ginast_jad_barbos_obtev_três_medalh_jog_pan" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_toch_pass_vint_país_brasil_nã_estar_percurs" and "0_ginast_jad_barbos_obtev_três_medalh_jog_pan" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+NUM_TOPICS: 6
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ginast  - Frequency: 3
+Word: jad  - Frequency: 3
+Word: barbos  - Frequency: 2
+Word: obtev  - Frequency: 1
+Word: três  - Frequency: 2
+Word: medalh  - Frequency: 2
+Word: jog  - Frequency: 3
+Word: pan  - Frequency: 3
+Word: rio  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: votaçã  - Frequency: 2
+Word: internet  - Frequency: 2
+Word: ser  - Frequency: 2
+Word: represent  - Frequency: 2
+Word: brasileir  - Frequency: 2
+Word: revez  - Frequency: 2
+Word: toch  - Frequency: 2
+Word: olímp  - Frequency: 2
+Word: pequim  - Frequency: 2
+Word: destaqu  - Frequency: 1
+Word: tempor  - Frequency: 1
+Word: esport  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: escolh  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: super  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: our  - Frequency: 2
+Word: 16  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: prat  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: sol  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_ginast_jad_jog_pan
+
+Keyword: 0_ginast_jad_jog_pan_barbos_três_medalh_votaçã_internet_ser_represent_brasileir_revez_toch_olímp_pequim_our
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: toch  - Frequency: 2
+Word: pass  - Frequency: 2
+Word: vint  - Frequency: 1
+Word: país  - Frequency: 2
+Word: brasil  - Frequency: 2
+Word: nã  - Frequency: 2
+Word: estar  - Frequency: 1
+Word: percurs  - Frequency: 1
+Word: olímp  - Frequency: 3
+Word: jad  - Frequency: 2
+Word: particip  - Frequency: 2
+Word: event  - Frequency: 1
+Word: buen  - Frequency: 2
+Word: air  - Frequency: 2
+Word: argentin  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: amér  - Frequency: 2
+Word: sul  - Frequency: 2
+Word: receb  - Frequency: 1
+Word: símbol  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: trajet  - Frequency: 1
+Word: cham  - Frequency: 2
+Word: revez  - Frequency: 1
+Word: dia  - Frequency: 2
+Word: 11  - Frequency: 1
+Word: abril  - Frequency: 1
+Word: percorr  - Frequency: 1
+Word: 20  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: pequim  - Frequency: 1
+Word: abertur  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: 8  - Frequency: 1
+Word: agost  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_olímp
+
+Keyword: 1_olímp_toch_pass_país_brasil_nã_jad_particip_buen_air_amér_sul_cham_dia
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: revez  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: 8  - Frequency: 1
+Word: agost  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: olimpí  - Frequency: 1
+Word: pequim  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+
+Keyword: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+
+NUM: 17
+
+
+NUM: 14
+
+
+NUM: 8
+
+
+LESSER: 8
+
+(FINAL) AVERAGE: 8
+
+NUM: 17
+
+
+NUM: 14
+
+
+NUM: 8
+
+
+LESSER: 8
+
+---------------BEFORE!-------------
+
+VEC: 0_ginast_jad_jog_pan_barbos_três_medalh_votaçã_internet_ser_represent_brasileir_revez_toch_olímp_pequim_our
+VEC: 1_olímp_toch_pass_país_brasil_nã_jad_particip_buen_air_amér_sul_cham_dia
+VEC: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+
+---------------AFTER!-------------
+
+VEC: 0_ginast_jad_jog_pan_barbos_três_medalh_votaçã
+VEC: 1_olímp_toch_pass_país_brasil_nã_jad_particip
+VEC: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim
+Keyword: 0_ginast_jad_jog_pan_barbos_três_medalh_votaçã
+Keyword: 1_olímp_toch_pass_país_brasil_nã_jad_particip
+Keyword: 2_revez_termin_8_agost_primeir_dia_olimpí_pequim

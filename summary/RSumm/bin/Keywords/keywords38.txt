@@ -1,0 +1,3447 @@
+Sentenca(topic=0): A equipe formada por Thiago Pereira, Rodrigo Castro, Lucas Salatta e Nicolas Oliveira deu ao Brasil nesta terça-feira o terceiro ouro nos Jogos Pan-Americanos do Rio-2007, na prova do revezamento 4 x 200 m livre da natação.
+Sentenca(topic=0): Jamais na história do Pan os Estados Unidos haviam perdido o ouro nesta modalidade.
+Sentenca(topic=1): O quarteto brasileiro terminou a prova com o tempo de 7min12s27, recorde pan-americano, à frente dos EUA, segundo lugar, e do Canadá,  que ficou com o bronze.
+Sentenca(topic=2): O grande destaque da prova foi Nicolas Oliveira, quarto nadador brasileiro a cair na água.
+Sentenca(topic=3): Pouco antes Thiago Pereira já havia conquistado a segunda medalha de ouro brasileira no dia na final dos 400 m medley,  superando o norte-americano Robert Margalis e o canadense Keith Beavers.
+Sentenca(topic=4): Também nesta terça, outras duas medalhas também foram conquistadas por brasileiros, ambas no remo.
+Sentenca(topic=4): Marcelus Marcili ficou com o bronze no skiff simples, e a dupla formada por Anderson Nocetti e Alan Bitencourt também ficou em terceiro na final da categoria dois sem timoneiro.
+Sentenca(topic=5): A equipe de revezamento 4x200 metros livre conquistou nesta terça-feira a segunda medalha de ouro da natação brasileira nos Jogos Pan-Americanos do Rio.
+Sentenca(topic=5): De quebra, eles fizeram história ao cravar o tempo de 7min12s27 e superar os Estados Unidos  - foi a primeira derrota norte-americana na competição.
+Sentenca(topic=5): O tempo estabelecido pelos brasileiros ainda derrubou o recorde Pan-Americano, que pertencia aos Estados Unidos  (7min18s93),  em Santo Domingo (2003).
+Sentenca(topic=5): A marca também derrubou o recorde sul-americano,  que pertencia ao quarteto brasileiro (7min20s00), estabelecida no Mundial de Melbourne.
+Sentenca(topic=6): O time, que já tem vaga garantida para os Jogos Olímpicos de Pequim, em 2008, foi composto por Rodrigo Castro, Nícolas Oliveira, Thiago Pereira e Lucas Salatta.
+Sentenca(topic=6): Thiago,  que abriu o revezamento,  foi o grande destaque do quarteto nas piscinas do Parque Aquático Maria Lenk.
+Sentenca(topic=6): Antes de participar do revezamento,  Thiago havia conquistado o ouro na disputa dos 400 metros medley.
+Sentenca(topic=6): O nadador, que ainda participará de mais seis provas (100 metros costas, 200 metros costas, 200 metros peito, 200 metros medley, 4x100 medley e revezamento 4x100), tenta quebrar o recorde de Djan Madruga,  que tem seis pódios.
+Sentenca(topic=7): "A gente nadou muito bem", contou Thiago.
+Sentenca(topic=7): "Começamos muito bem a disputa da natação com duas medalhas de ouro. Agora, temos de lutar até o resto da semana pelo maior número de medalhas possível. Estou muito feliz  e espero continuar assim até o final."
+Sentenca(topic=8): "Nós arregaçamos a marca anterior do Brasil em quase oito segundos", contou Rodrigo, um dos mais felizes do quarteto.
+Sentenca(topic=8): "A torcida apoiou muito a gente e isso foi fundamental."
+Sentenca(topic=9): Na prova desta terça-feira, o quarteto dos Estados Unidos terminou com o tempo de 7min15s00,  enquanto os canadenses faturaram o bronze, com 7min17s73.
+Sentenca(topic=10): O brasileiro Thiago Pereira conquista com folga o primeiro lugar nos 4x200m medley, levando a medalha de ouro, segundo do Brasil.
+Sentenca(topic=10): O brasileiro liderou de ponta a ponta e ao final bateu o recorde Pan-Americano e Sul-Americano, com o tempo de 4min11s14.
+Sentenca(topic=10): O americano Robert Margalis ficou com a prata.
+Sentenca(topic=10): O canadense Keith Beavers garantiu o bronze.
+Sentenca(topic=10): O outro brasileiro, Diogo Yabe, ficou com a quarta colocação.
+Sentenca(topic=11): Thiago Pereira, já havia sido bronze em 2003 na mesma prova de 4x200m medley, em Santo Domingo.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: equip  - Frequency: 1
+Word: form  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: luc  - Frequency: 1
+Word: salatt  - Frequency: 1
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: deu  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: our  - Frequency: 2
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: rio  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: x  - Frequency: 1
+Word: 200  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: nataçã  - Frequency: 1
+Word: jam  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: modal  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_our_pan
+
+Keyword: 0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt_nicol_oliveir_deu_brasil_terc_terceir_jog_rio_prov_revez_4_x_200_livr_nataçã_jam_histór_estad_unid_hav_perd_modal
+
+
+------------------------------------------------------------
+Topic: 1
+Word: quartet  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 7min12s27  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: eua  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: canad  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: bronz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua_segund_lug_canad_fic_bronz
+
+
+------------------------------------------------------------
+Topic: 2
+Word: grand  - Frequency: 1
+Word: destaqu  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: cair  - Frequency: 1
+Word: águ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair_águ
+
+
+------------------------------------------------------------
+Topic: 3
+Word: antes  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: já  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: final  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: super  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: margal  - Frequency: 1
+Word: canadens  - Frequency: 1
+Word: keith  - Frequency: 1
+Word: beavers  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir_dia_final_400_medley_super_nort_robert_margal_canadens_keith_beavers
+
+
+------------------------------------------------------------
+Topic: 4
+Word: também  - Frequency: 3
+Word: terc  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: for  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: ambas  - Frequency: 1
+Word: rem  - Frequency: 1
+Word: marcelus  - Frequency: 1
+Word: marcil  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: bronz  - Frequency: 1
+Word: skiff  - Frequency: 1
+Word: simpl  - Frequency: 1
+Word: dupl  - Frequency: 1
+Word: form  - Frequency: 1
+Word: anderson  - Frequency: 1
+Word: nocett  - Frequency: 1
+Word: alan  - Frequency: 1
+Word: bitencourt  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: final  - Frequency: 1
+Word: categor  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: timoneir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_também
+
+Keyword: 4_também_fic
+
+Keyword: 4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem_marcelus_marcil_bronz_skiff_simpl_dupl_form_anderson_nocett_alan_bitencourt_terceir_final_categor_dois_timoneir
+
+
+------------------------------------------------------------
+Topic: 5
+Word: equip  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x200  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: nataçã  - Frequency: 1
+Word: brasileir  - Frequency: 3
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: rio  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: crav  - Frequency: 1
+Word: temp  - Frequency: 2
+Word: 7min12s27  - Frequency: 1
+Word: super  - Frequency: 1
+Word: estad  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: derrot  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: estabelec  - Frequency: 2
+Word: pel  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: derrub  - Frequency: 2
+Word: record  - Frequency: 2
+Word: pertenc  - Frequency: 2
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: também  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: quartet  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: melbourn  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_brasileir
+
+Keyword: 5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc
+
+Keyword: 5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip_revez_4x200_metr_livr_conquist_terc_segund_medalh_our_nataçã_jog_rio_quebr_fiz_histór_crav_7min12s27_super_foi_primeir_derrot_nort_competiçã_pel_aind_sant_doming_marc_também_sul_quartet_mundial_melbourn
+
+
+------------------------------------------------------------
+Topic: 6
+Word: tim  - Frequency: 1
+Word: já  - Frequency: 1
+Word: tem  - Frequency: 2
+Word: vag  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: pequim  - Frequency: 1
+Word: 2008  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: compost  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: nícol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: thiag  - Frequency: 3
+Word: pereir  - Frequency: 1
+Word: luc  - Frequency: 1
+Word: salatt  - Frequency: 1
+Word: abriu  - Frequency: 1
+Word: revez  - Frequency: 3
+Word: grand  - Frequency: 1
+Word: destaqu  - Frequency: 1
+Word: quartet  - Frequency: 1
+Word: piscin  - Frequency: 1
+Word: parqu  - Frequency: 1
+Word: aquát  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: lenk  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: particip  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: our  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: metr  - Frequency: 5
+Word: medley  - Frequency: 3
+Word: nadador  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: seis  - Frequency: 2
+Word: prov  - Frequency: 1
+Word: cost  - Frequency: 2
+Word: 200  - Frequency: 3
+Word: peit  - Frequency: 1
+Word: 4x100  - Frequency: 2
+Word: tent  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: record  - Frequency: 1
+Word: djan  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: pódi  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_metr
+
+Keyword: 6_metr
+
+Keyword: 6_metr_thiag_revez_medley_200
+
+Keyword: 6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost_4x100
+
+
+------------------------------------------------------------
+Topic: 7
+Word: gent  - Frequency: 1
+Word: nad  - Frequency: 1
+Word: bem  - Frequency: 2
+Word: cont  - Frequency: 1
+Word: thiag  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: nataçã  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: medalh  - Frequency: 2
+Word: our  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: lut  - Frequency: 1
+Word: rest  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: feliz  - Frequency: 1
+Word: esper  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: final  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_bem_medalh
+
+Keyword: 7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our_agor_tem_lut_rest_seman_pel_maior_númer_possível_feliz_esper_continu_assim_final
+
+
+------------------------------------------------------------
+Topic: 8
+Word: arregac  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: feliz  - Frequency: 1
+Word: quartet  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: fundamental  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz_quartet_torc_apoi_gent_foi_fundamental
+
+
+------------------------------------------------------------
+Topic: 9
+Word: prov  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: quartet  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 7min15s00  - Frequency: 1
+Word: canadens  - Frequency: 1
+Word: fatur  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: 7min17s73  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur_bronz_7min17s73
+
+
+------------------------------------------------------------
+Topic: 10
+Word: brasileir  - Frequency: 3
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: folg  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: 4x200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: lider  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: final  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 4min11s14  - Frequency: 1
+Word: american  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: margal  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: prat  - Frequency: 1
+Word: canadens  - Frequency: 1
+Word: keith  - Frequency: 1
+Word: beavers  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: diog  - Frequency: 1
+Word: yab  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: coloc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_brasileir
+
+Keyword: 10_brasileir_pont_fic
+
+Keyword: 10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m_medley_lev_medalh_our_segund_brasil_lider_final_bat_record_pan_sul_temp_4min11s14_american_robert_margal_prat_canadens_keith_beavers_garant_bronz_diog_yab_quart_coloc
+
+
+------------------------------------------------------------
+Topic: 11
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: já  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: 2003  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: 4x200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley_sant_doming
+
+NUM: 32
+
+
+NUM: 15
+
+
+NUM: 11
+
+
+NUM: 21
+
+
+NUM: 26
+
+
+NUM: 43
+
+
+NUM: 11
+
+
+NUM: 24
+
+
+NUM: 16
+
+
+NUM: 12
+
+
+NUM: 37
+
+
+NUM: 12
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 32
+
+
+NUM: 15
+
+
+NUM: 11
+
+
+NUM: 21
+
+
+NUM: 26
+
+
+NUM: 43
+
+
+NUM: 11
+
+
+NUM: 24
+
+
+NUM: 16
+
+
+NUM: 12
+
+
+NUM: 37
+
+
+NUM: 12
+
+
+---------------BEFORE!-------------
+
+VEC: 0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt_nicol_oliveir_deu_brasil_terc_terceir_jog_rio_prov_revez_4_x_200_livr_nataçã_jam_histór_estad_unid_hav_perd_modal
+VEC: 1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua_segund_lug_canad_fic_bronz
+VEC: 2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair_águ
+VEC: 3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir_dia_final_400_medley_super_nort_robert_margal_canadens_keith_beavers
+VEC: 4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem_marcelus_marcil_bronz_skiff_simpl_dupl_form_anderson_nocett_alan_bitencourt_terceir_final_categor_dois_timoneir
+VEC: 5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip_revez_4x200_metr_livr_conquist_terc_segund_medalh_our_nataçã_jog_rio_quebr_fiz_histór_crav_7min12s27_super_foi_primeir_derrot_nort_competiçã_pel_aind_sant_doming_marc_também_sul_quartet_mundial_melbourn
+VEC: 6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost_4x100
+VEC: 7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our_agor_tem_lut_rest_seman_pel_maior_númer_possível_feliz_esper_continu_assim_final
+VEC: 8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz_quartet_torc_apoi_gent_foi_fundamental
+VEC: 9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur_bronz_7min17s73
+VEC: 10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m_medley_lev_medalh_our_segund_brasil_lider_final_bat_record_pan_sul_temp_4min11s14_american_robert_margal_prat_canadens_keith_beavers_garant_bronz_diog_yab_quart_coloc
+VEC: 11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley_sant_doming
+
+---------------AFTER!-------------
+
+VEC: 0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt
+VEC: 1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua
+VEC: 2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair
+VEC: 3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir
+VEC: 4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem
+VEC: 5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip
+VEC: 6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost
+VEC: 7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our
+VEC: 8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz
+VEC: 9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur
+VEC: 10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m
+VEC: 11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+TRESHOLD: 0.109504
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" is "0.363636"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" is "0.0909091"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" is "0.0909091"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" is "0.181818"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0.363636"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.181818"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" is "0.0909091"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" is "0.0909091"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" is "0.0909091"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" is "0.272727"
+
+CHANGE! -- From: 11 -> TO: 5
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0.363636"
+
+CHANGE! -- From: 11 -> TO: 4
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "10_brasileir_pont_fic_thiag_pereir_conquist_folg_primeir_lug_4x200m" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.181818"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 3 -- Abs: 7
+
+
+Topic change from "10" to "3"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 3 -- Abs: 7
+
+
+Topic change from "10" to "3"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 3 -- Abs: 7
+
+
+Topic change from "10" to "3"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 3 -- Abs: 7
+
+
+Topic change from "10" to "3"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 3 -- Abs: 7
+
+
+Topic change from "10" to "3"
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" is "0.3"
+
+CHANGE! -- From: 10 -> TO: 6
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" is "0.1"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0.1"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0.4"
+
+CHANGE! -- From: 10 -> TO: 2
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_prov_terc_quartet_estad_unid_termin_temp_7min15s00_canadens_fatur" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 1 -- Abs: 8
+
+
+Topic change from "9" to "1"
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" is "0.1"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0.1"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" and "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" is "0.1"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" and "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" and "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" is "0.2"
+
+CHANGE! -- From: 8 -> TO: 5
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0.3"
+
+CHANGE! -- From: 8 -> TO: 4
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_bem_medalh_gent_nad_cont_thiag_disput_nataçã_duas_our" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" and "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" and "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0.1"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0.1"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" and "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" is "0.1"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0.1"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0.1"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0.4"
+
+CHANGE! -- From: 6 -> TO: 2
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "5_brasileir_pan_temp_estad_unid_estabelec_derrub_record_pertenc_equip" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" and "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" is "0.3"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0.1"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0.1"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" and "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" is "0.1"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0.1"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "3_antes_thiag_pereir_já_hav_conquist_segund_medalh_our_brasileir" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.3"
+
+CHANGE! -- From: 4 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" and "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" is "0.2"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "1_quartet_brasileir_termin_prov_temp_7min12s27_record_pan_frent_eua" and "0_our_pan_equip_form_thiag_pereir_rodrig_castr_luc_salatt" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 12
+NUM_TOPICS: 11
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: equip  - Frequency: 1
+Word: form  - Frequency: 1
+Word: thiag  - Frequency: 4
+Word: pereir  - Frequency: 3
+Word: rodrig  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: luc  - Frequency: 1
+Word: salatt  - Frequency: 1
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: deu  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: our  - Frequency: 5
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 3
+Word: rio  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: x  - Frequency: 1
+Word: 200  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: nataçã  - Frequency: 2
+Word: jam  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: hav  - Frequency: 2
+Word: perd  - Frequency: 1
+Word: modal  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: já  - Frequency: 1
+Word: conquist  - Frequency: 2
+Word: segund  - Frequency: 2
+Word: medalh  - Frequency: 4
+Word: brasileir  - Frequency: 4
+Word: dia  - Frequency: 1
+Word: final  - Frequency: 3
+Word: 400  - Frequency: 1
+Word: medley  - Frequency: 2
+Word: super  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: robert  - Frequency: 2
+Word: margal  - Frequency: 2
+Word: canadens  - Frequency: 2
+Word: keith  - Frequency: 2
+Word: beavers  - Frequency: 2
+Word: gent  - Frequency: 1
+Word: nad  - Frequency: 1
+Word: bem  - Frequency: 2
+Word: cont  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: lut  - Frequency: 1
+Word: rest  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: feliz  - Frequency: 1
+Word: esper  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: folg  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: 4x200m  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: lider  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: bat  - Frequency: 1
+Word: record  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: 4min11s14  - Frequency: 1
+Word: american  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: prat  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: diog  - Frequency: 1
+Word: yab  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: coloc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_our
+
+Keyword: 0_our_thiag_medalh_brasileir
+
+Keyword: 0_our_thiag_medalh_brasileir_pereir_pan_final
+
+Keyword: 0_our_thiag_medalh_brasileir_pereir_pan_final_brasil_nataçã_hav_conquist_segund_medley_robert_margal_canadens_keith_beavers_bem_pont_fic
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: quartet  - Frequency: 3
+Word: brasileir  - Frequency: 4
+Word: termin  - Frequency: 2
+Word: prov  - Frequency: 2
+Word: temp  - Frequency: 4
+Word: 7min12s27  - Frequency: 2
+Word: record  - Frequency: 3
+Word: pan  - Frequency: 3
+Word: frent  - Frequency: 1
+Word: eua  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: lug  - Frequency: 1
+Word: canad  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: bronz  - Frequency: 2
+Word: equip  - Frequency: 1
+Word: revez  - Frequency: 1
+Word: 4x200  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: terc  - Frequency: 2
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: nataçã  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: crav  - Frequency: 1
+Word: super  - Frequency: 1
+Word: estad  - Frequency: 3
+Word: unid  - Frequency: 3
+Word: foi  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: derrot  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: competiçã  - Frequency: 1
+Word: estabelec  - Frequency: 2
+Word: pel  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: derrub  - Frequency: 2
+Word: pertenc  - Frequency: 2
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: também  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: mundial  - Frequency: 1
+Word: melbourn  - Frequency: 1
+Word: 7min15s00  - Frequency: 1
+Word: canadens  - Frequency: 1
+Word: fatur  - Frequency: 1
+Word: 7min17s73  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_brasileir_temp
+
+Keyword: 1_brasileir_temp_quartet_record_pan_estad_unid
+
+Keyword: 1_brasileir_temp_quartet_record_pan_estad_unid_termin_prov_7min12s27_segund_bronz_terc_estabelec_derrub_pertenc
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: grand  - Frequency: 1
+Word: destaqu  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: nicol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: nadador  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: cair  - Frequency: 1
+Word: águ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair_águ
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: também  - Frequency: 3
+Word: terc  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: for  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: ambas  - Frequency: 1
+Word: rem  - Frequency: 1
+Word: marcelus  - Frequency: 1
+Word: marcil  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: bronz  - Frequency: 1
+Word: skiff  - Frequency: 1
+Word: simpl  - Frequency: 1
+Word: dupl  - Frequency: 1
+Word: form  - Frequency: 1
+Word: anderson  - Frequency: 1
+Word: nocett  - Frequency: 1
+Word: alan  - Frequency: 1
+Word: bitencourt  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: final  - Frequency: 1
+Word: categor  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: timoneir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_também
+
+Keyword: 4_também_fic
+
+Keyword: 4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem_marcelus_marcil_bronz_skiff_simpl_dupl_form_anderson_nocett_alan_bitencourt_terceir_final_categor_dois_timoneir
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: tim  - Frequency: 1
+Word: já  - Frequency: 1
+Word: tem  - Frequency: 2
+Word: vag  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: pequim  - Frequency: 1
+Word: 2008  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: compost  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: nícol  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: thiag  - Frequency: 3
+Word: pereir  - Frequency: 1
+Word: luc  - Frequency: 1
+Word: salatt  - Frequency: 1
+Word: abriu  - Frequency: 1
+Word: revez  - Frequency: 3
+Word: grand  - Frequency: 1
+Word: destaqu  - Frequency: 1
+Word: quartet  - Frequency: 1
+Word: piscin  - Frequency: 1
+Word: parqu  - Frequency: 1
+Word: aquát  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: lenk  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: particip  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: our  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: metr  - Frequency: 5
+Word: medley  - Frequency: 3
+Word: nadador  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: seis  - Frequency: 2
+Word: prov  - Frequency: 1
+Word: cost  - Frequency: 2
+Word: 200  - Frequency: 3
+Word: peit  - Frequency: 1
+Word: 4x100  - Frequency: 2
+Word: tent  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: record  - Frequency: 1
+Word: djan  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: pódi  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_metr
+
+Keyword: 6_metr
+
+Keyword: 6_metr_thiag_revez_medley_200
+
+Keyword: 6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost_4x100
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: arregac  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: feliz  - Frequency: 1
+Word: quartet  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: fundamental  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz_quartet_torc_apoi_gent_foi_fundamental
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: thiag  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: já  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: 2003  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: 4x200m  - Frequency: 1
+Word: medley  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley_sant_doming
+
+NUM: 21
+
+
+NUM: 16
+
+
+NUM: 11
+
+
+NUM: 26
+
+
+NUM: 11
+
+
+NUM: 16
+
+
+NUM: 12
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 21
+
+
+NUM: 16
+
+
+NUM: 11
+
+
+NUM: 26
+
+
+NUM: 11
+
+
+NUM: 16
+
+
+NUM: 12
+
+
+---------------BEFORE!-------------
+
+VEC: 0_our_thiag_medalh_brasileir_pereir_pan_final_brasil_nataçã_hav_conquist_segund_medley_robert_margal_canadens_keith_beavers_bem_pont_fic
+VEC: 1_brasileir_temp_quartet_record_pan_estad_unid_termin_prov_7min12s27_segund_bronz_terc_estabelec_derrub_pertenc
+VEC: 2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair_águ
+VEC: 4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem_marcelus_marcil_bronz_skiff_simpl_dupl_form_anderson_nocett_alan_bitencourt_terceir_final_categor_dois_timoneir
+VEC: 6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost_4x100
+VEC: 8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz_quartet_torc_apoi_gent_foi_fundamental
+VEC: 11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley_sant_doming
+
+---------------AFTER!-------------
+
+VEC: 0_our_thiag_medalh_brasileir_pereir_pan_final_brasil_nataçã_hav
+VEC: 1_brasileir_temp_quartet_record_pan_estad_unid_termin_prov_7min12s27
+VEC: 2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair
+VEC: 4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem
+VEC: 6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost
+VEC: 8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz
+VEC: 11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley
+Keyword: 0_our_thiag_medalh_brasileir_pereir_pan_final_brasil_nataçã_hav
+Keyword: 1_brasileir_temp_quartet_record_pan_estad_unid_termin_prov_7min12s27
+Keyword: 2_grand_destaqu_prov_foi_nicol_oliveir_quart_nadador_brasileir_cair
+Keyword: 4_também_fic_terc_duas_medalh_for_conquist_brasileir_ambas_rem
+Keyword: 6_metr_thiag_revez_medley_200_tem_foi_particip_seis_cost
+Keyword: 8_arregac_marc_anterior_brasil_quas_oit_segund_cont_rodrig_feliz
+Keyword: 11_thiag_pereir_já_hav_sid_bronz_2003_prov_4x200m_medley

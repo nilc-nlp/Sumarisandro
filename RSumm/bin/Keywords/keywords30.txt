@@ -1,0 +1,7774 @@
+Sentenca(topic=0): O banco Itaú registrou lucro líquido de R$ 4,016 bilhões no primeiro semestre deste ano.
+Sentenca(topic=0): O resultado é 35,7% superior ao número apurado na primeira metade do ano passado e reflete ganhos não-recorrentes,  sendo o principal a venda da participação do banco na empresa de verificação de crédito Serasa.
+Sentenca(topic=1): O resultado do Itaú supera o lucro semestral anunciado pelo rival Bradesco (R$ 4,007 bilhões), anunciado ontem, e que também teve impacto de ganhos extraordinários no período.
+Sentenca(topic=1): Com o lucro anunciado hoje, o Itaú passa a ser o banco privado de capital aberto que mais lucrou em um primeiro semestre em pelo menos 20 anos.
+Sentenca(topic=1): Segundo a consultoria Economática, até ontem a posição era ocupada pelo Bradesco.
+Sentenca(topic=1): O maior lucro no primeiro semestre dos últimos 20 anos pertence ao Banco do Brasil, que em 2006 informou R$ 4,032 bilhões --o BB ainda não divulgou os números de 2007.
+Sentenca(topic=2): No segundo trimestre, o lucro do Itaú foi de R$ 2,115 bilhões, acréscimo de 41% sobre o resultado para o mesmo período em 2006.
+Sentenca(topic=2): O Itaú calculou um lucro recorrente --sem o efeito dos ganhos extraordinários-- de R$ 1,919 bilhão no período, um incremento de 0,9% sobre o primeiro trimestre deste ano e de quase 30% sobre o segundo trimestre do ano passado.
+Sentenca(topic=3): As operações de crédito do banco totalizaram R$ 104,82 bilhões em junho, um crescimento de 40% sobre o resultado para o mesmo período no passado.
+Sentenca(topic=4): A carteira de empréstimos para pessoa física somou R$ 45,03 bilhões, um salto de 32,9% sobre o primeiro semestre do ano passado.
+Sentenca(topic=4): A alta foi puxada por financiamentos de carros, que cresceram 60%.
+Sentenca(topic=5): Na carteira de empresas, o saldo foi R$ 46,88 bilhões, um acréscimo de 32,4% sobre o ano passado.
+Sentenca(topic=5): Os créditos voltados para grandes empresas totalizaram R$ 25,63 bilhões, um aumento de 16% sobre junho de 2005.
+Sentenca(topic=5): A carteira de crédito voltada para micro, pequenas e médias empresas totalizou R$ 21,25 bilhões, num salto de 59,7% sobre o ano passado no mesmo período.
+Sentenca(topic=6): O Itaú, segundo maior banco privado do País, obteve lucro líquido de R$ 4,016 bilhões no primeiro semestre desse ano, superando o rival Bradesco e registrando o maior lucro entre bancos privados nos últimos 20 anos.
+Sentenca(topic=6): Na segunda-feira, o Bradesco havia anunciado lucro de R$ 4,007 bilhões no período.
+Sentenca(topic=7): Em comparação com a receita obtida nos seis primeiros meses de 2006, de R$ 2,958 bilhões, o lucro do Itaú cresceu 36% neste ano.
+Sentenca(topic=7): No segundo trimestre, a instituição financeira teve um lucro líquido de R$ 2,115 bilhões, contra R$ 1,498 bilhão em igual período do ano anterior.
+Sentenca(topic=7): A alta, de 41,2%, foi impulsionada pela vendas de ativos e crescimento da carteira de empréstimos.
+Sentenca(topic=7): Esse resultado inclui entre outros efeitos não recorrentes as vendas da participação acionária do banco na empresa de informações de crédito Serasa e da sede do BankBoston em São Paulo e constituição de provisão para créditos "de liquidação duvidosa excedente ao mínimo requerido de forma a permitir a absorção de eventuais aumentos de inadimplência ocasionados por forte reversão do ciclo econômico em situações de stress", informou o Itaú.
+Sentenca(topic=8): No total, os efeitos não recorrentes foram de R$ 196 milhões de reais.
+Sentenca(topic=8): O lucro líquido recorrente no período foi de R$ 1,919 bilhão, comparado a R$ 1,477 bilhão no segundo trimestre de 2006.
+Sentenca(topic=8): Em relação aos primeiros três meses do ano o resultado recorrente da instituição cresceu 0,9%.
+Sentenca(topic=9): A carteira de crédito do Itaú, incluindo avais e fianças, saltou de R$ 74,8 bilhões em junho de 2006 para R$ 104,8 bilhões ao final do segundo trimestre deste ano, um salto de 40,2%.
+Sentenca(topic=9): Na comparação com os primeiros três meses deste ano, a carteira cresceu 3,7%.
+Sentenca(topic=9): O desempenho da carteira foi puxado por financiamento de veículos, que cresceu 58,6% no período, e por crédito para micro, pequenas e médias empresas, que avançou 59,7%.
+Sentenca(topic=10): O retorno sobre o patrimônio líquido médio anualizado ficou em 32,8%, abaixo dos 35,1% há um ano.
+Sentenca(topic=11): Se considerados bancos públicos e privados, o maior lucro entre janeiro e junho dos últimos 20 anos pertence ao Banco do Brasil que em 2006 informou receita de R$ 4,032 bilhões (valor ajustado pelo IPCA até 30 de junho de 2007).
+Sentenca(topic=12): O Itaú obteve nos primeiros seis meses deste ano o maio lucro já registrado por um banco privado do país nos últimos vinte anos.
+Sentenca(topic=12): O lucro líquido acumulado de janeiro a junho chegou a R$ 4,016 bilhões, 35,7% acima dos R$ 2,958 bilhões dos primeiros seis meses de 2006 e também superior aos R$ 4,007 bilhões anunciados na véspera pelo Bradesco, líder no ranking de bancos do país.
+Sentenca(topic=12): Segundo cálculos da consultoria Economática, o resultado só perde para os R$ 4,032 bilhões (valores atualizados pelo IPCA) registrados pelo Banco do Brasil no primeiro semestre do ano passado.
+Sentenca(topic=13): No segundo trimestre, o lucro líquido do Itaú cresceu 41,2%, impulsionado por vendas de ativos e crescimento da carteira de empréstimos.
+Sentenca(topic=13): A cifra chegou a R$ 2,115 bilhões, contra R$ 1,498 bilhão em igual período do ano anterior.
+Sentenca(topic=13): No resultado trimestral, o Brasdesco ficou na frente com lucro líquido de R$ 2,3 bilhões.
+Sentenca(topic=14): "Esse resultado inclui entre outros efeitos não recorrentes as vendas da participação acionária do banco na empresa de informações de crédito Serasa e da sede do BankBoston em São Paulo e constituição de provisão para créditos de liquidação duvidosa excedente ao mínimo requerido de forma a permitir a absorção de eventuais aumentos de inadimplência ocasionados por forte reversão do ciclo econômico em situações de stress", informou o Itaú.
+Sentenca(topic=14): No total, os efeitos não recorrentes foram de R$ 196 milhões.
+Sentenca(topic=15): O lucro líquido recorrente no período foi de R$ 1,919 bilhão,  comparado a R$ 1,477 bilhão no segundo trimestre de 2006.
+Sentenca(topic=15): Em relação aos primeiros três meses do ano o resultado recorrente da instituição cresceu 0,9%.
+Sentenca(topic=15): Analistas previam um lucro recorrente de R$ 1,915 bilhão.
+Sentenca(topic=16): A carteira de crédito do Itaú, incluindo avais e fianças, saltou de R$ 74,8 bilhões em junho de 2006 para R$ 104,8 bilhões ao fim do segundo trimestre deste ano, um salto de 40,2%.
+Sentenca(topic=16): Na comparação com os primeiros três meses deste ano, a carteira cresceu 3,7%.
+Sentenca(topic=16): O banco também controlou a taxa de inadimplência e já prevê queda no indicador até o fim do ano.
+Sentenca(topic=16): O desempenho da carteira foi puxado por financiamento de veículos, que cresceu 58,6% no período, e por crédito para micro, pequenas e médias empresas, que avançou 59,7%.
+Sentenca(topic=17): O retorno sobre o patrimônio líquido médio anualizado ficou em 32,8%, abaixo dos 35,1% há um ano.
+Sentenca(topic=17): No primeiro semestre do ano, o lucro líquido somou R$ 4,016 bilhões, acima dos R$ 2,958 bilhões dos primeiros seis meses de 2006.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: banc  - Frequency: 2
+Word: itaú  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: líqu  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: primeir  - Frequency: 2
+Word: semestr  - Frequency: 1
+Word: ano  - Frequency: 2
+Word: result  - Frequency: 1
+Word: 35  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: apur  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: reflet  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: vend  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: verific  - Frequency: 1
+Word: crédit  - Frequency: 1
+Word: seras  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_banc_primeir_ano
+
+Keyword: 0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4_bilhõ_semestr_result_35_superior_númer_apur_metad_pass_reflet_ganh_nã_send_principal_vend_particip_empres_verific_crédit_seras
+
+
+------------------------------------------------------------
+Topic: 1
+Word: result  - Frequency: 1
+Word: itaú  - Frequency: 2
+Word: sup  - Frequency: 1
+Word: lucr  - Frequency: 4
+Word: semestral  - Frequency: 1
+Word: anunc  - Frequency: 3
+Word: pel  - Frequency: 3
+Word: rival  - Frequency: 1
+Word: bradesc  - Frequency: 2
+Word: 4  - Frequency: 2
+Word: bilhõ  - Frequency: 2
+Word: ontem  - Frequency: 2
+Word: também  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: impact  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: extraordinári  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: banc  - Frequency: 2
+Word: priv  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: abert  - Frequency: 1
+Word: primeir  - Frequency: 2
+Word: semestr  - Frequency: 2
+Word: 20  - Frequency: 2
+Word: anos  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: consultor  - Frequency: 1
+Word: economát  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: era  - Frequency: 1
+Word: ocup  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: pertenc  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: bb  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: 2007  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_lucr
+
+Keyword: 1_lucr_anunc_pel
+
+Keyword: 1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc_primeir_semestr_20_anos
+
+
+------------------------------------------------------------
+Topic: 2
+Word: segund  - Frequency: 2
+Word: trimestr  - Frequency: 3
+Word: lucr  - Frequency: 2
+Word: itaú  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: r$  - Frequency: 2
+Word: 2  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: acréscim  - Frequency: 1
+Word: 41%  - Frequency: 1
+Word: result  - Frequency: 1
+Word: períod  - Frequency: 2
+Word: 2006  - Frequency: 1
+Word: calcul  - Frequency: 1
+Word: recorrent  - Frequency: 1
+Word: efeit  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: extraordinári  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: bilhã  - Frequency: 1
+Word: increment  - Frequency: 1
+Word: 0  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: ano  - Frequency: 2
+Word: quas  - Frequency: 1
+Word: 30%  - Frequency: 1
+Word: pass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_trimestr
+
+Keyword: 2_trimestr_segund_lucr_itaú_r$_períod_ano
+
+Keyword: 2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2_bilhõ_acréscim_41%_result_2006_calcul_recorrent_efeit_ganh_extraordinári_1_bilhã_increment_0_primeir_quas_30%_pass
+
+
+------------------------------------------------------------
+Topic: 3
+Word: oper  - Frequency: 1
+Word: crédit  - Frequency: 1
+Word: banc  - Frequency: 1
+Word: totaliz  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 104  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: cresciment  - Frequency: 1
+Word: 40%  - Frequency: 1
+Word: result  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: pass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment_40%_result_períod_pass
+
+
+------------------------------------------------------------
+Topic: 4
+Word: carteir  - Frequency: 1
+Word: emprést  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: físic  - Frequency: 1
+Word: som  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 45  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: 32  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: semestr  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: pux  - Frequency: 1
+Word: financ  - Frequency: 1
+Word: carr  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 60%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt_32_primeir_semestr_ano_pass_alta_foi_pux_financ_carr_cresc_60%
+
+
+------------------------------------------------------------
+Topic: 5
+Word: carteir  - Frequency: 2
+Word: empres  - Frequency: 3
+Word: sald  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: r$  - Frequency: 3
+Word: 46  - Frequency: 1
+Word: bilhõ  - Frequency: 3
+Word: acréscim  - Frequency: 1
+Word: 32  - Frequency: 1
+Word: ano  - Frequency: 2
+Word: pass  - Frequency: 2
+Word: crédit  - Frequency: 2
+Word: volt  - Frequency: 2
+Word: grand  - Frequency: 1
+Word: totaliz  - Frequency: 2
+Word: 25  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: 16%  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: 2005  - Frequency: 1
+Word: micr  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: méd  - Frequency: 1
+Word: 21  - Frequency: 1
+Word: num  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: 59  - Frequency: 1
+Word: períod  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_empres_r$_bilhõ
+
+Keyword: 5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz
+
+
+------------------------------------------------------------
+Topic: 6
+Word: itaú  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: maior  - Frequency: 2
+Word: banc  - Frequency: 2
+Word: priv  - Frequency: 2
+Word: país  - Frequency: 1
+Word: obtev  - Frequency: 1
+Word: lucr  - Frequency: 3
+Word: líqu  - Frequency: 1
+Word: r$  - Frequency: 2
+Word: 4  - Frequency: 2
+Word: bilhõ  - Frequency: 2
+Word: primeir  - Frequency: 1
+Word: semestr  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: super  - Frequency: 1
+Word: rival  - Frequency: 1
+Word: bradesc  - Frequency: 2
+Word: registr  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: 20  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: períod  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_lucr
+
+Keyword: 6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc
+
+Keyword: 6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc_itaú_país_obtev_líqu_primeir_semestr_ano_super_rival_registr_últim_20_anos_hav_anunc_períod
+
+
+------------------------------------------------------------
+Topic: 7
+Word: compar  - Frequency: 1
+Word: receit  - Frequency: 1
+Word: obtid  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: r$  - Frequency: 3
+Word: 2  - Frequency: 2
+Word: bilhõ  - Frequency: 2
+Word: lucr  - Frequency: 2
+Word: itaú  - Frequency: 2
+Word: cresc  - Frequency: 1
+Word: 36%  - Frequency: 1
+Word: ano  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: trimestr  - Frequency: 1
+Word: instituiçã  - Frequency: 1
+Word: financeir  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: líqu  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: bilhã  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: 41  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: impulsion  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: vend  - Frequency: 2
+Word: ativ  - Frequency: 1
+Word: cresciment  - Frequency: 1
+Word: carteir  - Frequency: 1
+Word: emprést  - Frequency: 1
+Word: result  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: efeit  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: recorrent  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: acionár  - Frequency: 1
+Word: banc  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: crédit  - Frequency: 2
+Word: seras  - Frequency: 1
+Word: sed  - Frequency: 1
+Word: bankboston  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: constituiçã  - Frequency: 1
+Word: provisã  - Frequency: 1
+Word: liquid  - Frequency: 1
+Word: duvid  - Frequency: 1
+Word: excedent  - Frequency: 1
+Word: mínim  - Frequency: 1
+Word: requer  - Frequency: 1
+Word: form  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: absorçã  - Frequency: 1
+Word: eventu  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: inadimplent  - Frequency: 1
+Word: ocasion  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: reversã  - Frequency: 1
+Word: cicl  - Frequency: 1
+Word: econ�  - Frequency: 1
+Word: situaçõ  - Frequency: 1
+Word: stress  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_r$
+
+Keyword: 7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit
+
+Keyword: 7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit_compar_receit_obtid_seis_primeir_mes_2006_cresc_36%_segund_trimestr_instituiçã_financeir_tev_líqu_1_bilhã_igual_períod_anterior_alta_41_foi_impulsion_pel_ativ_cresciment_carteir_emprést_result_inclu_efeit_nã_recorrent_particip_acionár_banc_empres_seras_sed_bankboston_sã_paul_constituiçã_provisã_liquid_duvid_excedent_mínim_requer_form_permit_absorçã_eventu_aument_inadimplent_ocasion_fort_reversã_cicl_econ�_situaçõ_stress
+
+
+------------------------------------------------------------
+Topic: 8
+Word: total  - Frequency: 1
+Word: efeit  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: recorrent  - Frequency: 3
+Word: for  - Frequency: 1
+Word: r$  - Frequency: 3
+Word: 196  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: rea  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: líqu  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: 1  - Frequency: 2
+Word: bilhã  - Frequency: 2
+Word: compar  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: trimestr  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: result  - Frequency: 1
+Word: instituiçã  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 0  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_recorrent_r$
+
+Keyword: 8_recorrent_r$_1_bilhã
+
+Keyword: 8_recorrent_r$_1_bilhã_total_efeit_nã_for_196_milhõ_rea_lucr_líqu_períod_foi_compar_segund_trimestr_2006_relaçã_primeir_três_mes_ano_result_instituiçã_cresc_0
+
+
+------------------------------------------------------------
+Topic: 9
+Word: carteir  - Frequency: 3
+Word: crédit  - Frequency: 2
+Word: itaú  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: ava  - Frequency: 1
+Word: fianc  - Frequency: 1
+Word: salt  - Frequency: 2
+Word: r$  - Frequency: 2
+Word: 74  - Frequency: 1
+Word: bilhõ  - Frequency: 2
+Word: junh  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: 104  - Frequency: 1
+Word: final  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: trimestr  - Frequency: 1
+Word: ano  - Frequency: 2
+Word: 40  - Frequency: 1
+Word: compar  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: cresc  - Frequency: 2
+Word: 3  - Frequency: 1
+Word: desempenh  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: pux  - Frequency: 1
+Word: financ  - Frequency: 1
+Word: veícul  - Frequency: 1
+Word: 58  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: micr  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: méd  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: avanc  - Frequency: 1
+Word: 59  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_carteir
+
+Keyword: 9_carteir_crédit_salt_r$_bilhõ_ano_cresc
+
+Keyword: 9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu_ava_fianc_74_junh_2006_104_final_segund_trimestr_40_compar_primeir_três_mes_3_desempenh_foi_pux_financ_veícul_58_períod_micr_pequen_méd_empres_avanc_59
+
+
+------------------------------------------------------------
+Topic: 10
+Word: retorn  - Frequency: 1
+Word: patrim�  - Frequency: 1
+Word: líqu  - Frequency: 1
+Word: médi  - Frequency: 1
+Word: anualiz  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: 32  - Frequency: 1
+Word: abaix  - Frequency: 1
+Word: 35  - Frequency: 1
+Word: há  - Frequency: 1
+Word: ano  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35_há_ano
+
+
+------------------------------------------------------------
+Topic: 11
+Word: consider  - Frequency: 1
+Word: banc  - Frequency: 2
+Word: públic  - Frequency: 1
+Word: priv  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: junh  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: 20  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: pertenc  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: receit  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: ajust  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: ipca  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: 2007  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_banc_junh
+
+Keyword: 11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim_20_anos_pertenc_brasil_2006_inform_receit_r$_4_bilhõ_ajust_pel_ipca_30_2007
+
+
+------------------------------------------------------------
+Topic: 12
+Word: itaú  - Frequency: 1
+Word: obtev  - Frequency: 1
+Word: primeir  - Frequency: 3
+Word: seis  - Frequency: 2
+Word: mes  - Frequency: 2
+Word: ano  - Frequency: 2
+Word: mai  - Frequency: 1
+Word: lucr  - Frequency: 2
+Word: já  - Frequency: 1
+Word: registr  - Frequency: 2
+Word: banc  - Frequency: 3
+Word: priv  - Frequency: 1
+Word: país  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: vint  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: líqu  - Frequency: 1
+Word: acumul  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: r$  - Frequency: 4
+Word: 4  - Frequency: 3
+Word: bilhõ  - Frequency: 4
+Word: 35  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: também  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: vésp  - Frequency: 1
+Word: pel  - Frequency: 3
+Word: bradesc  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: ranking  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: cálcul  - Frequency: 1
+Word: consultor  - Frequency: 1
+Word: economát  - Frequency: 1
+Word: result  - Frequency: 1
+Word: só  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: atualiz  - Frequency: 1
+Word: ipca  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: semestr  - Frequency: 1
+Word: pass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_r$_bilhõ
+
+Keyword: 12_r$_bilhõ_primeir_banc_4_pel
+
+Keyword: 12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano_lucr_registr_país
+
+
+------------------------------------------------------------
+Topic: 13
+Word: segund  - Frequency: 1
+Word: trimestr  - Frequency: 1
+Word: lucr  - Frequency: 2
+Word: líqu  - Frequency: 2
+Word: itaú  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 41  - Frequency: 1
+Word: impulsion  - Frequency: 1
+Word: vend  - Frequency: 1
+Word: ativ  - Frequency: 1
+Word: cresciment  - Frequency: 1
+Word: carteir  - Frequency: 1
+Word: emprést  - Frequency: 1
+Word: cifr  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: r$  - Frequency: 3
+Word: 2  - Frequency: 2
+Word: bilhõ  - Frequency: 2
+Word: 1  - Frequency: 1
+Word: bilhã  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: result  - Frequency: 1
+Word: trimestral  - Frequency: 1
+Word: brasdesc  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: frent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_r$
+
+Keyword: 13_r$_lucr_líqu_2_bilhõ
+
+Keyword: 13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc_41_impulsion_vend_ativ_cresciment_carteir_emprést_cifr_cheg_1_bilhã_igual_períod_ano_anterior_result_trimestral_brasdesc_fic_frent
+
+
+------------------------------------------------------------
+Topic: 14
+Word: result  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: efeit  - Frequency: 2
+Word: nã  - Frequency: 2
+Word: recorrent  - Frequency: 2
+Word: vend  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: acionár  - Frequency: 1
+Word: banc  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: crédit  - Frequency: 2
+Word: seras  - Frequency: 1
+Word: sed  - Frequency: 1
+Word: bankboston  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: constituiçã  - Frequency: 1
+Word: provisã  - Frequency: 1
+Word: liquid  - Frequency: 1
+Word: duvid  - Frequency: 1
+Word: excedent  - Frequency: 1
+Word: mínim  - Frequency: 1
+Word: requer  - Frequency: 1
+Word: form  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: absorçã  - Frequency: 1
+Word: eventu  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: inadimplent  - Frequency: 1
+Word: ocasion  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: reversã  - Frequency: 1
+Word: cicl  - Frequency: 1
+Word: econ�  - Frequency: 1
+Word: situaçõ  - Frequency: 1
+Word: stress  - Frequency: 1
+Word: itaú  - Frequency: 1
+Word: total  - Frequency: 1
+Word: for  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 196  - Frequency: 1
+Word: milhõ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_efeit_nã_recorrent_inform_crédit
+
+Keyword: 14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip_acionár_banc_empres_seras_sed_bankboston_sã_paul_constituiçã_provisã_liquid_duvid_excedent_mínim_requer_form_permit_absorçã_eventu_aument_inadimplent_ocasion_fort_reversã_cicl_econ�_situaçõ_stress_itaú_total_for_r$_196_milhõ
+
+
+------------------------------------------------------------
+Topic: 15
+Word: lucr  - Frequency: 2
+Word: líqu  - Frequency: 1
+Word: recorrent  - Frequency: 3
+Word: períod  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: r$  - Frequency: 3
+Word: 1  - Frequency: 3
+Word: bilhã  - Frequency: 3
+Word: compar  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: trimestr  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: result  - Frequency: 1
+Word: instituiçã  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 0  - Frequency: 1
+Word: anal  - Frequency: 1
+Word: prev  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_recorrent_r$_1_bilhã
+
+Keyword: 15_recorrent_r$_1_bilhã_lucr
+
+Keyword: 15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar_segund_trimestr_2006_relaçã_primeir_três_mes_ano_result_instituiçã_cresc_0_anal_prev
+
+
+------------------------------------------------------------
+Topic: 16
+Word: carteir  - Frequency: 3
+Word: crédit  - Frequency: 2
+Word: itaú  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: ava  - Frequency: 1
+Word: fianc  - Frequency: 1
+Word: salt  - Frequency: 2
+Word: r$  - Frequency: 2
+Word: 74  - Frequency: 1
+Word: bilhõ  - Frequency: 2
+Word: junh  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: 104  - Frequency: 1
+Word: fim  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: trimestr  - Frequency: 1
+Word: ano  - Frequency: 3
+Word: 40  - Frequency: 1
+Word: compar  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: cresc  - Frequency: 2
+Word: 3  - Frequency: 1
+Word: banc  - Frequency: 1
+Word: também  - Frequency: 1
+Word: control  - Frequency: 1
+Word: tax  - Frequency: 1
+Word: inadimplent  - Frequency: 1
+Word: já  - Frequency: 1
+Word: prev  - Frequency: 1
+Word: qued  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: desempenh  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: pux  - Frequency: 1
+Word: financ  - Frequency: 1
+Word: veícul  - Frequency: 1
+Word: 58  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: micr  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: méd  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: avanc  - Frequency: 1
+Word: 59  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_carteir_ano
+
+Keyword: 16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc
+
+Keyword: 16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú_inclu_ava_fianc_74_junh_2006_104_segund_trimestr_40_compar_primeir_três_mes_3_banc_também_control_tax_inadimplent_já_prev_qued_indic_desempenh_foi_pux_financ_veícul_58_períod_micr_pequen_méd_empres_avanc_59
+
+
+------------------------------------------------------------
+Topic: 17
+Word: retorn  - Frequency: 1
+Word: patrim�  - Frequency: 1
+Word: líqu  - Frequency: 2
+Word: médi  - Frequency: 1
+Word: anualiz  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: 32  - Frequency: 1
+Word: abaix  - Frequency: 1
+Word: 35  - Frequency: 1
+Word: há  - Frequency: 1
+Word: ano  - Frequency: 2
+Word: primeir  - Frequency: 2
+Word: semestr  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: som  - Frequency: 1
+Word: r$  - Frequency: 2
+Word: 4  - Frequency: 1
+Word: bilhõ  - Frequency: 2
+Word: acim  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: 2006  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_líqu_ano_primeir_r$_bilhõ
+
+Keyword: 17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz_fic_32_abaix_35_há_semestr_lucr_som_4_acim_2_seis_mes_2006
+
+NUM: 29
+
+
+NUM: 13
+
+
+NUM: 27
+
+
+NUM: 13
+
+
+NUM: 21
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 25
+
+
+NUM: 72
+
+
+NUM: 28
+
+
+NUM: 37
+
+
+NUM: 11
+
+
+NUM: 24
+
+
+NUM: 12
+
+
+NUM: 29
+
+
+NUM: 43
+
+
+NUM: 23
+
+
+NUM: 46
+
+
+NUM: 23
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 29
+
+
+NUM: 13
+
+
+NUM: 27
+
+
+NUM: 13
+
+
+NUM: 21
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 25
+
+
+NUM: 72
+
+
+NUM: 28
+
+
+NUM: 37
+
+
+NUM: 11
+
+
+NUM: 24
+
+
+NUM: 12
+
+
+NUM: 29
+
+
+NUM: 43
+
+
+NUM: 23
+
+
+NUM: 46
+
+
+NUM: 23
+
+
+---------------BEFORE!-------------
+
+VEC: 0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4_bilhõ_semestr_result_35_superior_númer_apur_metad_pass_reflet_ganh_nã_send_principal_vend_particip_empres_verific_crédit_seras
+VEC: 1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc_primeir_semestr_20_anos
+VEC: 2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2_bilhõ_acréscim_41%_result_2006_calcul_recorrent_efeit_ganh_extraordinári_1_bilhã_increment_0_primeir_quas_30%_pass
+VEC: 3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment_40%_result_períod_pass
+VEC: 4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt_32_primeir_semestr_ano_pass_alta_foi_pux_financ_carr_cresc_60%
+VEC: 5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz
+VEC: 6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc_itaú_país_obtev_líqu_primeir_semestr_ano_super_rival_registr_últim_20_anos_hav_anunc_períod
+VEC: 7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit_compar_receit_obtid_seis_primeir_mes_2006_cresc_36%_segund_trimestr_instituiçã_financeir_tev_líqu_1_bilhã_igual_períod_anterior_alta_41_foi_impulsion_pel_ativ_cresciment_carteir_emprést_result_inclu_efeit_nã_recorrent_particip_acionár_banc_empres_seras_sed_bankboston_sã_paul_constituiçã_provisã_liquid_duvid_excedent_mínim_requer_form_permit_absorçã_eventu_aument_inadimplent_ocasion_fort_reversã_cicl_econ�_situaçõ_stress
+VEC: 8_recorrent_r$_1_bilhã_total_efeit_nã_for_196_milhõ_rea_lucr_líqu_períod_foi_compar_segund_trimestr_2006_relaçã_primeir_três_mes_ano_result_instituiçã_cresc_0
+VEC: 9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu_ava_fianc_74_junh_2006_104_final_segund_trimestr_40_compar_primeir_três_mes_3_desempenh_foi_pux_financ_veícul_58_períod_micr_pequen_méd_empres_avanc_59
+VEC: 10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35_há_ano
+VEC: 11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim_20_anos_pertenc_brasil_2006_inform_receit_r$_4_bilhõ_ajust_pel_ipca_30_2007
+VEC: 12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano_lucr_registr_país
+VEC: 13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc_41_impulsion_vend_ativ_cresciment_carteir_emprést_cifr_cheg_1_bilhã_igual_períod_ano_anterior_result_trimestral_brasdesc_fic_frent
+VEC: 14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip_acionár_banc_empres_seras_sed_bankboston_sã_paul_constituiçã_provisã_liquid_duvid_excedent_mínim_requer_form_permit_absorçã_eventu_aument_inadimplent_ocasion_fort_reversã_cicl_econ�_situaçõ_stress_itaú_total_for_r$_196_milhõ
+VEC: 15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar_segund_trimestr_2006_relaçã_primeir_três_mes_ano_result_instituiçã_cresc_0_anal_prev
+VEC: 16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú_inclu_ava_fianc_74_junh_2006_104_segund_trimestr_40_compar_primeir_três_mes_3_banc_também_control_tax_inadimplent_já_prev_qued_indic_desempenh_foi_pux_financ_veícul_58_períod_micr_pequen_méd_empres_avanc_59
+VEC: 17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz_fic_32_abaix_35_há_semestr_lucr_som_4_acim_2_seis_mes_2006
+
+---------------AFTER!-------------
+
+VEC: 0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4
+VEC: 1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc
+VEC: 2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2
+VEC: 3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment
+VEC: 4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt
+VEC: 5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz
+VEC: 6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc
+VEC: 7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit
+VEC: 8_recorrent_r$_1_bilhã_total_efeit_nã_for_196
+VEC: 9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu
+VEC: 10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35
+VEC: 11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim
+VEC: 12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano
+VEC: 13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc
+VEC: 14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip
+VEC: 15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar
+VEC: 16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú
+VEC: 17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 8
+Similaridade entre eles: 0.8
+
+
+SIM: 0.8
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+TRESHOLD: 0.230864
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" is "0.4"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" is "0.3"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" is "0.4"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" is "0.5"
+
+CHANGE! -- From: 18 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" is "0.6"
+
+CHANGE! -- From: 18 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0.3"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.3"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.2"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.3"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.2"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "17_líqu_ano_primeir_r$_bilhõ_retorn_patrim�_médi_anualiz" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.4"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 10 -- Abs: 7
+
+
+Topic change from "17" to "10"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 10 -- Abs: 7
+
+
+Topic change from "17" to "10"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" is "0.5"
+
+CHANGE! -- From: 17 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" is "0.4"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 8
+Similaridade entre eles: 0.8
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0.8"
+
+CHANGE! -- From: 17 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.5"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.2"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.5"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.4"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.3"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.3"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.2"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "16_carteir_ano_crédit_salt_r$_bilhõ_fim_cresc_itaú" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.3"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 9 -- Abs: 7
+
+
+Topic change from "16" to "9"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 9 -- Abs: 7
+
+
+Topic change from "16" to "9"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 9 -- Abs: 7
+
+
+Topic change from "16" to "9"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 9 -- Abs: 7
+
+
+Topic change from "16" to "9"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" is "0.4"
+
+CHANGE! -- From: 16 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0.1"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0.4"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.2"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.2"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.1"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.1"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.4"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "15_recorrent_r$_1_bilhã_lucr_líqu_períod_foi_compar" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.3"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 13 -- Abs: 2
+
+
+Topic change from "15" to "13"
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 13 -- Abs: 2
+
+
+Topic change from "15" to "13"
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 13 -- Abs: 2
+
+
+Topic change from "15" to "13"
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0.2"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0.3"
+
+CHANGE! -- From: 15 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.3"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.1"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_efeit_nã_recorrent_inform_crédit_result_inclu_vend_particip" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 8 -- Abs: 6
+
+
+Topic change from "14" to "8"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 8 -- Abs: 6
+
+
+Topic change from "14" to "8"
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 9
+Topic: 9
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" is "0.3"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0.4"
+
+CHANGE! -- From: 14 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.5"
+
+CHANGE! -- From: 14 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.4"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.2"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.2"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.6"
+
+CHANGE! -- From: 14 -> TO: 3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.3"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "13_r$_lucr_líqu_2_bilhõ_segund_trimestr_itaú_cresc" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.4"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 9
+Topic: 9
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 13 -- Topic s_aux: 2 -- Abs: 11
+
+
+Topic change from "13" to "2"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 13 -- Topic s_aux: 2 -- Abs: 11
+
+
+Topic change from "13" to "2"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 13 -- Topic s_aux: 2 -- Abs: 11
+
+
+Topic change from "13" to "2"
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 13 -- Topic s_aux: 2 -- Abs: 11
+
+
+Topic change from "13" to "2"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 13 -- Topic s_aux: 2 -- Abs: 11
+
+
+Topic change from "13" to "2"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 13 -- Topic s_aux: 2 -- Abs: 11
+
+
+Topic change from "13" to "2"
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0.3"
+
+CHANGE! -- From: 13 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.3"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.4"
+
+CHANGE! -- From: 13 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.3"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.3"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.4"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "12_r$_bilhõ_primeir_banc_4_pel_seis_mes_ano" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.5"
+
+CHANGE! -- From: 13 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 0 -- Abs: 12
+
+
+Topic change from "12" to "0"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 0 -- Abs: 12
+
+
+Topic change from "12" to "0"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 0 -- Abs: 12
+
+
+Topic change from "12" to "0"
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.4"
+
+CHANGE! -- From: 12 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.2"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.2"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_banc_junh_consider_públic_priv_maior_lucr_janeir_últim" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 6 -- Abs: 5
+
+
+Topic change from "11" to "6"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_retorn_patrim�_líqu_médi_anualiz_fic_32_abaix_35" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" is "0.111111"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.555556"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.222222"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.555556"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.444444"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.333333"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.333333"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.222222"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "9_carteir_crédit_salt_r$_bilhõ_ano_cresc_itaú_inclu" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.333333"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 10 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" is "0.111111"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.111111"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.111111"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.111111"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.111111"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.111111"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_recorrent_r$_1_bilhã_total_efeit_nã_for_196" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" and "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" is "0.333333"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.444444"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.222222"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.333333"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.555556"
+
+CHANGE! -- From: 8 -> TO: 3
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.333333"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "7_r$_2_bilhõ_lucr_itaú_ano_vend_inform_crédit" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.444444"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 10 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" and "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" is "0.222222"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.222222"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.333333"
+
+CHANGE! -- From: 7 -> TO: 4
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.333333"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.555556"
+
+CHANGE! -- From: 7 -> TO: 2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "6_lucr_segund_maior_banc_priv_r$_4_bilhõ_bradesc" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.444444"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" and "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" is "0.333333"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.444444"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.222222"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.111111"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "5_empres_r$_bilhõ_carteir_ano_pass_crédit_volt_totaliz" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" and "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" is "0.222222"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.111111"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.111111"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" and "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" is "0.111111"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.222222"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "3_oper_crédit_banc_totaliz_r$_104_bilhõ_junh_cresciment" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" and "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" is "0.222222"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "2_trimestr_segund_lucr_itaú_r$_períod_ano_foi_2" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.444444"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 10 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "1_lucr_anunc_pel_itaú_bradesc_4_bilhõ_ontem_banc" and "0_banc_primeir_ano_itaú_registr_lucr_líqu_r$_4" is "0.444444"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+NUM_TOPICS: 15
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: banc  - Frequency: 7
+Word: itaú  - Frequency: 9
+Word: registr  - Frequency: 3
+Word: lucr  - Frequency: 11
+Word: líqu  - Frequency: 6
+Word: r$  - Frequency: 20
+Word: 4  - Frequency: 4
+Word: bilhõ  - Frequency: 14
+Word: primeir  - Frequency: 10
+Word: semestr  - Frequency: 2
+Word: ano  - Frequency: 15
+Word: result  - Frequency: 6
+Word: 35  - Frequency: 2
+Word: superior  - Frequency: 2
+Word: númer  - Frequency: 1
+Word: apur  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: pass  - Frequency: 3
+Word: reflet  - Frequency: 1
+Word: ganh  - Frequency: 2
+Word: nã  - Frequency: 2
+Word: send  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: vend  - Frequency: 4
+Word: particip  - Frequency: 2
+Word: empres  - Frequency: 4
+Word: verific  - Frequency: 1
+Word: crédit  - Frequency: 7
+Word: seras  - Frequency: 2
+Word: segund  - Frequency: 8
+Word: trimestr  - Frequency: 8
+Word: foi  - Frequency: 5
+Word: 2  - Frequency: 6
+Word: acréscim  - Frequency: 1
+Word: 41%  - Frequency: 1
+Word: períod  - Frequency: 7
+Word: 2006  - Frequency: 6
+Word: calcul  - Frequency: 1
+Word: recorrent  - Frequency: 5
+Word: efeit  - Frequency: 2
+Word: extraordinári  - Frequency: 1
+Word: 1  - Frequency: 6
+Word: bilhã  - Frequency: 6
+Word: increment  - Frequency: 1
+Word: 0  - Frequency: 2
+Word: quas  - Frequency: 1
+Word: 30%  - Frequency: 1
+Word: compar  - Frequency: 4
+Word: receit  - Frequency: 1
+Word: obtid  - Frequency: 1
+Word: seis  - Frequency: 3
+Word: mes  - Frequency: 6
+Word: cresc  - Frequency: 7
+Word: 36%  - Frequency: 1
+Word: instituiçã  - Frequency: 2
+Word: financeir  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: igual  - Frequency: 2
+Word: anterior  - Frequency: 2
+Word: alta  - Frequency: 1
+Word: 41  - Frequency: 2
+Word: impulsion  - Frequency: 2
+Word: pel  - Frequency: 4
+Word: ativ  - Frequency: 2
+Word: cresciment  - Frequency: 2
+Word: carteir  - Frequency: 8
+Word: emprést  - Frequency: 2
+Word: inclu  - Frequency: 3
+Word: acionár  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: sed  - Frequency: 1
+Word: bankboston  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: constituiçã  - Frequency: 1
+Word: provisã  - Frequency: 1
+Word: liquid  - Frequency: 1
+Word: duvid  - Frequency: 1
+Word: excedent  - Frequency: 1
+Word: mínim  - Frequency: 1
+Word: requer  - Frequency: 1
+Word: form  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: absorçã  - Frequency: 1
+Word: eventu  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: inadimplent  - Frequency: 2
+Word: ocasion  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: reversã  - Frequency: 1
+Word: cicl  - Frequency: 1
+Word: econ�  - Frequency: 1
+Word: situaçõ  - Frequency: 1
+Word: stress  - Frequency: 1
+Word: ava  - Frequency: 2
+Word: fianc  - Frequency: 2
+Word: salt  - Frequency: 4
+Word: 74  - Frequency: 2
+Word: junh  - Frequency: 3
+Word: 104  - Frequency: 2
+Word: final  - Frequency: 1
+Word: 40  - Frequency: 2
+Word: três  - Frequency: 3
+Word: 3  - Frequency: 2
+Word: desempenh  - Frequency: 2
+Word: pux  - Frequency: 2
+Word: financ  - Frequency: 2
+Word: veícul  - Frequency: 2
+Word: 58  - Frequency: 2
+Word: micr  - Frequency: 2
+Word: pequen  - Frequency: 2
+Word: méd  - Frequency: 2
+Word: avanc  - Frequency: 2
+Word: 59  - Frequency: 2
+Word: obtev  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: já  - Frequency: 2
+Word: priv  - Frequency: 1
+Word: país  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: vint  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: acumul  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: cheg  - Frequency: 2
+Word: acim  - Frequency: 1
+Word: também  - Frequency: 2
+Word: anunc  - Frequency: 1
+Word: vésp  - Frequency: 1
+Word: bradesc  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: ranking  - Frequency: 1
+Word: cálcul  - Frequency: 1
+Word: consultor  - Frequency: 1
+Word: economát  - Frequency: 1
+Word: só  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: atualiz  - Frequency: 1
+Word: ipca  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: cifr  - Frequency: 1
+Word: trimestral  - Frequency: 1
+Word: brasdesc  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: anal  - Frequency: 1
+Word: prev  - Frequency: 2
+Word: fim  - Frequency: 2
+Word: control  - Frequency: 1
+Word: tax  - Frequency: 1
+Word: qued  - Frequency: 1
+Word: indic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_r$
+
+Keyword: 0_r$
+
+Keyword: 0_r$
+
+Keyword: 0_r$
+
+Keyword: 0_r$
+
+Keyword: 0_r$_ano
+
+Keyword: 0_r$_ano_bilhõ
+
+Keyword: 0_r$_ano_bilhõ
+
+Keyword: 0_r$_ano_bilhõ
+
+Keyword: 0_r$_ano_bilhõ_lucr
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: result  - Frequency: 1
+Word: itaú  - Frequency: 3
+Word: sup  - Frequency: 1
+Word: lucr  - Frequency: 8
+Word: semestral  - Frequency: 1
+Word: anunc  - Frequency: 4
+Word: pel  - Frequency: 4
+Word: rival  - Frequency: 2
+Word: bradesc  - Frequency: 4
+Word: 4  - Frequency: 5
+Word: bilhõ  - Frequency: 5
+Word: ontem  - Frequency: 2
+Word: também  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: impact  - Frequency: 1
+Word: ganh  - Frequency: 1
+Word: extraordinári  - Frequency: 1
+Word: períod  - Frequency: 2
+Word: hoj  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: banc  - Frequency: 6
+Word: priv  - Frequency: 4
+Word: capital  - Frequency: 1
+Word: abert  - Frequency: 1
+Word: primeir  - Frequency: 3
+Word: semestr  - Frequency: 3
+Word: 20  - Frequency: 4
+Word: anos  - Frequency: 4
+Word: segund  - Frequency: 3
+Word: consultor  - Frequency: 1
+Word: economát  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: era  - Frequency: 1
+Word: ocup  - Frequency: 1
+Word: maior  - Frequency: 4
+Word: últim  - Frequency: 3
+Word: pertenc  - Frequency: 2
+Word: brasil  - Frequency: 2
+Word: 2006  - Frequency: 2
+Word: inform  - Frequency: 2
+Word: r$  - Frequency: 4
+Word: bb  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: 2007  - Frequency: 2
+Word: país  - Frequency: 1
+Word: obtev  - Frequency: 1
+Word: líqu  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: super  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: junh  - Frequency: 2
+Word: receit  - Frequency: 1
+Word: ajust  - Frequency: 1
+Word: ipca  - Frequency: 1
+Word: 30  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_lucr
+
+Keyword: 1_lucr
+
+Keyword: 1_lucr_banc
+
+Keyword: 1_lucr_banc_4_bilhõ
+
+Keyword: 1_lucr_banc_4_bilhõ_anunc_pel_bradesc_priv_20_anos_maior_r$
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: oper  - Frequency: 1
+Word: crédit  - Frequency: 3
+Word: banc  - Frequency: 1
+Word: totaliz  - Frequency: 3
+Word: r$  - Frequency: 4
+Word: 104  - Frequency: 1
+Word: bilhõ  - Frequency: 4
+Word: junh  - Frequency: 2
+Word: cresciment  - Frequency: 1
+Word: 40%  - Frequency: 1
+Word: result  - Frequency: 1
+Word: períod  - Frequency: 2
+Word: pass  - Frequency: 3
+Word: carteir  - Frequency: 2
+Word: empres  - Frequency: 3
+Word: sald  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: 46  - Frequency: 1
+Word: acréscim  - Frequency: 1
+Word: 32  - Frequency: 1
+Word: ano  - Frequency: 2
+Word: volt  - Frequency: 2
+Word: grand  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: 16%  - Frequency: 1
+Word: 2005  - Frequency: 1
+Word: micr  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: méd  - Frequency: 1
+Word: 21  - Frequency: 1
+Word: num  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: 59  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_r$_bilhõ
+
+Keyword: 3_r$_bilhõ_crédit_totaliz_pass_empres
+
+Keyword: 3_r$_bilhõ_crédit_totaliz_pass_empres_junh_períod_carteir_ano_volt
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: carteir  - Frequency: 1
+Word: emprést  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: físic  - Frequency: 1
+Word: som  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 45  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: 32  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: semestr  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: pux  - Frequency: 1
+Word: financ  - Frequency: 1
+Word: carr  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 60%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt_32_primeir_semestr_ano_pass_alta_foi_pux_financ_carr_cresc_60%
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: total  - Frequency: 2
+Word: efeit  - Frequency: 3
+Word: nã  - Frequency: 3
+Word: recorrent  - Frequency: 5
+Word: for  - Frequency: 2
+Word: r$  - Frequency: 4
+Word: 196  - Frequency: 2
+Word: milhõ  - Frequency: 2
+Word: rea  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: líqu  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: 1  - Frequency: 2
+Word: bilhã  - Frequency: 2
+Word: compar  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: trimestr  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: três  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: result  - Frequency: 2
+Word: instituiçã  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 0  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: vend  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: acionár  - Frequency: 1
+Word: banc  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: crédit  - Frequency: 2
+Word: seras  - Frequency: 1
+Word: sed  - Frequency: 1
+Word: bankboston  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: constituiçã  - Frequency: 1
+Word: provisã  - Frequency: 1
+Word: liquid  - Frequency: 1
+Word: duvid  - Frequency: 1
+Word: excedent  - Frequency: 1
+Word: mínim  - Frequency: 1
+Word: requer  - Frequency: 1
+Word: form  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: absorçã  - Frequency: 1
+Word: eventu  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: inadimplent  - Frequency: 1
+Word: ocasion  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: reversã  - Frequency: 1
+Word: cicl  - Frequency: 1
+Word: econ�  - Frequency: 1
+Word: situaçõ  - Frequency: 1
+Word: stress  - Frequency: 1
+Word: itaú  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_recorrent
+
+Keyword: 8_recorrent_r$
+
+Keyword: 8_recorrent_r$_efeit_nã
+
+Keyword: 8_recorrent_r$_efeit_nã_total_for_196_milhõ_1_bilhã_result_inform_crédit
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: retorn  - Frequency: 2
+Word: patrim�  - Frequency: 2
+Word: líqu  - Frequency: 3
+Word: médi  - Frequency: 2
+Word: anualiz  - Frequency: 2
+Word: fic  - Frequency: 2
+Word: 32  - Frequency: 2
+Word: abaix  - Frequency: 2
+Word: 35  - Frequency: 2
+Word: há  - Frequency: 2
+Word: ano  - Frequency: 3
+Word: primeir  - Frequency: 2
+Word: semestr  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: som  - Frequency: 1
+Word: r$  - Frequency: 2
+Word: 4  - Frequency: 1
+Word: bilhõ  - Frequency: 2
+Word: acim  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: 2006  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_líqu_ano
+
+Keyword: 10_líqu_ano_retorn_patrim�_médi_anualiz_fic_32_abaix_35_há_primeir_r$_bilhõ
+
+NUM: 4
+
+
+LESSER: 4
+
+NUM: 12
+
+
+NUM: 11
+
+
+NUM: 21
+
+
+NUM: 13
+
+
+NUM: 14
+
+
+(FINAL) AVERAGE: 4
+
+NUM: 4
+
+
+LESSER: 4
+
+NUM: 12
+
+
+NUM: 11
+
+
+NUM: 21
+
+
+NUM: 13
+
+
+NUM: 14
+
+
+---------------BEFORE!-------------
+
+VEC: 0_r$_ano_bilhõ_lucr
+VEC: 1_lucr_banc_4_bilhõ_anunc_pel_bradesc_priv_20_anos_maior_r$
+VEC: 3_r$_bilhõ_crédit_totaliz_pass_empres_junh_períod_carteir_ano_volt
+VEC: 4_carteir_emprést_pesso_físic_som_r$_45_bilhõ_salt_32_primeir_semestr_ano_pass_alta_foi_pux_financ_carr_cresc_60%
+VEC: 8_recorrent_r$_efeit_nã_total_for_196_milhõ_1_bilhã_result_inform_crédit
+VEC: 10_líqu_ano_retorn_patrim�_médi_anualiz_fic_32_abaix_35_há_primeir_r$_bilhõ
+
+---------------AFTER!-------------
+
+VEC: 0_r$_ano_bilhõ_lucr
+VEC: 1_lucr_banc_4_bilhõ
+VEC: 3_r$_bilhõ_crédit_totaliz
+VEC: 4_carteir_emprést_pesso_físic
+VEC: 8_recorrent_r$_efeit_nã
+VEC: 10_líqu_ano_retorn_patrim�
+Keyword: 0_r$_ano_bilhõ_lucr
+Keyword: 1_lucr_banc_4_bilhõ
+Keyword: 3_r$_bilhõ_crédit_totaliz
+Keyword: 4_carteir_emprést_pesso_físic
+Keyword: 8_recorrent_r$_efeit_nã
+Keyword: 10_líqu_ano_retorn_patrim�

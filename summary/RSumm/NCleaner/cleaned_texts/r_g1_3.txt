@@ -1,0 +1,38 @@
+<div class="materia-conteudo entry-content" id="materia-letra">
+                <div><div><div class="foto componente_materia midia-largura-620">
+	<img alt="&#212;nibus &#233; incendiado durante protesto na regi&#227;o central de SP (Foto: Reprodu&#231;&#227;o/TV Globo)" height="465" src="http://s2.glbimg.com/SvuoV_dlm871UNYMTRieNlg1Mkk=/s.glbimg.com/jo/g1/f/original/2013/12/19/protestobras.jpg" title="&#212;nibus &#233; incendiado durante protesto na regi&#227;o central de SP (Foto: Reprodu&#231;&#227;o/TV Globo)" width="620"><strong>&#212;nibus &#233; incendiado durante protesto na regi&#227;o central de SP (Foto: Reprodu&#231;&#227;o/TV Globo)</strong></div>
+<div class="video componente_materia" id="3030668" style="">
+	</div>
+<p>
+	Dois &#244;nibus foram incendiados por um grupo de ambulantes que protestavam no in&#237;cio da noite desta quinta-feira (19) no Br&#225;s, na regi&#227;o central de <a class="premium-tip" href="/sp/sao-paulo/cidade/sao-paulo.html">S&#227;o Paulo</a>, de acordo com a Pol&#237;cia Militar. Um deles na Pra&#231;a Agente C&#237;cero, na Avenida Rangel Pestana, sentido bairro, na altura do Largo da Conc&#243;rdia, e o outro na Rua Cavalheiro, na mesma regi&#227;o.</p>
+<p>
+	As labaredas do inc&#234;ndio nesse segundo ve&#237;culo atingiram a rede el&#233;trica. O combust&#237;vel vazou, formando um rastro de fogo na Rua Cavalheiro. O tumulto come&#231;ou enquanto policiais militares retiravam um grupo de camel&#244;s da regi&#227;o.</p>
+<p>
+	Segundo a corpora&#231;&#227;o, os ambulantes ficaram revoltados, atiraram pedras e atearam fogo nos &#244;nibus. Sacos de lixo tamb&#233;m foram incendiados para bloquear a via. Ao menos 150 camel&#244;s teriam participado da manifesta&#231;&#227;o.</p>
+<p>
+	Dois ve&#237;culos da PM tiveram os vidros quebrados. Por volta das 20h, a situa&#231;&#227;o j&#225; havia sido controlada, segundo a PM. A Avenida Rangel Pestana, sentido bairro, estava interditada, por volta das 20h15, devido &#224; confus&#227;o. A interdi&#231;&#227;o afetava a circula&#231;&#227;o dos &#244;nibus pela regi&#227;o, de acordo com a S&#227;o Paulo Transporte (SPTrans).</p>
+<div class="foto componente_materia midia-largura-620">
+	<ul><li>
+			&#160;</li>
+	</ul><img alt="Manifestantes queimam sacos de lixo no meio de via  (Foto: Reprodu&#231;&#227;o/TV Globo)" height="465" src="http://s2.glbimg.com/lc5ptc28wEwPJiMRFkcp0A46Q8I=/s.glbimg.com/jo/g1/f/original/2013/12/19/sacosdelixo.jpg" title="Manifestantes queimam sacos de lixo no meio de via  (Foto: Reprodu&#231;&#227;o/TV Globo)" width="620"><strong>Manifestantes queimam sacos de lixo no meio de via (Foto: Reprodu&#231;&#227;o/TV Globo)</strong></div>
+<p>
+	&#160;</p></div><script>new WM.Player( { videosIDs: "3030668", sitePage: "g1/saopaulo/videos", zoneId: "110461" } ).attachTo($("#3030668")[0]);</script></div>
+            </div>
+            <!-- google_ad_section_end -->
+
+            
+                
+	                
+                        <div class="lista-de-entidades">
+                            <strong>tópicos:</strong>
+
+                            <div class="conteudo">
+                                <ul>
+				                    
+					                    <li><a href="/sp/ribeirao-preto-franca/cidade/santa-cruz-da-esperanca.html">Santa Cruz da Esperança</a>, </li>
+				                    
+					                    <li><a href="/sp/sao-paulo/cidade/sao-paulo.html">São Paulo</a></li>
+				                    
+                                </ul>
+                            </div>
+			            </div>

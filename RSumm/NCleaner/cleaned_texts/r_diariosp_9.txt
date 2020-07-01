@@ -1,0 +1,25 @@
+<div class="conteudoGC">
+						
+                            <!--<div class="publicidadeNova">
+								<div id='div-gpt-ad-1358965016960-2' class="arrobaNoticias">
+									<script type='text/javascript'>
+										googletag.cmd.push(function() { googletag.display('div-gpt-ad-1358965016960-2'); });
+									</script>
+								</div>
+                            </div>-->
+							
+							<!-- ???
+                            <div class="publicidadeNova">
+                                <div class="botaoNoticias">
+                                    <script type='text/javascript'>
+                                        GA_googleFillSlot("DSP_diaadia_internas_botaonoticias_290x100");
+                                    </script>
+                                </div>
+                            </div>
+							-->
+							
+                            <div>POR: Lucilene Oliveira</div><div>Especial para o DIÁRIO</div><div><br></div><div>A Rede Hora Certa chegou na Penha e os pacientes atendidos anteriormente pela AMA-E (Assistência Médica Ambulatorial Especialidades) esperam que, enfim, o relógio do agendamento de consultas seja  acertado. </div><div><br></div><div>Durante a inauguração da unidade, nesta quinta, a química Aparecida de Cassia Souza, de 48 anos, comentou o caso do seu pai, Antonio Correia de Souza, 77, que deveria ser atendido este mês, mas só conseguiu vaga para março.</div><div><br></div><div>“A médica deu o papelzinho para passar a cada três meses, mas o rapaz aqui falou que não tem mais vaga”, disse  Aparecida. Antonio havia passado em agosto e  o retorno deveria ser no início de dezembro. </div><div><br></div><div>Questionado sobre o caso do paciente, o secretário municipal de Saúde, José de Filippi Júnior, prometeu averiguar com a administração da unidade Hora Certa, mas garantiu que os atendimentos serão ampliados com a contratação de mais médicos especialistas na área. A Secretaria Municipal de Saúde, afirmou que agendou uma nova consulta com o paciente para o dia 29 de janeiro.</div><div><br></div><div>Além de cardiologistas, a promessa é que a unidade receba mais 20 especialistas para conseguir suprir a demanda de atendimentos. Dos atuais 40 médicos, a Rede Hora Certa vai  atuar com 64 profissionais.</div><div><br></div><div>A obra, que custou R$ 2,9 milhões, tem o proposta de aumentar em 4 mil o número  de atendimentos. A AMA-E atendia 8 mil pessoas e esta marca será ampliada para 12 mil mensais. De 21 especialidades, passa a oferecer 25 e  sobe de 15 para 25 os tipos de exames.</div><div><br></div><div><b>Prefeitura abre outras três unidades a toque de caixa</b></div><div><b><br></b></div><div><div>Além da unidade da Penha, outras três foram inauguradas na quinta-feira. Uma no Itaim Paulista, na Zona Leste, e duas em  M’ Boi Mirim, na Zona Sul. Todas passaram a funcionar onde  antes era  uma AMA-E (Assistência Médica Ambulatorial Especialidades).</div><div><div style="display: inline !important;"><div style="display: inline !important;"><br></div></div></div><div><div style="display: inline !important;"><div style="display: inline !important;">A Hora Certa M’Boi Mirim 1,  que atendia  13 especialidades, passa a oferecer 16. A M’Boi Mirim 2, que atendia a quatro, agora vai contar com seis. A unidade da Penha, com  21 especialidades, vai oferecer outras quatro, e a do  Itaim Paulista, que antes tinha seis  especialidades, passa a atender 14. O atendimento vai ocorrer gradativamente, até fevereiro. </div></div></div><div><div style="display: inline !important;"><div style="display: inline !important;"><div style="display: inline !important;"><br></div></div></div></div><div><div style="display: inline !important;"><div style="display: inline !important;"><div style="display: inline !important;">Em todos os prédios da Rede Hora Certa foram implantados um centro cirúrgico para a realização de até 300 cirurgias por mês. A Prefeitura promete entregar até 2016 outras 32 unidades da Rede Hora Certa. </div></div></div></div></div>
+
+
+
+                        </div>

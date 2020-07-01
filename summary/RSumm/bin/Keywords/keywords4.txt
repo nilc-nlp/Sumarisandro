@@ -1,0 +1,8457 @@
+Sentenca(topic=0): O CGE (Centro de Gerenciamento de Emergências) da Prefeitura de São Paulo registrava oito pontos de alagamento na cidade, às 9h30 desta segunda-feira.
+Sentenca(topic=0): Naquele horário, segundo a CET  (Companhia de Engenharia de Tráfego) , havia 110 km de congestionamento em toda a cidade enquanto a média para o horário era de 76 km.
+Sentenca(topic=0): O congestionamento esteve ainda maior às 9h, quando chegou a 113 km de extensão para uma média de 32 km.
+Sentenca(topic=1): Segundo o CGE, às 9h30 havia alagamentos no viaduto José Colassuono; na pista expressa da avenida Alcântara Machado, sentido bairro, altura da rua Doutor Fomm; na avenida Airton Pretini, sentido centro; na avenida Magalhães de Castro, sentido Castello Branco; na avenida das Nações Unidas, sentido Castello Branco, na rua João Alfredo, sentido centro; na marginal Tietê, sentido centro; e na avenida Otaviano Alves de Lima, sentido Castello Branco.
+Sentenca(topic=1): O estado de atenção na cidade foi suspenso às 9h25.
+Sentenca(topic=1): Ele havia sido decretado pelo CGE devido ao risco de que novos alagamentos surgissem.
+Sentenca(topic=2): Os motoristas, ainda às 9h30, enfrentavam trânsito lento principalmente na pista expressa da marginal Pinheiros, sentido Interlagos; no corredor norte-sul (avenidas 23 de Maio, Rubem Berta e Moreira Guimarães) , sentido Santana; na Radial Leste, sentido centro; e na avenida dos Bandeirantes, sentido marginal.
+Sentenca(topic=3): Não havia registro de acidentes graves, ainda às 9h30.
+Sentenca(topic=4): O Corpo de Bombeiros de São Paulo registrava apenas uma ocorrência grave ligada à chuva, às 9h30.
+Sentenca(topic=4): Três pessoas --incluindo uma criança-- teriam ficado ilhadas em uma casa na rua Quimili, no Jardim Alfredo (zona sul de São Paulo).
+Sentenca(topic=4): Não há informações sobre o estado de saúde dos envolvidos.
+Sentenca(topic=5): A forte chuva em São Paulo complicava o trânsito na manhã desta segunda-feira, 16, e fez com que o Centro de Gerenciamento de Emergência (CGE) da Prefeitura colocasse a cidade em estado de atenção.
+Sentenca(topic=5): Às 9 horas, a cidade tinha 113 km de lentidão, sendo que a média para o horário é de 82 km, segundo a Companhia de Engenharia de Tráfego (CET).
+Sentenca(topic=6): A cidade tinha oito pontos de alagamento, sendo dois intransitáveis, e a Marginal do Pinheiros registrava o pior ponto de lentidão da capital, com 9,4 km da Rodovia Castelo Branco até a Ponte Cidade Jardim, no sentido Interlagos.
+Sentenca(topic=6): O corredor norte-sul - formado pelas avenidas 23 de Maio, Rubem Berta e Moreira Guimarães - registrava mais 6,4 km de lentidão, entre os viadutos João Julião da Costa Aguiar e Beneficência Portuguesa, no sentido Santana.
+Sentenca(topic=6): O motorista que percorria a Radial Leste enfrentava 4,3 de trânsito ruim, a partir do Viaduto Pires do Rio até a Rua Wandenkolk, no sentido centro.
+Sentenca(topic=7): Na Avenida dos Bandeirantes, no sentido Marginal do Pinheiros, havia 4,2 km de lentidão, do Viaduto Arapuã até a Rua Daijiro Matsuda.
+Sentenca(topic=8): Os trens do Metrô circulavam com restrição de velocidade por conta da chuva nas quatro linhas que cortam São Paulo (1 - Azul, 2 - Verde, 3 - Vermelha e 5 - Lilás).
+Sentenca(topic=8): As operações da Companhia Paulista de Trens Metropolitanos (CPTM) seguiam normais.
+Sentenca(topic=9): Depois de 20 dias de tempo seco, voltou a chover na capital paulista.
+Sentenca(topic=9): Segundo o Centro de Gerenciamento de Emergências (CGE) , a última chuva havia ocorrido no dia 29 de junho, em intensidade menor do que a que cai sobre a cidade desde a noite de domingo.
+Sentenca(topic=10): A previsão é que ocorram novas pancadas entre a noite de terça e a manhã de quarta.
+Sentenca(topic=11): A temperatura deve permanecer baixa, por conta da massa de ar polar que acompanha a frente fria que passa pelo estado.
+Sentenca(topic=11): Nesta segunda-feira, os termômetros não devem passar de 18 graus.
+Sentenca(topic=11): Amanhã, a temperatura máxima pode chegar a 22 graus, que passa pelo estado.
+Sentenca(topic=12): O Aeroporto de Congonhas funciona normalmente nesta segunda.
+Sentenca(topic=12): De acordo com a Infraero, até 8h20m apenas dois dos 42 vôos programados atrasaram e um foi cancelado.
+Sentenca(topic=13): A chuva começou na noite de domingo e ficou mais forte entre 6h e 7h30m desta segunda.
+Sentenca(topic=13): Na madrugada, a temperatura foi de 12 graus nos lugares mais frios da cidade.
+Sentenca(topic=14): Com o asfalto molhado, o trânsito ficou mais lento e o congestionamento ficou o dobro da média.
+Sentenca(topic=14): Até 9h30m foram registrados oito pontos de alagamento, dois deles intransitáveis - na Marginal Pinheiros, na altura da Ponte João Dias, e na Marginal Tietê, no acesso à Rodovia dos Bandeirantes.
+Sentenca(topic=15): Na noite de domingo, a pista molhada causou dois capotamentos.
+Sentenca(topic=16): Um deles, no começo da Rodovia dos Imigrantes, deixou sete feridos.
+Sentenca(topic=16): O outro, na Avenida 23 de Maio, perto do Viaduto Pedroso, feriu quatro.
+Sentenca(topic=17): De acordo com a CET, o índice de congestionamento era de 54 quilômetros às 8h, bem acima da média.
+Sentenca(topic=17): Em julho do ano passado, a média foi de 36 km no horário.
+Sentenca(topic=18): O pico de lentidão foi registrado às 9h, com 113 km de lentidão, o dobro do registrado neste horário.
+Sentenca(topic=19): O rodízio de veículos vigora na cidade e hoje há restrição de circulação para os carros com placas final 1 e 2.
+Sentenca(topic=20): - O tempo deve ficar firme somente a partir de quinta-feira -  diz Alexandre Nascimento, da Climatempo.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: cge  - Frequency: 1
+Word: gerenc  - Frequency: 1
+Word: emergent  - Frequency: 1
+Word: prefeitur  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: alag  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: às  - Frequency: 2
+Word: 9h30  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: horári  - Frequency: 2
+Word: cet  - Frequency: 1
+Word: engenh  - Frequency: 1
+Word: tráfeg  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: 110  - Frequency: 1
+Word: km  - Frequency: 4
+Word: congestion  - Frequency: 2
+Word: méd  - Frequency: 2
+Word: era  - Frequency: 1
+Word: 76  - Frequency: 1
+Word: estev  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: 9h  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 113  - Frequency: 1
+Word: extensã  - Frequency: 1
+Word: 32  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_km
+
+Keyword: 0_km
+
+Keyword: 0_km_cidad_às_segund_horári_congestion_méd
+
+Keyword: 0_km_cidad_às_segund_horári_congestion_méd_cge_gerenc_emergent_prefeitur_sã_paul_registr_oit_pont_alag_9h30_cet_engenh_tráfeg_hav_110_era_76_estev_aind_maior_9h_cheg_113_extensã_32
+
+
+------------------------------------------------------------
+Topic: 1
+Word: segund  - Frequency: 1
+Word: cge  - Frequency: 2
+Word: às  - Frequency: 2
+Word: 9h30  - Frequency: 1
+Word: hav  - Frequency: 2
+Word: alag  - Frequency: 2
+Word: viadut  - Frequency: 1
+Word: jos  - Frequency: 1
+Word: colassuon  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: express  - Frequency: 1
+Word: aven  - Frequency: 5
+Word: alcânt  - Frequency: 1
+Word: mach  - Frequency: 1
+Word: sent  - Frequency: 7
+Word: bairr  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: rua  - Frequency: 2
+Word: doutor  - Frequency: 1
+Word: fomm  - Frequency: 1
+Word: airton  - Frequency: 1
+Word: pretin  - Frequency: 1
+Word: centr  - Frequency: 3
+Word: magalhã  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: castell  - Frequency: 3
+Word: branc  - Frequency: 3
+Word: naçõ  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: marginal  - Frequency: 1
+Word: tiet  - Frequency: 1
+Word: otavian  - Frequency: 1
+Word: alves  - Frequency: 1
+Word: lim  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: atençã  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: suspens  - Frequency: 1
+Word: 9h25  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: decret  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: surg  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_sent
+
+Keyword: 1_sent
+
+Keyword: 1_sent_aven
+
+Keyword: 1_sent_aven
+
+Keyword: 1_sent_aven_centr_castell_branc
+
+Keyword: 1_sent_aven_centr_castell_branc_cge_às_hav_alag_rua
+
+
+------------------------------------------------------------
+Topic: 2
+Word: motor  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 9h30  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: lent  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: express  - Frequency: 1
+Word: marginal  - Frequency: 2
+Word: pinheir  - Frequency: 1
+Word: sent  - Frequency: 4
+Word: interlag  - Frequency: 1
+Word: corredor  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: rub  - Frequency: 1
+Word: bert  - Frequency: 1
+Word: moreir  - Frequency: 1
+Word: guimarã  - Frequency: 1
+Word: santan  - Frequency: 1
+Word: radial  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: aven  - Frequency: 1
+Word: bandeir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_sent
+
+Keyword: 2_sent
+
+Keyword: 2_sent_marginal
+
+Keyword: 2_sent_marginal_motor_aind_às_9h30_enfrent_trânsit_lent_principal_pist_express_pinheir_interlag_corredor_nort_23_mai_rub_bert_moreir_guimarã_santan_radial_lest_centr_aven_bandeir
+
+
+------------------------------------------------------------
+Topic: 3
+Word: nã  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 9h30  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_nã_hav_registr_acident_grav_aind_às_9h30
+
+Keyword: 3_nã_hav_registr_acident_grav_aind_às_9h30
+
+
+------------------------------------------------------------
+Topic: 4
+Word: corp  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: sã  - Frequency: 2
+Word: paul  - Frequency: 2
+Word: registr  - Frequency: 1
+Word: ocorrent  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 9h30  - Frequency: 1
+Word: três  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: ilhad  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: rua  - Frequency: 1
+Word: quimil  - Frequency: 1
+Word: jardim  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: há  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: envolv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_sã_paul
+
+Keyword: 4_sã_paul_corp_bombeir_registr_ocorrent_grav_lig_chuv_às_9h30_três_pesso_crianc_ter_fic_ilhad_cas_rua_quimil_jardim_alfred_sul_nã_há_inform_estad_saúd_envolv
+
+
+------------------------------------------------------------
+Topic: 5
+Word: fort  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: complic  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: 16  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: gerenc  - Frequency: 1
+Word: emergent  - Frequency: 1
+Word: prefeitur  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: atençã  - Frequency: 1
+Word: �  - Frequency: 1
+Word: 9  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: 113  - Frequency: 1
+Word: km  - Frequency: 2
+Word: lentidã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: méd  - Frequency: 1
+Word: horári  - Frequency: 1
+Word: 82  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: engenh  - Frequency: 1
+Word: tráfeg  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_segund_cidad_km
+
+Keyword: 5_segund_cidad_km_fort_chuv_sã_paul_complic_trânsit_manhã_16_fez_centr_gerenc_emergent_prefeitur_coloc_estad_atençã_�_9_hor_tinh_113_lentidã_send_méd_horári_82_companh_engenh_tráfeg
+
+
+------------------------------------------------------------
+Topic: 6
+Word: cidad  - Frequency: 2
+Word: tinh  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: pont  - Frequency: 3
+Word: alag  - Frequency: 1
+Word: send  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: intransit  - Frequency: 1
+Word: marginal  - Frequency: 1
+Word: pinheir  - Frequency: 1
+Word: registr  - Frequency: 2
+Word: pior  - Frequency: 1
+Word: lentidã  - Frequency: 2
+Word: capital  - Frequency: 1
+Word: 9  - Frequency: 1
+Word: km  - Frequency: 2
+Word: rodov  - Frequency: 1
+Word: castel  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: jardim  - Frequency: 1
+Word: sent  - Frequency: 3
+Word: interlag  - Frequency: 1
+Word: corredor  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: form  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: aven  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: rub  - Frequency: 1
+Word: bert  - Frequency: 1
+Word: moreir  - Frequency: 1
+Word: guimarã  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: viadut  - Frequency: 2
+Word: joã  - Frequency: 1
+Word: juliã  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: agui  - Frequency: 1
+Word: beneficent  - Frequency: 1
+Word: portugues  - Frequency: 1
+Word: santan  - Frequency: 1
+Word: motor  - Frequency: 1
+Word: percorr  - Frequency: 1
+Word: radial  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: ruim  - Frequency: 1
+Word: part  - Frequency: 1
+Word: pir  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: rua  - Frequency: 1
+Word: wandenkolk  - Frequency: 1
+Word: centr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_pont_sent
+
+Keyword: 6_pont_sent_cidad_registr_lentidã_km_viadut
+
+Keyword: 6_pont_sent_cidad_registr_lentidã_km_viadut_tinh_oit_alag_send_dois_intransit_marginal_pinheir_pior_capital_9_rodov_castel_branc_jardim_interlag_corredor_nort_form_pel_aven_23_mai_rub_bert_moreir_guimarã_6_joã_juliã_cost_agui_beneficent_portugues_santan_motor_percorr_radial_lest_enfrent_4_trânsit_ruim_part_pir_rio_rua_wandenkolk_centr
+
+
+------------------------------------------------------------
+Topic: 7
+Word: aven  - Frequency: 1
+Word: bandeir  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: marginal  - Frequency: 1
+Word: pinheir  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: km  - Frequency: 1
+Word: lentidã  - Frequency: 1
+Word: viadut  - Frequency: 1
+Word: arapuã  - Frequency: 1
+Word: rua  - Frequency: 1
+Word: daijir  - Frequency: 1
+Word: matsud  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_aven_bandeir_sent_marginal_pinheir_hav_4_km_lentidã_viadut_arapuã_rua_daijir_matsud
+
+
+------------------------------------------------------------
+Topic: 8
+Word: trens  - Frequency: 2
+Word: metr�  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: restriçã  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: linh  - Frequency: 1
+Word: cort  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: azul  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: verd  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: vermelh  - Frequency: 1
+Word: 5  - Frequency: 1
+Word: lilás  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: paulist  - Frequency: 1
+Word: metropolitan  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: norm  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_trens
+
+Keyword: 8_trens_metr�_circul_restriçã_veloc_cont_chuv_quatr_linh_cort_sã_paul_azul_2_verd_3_vermelh_5_lilás_oper_companh_paulist_metropolitan_segu_norm
+
+
+------------------------------------------------------------
+Topic: 9
+Word: depo  - Frequency: 1
+Word: 20  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: sec  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: chov  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: paulist  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: gerenc  - Frequency: 1
+Word: emergent  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 29  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: intens  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: cai  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: doming  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_depo_20_dias_temp_sec_volt_chov_capital_paulist_segund_centr_gerenc_emergent_últim_chuv_hav_ocorr_dia_29_junh_intens_menor_cai_cidad_noit_doming
+
+
+------------------------------------------------------------
+Topic: 10
+Word: previsã  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: panc  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: quart  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_previsã_ocorr_nov_panc_noit_terc_manhã_quart
+
+Keyword: 10_previsã_ocorr_nov_panc_noit_terc_manhã_quart
+
+
+------------------------------------------------------------
+Topic: 11
+Word: temperatur  - Frequency: 2
+Word: dev  - Frequency: 2
+Word: permanec  - Frequency: 1
+Word: baix  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: ar  - Frequency: 1
+Word: pol  - Frequency: 1
+Word: acompanh  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: fri  - Frequency: 1
+Word: pass  - Frequency: 3
+Word: pel  - Frequency: 2
+Word: estad  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: term�  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: graus  - Frequency: 2
+Word: amanhã  - Frequency: 1
+Word: máxim  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 22  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_pass
+
+Keyword: 11_pass_temperatur_dev_pel_estad_graus
+
+Keyword: 11_pass_temperatur_dev_pel_estad_graus_permanec_baix_cont_mass_ar_pol_acompanh_frent_fri_segund_term�_nã_18_amanhã_máxim_pod_cheg_22
+
+
+------------------------------------------------------------
+Topic: 12
+Word: aeroport  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: 8h20m  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: 42  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: program  - Frequency: 1
+Word: atras  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: cancel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_aeroport_congonh_funcion_normal_segund_acord_infraer_8h20m_dois_42_v�_program_atras_foi_cancel
+
+
+------------------------------------------------------------
+Topic: 13
+Word: chuv  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: 6h  - Frequency: 1
+Word: 7h30m  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: temperatur  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: graus  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: fri  - Frequency: 1
+Word: cidad  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_chuv_comec_noit_doming_fic_fort_6h_7h30m_segund_madrug_temperatur_foi_12_graus_lug_fri_cidad
+
+
+------------------------------------------------------------
+Topic: 14
+Word: asfalt  - Frequency: 1
+Word: molh  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: lent  - Frequency: 1
+Word: congestion  - Frequency: 1
+Word: dobr  - Frequency: 1
+Word: méd  - Frequency: 1
+Word: 9h30m  - Frequency: 1
+Word: for  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: alag  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: intransit  - Frequency: 1
+Word: marginal  - Frequency: 2
+Word: pinheir  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: tiet  - Frequency: 1
+Word: acess  - Frequency: 1
+Word: rodov  - Frequency: 1
+Word: bandeir  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_fic_pont_marginal
+
+Keyword: 14_fic_pont_marginal_asfalt_molh_trânsit_lent_congestion_dobr_méd_9h30m_for_registr_oit_alag_dois_intransit_pinheir_altur_joã_dias_tiet_acess_rodov_bandeir
+
+
+------------------------------------------------------------
+Topic: 15
+Word: noit  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: molh  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: capot  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_noit_doming_pist_molh_caus_dois_capot
+
+Keyword: 15_noit_doming_pist_molh_caus_dois_capot
+
+
+------------------------------------------------------------
+Topic: 16
+Word: comec  - Frequency: 1
+Word: rodov  - Frequency: 1
+Word: imigr  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: set  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: aven  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: viadut  - Frequency: 1
+Word: pedros  - Frequency: 1
+Word: quatr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_fer
+
+Keyword: 16_fer_comec_rodov_imigr_deix_set_aven_23_mai_pert_viadut_pedros_quatr
+
+
+------------------------------------------------------------
+Topic: 17
+Word: acord  - Frequency: 1
+Word: cet  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: congestion  - Frequency: 1
+Word: era  - Frequency: 1
+Word: 54  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 8h  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: méd  - Frequency: 2
+Word: julh  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: 36  - Frequency: 1
+Word: km  - Frequency: 1
+Word: horári  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_méd
+
+Keyword: 17_méd_acord_cet_índic_congestion_era_54_quil�_às_8h_bem_acim_julh_ano_pass_foi_36_km_horári
+
+
+------------------------------------------------------------
+Topic: 18
+Word: pic  - Frequency: 1
+Word: lentidã  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: registr  - Frequency: 2
+Word: às  - Frequency: 1
+Word: 9h  - Frequency: 1
+Word: 113  - Frequency: 1
+Word: km  - Frequency: 1
+Word: dobr  - Frequency: 1
+Word: horári  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 18_lentidã_registr
+
+Keyword: 18_lentidã_registr_pic_foi_às_9h_113_km_dobr_horári
+
+
+------------------------------------------------------------
+Topic: 19
+Word: rodízi  - Frequency: 1
+Word: veícul  - Frequency: 1
+Word: vigor  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: há  - Frequency: 1
+Word: restriçã  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: carr  - Frequency: 1
+Word: plac  - Frequency: 1
+Word: final  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: 2  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 19_rodízi_veícul_vigor_cidad_hoj_há_restriçã_circul_carr_plac_final_1_2
+
+
+------------------------------------------------------------
+Topic: 20
+Word: temp  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: firm  - Frequency: 1
+Word: soment  - Frequency: 1
+Word: part  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: alexandr  - Frequency: 1
+Word: nasciment  - Frequency: 1
+Word: climatemp  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 20_temp_dev_fic_firm_soment_part_quint_diz_alexandr_nasciment_climatemp
+
+NUM: 33
+
+
+NUM: 10
+
+
+NUM: 28
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 29
+
+
+NUM: 32
+
+
+NUM: 56
+
+
+NUM: 14
+
+
+NUM: 25
+
+
+NUM: 26
+
+
+NUM: 8
+
+
+NUM: 24
+
+
+NUM: 15
+
+
+NUM: 17
+
+
+NUM: 25
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 13
+
+
+NUM: 19
+
+
+NUM: 10
+
+
+NUM: 13
+
+
+NUM: 11
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 33
+
+
+NUM: 10
+
+
+NUM: 28
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 29
+
+
+NUM: 32
+
+
+NUM: 56
+
+
+NUM: 14
+
+
+NUM: 25
+
+
+NUM: 26
+
+
+NUM: 8
+
+
+NUM: 24
+
+
+NUM: 15
+
+
+NUM: 17
+
+
+NUM: 25
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 13
+
+
+NUM: 19
+
+
+NUM: 10
+
+
+NUM: 13
+
+
+NUM: 11
+
+
+---------------BEFORE!-------------
+
+VEC: 0_km_cidad_às_segund_horári_congestion_méd_cge_gerenc_emergent_prefeitur_sã_paul_registr_oit_pont_alag_9h30_cet_engenh_tráfeg_hav_110_era_76_estev_aind_maior_9h_cheg_113_extensã_32
+VEC: 1_sent_aven_centr_castell_branc_cge_às_hav_alag_rua
+VEC: 2_sent_marginal_motor_aind_às_9h30_enfrent_trânsit_lent_principal_pist_express_pinheir_interlag_corredor_nort_23_mai_rub_bert_moreir_guimarã_santan_radial_lest_centr_aven_bandeir
+VEC: 3_nã_hav_registr_acident_grav_aind_às_9h30
+VEC: 4_sã_paul_corp_bombeir_registr_ocorrent_grav_lig_chuv_às_9h30_três_pesso_crianc_ter_fic_ilhad_cas_rua_quimil_jardim_alfred_sul_nã_há_inform_estad_saúd_envolv
+VEC: 5_segund_cidad_km_fort_chuv_sã_paul_complic_trânsit_manhã_16_fez_centr_gerenc_emergent_prefeitur_coloc_estad_atençã_�_9_hor_tinh_113_lentidã_send_méd_horári_82_companh_engenh_tráfeg
+VEC: 6_pont_sent_cidad_registr_lentidã_km_viadut_tinh_oit_alag_send_dois_intransit_marginal_pinheir_pior_capital_9_rodov_castel_branc_jardim_interlag_corredor_nort_form_pel_aven_23_mai_rub_bert_moreir_guimarã_6_joã_juliã_cost_agui_beneficent_portugues_santan_motor_percorr_radial_lest_enfrent_4_trânsit_ruim_part_pir_rio_rua_wandenkolk_centr
+VEC: 7_aven_bandeir_sent_marginal_pinheir_hav_4_km_lentidã_viadut_arapuã_rua_daijir_matsud
+VEC: 8_trens_metr�_circul_restriçã_veloc_cont_chuv_quatr_linh_cort_sã_paul_azul_2_verd_3_vermelh_5_lilás_oper_companh_paulist_metropolitan_segu_norm
+VEC: 9_depo_20_dias_temp_sec_volt_chov_capital_paulist_segund_centr_gerenc_emergent_últim_chuv_hav_ocorr_dia_29_junh_intens_menor_cai_cidad_noit_doming
+VEC: 10_previsã_ocorr_nov_panc_noit_terc_manhã_quart
+VEC: 11_pass_temperatur_dev_pel_estad_graus_permanec_baix_cont_mass_ar_pol_acompanh_frent_fri_segund_term�_nã_18_amanhã_máxim_pod_cheg_22
+VEC: 12_aeroport_congonh_funcion_normal_segund_acord_infraer_8h20m_dois_42_v�_program_atras_foi_cancel
+VEC: 13_chuv_comec_noit_doming_fic_fort_6h_7h30m_segund_madrug_temperatur_foi_12_graus_lug_fri_cidad
+VEC: 14_fic_pont_marginal_asfalt_molh_trânsit_lent_congestion_dobr_méd_9h30m_for_registr_oit_alag_dois_intransit_pinheir_altur_joã_dias_tiet_acess_rodov_bandeir
+VEC: 15_noit_doming_pist_molh_caus_dois_capot
+VEC: 16_fer_comec_rodov_imigr_deix_set_aven_23_mai_pert_viadut_pedros_quatr
+VEC: 17_méd_acord_cet_índic_congestion_era_54_quil�_às_8h_bem_acim_julh_ano_pass_foi_36_km_horári
+VEC: 18_lentidã_registr_pic_foi_às_9h_113_km_dobr_horári
+VEC: 19_rodízi_veícul_vigor_cidad_hoj_há_restriçã_circul_carr_plac_final_1_2
+VEC: 20_temp_dev_fic_firm_soment_part_quint_diz_alexandr_nasciment_climatemp
+
+---------------AFTER!-------------
+
+VEC: 0_km_cidad_às_segund_horári_congestion_méd
+VEC: 1_sent_aven_centr_castell_branc_cge_às
+VEC: 2_sent_marginal_motor_aind_às_9h30_enfrent
+VEC: 3_nã_hav_registr_acident_grav_aind_às
+VEC: 4_sã_paul_corp_bombeir_registr_ocorrent_grav
+VEC: 5_segund_cidad_km_fort_chuv_sã_paul
+VEC: 6_pont_sent_cidad_registr_lentidã_km_viadut
+VEC: 7_aven_bandeir_sent_marginal_pinheir_hav_4
+VEC: 8_trens_metr�_circul_restriçã_veloc_cont_chuv
+VEC: 9_depo_20_dias_temp_sec_volt_chov
+VEC: 10_previsã_ocorr_nov_panc_noit_terc_manhã
+VEC: 11_pass_temperatur_dev_pel_estad_graus_permanec
+VEC: 12_aeroport_congonh_funcion_normal_segund_acord_infraer
+VEC: 13_chuv_comec_noit_doming_fic_fort_6h
+VEC: 14_fic_pont_marginal_asfalt_molh_trânsit_lent
+VEC: 15_noit_doming_pist_molh_caus_dois_capot
+VEC: 16_fer_comec_rodov_imigr_deix_set_aven
+VEC: 17_méd_acord_cet_índic_congestion_era_54
+VEC: 18_lentidã_registr_pic_foi_às_9h_113
+VEC: 19_rodízi_veícul_vigor_cidad_hoj_há_restriçã
+VEC: 20_temp_dev_fic_firm_soment_part_quint
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 9
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 8
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 7
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 6
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 5
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 4
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 3
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 2
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+TRESHOLD: 0.0745749
+
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" is "0.125"
+
+CHANGE! -- From: 21 -> TO: 20
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "18_lentidã_registr_pic_foi_às_9h_113" is "0.125"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "17_méd_acord_cet_índic_congestion_era_54" is "0.125"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "16_fer_comec_rodov_imigr_deix_set_aven" is "0.125"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "15_noit_doming_pist_molh_caus_dois_capot" is "0.125"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "14_fic_pont_marginal_asfalt_molh_trânsit_lent" is "0.25"
+
+CHANGE! -- From: 21 -> TO: 15
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "13_chuv_comec_noit_doming_fic_fort_6h" is "0.25"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.125"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.25"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+Comparação entre os tópicos 2 e 9
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "9_depo_20_dias_temp_sec_volt_chov" is "0.125"
+
+Comparação entre os tópicos 2 e 8
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 2 e 7
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 2 e 6
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 2 e 5
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 2 e 4
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 2 e 3
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 2 e 2
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_temp_dev_fic_firm_soment_part_quint" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 20 -- Topic s_aux: 14 -- Abs: 6
+
+
+Topic change from "20" to "14"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "18_lentidã_registr_pic_foi_às_9h_113" is "0.125"
+
+CHANGE! -- From: 20 -> TO: 19
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "17_méd_acord_cet_índic_congestion_era_54" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "16_fer_comec_rodov_imigr_deix_set_aven" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "15_noit_doming_pist_molh_caus_dois_capot" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "14_fic_pont_marginal_asfalt_molh_trânsit_lent" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "13_chuv_comec_noit_doming_fic_fort_6h" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0.125"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0.125"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "19_rodízi_veícul_vigor_cidad_hoj_há_restriçã" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "17_méd_acord_cet_índic_congestion_era_54" is "0.125"
+
+CHANGE! -- From: 19 -> TO: 18
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "16_fer_comec_rodov_imigr_deix_set_aven" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "15_noit_doming_pist_molh_caus_dois_capot" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "14_fic_pont_marginal_asfalt_molh_trânsit_lent" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "13_chuv_comec_noit_doming_fic_fort_6h" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0.25"
+
+CHANGE! -- From: 19 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0.125"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "3_nã_hav_registr_acident_grav_aind_às" is "0.25"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "1_sent_aven_centr_castell_branc_cge_às" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "18_lentidã_registr_pic_foi_às_9h_113" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 18 -- Topic s_aux: 6 -- Abs: 12
+
+
+Topic change from "18" to "6"
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "16_fer_comec_rodov_imigr_deix_set_aven" is "0.125"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "15_noit_doming_pist_molh_caus_dois_capot" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "14_fic_pont_marginal_asfalt_molh_trânsit_lent" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "13_chuv_comec_noit_doming_fic_fort_6h" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.25"
+
+CHANGE! -- From: 18 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "17_méd_acord_cet_índic_congestion_era_54" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 17 -- Topic s_aux: 12 -- Abs: 5
+
+
+Topic change from "17" to "12"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 17 -- Topic s_aux: 12 -- Abs: 5
+
+
+Topic change from "17" to "12"
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "15_noit_doming_pist_molh_caus_dois_capot" is "0.125"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "14_fic_pont_marginal_asfalt_molh_trânsit_lent" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "13_chuv_comec_noit_doming_fic_fort_6h" is "0.25"
+
+CHANGE! -- From: 17 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0.125"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "1_sent_aven_centr_castell_branc_cge_às" is "0.125"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_fer_comec_rodov_imigr_deix_set_aven" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 16 -- Topic s_aux: 13 -- Abs: 3
+
+
+Topic change from "16" to "13"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 16 -- Topic s_aux: 13 -- Abs: 3
+
+
+Topic change from "16" to "13"
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "14_fic_pont_marginal_asfalt_molh_trânsit_lent" is "0.25"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "13_chuv_comec_noit_doming_fic_fort_6h" is "0.375"
+
+CHANGE! -- From: 16 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.25"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_noit_doming_pist_molh_caus_dois_capot" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 13 -- Abs: 2
+
+
+Topic change from "15" to "13"
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "13_chuv_comec_noit_doming_fic_fort_6h" is "0.25"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0.125"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0.125"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_fic_pont_marginal_asfalt_molh_trânsit_lent" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "12_aeroport_congonh_funcion_normal_segund_acord_infraer" is "0.125"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.25"
+
+CHANGE! -- From: 14 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0.125"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0.25"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_chuv_comec_noit_doming_fic_fort_6h" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "11_pass_temperatur_dev_pel_estad_graus_permanec" is "0.125"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "12_aeroport_congonh_funcion_normal_segund_acord_infraer" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "10_previsã_ocorr_nov_panc_noit_terc_manhã" is "0.125"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_pass_temperatur_dev_pel_estad_graus_permanec" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "9_depo_20_dias_temp_sec_volt_chov" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_previsã_ocorr_nov_panc_noit_terc_manhã" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "8_trens_metr�_circul_restriçã_veloc_cont_chuv" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_depo_20_dias_temp_sec_volt_chov" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "7_aven_bandeir_sent_marginal_pinheir_hav_4" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0.142857"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_trens_metr�_circul_restriçã_veloc_cont_chuv" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_aven_bandeir_sent_marginal_pinheir_hav_4" and "6_pont_sent_cidad_registr_lentidã_km_viadut" is "0.142857"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aven_bandeir_sent_marginal_pinheir_hav_4" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aven_bandeir_sent_marginal_pinheir_hav_4" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_aven_bandeir_sent_marginal_pinheir_hav_4" and "3_nã_hav_registr_acident_grav_aind_às" is "0.142857"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "7_aven_bandeir_sent_marginal_pinheir_hav_4" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0.285714"
+
+CHANGE! -- From: 8 -> TO: 3
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "7_aven_bandeir_sent_marginal_pinheir_hav_4" and "1_sent_aven_centr_castell_branc_cge_às" is "0.285714"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aven_bandeir_sent_marginal_pinheir_hav_4" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "6_pont_sent_cidad_registr_lentidã_km_viadut" and "5_segund_cidad_km_fort_chuv_sã_paul" is "0.285714"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_pont_sent_cidad_registr_lentidã_km_viadut" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0.142857"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_pont_sent_cidad_registr_lentidã_km_viadut" and "3_nã_hav_registr_acident_grav_aind_às" is "0.142857"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_pont_sent_cidad_registr_lentidã_km_viadut" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0.142857"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_pont_sent_cidad_registr_lentidã_km_viadut" and "1_sent_aven_centr_castell_branc_cge_às" is "0.142857"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "6_pont_sent_cidad_registr_lentidã_km_viadut" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.285714"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "5_segund_cidad_km_fort_chuv_sã_paul" and "4_sã_paul_corp_bombeir_registr_ocorrent_grav" is "0.285714"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_segund_cidad_km_fort_chuv_sã_paul" and "3_nã_hav_registr_acident_grav_aind_às" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_segund_cidad_km_fort_chuv_sã_paul" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_segund_cidad_km_fort_chuv_sã_paul" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "5_segund_cidad_km_fort_chuv_sã_paul" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.428571"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "4_sã_paul_corp_bombeir_registr_ocorrent_grav" and "3_nã_hav_registr_acident_grav_aind_às" is "0.285714"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_sã_paul_corp_bombeir_registr_ocorrent_grav" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_sã_paul_corp_bombeir_registr_ocorrent_grav" and "1_sent_aven_centr_castell_branc_cge_às" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_sã_paul_corp_bombeir_registr_ocorrent_grav" and "0_km_cidad_às_segund_horári_congestion_méd" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "3_nã_hav_registr_acident_grav_aind_às" and "2_sent_marginal_motor_aind_às_9h30_enfrent" is "0.285714"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "3_nã_hav_registr_acident_grav_aind_às" and "1_sent_aven_centr_castell_branc_cge_às" is "0.142857"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "3_nã_hav_registr_acident_grav_aind_às" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "2_sent_marginal_motor_aind_às_9h30_enfrent" and "1_sent_aven_centr_castell_branc_cge_às" is "0.285714"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "2_sent_marginal_motor_aind_às_9h30_enfrent" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "1_sent_aven_centr_castell_branc_cge_às" and "0_km_cidad_às_segund_horári_congestion_méd" is "0.142857"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 15
+Topic: 15
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 13
+Topic: 13
+Topic: 7
+Topic: 20
+Topic: 15
+NUM_TOPICS: 19
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: cge  - Frequency: 1
+Word: gerenc  - Frequency: 2
+Word: emergent  - Frequency: 2
+Word: prefeitur  - Frequency: 2
+Word: sã  - Frequency: 3
+Word: paul  - Frequency: 3
+Word: registr  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: alag  - Frequency: 1
+Word: cidad  - Frequency: 4
+Word: às  - Frequency: 2
+Word: 9h30  - Frequency: 1
+Word: segund  - Frequency: 4
+Word: horári  - Frequency: 3
+Word: cet  - Frequency: 1
+Word: engenh  - Frequency: 2
+Word: tráfeg  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: 110  - Frequency: 1
+Word: km  - Frequency: 6
+Word: congestion  - Frequency: 2
+Word: méd  - Frequency: 3
+Word: era  - Frequency: 1
+Word: 76  - Frequency: 1
+Word: estev  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: 9h  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 113  - Frequency: 2
+Word: extensã  - Frequency: 1
+Word: 32  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: chuv  - Frequency: 2
+Word: complic  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: atençã  - Frequency: 1
+Word: �  - Frequency: 1
+Word: 9  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: lentidã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: 82  - Frequency: 1
+Word: companh  - Frequency: 2
+Word: trens  - Frequency: 2
+Word: metr�  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: restriçã  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: linh  - Frequency: 1
+Word: cort  - Frequency: 1
+Word: azul  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: verd  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: vermelh  - Frequency: 1
+Word: 5  - Frequency: 1
+Word: lilás  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: paulist  - Frequency: 1
+Word: metropolitan  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: norm  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_km
+
+Keyword: 0_km
+
+Keyword: 0_km_cidad_segund
+
+Keyword: 0_km_cidad_segund_sã_paul_horári_méd
+
+Keyword: 0_km_cidad_segund_sã_paul_horári_méd_gerenc_emergent_prefeitur_às_engenh_tráfeg_congestion_113_chuv_companh_trens
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: segund  - Frequency: 1
+Word: cge  - Frequency: 2
+Word: às  - Frequency: 2
+Word: 9h30  - Frequency: 1
+Word: hav  - Frequency: 2
+Word: alag  - Frequency: 2
+Word: viadut  - Frequency: 1
+Word: jos  - Frequency: 1
+Word: colassuon  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: express  - Frequency: 1
+Word: aven  - Frequency: 5
+Word: alcânt  - Frequency: 1
+Word: mach  - Frequency: 1
+Word: sent  - Frequency: 7
+Word: bairr  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: rua  - Frequency: 2
+Word: doutor  - Frequency: 1
+Word: fomm  - Frequency: 1
+Word: airton  - Frequency: 1
+Word: pretin  - Frequency: 1
+Word: centr  - Frequency: 3
+Word: magalhã  - Frequency: 1
+Word: castr  - Frequency: 1
+Word: castell  - Frequency: 3
+Word: branc  - Frequency: 3
+Word: naçõ  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: marginal  - Frequency: 1
+Word: tiet  - Frequency: 1
+Word: otavian  - Frequency: 1
+Word: alves  - Frequency: 1
+Word: lim  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: atençã  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: suspens  - Frequency: 1
+Word: 9h25  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: decret  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: surg  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_sent
+
+Keyword: 1_sent
+
+Keyword: 1_sent_aven
+
+Keyword: 1_sent_aven
+
+Keyword: 1_sent_aven_centr_castell_branc
+
+Keyword: 1_sent_aven_centr_castell_branc_cge_às_hav_alag_rua
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: motor  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 9h30  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: lent  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: express  - Frequency: 1
+Word: marginal  - Frequency: 3
+Word: pinheir  - Frequency: 2
+Word: sent  - Frequency: 5
+Word: interlag  - Frequency: 1
+Word: corredor  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: rub  - Frequency: 1
+Word: bert  - Frequency: 1
+Word: moreir  - Frequency: 1
+Word: guimarã  - Frequency: 1
+Word: santan  - Frequency: 1
+Word: radial  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: aven  - Frequency: 2
+Word: bandeir  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: km  - Frequency: 1
+Word: lentidã  - Frequency: 1
+Word: viadut  - Frequency: 1
+Word: arapuã  - Frequency: 1
+Word: rua  - Frequency: 1
+Word: daijir  - Frequency: 1
+Word: matsud  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_sent
+
+Keyword: 2_sent
+
+Keyword: 2_sent_marginal
+
+Keyword: 2_sent_marginal_pinheir_aven_bandeir
+
+Keyword: 2_sent_marginal_pinheir_aven_bandeir_motor_aind_às_9h30_enfrent_trânsit_lent_principal_pist_express_interlag_corredor_nort_23_mai_rub_bert_moreir_guimarã_santan_radial_lest_centr_hav_4_km_lentidã_viadut_arapuã_rua_daijir_matsud
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: nã  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 9h30  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_nã_hav_registr_acident_grav_aind_às_9h30
+
+Keyword: 3_nã_hav_registr_acident_grav_aind_às_9h30
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: corp  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: sã  - Frequency: 2
+Word: paul  - Frequency: 2
+Word: registr  - Frequency: 1
+Word: ocorrent  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 9h30  - Frequency: 1
+Word: três  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: ilhad  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: rua  - Frequency: 1
+Word: quimil  - Frequency: 1
+Word: jardim  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: há  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: envolv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_sã_paul
+
+Keyword: 4_sã_paul_corp_bombeir_registr_ocorrent_grav_lig_chuv_às_9h30_três_pesso_crianc_ter_fic_ilhad_cas_rua_quimil_jardim_alfred_sul_nã_há_inform_estad_saúd_envolv
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: cidad  - Frequency: 2
+Word: tinh  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: pont  - Frequency: 3
+Word: alag  - Frequency: 1
+Word: send  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: intransit  - Frequency: 1
+Word: marginal  - Frequency: 1
+Word: pinheir  - Frequency: 1
+Word: registr  - Frequency: 4
+Word: pior  - Frequency: 1
+Word: lentidã  - Frequency: 4
+Word: capital  - Frequency: 1
+Word: 9  - Frequency: 1
+Word: km  - Frequency: 3
+Word: rodov  - Frequency: 1
+Word: castel  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: jardim  - Frequency: 1
+Word: sent  - Frequency: 3
+Word: interlag  - Frequency: 1
+Word: corredor  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: form  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: aven  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: rub  - Frequency: 1
+Word: bert  - Frequency: 1
+Word: moreir  - Frequency: 1
+Word: guimarã  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: viadut  - Frequency: 2
+Word: joã  - Frequency: 1
+Word: juliã  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: agui  - Frequency: 1
+Word: beneficent  - Frequency: 1
+Word: portugues  - Frequency: 1
+Word: santan  - Frequency: 1
+Word: motor  - Frequency: 1
+Word: percorr  - Frequency: 1
+Word: radial  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: enfrent  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: ruim  - Frequency: 1
+Word: part  - Frequency: 1
+Word: pir  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: rua  - Frequency: 1
+Word: wandenkolk  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: pic  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 9h  - Frequency: 1
+Word: 113  - Frequency: 1
+Word: dobr  - Frequency: 1
+Word: horári  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_registr_lentidã
+
+Keyword: 6_registr_lentidã_pont_km_sent
+
+Keyword: 6_registr_lentidã_pont_km_sent_cidad_viadut
+
+Cur_topic: 9
+
+
+
+------------------------------------------------------------
+Topic: 9
+Word: depo  - Frequency: 1
+Word: 20  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: sec  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: chov  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: paulist  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: gerenc  - Frequency: 1
+Word: emergent  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 29  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: intens  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: cai  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: doming  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_depo_20_dias_temp_sec_volt_chov_capital_paulist_segund_centr_gerenc_emergent_últim_chuv_hav_ocorr_dia_29_junh_intens_menor_cai_cidad_noit_doming
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: previsã  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: panc  - Frequency: 1
+Word: noit  - Frequency: 3
+Word: terc  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: comec  - Frequency: 2
+Word: doming  - Frequency: 2
+Word: fic  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: 6h  - Frequency: 1
+Word: 7h30m  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: temperatur  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: graus  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: fri  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: molh  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: capot  - Frequency: 1
+Word: rodov  - Frequency: 1
+Word: imigr  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: set  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: aven  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: viadut  - Frequency: 1
+Word: pedros  - Frequency: 1
+Word: quatr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_noit
+
+Keyword: 10_noit_comec_doming_fer
+
+Keyword: 10_noit_comec_doming_fer_previsã_ocorr_nov_panc_terc_manhã_quart_chuv_fic_fort_6h_7h30m_segund_madrug_temperatur_foi_12_graus_lug_fri_cidad_pist_molh_caus_dois_capot_rodov_imigr_deix_set_aven_23_mai_pert_viadut_pedros_quatr
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: temperatur  - Frequency: 2
+Word: dev  - Frequency: 2
+Word: permanec  - Frequency: 1
+Word: baix  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: ar  - Frequency: 1
+Word: pol  - Frequency: 1
+Word: acompanh  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: fri  - Frequency: 1
+Word: pass  - Frequency: 3
+Word: pel  - Frequency: 2
+Word: estad  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: term�  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: graus  - Frequency: 2
+Word: amanhã  - Frequency: 1
+Word: máxim  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 22  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_pass
+
+Keyword: 11_pass_temperatur_dev_pel_estad_graus
+
+Keyword: 11_pass_temperatur_dev_pel_estad_graus_permanec_baix_cont_mass_ar_pol_acompanh_frent_fri_segund_term�_nã_18_amanhã_máxim_pod_cheg_22
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: aeroport  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: acord  - Frequency: 2
+Word: infraer  - Frequency: 1
+Word: 8h20m  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: 42  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: program  - Frequency: 1
+Word: atras  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: cancel  - Frequency: 1
+Word: cet  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: congestion  - Frequency: 1
+Word: era  - Frequency: 1
+Word: 54  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 8h  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: méd  - Frequency: 2
+Word: julh  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: 36  - Frequency: 1
+Word: km  - Frequency: 1
+Word: horári  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_acord_foi_méd
+
+Keyword: 12_acord_foi_méd_aeroport_congonh_funcion_normal_segund_infraer_8h20m_dois_42_v�_program_atras_cancel_cet_índic_congestion_era_54_quil�_às_8h_bem_acim_julh_ano_pass_36_km_horári
+
+Cur_topic: 14
+
+
+
+------------------------------------------------------------
+Topic: 14
+Word: asfalt  - Frequency: 1
+Word: molh  - Frequency: 1
+Word: trânsit  - Frequency: 1
+Word: fic  - Frequency: 3
+Word: lent  - Frequency: 1
+Word: congestion  - Frequency: 1
+Word: dobr  - Frequency: 1
+Word: méd  - Frequency: 1
+Word: 9h30m  - Frequency: 1
+Word: for  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: alag  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: intransit  - Frequency: 1
+Word: marginal  - Frequency: 2
+Word: pinheir  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: tiet  - Frequency: 1
+Word: acess  - Frequency: 1
+Word: rodov  - Frequency: 1
+Word: bandeir  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: firm  - Frequency: 1
+Word: soment  - Frequency: 1
+Word: part  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: alexandr  - Frequency: 1
+Word: nasciment  - Frequency: 1
+Word: climatemp  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_fic
+
+Keyword: 14_fic_pont_marginal
+
+Keyword: 14_fic_pont_marginal_asfalt_molh_trânsit_lent_congestion_dobr_méd_9h30m_for_registr_oit_alag_dois_intransit_pinheir_altur_joã_dias_tiet_acess_rodov_bandeir_temp_dev_firm_soment_part_quint_diz_alexandr_nasciment_climatemp
+
+Cur_topic: 19
+
+
+
+------------------------------------------------------------
+Topic: 19
+Word: rodízi  - Frequency: 1
+Word: veícul  - Frequency: 1
+Word: vigor  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: há  - Frequency: 1
+Word: restriçã  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: carr  - Frequency: 1
+Word: plac  - Frequency: 1
+Word: final  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: 2  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 19_rodízi_veícul_vigor_cidad_hoj_há_restriçã_circul_carr_plac_final_1_2
+
+NUM: 18
+
+
+NUM: 10
+
+
+NUM: 37
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 29
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 26
+
+
+NUM: 41
+
+
+NUM: 24
+
+
+NUM: 32
+
+
+NUM: 35
+
+
+NUM: 13
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 18
+
+
+NUM: 10
+
+
+NUM: 37
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 29
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 26
+
+
+NUM: 41
+
+
+NUM: 24
+
+
+NUM: 32
+
+
+NUM: 35
+
+
+NUM: 13
+
+
+---------------BEFORE!-------------
+
+VEC: 0_km_cidad_segund_sã_paul_horári_méd_gerenc_emergent_prefeitur_às_engenh_tráfeg_congestion_113_chuv_companh_trens
+VEC: 1_sent_aven_centr_castell_branc_cge_às_hav_alag_rua
+VEC: 2_sent_marginal_pinheir_aven_bandeir_motor_aind_às_9h30_enfrent_trânsit_lent_principal_pist_express_interlag_corredor_nort_23_mai_rub_bert_moreir_guimarã_santan_radial_lest_centr_hav_4_km_lentidã_viadut_arapuã_rua_daijir_matsud
+VEC: 3_nã_hav_registr_acident_grav_aind_às_9h30
+VEC: 4_sã_paul_corp_bombeir_registr_ocorrent_grav_lig_chuv_às_9h30_três_pesso_crianc_ter_fic_ilhad_cas_rua_quimil_jardim_alfred_sul_nã_há_inform_estad_saúd_envolv
+VEC: 6_registr_lentidã_pont_km_sent_cidad_viadut
+VEC: 9_depo_20_dias_temp_sec_volt_chov_capital_paulist_segund_centr_gerenc_emergent_últim_chuv_hav_ocorr_dia_29_junh_intens_menor_cai_cidad_noit_doming
+VEC: 10_noit_comec_doming_fer_previsã_ocorr_nov_panc_terc_manhã_quart_chuv_fic_fort_6h_7h30m_segund_madrug_temperatur_foi_12_graus_lug_fri_cidad_pist_molh_caus_dois_capot_rodov_imigr_deix_set_aven_23_mai_pert_viadut_pedros_quatr
+VEC: 11_pass_temperatur_dev_pel_estad_graus_permanec_baix_cont_mass_ar_pol_acompanh_frent_fri_segund_term�_nã_18_amanhã_máxim_pod_cheg_22
+VEC: 12_acord_foi_méd_aeroport_congonh_funcion_normal_segund_infraer_8h20m_dois_42_v�_program_atras_cancel_cet_índic_congestion_era_54_quil�_às_8h_bem_acim_julh_ano_pass_36_km_horári
+VEC: 14_fic_pont_marginal_asfalt_molh_trânsit_lent_congestion_dobr_méd_9h30m_for_registr_oit_alag_dois_intransit_pinheir_altur_joã_dias_tiet_acess_rodov_bandeir_temp_dev_firm_soment_part_quint_diz_alexandr_nasciment_climatemp
+VEC: 19_rodízi_veícul_vigor_cidad_hoj_há_restriçã_circul_carr_plac_final_1_2
+
+---------------AFTER!-------------
+
+VEC: 0_km_cidad_segund_sã_paul_horári_méd
+VEC: 1_sent_aven_centr_castell_branc_cge_às
+VEC: 2_sent_marginal_pinheir_aven_bandeir_motor_aind
+VEC: 3_nã_hav_registr_acident_grav_aind_às
+VEC: 4_sã_paul_corp_bombeir_registr_ocorrent_grav
+VEC: 6_registr_lentidã_pont_km_sent_cidad_viadut
+VEC: 9_depo_20_dias_temp_sec_volt_chov
+VEC: 10_noit_comec_doming_fer_previsã_ocorr_nov
+VEC: 11_pass_temperatur_dev_pel_estad_graus_permanec
+VEC: 12_acord_foi_méd_aeroport_congonh_funcion_normal
+VEC: 14_fic_pont_marginal_asfalt_molh_trânsit_lent
+VEC: 19_rodízi_veícul_vigor_cidad_hoj_há_restriçã
+Keyword: 0_km_cidad_segund_sã_paul_horári_méd
+Keyword: 1_sent_aven_centr_castell_branc_cge_às
+Keyword: 2_sent_marginal_pinheir_aven_bandeir_motor_aind
+Keyword: 3_nã_hav_registr_acident_grav_aind_às
+Keyword: 4_sã_paul_corp_bombeir_registr_ocorrent_grav
+Keyword: 6_registr_lentidã_pont_km_sent_cidad_viadut
+Keyword: 9_depo_20_dias_temp_sec_volt_chov
+Keyword: 10_noit_comec_doming_fer_previsã_ocorr_nov
+Keyword: 11_pass_temperatur_dev_pel_estad_graus_permanec
+Keyword: 12_acord_foi_méd_aeroport_congonh_funcion_normal
+Keyword: 14_fic_pont_marginal_asfalt_molh_trânsit_lent
+Keyword: 19_rodízi_veícul_vigor_cidad_hoj_há_restriçã

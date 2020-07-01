@@ -1,0 +1,40 @@
+<l> Ir ao topo da página
+
+<l> Ir ao conteúdo
+
+<l> Ir para a busca
+
+<p> Todos os canais
+
+<l> Horóscopo
+
+<l> Tempo
+
+<p> Assinaturas e serviços
+
+<l> Economia»
+
+<l> Esportes»
+
+<l> Diversão»
+
+<l> Vida e Estilo»
+
+<l> Sonora»
+
+<l> Ofertas»
+
+<l> Chat»
+
+<l> Brasil
+
+<l> Educação
+
+<l> Mundo
+
+<l> Eleições municipais
+
+<l> Eleições nos EUA
+
+<h> Jogos Olímpicos - London 2012 - De 27 de julho a 12 de agosto de 2012
+

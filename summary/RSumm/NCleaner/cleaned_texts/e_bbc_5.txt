@@ -1,0 +1,9 @@
+<p class="ingress">O Facebook estuda criar um botão "se solidarizar" como alternativa ao botão "curtir" para os usuários reagirem a determinados posts colocados na rede social em que o "curtir" não é a melhor alternativa.</p>
+<p>O botão, chamado em inglês de "sympathise" (verbo que pode ser traduzido em português por se solidarizar ou condoer), poderia ser selecionado para reagir a posts, por exemplo, em que o usuário fala de algo triste.</p>
+<p>A ideia dos designers do site é que, no futuro, quando o usuário selecionar uma emoção negativa de uma lista de sentimentos do Facebook ao atualizar seu status, a opção "curtir", disponível para outras pessoas, mude para "se solidarizar".</p>
+<p>Porém, um engenheiro do Facebook disse em um evento da empresa que o botão foi criado como parte de um projeto interno e que não há planos para lançá-lo no momento.</p>
+<p>Em uma sessão de perguntas e respostas durante o evento - realizado no início do mês com membros do público e pesquisadores -, um membro da plateia perguntou se o site havia pensado em trocar o botão "curtir" quando fosse apropriado, como por exemplo, no caso de uma pessoa que perdeu um parente.</p>
+<p>Dan Muriello, um engenheiro de software do Facebook, disse que outro engenheiro havia participado de um <em>hackathon</em> (um encontro onde engenheiros da empresa debatem novas ideias) "há um tempo atrás" e sugeriu mudar o botão "curtir" para "se solidarizar".</p>
+<p>Não daria certo para todos os posts, ele disse, mas se você adicionar à um status certas emoções de uma lista já existente, o botão "curtir" mudaria.</p>
+<p>"Várias pessoas ficaram muito animadas. Mas tomamos a decisão de que não era exatamente o momento certo para lançar esse produto. Ainda", disse ele.</p>
+<p>Tanto o Facebook Chat quanto a "sugestão de amigos" foram ferramentas criadas a partir de trabalhos desenvolvidos em <em>hackathon</em>.</p>

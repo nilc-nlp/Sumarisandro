@@ -1,0 +1,5177 @@
+Sentenca(topic=0): ﻿A pista principal do Aeroporto Internacional de São Paulo (Cumbica), em Guarulhos, será totalmente reformada em março de 2008, segundo informações do Ministério da Defesa anunciadas nesta segunda-feira, 6.
+Sentenca(topic=0): Com isso, a reforma emergencial, que começaria em breve, foi descartada.
+Sentenca(topic=1): O ministro da Defesa, Nelson Jobim, anunciou a reforma que, segundo estudos da Empresa Brasileira de Infra-Estrutura Aeroportuária (Infraero), a reforma poderá ser feita sem que a pista seja interditada.
+Sentenca(topic=1): Apesar da definição, o cronograma da obra não foi divulgado.
+Sentenca(topic=2): De acordo com informações da Defesa, a primeira etapa da reforma será feita com a reforma de um terço da pista, em uma das cabeceiras.
+Sentenca(topic=2): Com isso, as outras duas partes ficam disponíveis para pousos e decolagens.
+Sentenca(topic=2): Na segunda parte, a outra cabeceira será reformada e, na terceira etapa, o centro da pista será reformado.
+Sentenca(topic=2): Na terceira parte da reforma, parte dos vôos de Cumbica serão transferidos para o Aeroporto de Viracopos, em Campinas.
+Sentenca(topic=3): ﻿O Ministério da Defesa anunciou nesta segunda-feira (6) que em março do ano que vem uma das pistas do Aeroporto de Guarulhos será fechada para reformas de seu trecho central.
+Sentenca(topic=3): Enquanto durarem as obras, os vôos serão transferidos para o Aeroporto de Viracopos, em Campinas, a 95 km da Capital, segundo informa o ministério de Nelson Jobim pro meio de nota.
+Sentenca(topic=3): O fechamento da pista, que têm 3,7 km de extensão, está previsto para ocorrer na terceira e última etapa da reforma, que terá três fases.
+Sentenca(topic=3): O Ministério da Defesa não soube informar por quanto tempo a pista permanecerá fechada.
+Sentenca(topic=4): As obras da pista também ainda não têm previsão para começar.
+Sentenca(topic=4): O cronograma da obra depende de estudos finais da Infraero.
+Sentenca(topic=4): O ministro Nelson Jobim, que na semana passada havia anunciado reparos emergenciais na pista, recuou dessa decisão e definiu que as obras serão definitivas.
+Sentenca(topic=5): Cumbica possui duas pistas para pousos e decolagens de vôos nacionais e internacionais.
+Sentenca(topic=5): A assessoria de imprensa da Infraero em Cumbica informou apenas que as obras da pista de 3,7 km não começam nesta segunda-feira (6), mesma data em que toma posse em Brasília o novo presidente da estatal, Sérgio Gaudenzi.
+Sentenca(topic=5): Desde segunda-feira passada (30) , a Infraero realiza o "desemborrachamento" da pista de 3,7 km para retirar da pista o excesso de borracha dos pneus das aeronaves e assim melhorar o atrito.
+Sentenca(topic=6): De acordo com o Ministério da Defesa, na primeira etapa das obras, será reformado um terço da pista em uma das cabeceiras - o restante dela ficará disponível para pousos e decolagens.
+Sentenca(topic=6): Quando for concluída esta fase, o trecho será reaberto e as reformas passarão a ser feitas na outra cabeceira.
+Sentenca(topic=6): Nas duas primeiras etapas da obra, não será necessário o fechamento da pista.
+Sentenca(topic=6): A partir de março, a obra será finalizada com a reforma do trecho central.
+Sentenca(topic=7): Para receber os vôos de Cumbica, Viracopos precisará ser ampliado, sobretudo seu terminal de passageiros, segundo nota do Ministério da Defesa.
+Sentenca(topic=7): A previsão é que essa ampliação seja concluída até março do ano que vem, sendo realizada simultaneamente à reforma de Guarulhos.
+Sentenca(topic=7): Antes do acidente do Airbus da TAM, no dia 17 de julho, o cronograma da Infraero previa que a revitalização da pista de 3,7 km de Cumbica teria início no dia 23 de julho.
+Sentenca(topic=7): Para ser realizada, a Agência Nacional de Aviação Civil (Anac) realizaria audiência pública para discutir a obra.
+Sentenca(topic=7): A reunião estava marcada para o dia 18 de julho, um dia depois do acidente, e acabou sendo suspensa.
+Sentenca(topic=8): A obra, que tinha previsão de durar cinco meses, envolveria a revitalização do pavimento da pista e também seu alongamento.
+Sentenca(topic=8): Além disso, acrescentaria na pista as chamadas saídas rápidas, atalhos para as aeronaves deixarem a pista e chegarem ao terminal.
+Sentenca(topic=8): A vantagem é a desocupação mais rápida da pista pelos aviões.
+Sentenca(topic=8): Entretanto, não se sabe se as obras definitivas anunciadas agora por Nelson Jobim terão as mesmas características.
+Sentenca(topic=9): O ministro da Defesa, Nelson Jobim, decidiu que será realizada uma reforma definitiva na pista principal de Guarulhos, o mais rápido possível, de acordo com a assessoria do ministério da Defesa.
+Sentenca(topic=9): Fica afastada, portanto, a alternativa cogitada na semana passada, de se efetuar uma reforma emergencial nesse momento e se iniciar a reforma definitiva apenas em março de 2008.
+Sentenca(topic=10): De acordo com estudos apresentados pela Infraero, será possível realizar a obra definitiva em três etapas, sem que seja necessário fechar a pista neste momento.
+Sentenca(topic=10): O cronograma da obra depende de estudos finais que estão sendo realizados pela Infraero.
+Sentenca(topic=11): Na primeira etapa, será reformado um terço da pista, em uma das cabeceiras, ficando o restante disponível para pousos e decolagens.
+Sentenca(topic=11): Na segunda etapa, a parte concluída será reaberta e a obra passará a ser feita na outra cabeceira.
+Sentenca(topic=12): A partir de março, será iniciada a fase final da obra, com a reforma do trecho central.
+Sentenca(topic=12): Quando isso ocorrer, a pista deverá ser fechada, e os vôos que a utilizariam serão transferidos para o Aeroporto de Viracopos (Campinas).
+Sentenca(topic=13): De acordo com a assessoria do ministério, a transferência dos vôos de Guarulhos para Viracopos não poderá ser feita neste momento, por que o aeroporto de Campinas necessitará de ampliação, principalmente em terminal de passageiros.
+Sentenca(topic=13): Mas essa ampliação deverá estar concluída até março, sendo feita simultaneamente à reforma de Guarulhos.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ﻿a  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: total  - Frequency: 1
+Word: reform  - Frequency: 2
+Word: marc  - Frequency: 1
+Word: 2008  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: emergencial  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: brev  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: descart  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_reform_segund
+
+Keyword: 0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh_ser_total_marc_2008_inform_ministéri_defes_anunc_6_emergencial_comec_brev_foi_descart
+
+
+------------------------------------------------------------
+Topic: 1
+Word: ministr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: reform  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: estud  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: aeroportuár  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: interdit  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: definiçã  - Frequency: 1
+Word: cronogram  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: divulg  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_reform
+
+Keyword: 1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir_infra_aeroportuár_pod_ser_feit_pist_sej_interdit_apes_definiçã_cronogram_obra_nã_foi_divulg
+
+
+------------------------------------------------------------
+Topic: 2
+Word: acord  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: etap  - Frequency: 2
+Word: reform  - Frequency: 5
+Word: ser  - Frequency: 3
+Word: feit  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: pist  - Frequency: 2
+Word: cabeceir  - Frequency: 2
+Word: duas  - Frequency: 1
+Word: part  - Frequency: 4
+Word: fic  - Frequency: 1
+Word: disponív  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: decolagens  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: terceir  - Frequency: 2
+Word: centr  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: cumbic  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: viracop  - Frequency: 1
+Word: campin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_reform
+
+Keyword: 2_reform_part
+
+Keyword: 2_reform_part_ser
+
+Keyword: 2_reform_part_ser_etap_pist_cabeceir_terceir
+
+Keyword: 2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes_primeir_feit_terc_duas_fic_disponív_pous_decolagens_segund_centr_v�_cumbic_serã_transfer_aeroport_viracop_campin
+
+
+------------------------------------------------------------
+Topic: 3
+Word: ﻿o  - Frequency: 1
+Word: ministéri  - Frequency: 3
+Word: defes  - Frequency: 2
+Word: anunc  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: marc  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: vem  - Frequency: 1
+Word: pist  - Frequency: 3
+Word: aeroport  - Frequency: 2
+Word: guarulh  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: fech  - Frequency: 2
+Word: reform  - Frequency: 2
+Word: trech  - Frequency: 1
+Word: central  - Frequency: 1
+Word: dur  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: viracop  - Frequency: 1
+Word: campin  - Frequency: 1
+Word: 95  - Frequency: 1
+Word: km  - Frequency: 2
+Word: capital  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 1
+Word: pro  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: not  - Frequency: 1
+Word: fechament  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: extensã  - Frequency: 1
+Word: está  - Frequency: 1
+Word: previst  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: etap  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: três  - Frequency: 1
+Word: fas  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: soub  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: permanec  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_ministéri_pist
+
+Keyword: 3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform
+
+Keyword: 3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o_anunc_marc_ano_vem_guarulh_ser_trech_central_dur_obras_v�_serã_transfer_viracop_campin_95_capital_nelson_jobim_pro_mei_not_fechament_têm_3_extensã_está_previst_ocorr_terceir_últim_etap_ter_três_fas_nã_soub_temp_permanec
+
+
+------------------------------------------------------------
+Topic: 4
+Word: obras  - Frequency: 2
+Word: pist  - Frequency: 2
+Word: também  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: previsã  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: cronogram  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: depend  - Frequency: 1
+Word: estud  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: repar  - Frequency: 1
+Word: emergenc  - Frequency: 1
+Word: recu  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: defin  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: definit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_obras_pist
+
+Keyword: 4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra_depend_estud_fin_infraer_ministr_nelson_jobim_seman_pass_hav_anunc_repar_emergenc_recu_decisã_defin_serã_definit
+
+
+------------------------------------------------------------
+Topic: 5
+Word: cumbic  - Frequency: 2
+Word: possu  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: pist  - Frequency: 4
+Word: pous  - Frequency: 1
+Word: decolagens  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: nacion  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: infraer  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: 3  - Frequency: 2
+Word: km  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: dat  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: president  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: sérgi  - Frequency: 1
+Word: gaudenz  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: retir  - Frequency: 1
+Word: excess  - Frequency: 1
+Word: borrach  - Frequency: 1
+Word: pneus  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: atrit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_pist
+
+Keyword: 5_pist
+
+Keyword: 5_pist_cumbic_infraer_3_km_segund
+
+Keyword: 5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens_v�_nacion_internacion_assessor_imprens_inform_obras_nã_comec_dat_tom_poss_brasíl_nov_president_estatal_sérgi_gaudenz_pass_realiz_retir_excess_borrach_pneus_aeronav_assim_melhor_atrit
+
+
+------------------------------------------------------------
+Topic: 6
+Word: acord  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: primeir  - Frequency: 2
+Word: etap  - Frequency: 2
+Word: obras  - Frequency: 1
+Word: ser  - Frequency: 5
+Word: reform  - Frequency: 3
+Word: terc  - Frequency: 1
+Word: pist  - Frequency: 2
+Word: cabeceir  - Frequency: 2
+Word: restant  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: dispon  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: decolagens  - Frequency: 1
+Word: for  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: fas  - Frequency: 1
+Word: trech  - Frequency: 2
+Word: reabert  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: obra  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: fechament  - Frequency: 1
+Word: part  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: finaliz  - Frequency: 1
+Word: central  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_ser
+
+Keyword: 6_ser
+
+Keyword: 6_ser_reform
+
+Keyword: 6_ser_reform_primeir_etap_pist_cabeceir_trech_obra
+
+Keyword: 6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri_defes_obras_terc_restant_fic_dispon_pous_decolagens_for_concluíd_fas_reabert_pass_feit_duas_nã_necessári_fechament_part_marc_finaliz_central
+
+
+------------------------------------------------------------
+Topic: 7
+Word: receb  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: cumbic  - Frequency: 2
+Word: viracop  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: ampli  - Frequency: 1
+Word: sobretud  - Frequency: 1
+Word: terminal  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: not  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: previsã  - Frequency: 1
+Word: ampliaçã  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: marc  - Frequency: 2
+Word: ano  - Frequency: 1
+Word: vem  - Frequency: 1
+Word: send  - Frequency: 2
+Word: realiz  - Frequency: 3
+Word: simultan  - Frequency: 1
+Word: reform  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: acident  - Frequency: 2
+Word: airbus  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: dia  - Frequency: 4
+Word: 17  - Frequency: 1
+Word: julh  - Frequency: 3
+Word: cronogram  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: prev  - Frequency: 1
+Word: revitaliz  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: km  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: aviaçã  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: audiênc  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: discut  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: reuniã  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: suspens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_dia
+
+Keyword: 7_dia_realiz_julh
+
+Keyword: 7_dia_realiz_julh_cumbic_ser_marc_send_acident
+
+Keyword: 7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�_viracop_precis_ampli_sobretud_terminal_passageir_segund_not_ministéri_defes_previsã_ampliaçã_sej_concluíd_ano_vem_simultan_reform_guarulh_antes_airbus_tam_17_cronogram_infraer_prev_revitaliz_pist_3_km_ter_iníci_23_agênc_nacional_aviaçã_civil_audiênc_públic_discut_obra_reuniã_estav_18_depo_acab_suspens
+
+
+------------------------------------------------------------
+Topic: 8
+Word: obra  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: previsã  - Frequency: 1
+Word: dur  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: revitaliz  - Frequency: 1
+Word: paviment  - Frequency: 1
+Word: pist  - Frequency: 4
+Word: também  - Frequency: 1
+Word: along  - Frequency: 1
+Word: além  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: ráp  - Frequency: 2
+Word: atalh  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: terminal  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: desocup  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: aviõ  - Frequency: 1
+Word: entretant  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: sab  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: definit  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 1
+Word: terã  - Frequency: 1
+Word: característ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_pist
+
+Keyword: 8_pist
+
+Keyword: 8_pist_ráp
+
+Keyword: 8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz_paviment_também_along_além_acrescent_cham_atalh_aeronav_deix_cheg_terminal_vantag_desocup_pel_aviõ_entretant_nã_sab_obras_definit_anunc_agor_nelson_jobim_terã_característ
+
+
+------------------------------------------------------------
+Topic: 9
+Word: ministr  - Frequency: 1
+Word: defes  - Frequency: 2
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: reform  - Frequency: 3
+Word: definit  - Frequency: 2
+Word: pist  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: ráp  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: afast  - Frequency: 1
+Word: portant  - Frequency: 1
+Word: altern  - Frequency: 1
+Word: cogit  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: efetu  - Frequency: 1
+Word: emergencial  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 2008  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_reform
+
+Keyword: 9_reform_defes_definit
+
+Keyword: 9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist_principal_guarulh_ráp_possível_acord_assessor_ministéri_fic_afast_portant_altern_cogit_seman_pass_efetu_emergencial_moment_inic_marc_2008
+
+
+------------------------------------------------------------
+Topic: 10
+Word: acord  - Frequency: 1
+Word: estud  - Frequency: 2
+Word: apresent  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: infraer  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: realiz  - Frequency: 2
+Word: obra  - Frequency: 2
+Word: definit  - Frequency: 1
+Word: três  - Frequency: 1
+Word: etap  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: cronogram  - Frequency: 1
+Word: depend  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: send  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_estud_pel_infraer_realiz_obra
+
+Keyword: 10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit_três_etap_sej_necessári_fech_pist_moment_cronogram_depend_fin_estã_send
+
+
+------------------------------------------------------------
+Topic: 11
+Word: primeir  - Frequency: 1
+Word: etap  - Frequency: 2
+Word: ser  - Frequency: 3
+Word: reform  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: cabeceir  - Frequency: 2
+Word: fic  - Frequency: 1
+Word: restant  - Frequency: 1
+Word: dispon  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: decolagens  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: part  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: reabert  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: feit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_ser
+
+Keyword: 11_ser_etap_cabeceir
+
+Keyword: 11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon_pous_decolagens_segund_part_concluíd_reabert_obra_pass_feit
+
+
+------------------------------------------------------------
+Topic: 12
+Word: part  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: inic  - Frequency: 1
+Word: fas  - Frequency: 1
+Word: final  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: reform  - Frequency: 1
+Word: trech  - Frequency: 1
+Word: central  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: viracop  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_ser
+
+Keyword: 12_ser_part_marc_inic_fas_final_obra_reform_trech_central_ocorr_pist_dev_fech_v�_utiliz_serã_transfer_aeroport_viracop
+
+
+------------------------------------------------------------
+Topic: 13
+Word: acord  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: transferent  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: guarulh  - Frequency: 2
+Word: viracop  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: feit  - Frequency: 2
+Word: moment  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: campin  - Frequency: 1
+Word: necessit  - Frequency: 1
+Word: ampliaçã  - Frequency: 2
+Word: principal  - Frequency: 1
+Word: terminal  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: send  - Frequency: 1
+Word: simultan  - Frequency: 1
+Word: reform  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_guarulh_feit_ampliaçã
+
+Keyword: 13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã_pod_ser_moment_aeroport_campin_necessit_principal_terminal_passageir_dev_estar_concluíd_marc_send_simultan_reform
+
+NUM: 24
+
+
+NUM: 25
+
+
+NUM: 27
+
+
+NUM: 49
+
+
+NUM: 28
+
+
+NUM: 38
+
+
+NUM: 32
+
+
+NUM: 57
+
+
+NUM: 36
+
+
+NUM: 30
+
+
+NUM: 22
+
+
+NUM: 19
+
+
+NUM: 20
+
+
+NUM: 26
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 24
+
+
+NUM: 25
+
+
+NUM: 27
+
+
+NUM: 49
+
+
+NUM: 28
+
+
+NUM: 38
+
+
+NUM: 32
+
+
+NUM: 57
+
+
+NUM: 36
+
+
+NUM: 30
+
+
+NUM: 22
+
+
+NUM: 19
+
+
+NUM: 20
+
+
+NUM: 26
+
+
+---------------BEFORE!-------------
+
+VEC: 0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh_ser_total_marc_2008_inform_ministéri_defes_anunc_6_emergencial_comec_brev_foi_descart
+VEC: 1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir_infra_aeroportuár_pod_ser_feit_pist_sej_interdit_apes_definiçã_cronogram_obra_nã_foi_divulg
+VEC: 2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes_primeir_feit_terc_duas_fic_disponív_pous_decolagens_segund_centr_v�_cumbic_serã_transfer_aeroport_viracop_campin
+VEC: 3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o_anunc_marc_ano_vem_guarulh_ser_trech_central_dur_obras_v�_serã_transfer_viracop_campin_95_capital_nelson_jobim_pro_mei_not_fechament_têm_3_extensã_está_previst_ocorr_terceir_últim_etap_ter_três_fas_nã_soub_temp_permanec
+VEC: 4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra_depend_estud_fin_infraer_ministr_nelson_jobim_seman_pass_hav_anunc_repar_emergenc_recu_decisã_defin_serã_definit
+VEC: 5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens_v�_nacion_internacion_assessor_imprens_inform_obras_nã_comec_dat_tom_poss_brasíl_nov_president_estatal_sérgi_gaudenz_pass_realiz_retir_excess_borrach_pneus_aeronav_assim_melhor_atrit
+VEC: 6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri_defes_obras_terc_restant_fic_dispon_pous_decolagens_for_concluíd_fas_reabert_pass_feit_duas_nã_necessári_fechament_part_marc_finaliz_central
+VEC: 7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�_viracop_precis_ampli_sobretud_terminal_passageir_segund_not_ministéri_defes_previsã_ampliaçã_sej_concluíd_ano_vem_simultan_reform_guarulh_antes_airbus_tam_17_cronogram_infraer_prev_revitaliz_pist_3_km_ter_iníci_23_agênc_nacional_aviaçã_civil_audiênc_públic_discut_obra_reuniã_estav_18_depo_acab_suspens
+VEC: 8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz_paviment_também_along_além_acrescent_cham_atalh_aeronav_deix_cheg_terminal_vantag_desocup_pel_aviõ_entretant_nã_sab_obras_definit_anunc_agor_nelson_jobim_terã_característ
+VEC: 9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist_principal_guarulh_ráp_possível_acord_assessor_ministéri_fic_afast_portant_altern_cogit_seman_pass_efetu_emergencial_moment_inic_marc_2008
+VEC: 10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit_três_etap_sej_necessári_fech_pist_moment_cronogram_depend_fin_estã_send
+VEC: 11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon_pous_decolagens_segund_part_concluíd_reabert_obra_pass_feit
+VEC: 12_ser_part_marc_inic_fas_final_obra_reform_trech_central_ocorr_pist_dev_fech_v�_utiliz_serã_transfer_aeroport_viracop
+VEC: 13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã_pod_ser_moment_aeroport_campin_necessit_principal_terminal_passageir_dev_estar_concluíd_marc_send_simultan_reform
+
+---------------AFTER!-------------
+
+VEC: 0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh
+VEC: 1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir
+VEC: 2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes
+VEC: 3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o
+VEC: 4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra
+VEC: 5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens
+VEC: 6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri
+VEC: 7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�
+VEC: 8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz
+VEC: 9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist
+VEC: 10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit
+VEC: 11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon
+VEC: 12_ser_part_marc_inic_fas_final_obra_reform_trech_central
+VEC: 13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.545455
+
+
+SIM: 0.545455
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.454545
+
+
+SIM: 0.454545
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+TRESHOLD: 0.156543
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" is "0.181818"
+
+CHANGE! -- From: 14 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" is "0.0909091"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" is "0.181818"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.0909091"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_guarulh_feit_ampliaçã_acord_assessor_ministéri_transferent_v�_viracop_nã" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.0909091"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" is "0.272727"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" is "0.272727"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" is "0.181818"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" is "0.0909091"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" is "0.181818"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" is "0.363636"
+
+CHANGE! -- From: 13 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.0909091"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.272727"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_ser_part_marc_inic_fas_final_obra_reform_trech_central" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.0909091"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 6 -- Abs: 6
+
+
+Topic change from "12" to "6"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 6 -- Abs: 6
+
+
+Topic change from "12" to "6"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" is "0.181818"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" is "0.272727"
+
+CHANGE! -- From: 12 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" is "0.0909091"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" is "0.0909091"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.545455
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" is "0.545455"
+
+CHANGE! -- From: 12 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0.0909091"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.181818"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.454545
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.454545"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "11_ser_etap_cabeceir_primeir_reform_terc_pist_fic_restant_dispon" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.181818"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 6 -- Abs: 5
+
+
+Topic change from "11" to "6"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 6 -- Abs: 5
+
+
+Topic change from "11" to "6"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" is "0.272727"
+
+CHANGE! -- From: 11 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" is "0.0909091"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" is "0.181818"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" is "0.272727"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0.0909091"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.181818"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_estud_pel_infraer_realiz_obra_acord_apresent_ser_possível_definit" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" is "0.1"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" is "0.2"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" is "0.3"
+
+CHANGE! -- From: 10 -> TO: 7
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0.1"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.1"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.3"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.4"
+
+CHANGE! -- From: 10 -> TO: 3
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.5"
+
+CHANGE! -- From: 10 -> TO: 2
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_reform_defes_definit_ministr_nelson_jobim_decid_ser_realiz_pist" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 1 -- Abs: 8
+
+
+Topic change from "9" to "1"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 1 -- Abs: 8
+
+
+Topic change from "9" to "1"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" is "0.2"
+
+CHANGE! -- From: 9 -> TO: 7
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0.1"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.3"
+
+CHANGE! -- From: 9 -> TO: 5
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.1"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.1"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_pist_ráp_obra_tinh_previsã_dur_cinc_mes_envolv_revitaliz" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" and "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" is "0.1"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0.1"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.1"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" and "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" is "0.1"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.2"
+
+CHANGE! -- From: 7 -> TO: 5
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.3"
+
+CHANGE! -- From: 7 -> TO: 4
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+Similarity between "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.6"
+
+CHANGE! -- From: 7 -> TO: 3
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.1"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_ser_reform_primeir_etap_pist_cabeceir_trech_obra_acord_ministéri" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" and "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" is "0.1"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.3"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.1"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.1"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "5_pist_cumbic_infraer_3_km_segund_possu_duas_pous_decolagens" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" and "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" is "0.1"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.1"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_obras_pist_também_aind_nã_têm_previsã_comec_cronogram_obra" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" and "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" is "0.4"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.3"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "3_ministéri_pist_defes_segund_aeroport_fech_reform_km_inform_﻿o" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.4"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" and "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" is "0.2"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "2_reform_part_ser_etap_pist_cabeceir_terceir_acord_inform_defes" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "1_reform_ministr_defes_nelson_jobim_anunc_segund_estud_empres_brasileir" and "0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh" is "0.2"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 11
+Topic: 11
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+NUM_TOPICS: 10
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ﻿a  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: principal  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: total  - Frequency: 1
+Word: reform  - Frequency: 2
+Word: marc  - Frequency: 1
+Word: 2008  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: emergencial  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: brev  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: descart  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_reform_segund
+
+Keyword: 0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh_ser_total_marc_2008_inform_ministéri_defes_anunc_6_emergencial_comec_brev_foi_descart
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: ministr  - Frequency: 2
+Word: defes  - Frequency: 3
+Word: nelson  - Frequency: 2
+Word: jobim  - Frequency: 2
+Word: anunc  - Frequency: 1
+Word: reform  - Frequency: 5
+Word: segund  - Frequency: 1
+Word: estud  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: infra  - Frequency: 1
+Word: aeroportuár  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: feit  - Frequency: 1
+Word: pist  - Frequency: 2
+Word: sej  - Frequency: 1
+Word: interdit  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: definiçã  - Frequency: 1
+Word: cronogram  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: definit  - Frequency: 2
+Word: principal  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: ráp  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: afast  - Frequency: 1
+Word: portant  - Frequency: 1
+Word: altern  - Frequency: 1
+Word: cogit  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: efetu  - Frequency: 1
+Word: emergencial  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 2008  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_reform
+
+Keyword: 1_reform
+
+Keyword: 1_reform_defes
+
+Keyword: 1_reform_defes_ministr_nelson_jobim_ser_pist_definit
+
+Keyword: 1_reform_defes_ministr_nelson_jobim_ser_pist_definit_anunc_segund_estud_empres_brasileir_infra_aeroportuár_pod_feit_sej_interdit_apes_definiçã_cronogram_obra_nã_foi_divulg_decid_realiz_principal_guarulh_ráp_possível_acord_assessor_ministéri_fic_afast_portant_altern_cogit_seman_pass_efetu_emergencial_moment_inic_marc_2008
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: acord  - Frequency: 2
+Word: inform  - Frequency: 4
+Word: defes  - Frequency: 4
+Word: primeir  - Frequency: 4
+Word: etap  - Frequency: 7
+Word: reform  - Frequency: 12
+Word: ser  - Frequency: 14
+Word: feit  - Frequency: 3
+Word: terc  - Frequency: 3
+Word: pist  - Frequency: 13
+Word: cabeceir  - Frequency: 6
+Word: duas  - Frequency: 3
+Word: part  - Frequency: 7
+Word: fic  - Frequency: 3
+Word: disponív  - Frequency: 1
+Word: pous  - Frequency: 4
+Word: decolagens  - Frequency: 4
+Word: segund  - Frequency: 6
+Word: terceir  - Frequency: 3
+Word: centr  - Frequency: 1
+Word: v�  - Frequency: 4
+Word: cumbic  - Frequency: 3
+Word: serã  - Frequency: 3
+Word: transfer  - Frequency: 3
+Word: aeroport  - Frequency: 4
+Word: viracop  - Frequency: 3
+Word: campin  - Frequency: 2
+Word: ﻿o  - Frequency: 1
+Word: ministéri  - Frequency: 4
+Word: anunc  - Frequency: 1
+Word: marc  - Frequency: 3
+Word: ano  - Frequency: 1
+Word: vem  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: fech  - Frequency: 3
+Word: trech  - Frequency: 4
+Word: central  - Frequency: 3
+Word: dur  - Frequency: 1
+Word: obras  - Frequency: 3
+Word: 95  - Frequency: 1
+Word: km  - Frequency: 4
+Word: capital  - Frequency: 1
+Word: nelson  - Frequency: 1
+Word: jobim  - Frequency: 1
+Word: pro  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: not  - Frequency: 1
+Word: fechament  - Frequency: 2
+Word: têm  - Frequency: 1
+Word: 3  - Frequency: 3
+Word: extensã  - Frequency: 1
+Word: está  - Frequency: 1
+Word: previst  - Frequency: 1
+Word: ocorr  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: três  - Frequency: 1
+Word: fas  - Frequency: 3
+Word: nã  - Frequency: 3
+Word: soub  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: permanec  - Frequency: 1
+Word: possu  - Frequency: 1
+Word: nacion  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: infraer  - Frequency: 2
+Word: comec  - Frequency: 1
+Word: dat  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: president  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: sérgi  - Frequency: 1
+Word: gaudenz  - Frequency: 1
+Word: pass  - Frequency: 3
+Word: realiz  - Frequency: 1
+Word: retir  - Frequency: 1
+Word: excess  - Frequency: 1
+Word: borrach  - Frequency: 1
+Word: pneus  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: atrit  - Frequency: 1
+Word: restant  - Frequency: 2
+Word: dispon  - Frequency: 2
+Word: for  - Frequency: 1
+Word: concluíd  - Frequency: 2
+Word: reabert  - Frequency: 2
+Word: obra  - Frequency: 4
+Word: necessári  - Frequency: 1
+Word: finaliz  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: final  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: utiliz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_ser
+
+Keyword: 2_ser_pist
+
+Keyword: 2_ser_pist_reform
+
+Keyword: 2_ser_pist_reform
+
+Keyword: 2_ser_pist_reform
+
+Keyword: 2_ser_pist_reform
+
+Keyword: 2_ser_pist_reform
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: obras  - Frequency: 3
+Word: pist  - Frequency: 6
+Word: também  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: têm  - Frequency: 1
+Word: previsã  - Frequency: 2
+Word: comec  - Frequency: 1
+Word: cronogram  - Frequency: 1
+Word: obra  - Frequency: 2
+Word: depend  - Frequency: 1
+Word: estud  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: nelson  - Frequency: 2
+Word: jobim  - Frequency: 2
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: anunc  - Frequency: 2
+Word: repar  - Frequency: 1
+Word: emergenc  - Frequency: 1
+Word: recu  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: defin  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: definit  - Frequency: 2
+Word: tinh  - Frequency: 1
+Word: dur  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: revitaliz  - Frequency: 1
+Word: paviment  - Frequency: 1
+Word: along  - Frequency: 1
+Word: além  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: ráp  - Frequency: 2
+Word: atalh  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: terminal  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: desocup  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: aviõ  - Frequency: 1
+Word: entretant  - Frequency: 1
+Word: sab  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: terã  - Frequency: 1
+Word: característ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_pist
+
+Keyword: 4_pist
+
+Keyword: 4_pist
+
+Keyword: 4_pist_obras
+
+Keyword: 4_pist_obras_também_nã_previsã_obra_nelson_jobim_anunc_definit_ráp
+
+Cur_topic: 7
+
+
+
+------------------------------------------------------------
+Topic: 7
+Word: receb  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: cumbic  - Frequency: 2
+Word: viracop  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: ampli  - Frequency: 1
+Word: sobretud  - Frequency: 1
+Word: terminal  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: not  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: previsã  - Frequency: 1
+Word: ampliaçã  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: marc  - Frequency: 2
+Word: ano  - Frequency: 1
+Word: vem  - Frequency: 1
+Word: send  - Frequency: 2
+Word: realiz  - Frequency: 3
+Word: simultan  - Frequency: 1
+Word: reform  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: acident  - Frequency: 2
+Word: airbus  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: dia  - Frequency: 4
+Word: 17  - Frequency: 1
+Word: julh  - Frequency: 3
+Word: cronogram  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: prev  - Frequency: 1
+Word: revitaliz  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: km  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: aviaçã  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: audiênc  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: discut  - Frequency: 1
+Word: obra  - Frequency: 1
+Word: reuniã  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: suspens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_dia
+
+Keyword: 7_dia_realiz_julh
+
+Keyword: 7_dia_realiz_julh_cumbic_ser_marc_send_acident
+
+Keyword: 7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�_viracop_precis_ampli_sobretud_terminal_passageir_segund_not_ministéri_defes_previsã_ampliaçã_sej_concluíd_ano_vem_simultan_reform_guarulh_antes_airbus_tam_17_cronogram_infraer_prev_revitaliz_pist_3_km_ter_iníci_23_agênc_nacional_aviaçã_civil_audiênc_públic_discut_obra_reuniã_estav_18_depo_acab_suspens
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: acord  - Frequency: 2
+Word: estud  - Frequency: 2
+Word: apresent  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: infraer  - Frequency: 2
+Word: ser  - Frequency: 2
+Word: possível  - Frequency: 1
+Word: realiz  - Frequency: 2
+Word: obra  - Frequency: 2
+Word: definit  - Frequency: 1
+Word: três  - Frequency: 1
+Word: etap  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: moment  - Frequency: 2
+Word: cronogram  - Frequency: 1
+Word: depend  - Frequency: 1
+Word: fin  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: send  - Frequency: 2
+Word: assessor  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: transferent  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: guarulh  - Frequency: 2
+Word: viracop  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: feit  - Frequency: 2
+Word: aeroport  - Frequency: 1
+Word: campin  - Frequency: 1
+Word: necessit  - Frequency: 1
+Word: ampliaçã  - Frequency: 2
+Word: principal  - Frequency: 1
+Word: terminal  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: simultan  - Frequency: 1
+Word: reform  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_acord_estud_pel_infraer_ser_realiz_obra_moment_send_guarulh_feit_ampliaçã
+
+NUM: 24
+
+
+NUM: 48
+
+
+NUM: 3
+
+
+LESSER: 3
+
+NUM: 11
+
+
+NUM: 57
+
+
+NUM: 12
+
+
+(FINAL) AVERAGE: 3
+
+NUM: 24
+
+
+NUM: 48
+
+
+NUM: 3
+
+
+LESSER: 3
+
+NUM: 11
+
+
+NUM: 57
+
+
+NUM: 12
+
+
+---------------BEFORE!-------------
+
+VEC: 0_reform_segund_﻿a_pist_principal_aeroport_internacional_sã_paul_guarulh_ser_total_marc_2008_inform_ministéri_defes_anunc_6_emergencial_comec_brev_foi_descart
+VEC: 1_reform_defes_ministr_nelson_jobim_ser_pist_definit_anunc_segund_estud_empres_brasileir_infra_aeroportuár_pod_feit_sej_interdit_apes_definiçã_cronogram_obra_nã_foi_divulg_decid_realiz_principal_guarulh_ráp_possível_acord_assessor_ministéri_fic_afast_portant_altern_cogit_seman_pass_efetu_emergencial_moment_inic_marc_2008
+VEC: 2_ser_pist_reform
+VEC: 4_pist_obras_também_nã_previsã_obra_nelson_jobim_anunc_definit_ráp
+VEC: 7_dia_realiz_julh_cumbic_ser_marc_send_acident_receb_v�_viracop_precis_ampli_sobretud_terminal_passageir_segund_not_ministéri_defes_previsã_ampliaçã_sej_concluíd_ano_vem_simultan_reform_guarulh_antes_airbus_tam_17_cronogram_infraer_prev_revitaliz_pist_3_km_ter_iníci_23_agênc_nacional_aviaçã_civil_audiênc_públic_discut_obra_reuniã_estav_18_depo_acab_suspens
+VEC: 10_acord_estud_pel_infraer_ser_realiz_obra_moment_send_guarulh_feit_ampliaçã
+
+---------------AFTER!-------------
+
+VEC: 0_reform_segund_﻿a
+VEC: 1_reform_defes_ministr
+VEC: 2_ser_pist_reform
+VEC: 4_pist_obras_também
+VEC: 7_dia_realiz_julh
+VEC: 10_acord_estud_pel
+Keyword: 0_reform_segund_﻿a
+Keyword: 1_reform_defes_ministr
+Keyword: 2_ser_pist_reform
+Keyword: 4_pist_obras_também
+Keyword: 7_dia_realiz_julh
+Keyword: 10_acord_estud_pel

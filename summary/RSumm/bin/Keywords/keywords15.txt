@@ -1,0 +1,3368 @@
+Sentenca(topic=0): Nove pessoas morreram, três delas crianças, e outras 25 ficaram feridas nesta segunda-feira em uma explosão ocorrida em um mercado de Moscou, informou a polícia.
+Sentenca(topic=0): A explosão, supostamente causada por vazamento de um botijão de gás, foi registrada por volta das 10h40 (3h40 de Brasília) no setor denominado Evrazia do mercado Cherkizov, um dos maiores shoppings da capital da Rússia.
+Sentenca(topic=0): A maioria dos feridos, entre os quais há quatro com menos de 18 anos, foi hospitalizada.
+Sentenca(topic=0): Cerca de dez de carros de bombeiros e mais de uma dezena de ambulâncias foram enviadas ao local, que foi isolado pela polícia.
+Sentenca(topic=1): A procuradoria de Moscou anunciou a criação de um grupo especial para investigar o acidente.
+Sentenca(topic=1): Fontes do Ministério do Interior da Rússia citadas pela agência Interfax descartaram a possibilidade de a explosão em Cherkizov ter sido um ataque terrorista.
+Sentenca(topic=2): Uma explosão causou nesta segunda-feira a morte de dez pessoas e deixou cerca de 30 feridas no mercado Cherkizov de Moscou.
+Sentenca(topic=3): De acordo com a polícia da capital russa, uma bomba causou o incidente.
+Sentenca(topic=3): As autoridades policiais de Moscou assinalaram que no recinto do mercado, situado no Nordeste da cidade, foi detonada uma carga explosiva.
+Sentenca(topic=3): - Por causa da explosão, morreram dez pessoas e 31 foram hospitalizadas - declarou à agência "Interfax" o alto funcionário de Moscou, Vladimir Resin.
+Sentenca(topic=4): Anteriormente, a Polícia havia informado sobre nove mortos, sendo três deles crianças, e 25 feridos.
+Sentenca(topic=4): Pouco depois da detonação, ocorrida às 10h40 (3h40 em Brasília), fontes da polícia moscovita adiantaram que ela teria acontecido provavelmente por causa da explosão acidental de um bujão de gás.
+Sentenca(topic=4): - Isto não foi um acidente, foi proposital - disse Resin, citado pela agência oficial russa "Itar-Tass".
+Sentenca(topic=5): A Promotoria de Moscou começou um processo penal por assassinato, não por terrorismo, o que indica que as autoridades têm uma tendência a acreditar que a explosão possa ter sido um acerto de contas entre delinqüentes.
+Sentenca(topic=5): - No curso da investigação, serão examinadas todas as versões, incluindo a de um ataque terrorista - informou o centro de imprensa da Promotoria de Moscou.
+Sentenca(topic=6): A bomba detonou no interior de uma cafeteria localizada no setor denominado "Evrazia" do mercado Cherkizov.
+Sentenca(topic=6): - Testemunhas viram quando dois desconhecidos deixaram uma bolsa e saíram correndo da cafeteria.
+Sentenca(topic=6): Pouco depois aconteceu a explosão  - disse um porta-voz policial citado pela "Itar-Tass".
+Sentenca(topic=7): O delegado de Moscou, Yuri Siomin, que se dirigiu ao local, declarou que a potência da bomba era equivalente a de até 1,2kg de TNT.
+Sentenca(topic=8): Nove pessoas morreram, sendo três crianças, e outras 25 ficaram feridas nesta segunda-feira em uma explosão registrada em um mercado moscovita, informou a Polícia de Moscou.
+Sentenca(topic=8): A explosão, cujas causas ainda são desconhecidas, aconteceu às 10h40 (3h40 em Brasília) no mercado Cherkizov, localizado no nordeste da capital russa.
+Sentenca(topic=9): A maioria dos feridos, entre os quais há quatro menores, foi hospitalizada.
+Sentenca(topic=10): A explosão - supostamente de um bujão de gás, segundo versões policiais preliminares - aconteceu no setor denominado "Evrazia" do mercado Cherkizov, um dos maiores shoppings da capital russa.
+Sentenca(topic=10): Cerca de dez carros de bombeiros e mais de uma dezena de ambulâncias foram enviadas ao local, que foi isolado pela Polícia.
+Sentenca(topic=11): A procuradoria de Moscou anunciou a criação de um grupo especial para investigar o acidente.
+Sentenca(topic=11): Fontes do Ministério do Interior da Rússia citadas pela agência "Interfax" descartaram a possibilidade de a explosão em Cherkizov ter sido um ataque terrorista.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: nov  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: três  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: explosã  - Frequency: 2
+Word: ocorr  - Frequency: 1
+Word: merc  - Frequency: 2
+Word: mosc  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: políc  - Frequency: 2
+Word: supost  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: vazament  - Frequency: 1
+Word: botijã  - Frequency: 1
+Word: gás  - Frequency: 1
+Word: foi  - Frequency: 3
+Word: registr  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: 10h40  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: denomin  - Frequency: 1
+Word: evraz  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: maior  - Frequency: 2
+Word: shoppings  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: há  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: 18  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: hospitaliz  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: carr  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: dezen  - Frequency: 1
+Word: ambulânc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: local  - Frequency: 1
+Word: isol  - Frequency: 1
+Word: pel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_foi
+
+Keyword: 0_foi_fer_explosã_merc_políc_maior
+
+Keyword: 0_foi_fer_explosã_merc_políc_maior_nov_pesso_morr_três_crianc_25_fic_segund_ocorr_mosc_inform_supost_caus_vazament_botijã_gás_registr_volt_10h40_brasíl_setor_denomin_evraz_cherkizov_shoppings_capital_rúss_há_quatr_18_anos_hospitaliz_cerc_dez_carr_bombeir_dezen_ambulânc_for_envi_local_isol_pel
+
+
+------------------------------------------------------------
+Topic: 1
+Word: procurador  - Frequency: 1
+Word: mosc  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: criaçã  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: font  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: interfax  - Frequency: 1
+Word: descart  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: explosã  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: terror  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font_ministéri_interior_rúss_cit_pel_agênc_interfax_descart_possibil_explosã_cherkizov_ter_sid_ataqu_terror
+
+
+------------------------------------------------------------
+Topic: 2
+Word: explosã  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: merc  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: mosc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_explosã_caus_segund_mort_dez_pesso_deix_cerc_30_fer_merc_cherkizov_mosc
+
+
+------------------------------------------------------------
+Topic: 3
+Word: acord  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: bomb  - Frequency: 1
+Word: caus  - Frequency: 2
+Word: incident  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: mosc  - Frequency: 2
+Word: assinal  - Frequency: 1
+Word: recint  - Frequency: 1
+Word: merc  - Frequency: 1
+Word: situ  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: deton  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: explos  - Frequency: 1
+Word: explosã  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: 31  - Frequency: 1
+Word: for  - Frequency: 1
+Word: hospitaliz  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: vladim  - Frequency: 1
+Word: resin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_caus_mosc
+
+Keyword: 3_caus_mosc_acord_políc_capital_russ_bomb_incident_autor_polic_assinal_recint_merc_situ_nord_cidad_foi_deton_carg_explos_explosã_morr_dez_pesso_31_for_hospitaliz_declar_agênc_alto_funcionári_vladim_resin
+
+
+------------------------------------------------------------
+Topic: 4
+Word: anterior  - Frequency: 1
+Word: políc  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: send  - Frequency: 1
+Word: três  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: deton  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h40  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: font  - Frequency: 1
+Word: moscovit  - Frequency: 1
+Word: adiant  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: provavel  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: explosã  - Frequency: 1
+Word: acidental  - Frequency: 1
+Word: bujã  - Frequency: 1
+Word: gás  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: acident  - Frequency: 1
+Word: proposital  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: resin  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: russ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_políc_foi
+
+Keyword: 4_políc_foi_anterior_hav_inform_nov_mort_send_três_crianc_25_fer_depo_deton_ocorr_às_10h40_brasíl_font_moscovit_adiant_ter_acontec_provavel_caus_explosã_acidental_bujã_gás_nã_acident_proposital_diss_resin_cit_pel_agênc_oficial_russ
+
+
+------------------------------------------------------------
+Topic: 5
+Word: promotor  - Frequency: 2
+Word: mosc  - Frequency: 2
+Word: comec  - Frequency: 1
+Word: process  - Frequency: 1
+Word: penal  - Frequency: 1
+Word: assassinat  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: terror  - Frequency: 2
+Word: indic  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: tendênc  - Frequency: 1
+Word: acredit  - Frequency: 1
+Word: explosã  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: acert  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: delinqüent  - Frequency: 1
+Word: curs  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: examin  - Frequency: 1
+Word: versõ  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: imprens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_promotor_mosc_terror
+
+Keyword: 5_promotor_mosc_terror_comec_process_penal_assassinat_nã_indic_autor_têm_tendênc_acredit_explosã_poss_ter_sid_acert_cont_delinqüent_curs_investig_serã_examin_versõ_inclu_ataqu_inform_centr_imprens
+
+
+------------------------------------------------------------
+Topic: 6
+Word: bomb  - Frequency: 1
+Word: deton  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: cafet  - Frequency: 2
+Word: localiz  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: denomin  - Frequency: 1
+Word: merc  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: testemunh  - Frequency: 1
+Word: vir  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: desconhec  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: bols  - Frequency: 1
+Word: saír  - Frequency: 1
+Word: corr  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: explosã  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: port  - Frequency: 1
+Word: policial  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: pel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_cafet
+
+Keyword: 6_cafet_bomb_deton_interior_localiz_setor_denomin_merc_cherkizov_testemunh_vir_dois_desconhec_deix_bols_saír_corr_depo_acontec_explosã_diss_port_policial_cit_pel
+
+
+------------------------------------------------------------
+Topic: 7
+Word: deleg  - Frequency: 1
+Word: mosc  - Frequency: 1
+Word: yur  - Frequency: 1
+Word: siomin  - Frequency: 1
+Word: dirig  - Frequency: 1
+Word: local  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: potênc  - Frequency: 1
+Word: bomb  - Frequency: 1
+Word: era  - Frequency: 1
+Word: equivalent  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: tnt  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_deleg_mosc_yur_siomin_dirig_local_declar_potênc_bomb_era_equivalent_1_tnt
+
+
+------------------------------------------------------------
+Topic: 8
+Word: nov  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: send  - Frequency: 1
+Word: três  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: explosã  - Frequency: 2
+Word: registr  - Frequency: 1
+Word: merc  - Frequency: 2
+Word: moscovit  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: mosc  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: desconhec  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h40  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: russ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_explosã_merc
+
+Keyword: 8_explosã_merc_nov_pesso_morr_send_três_crianc_25_fic_fer_segund_registr_moscovit_inform_políc_mosc_caus_aind_sã_desconhec_acontec_às_10h40_brasíl_cherkizov_localiz_nord_capital_russ
+
+
+------------------------------------------------------------
+Topic: 9
+Word: maior  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: há  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: hospitaliz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_maior_fer_há_quatr_menor_foi_hospitaliz
+
+Keyword: 9_maior_fer_há_quatr_menor_foi_hospitaliz
+
+
+------------------------------------------------------------
+Topic: 10
+Word: explosã  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: bujã  - Frequency: 1
+Word: gás  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: versõ  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: prelimin  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: denomin  - Frequency: 1
+Word: merc  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: shoppings  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: carr  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: dezen  - Frequency: 1
+Word: ambulânc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: local  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: isol  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: políc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_explosã_supost_bujã_gás_segund_versõ_polic_prelimin_acontec_setor_denomin_merc_cherkizov_maior_shoppings_capital_russ_cerc_dez_carr_bombeir_dezen_ambulânc_for_envi_local_foi_isol_pel_políc
+
+
+------------------------------------------------------------
+Topic: 11
+Word: procurador  - Frequency: 1
+Word: mosc  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: criaçã  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: font  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: descart  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: explosã  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: terror  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font_ministéri_interior_rúss_cit_pel_agênc_descart_possibil_explosã_cherkizov_ter_sid_ataqu_terror
+
+NUM: 49
+
+
+NUM: 24
+
+
+NUM: 13
+
+
+NUM: 33
+
+
+NUM: 39
+
+
+NUM: 30
+
+
+NUM: 25
+
+
+NUM: 13
+
+
+NUM: 30
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 30
+
+
+NUM: 23
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 49
+
+
+NUM: 24
+
+
+NUM: 13
+
+
+NUM: 33
+
+
+NUM: 39
+
+
+NUM: 30
+
+
+NUM: 25
+
+
+NUM: 13
+
+
+NUM: 30
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 30
+
+
+NUM: 23
+
+
+---------------BEFORE!-------------
+
+VEC: 0_foi_fer_explosã_merc_políc_maior_nov_pesso_morr_três_crianc_25_fic_segund_ocorr_mosc_inform_supost_caus_vazament_botijã_gás_registr_volt_10h40_brasíl_setor_denomin_evraz_cherkizov_shoppings_capital_rúss_há_quatr_18_anos_hospitaliz_cerc_dez_carr_bombeir_dezen_ambulânc_for_envi_local_isol_pel
+VEC: 1_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font_ministéri_interior_rúss_cit_pel_agênc_interfax_descart_possibil_explosã_cherkizov_ter_sid_ataqu_terror
+VEC: 2_explosã_caus_segund_mort_dez_pesso_deix_cerc_30_fer_merc_cherkizov_mosc
+VEC: 3_caus_mosc_acord_políc_capital_russ_bomb_incident_autor_polic_assinal_recint_merc_situ_nord_cidad_foi_deton_carg_explos_explosã_morr_dez_pesso_31_for_hospitaliz_declar_agênc_alto_funcionári_vladim_resin
+VEC: 4_políc_foi_anterior_hav_inform_nov_mort_send_três_crianc_25_fer_depo_deton_ocorr_às_10h40_brasíl_font_moscovit_adiant_ter_acontec_provavel_caus_explosã_acidental_bujã_gás_nã_acident_proposital_diss_resin_cit_pel_agênc_oficial_russ
+VEC: 5_promotor_mosc_terror_comec_process_penal_assassinat_nã_indic_autor_têm_tendênc_acredit_explosã_poss_ter_sid_acert_cont_delinqüent_curs_investig_serã_examin_versõ_inclu_ataqu_inform_centr_imprens
+VEC: 6_cafet_bomb_deton_interior_localiz_setor_denomin_merc_cherkizov_testemunh_vir_dois_desconhec_deix_bols_saír_corr_depo_acontec_explosã_diss_port_policial_cit_pel
+VEC: 7_deleg_mosc_yur_siomin_dirig_local_declar_potênc_bomb_era_equivalent_1_tnt
+VEC: 8_explosã_merc_nov_pesso_morr_send_três_crianc_25_fic_fer_segund_registr_moscovit_inform_políc_mosc_caus_aind_sã_desconhec_acontec_às_10h40_brasíl_cherkizov_localiz_nord_capital_russ
+VEC: 9_maior_fer_há_quatr_menor_foi_hospitaliz
+VEC: 10_explosã_supost_bujã_gás_segund_versõ_polic_prelimin_acontec_setor_denomin_merc_cherkizov_maior_shoppings_capital_russ_cerc_dez_carr_bombeir_dezen_ambulânc_for_envi_local_foi_isol_pel_políc
+VEC: 11_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font_ministéri_interior_rúss_cit_pel_agênc_descart_possibil_explosã_cherkizov_ter_sid_ataqu_terror
+
+---------------AFTER!-------------
+
+VEC: 0_foi_fer_explosã_merc_políc_maior_nov
+VEC: 1_procurador_mosc_anunc_criaçã_grup_especial_investig
+VEC: 2_explosã_caus_segund_mort_dez_pesso_deix
+VEC: 3_caus_mosc_acord_políc_capital_russ_bomb
+VEC: 4_políc_foi_anterior_hav_inform_nov_mort
+VEC: 5_promotor_mosc_terror_comec_process_penal_assassinat
+VEC: 6_cafet_bomb_deton_interior_localiz_setor_denomin
+VEC: 7_deleg_mosc_yur_siomin_dirig_local_declar
+VEC: 8_explosã_merc_nov_pesso_morr_send_três
+VEC: 9_maior_fer_há_quatr_menor_foi_hospitaliz
+VEC: 10_explosã_supost_bujã_gás_segund_versõ_polic
+VEC: 11_procurador_mosc_anunc_criaçã_grup_especial_investig
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+SIM: 0.875
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0825216
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "10_explosã_supost_bujã_gás_segund_versõ_polic" is "0.125"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "9_maior_fer_há_quatr_menor_foi_hospitaliz" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "8_explosã_merc_nov_pesso_morr_send_três" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "7_deleg_mosc_yur_siomin_dirig_local_declar" is "0.125"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "6_cafet_bomb_deton_interior_localiz_setor_denomin" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "5_promotor_mosc_terror_comec_process_penal_assassinat" is "0.125"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "4_políc_foi_anterior_hav_inform_nov_mort" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0.125"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 0.875
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0.875"
+
+CHANGE! -- From: 12 -> TO: 2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_procurador_mosc_anunc_criaçã_grup_especial_investig" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 1 -- Abs: 10
+
+
+Topic change from "11" to "1"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 1 -- Abs: 10
+
+
+Topic change from "11" to "1"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "9_maior_fer_há_quatr_menor_foi_hospitaliz" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "8_explosã_merc_nov_pesso_morr_send_três" is "0.125"
+
+CHANGE! -- From: 11 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "7_deleg_mosc_yur_siomin_dirig_local_declar" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "6_cafet_bomb_deton_interior_localiz_setor_denomin" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "5_promotor_mosc_terror_comec_process_penal_assassinat" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "4_políc_foi_anterior_hav_inform_nov_mort" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0.25"
+
+CHANGE! -- From: 11 -> TO: 3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_explosã_supost_bujã_gás_segund_versõ_polic" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 2 -- Abs: 8
+
+
+Topic change from "10" to "2"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 2 -- Abs: 8
+
+
+Topic change from "10" to "2"
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "8_explosã_merc_nov_pesso_morr_send_três" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "7_deleg_mosc_yur_siomin_dirig_local_declar" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "6_cafet_bomb_deton_interior_localiz_setor_denomin" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "5_promotor_mosc_terror_comec_process_penal_assassinat" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "4_políc_foi_anterior_hav_inform_nov_mort" is "0.142857"
+
+CHANGE! -- From: 10 -> TO: 5
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "9_maior_fer_há_quatr_menor_foi_hospitaliz" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0.428571"
+
+CHANGE! -- From: 10 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 0 -- Abs: 9
+
+
+Topic change from "9" to "0"
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "7_deleg_mosc_yur_siomin_dirig_local_declar" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "6_cafet_bomb_deton_interior_localiz_setor_denomin" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "5_promotor_mosc_terror_comec_process_penal_assassinat" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "4_políc_foi_anterior_hav_inform_nov_mort" is "0.142857"
+
+CHANGE! -- From: 9 -> TO: 5
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0.285714"
+
+CHANGE! -- From: 9 -> TO: 3
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "8_explosã_merc_nov_pesso_morr_send_três" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0.428571"
+
+CHANGE! -- From: 9 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 0 -- Abs: 8
+
+
+Topic change from "8" to "0"
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_deleg_mosc_yur_siomin_dirig_local_declar" and "6_cafet_bomb_deton_interior_localiz_setor_denomin" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_deleg_mosc_yur_siomin_dirig_local_declar" and "5_promotor_mosc_terror_comec_process_penal_assassinat" is "0.142857"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_deleg_mosc_yur_siomin_dirig_local_declar" and "4_políc_foi_anterior_hav_inform_nov_mort" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_deleg_mosc_yur_siomin_dirig_local_declar" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0.142857"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_deleg_mosc_yur_siomin_dirig_local_declar" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_deleg_mosc_yur_siomin_dirig_local_declar" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0.142857"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_deleg_mosc_yur_siomin_dirig_local_declar" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cafet_bomb_deton_interior_localiz_setor_denomin" and "5_promotor_mosc_terror_comec_process_penal_assassinat" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cafet_bomb_deton_interior_localiz_setor_denomin" and "4_políc_foi_anterior_hav_inform_nov_mort" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_cafet_bomb_deton_interior_localiz_setor_denomin" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0.142857"
+
+CHANGE! -- From: 7 -> TO: 4
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cafet_bomb_deton_interior_localiz_setor_denomin" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cafet_bomb_deton_interior_localiz_setor_denomin" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_cafet_bomb_deton_interior_localiz_setor_denomin" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_promotor_mosc_terror_comec_process_penal_assassinat" and "4_políc_foi_anterior_hav_inform_nov_mort" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "5_promotor_mosc_terror_comec_process_penal_assassinat" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0.142857"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_promotor_mosc_terror_comec_process_penal_assassinat" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "5_promotor_mosc_terror_comec_process_penal_assassinat" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0.142857"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_promotor_mosc_terror_comec_process_penal_assassinat" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "4_políc_foi_anterior_hav_inform_nov_mort" and "3_caus_mosc_acord_políc_capital_russ_bomb" is "0.142857"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "4_políc_foi_anterior_hav_inform_nov_mort" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0.142857"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_políc_foi_anterior_hav_inform_nov_mort" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "4_políc_foi_anterior_hav_inform_nov_mort" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0.428571"
+
+CHANGE! -- From: 5 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "3_caus_mosc_acord_políc_capital_russ_bomb" and "2_explosã_caus_segund_mort_dez_pesso_deix" is "0.142857"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "3_caus_mosc_acord_políc_capital_russ_bomb" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0.142857"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "3_caus_mosc_acord_políc_capital_russ_bomb" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_explosã_caus_segund_mort_dez_pesso_deix" and "1_procurador_mosc_anunc_criaçã_grup_especial_investig" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "2_explosã_caus_segund_mort_dez_pesso_deix" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0.142857"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_procurador_mosc_anunc_criaçã_grup_especial_investig" and "0_foi_fer_explosã_merc_políc_maior_nov" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+NUM_TOPICS: 7
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: nov  - Frequency: 3
+Word: pesso  - Frequency: 3
+Word: morr  - Frequency: 2
+Word: três  - Frequency: 3
+Word: crianc  - Frequency: 3
+Word: 25  - Frequency: 3
+Word: fic  - Frequency: 2
+Word: fer  - Frequency: 6
+Word: segund  - Frequency: 4
+Word: explosã  - Frequency: 7
+Word: ocorr  - Frequency: 2
+Word: merc  - Frequency: 6
+Word: mosc  - Frequency: 3
+Word: inform  - Frequency: 3
+Word: políc  - Frequency: 6
+Word: supost  - Frequency: 2
+Word: caus  - Frequency: 4
+Word: vazament  - Frequency: 1
+Word: botijã  - Frequency: 1
+Word: gás  - Frequency: 3
+Word: foi  - Frequency: 7
+Word: registr  - Frequency: 2
+Word: volt  - Frequency: 1
+Word: 10h40  - Frequency: 3
+Word: brasíl  - Frequency: 3
+Word: setor  - Frequency: 2
+Word: denomin  - Frequency: 2
+Word: evraz  - Frequency: 1
+Word: cherkizov  - Frequency: 4
+Word: maior  - Frequency: 4
+Word: shoppings  - Frequency: 2
+Word: capital  - Frequency: 3
+Word: rúss  - Frequency: 1
+Word: há  - Frequency: 2
+Word: quatr  - Frequency: 2
+Word: 18  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: hospitaliz  - Frequency: 2
+Word: cerc  - Frequency: 3
+Word: dez  - Frequency: 3
+Word: carr  - Frequency: 2
+Word: bombeir  - Frequency: 2
+Word: dezen  - Frequency: 2
+Word: ambulânc  - Frequency: 2
+Word: for  - Frequency: 2
+Word: envi  - Frequency: 2
+Word: local  - Frequency: 2
+Word: isol  - Frequency: 2
+Word: pel  - Frequency: 3
+Word: mort  - Frequency: 2
+Word: deix  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: send  - Frequency: 2
+Word: depo  - Frequency: 1
+Word: deton  - Frequency: 1
+Word: às  - Frequency: 2
+Word: font  - Frequency: 1
+Word: moscovit  - Frequency: 2
+Word: adiant  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: acontec  - Frequency: 3
+Word: provavel  - Frequency: 1
+Word: acidental  - Frequency: 1
+Word: bujã  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: proposital  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: resin  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: russ  - Frequency: 3
+Word: aind  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: desconhec  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: versõ  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: prelimin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_explosã_foi
+
+Keyword: 0_explosã_foi_fer_merc_políc
+
+Keyword: 0_explosã_foi_fer_merc_políc
+
+Keyword: 0_explosã_foi_fer_merc_políc_segund_caus_cherkizov_maior
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: procurador  - Frequency: 2
+Word: mosc  - Frequency: 2
+Word: anunc  - Frequency: 2
+Word: criaçã  - Frequency: 2
+Word: grup  - Frequency: 2
+Word: especial  - Frequency: 2
+Word: investig  - Frequency: 2
+Word: acident  - Frequency: 2
+Word: font  - Frequency: 2
+Word: ministéri  - Frequency: 2
+Word: interior  - Frequency: 2
+Word: rúss  - Frequency: 2
+Word: cit  - Frequency: 2
+Word: pel  - Frequency: 2
+Word: agênc  - Frequency: 2
+Word: interfax  - Frequency: 1
+Word: descart  - Frequency: 2
+Word: possibil  - Frequency: 2
+Word: explosã  - Frequency: 2
+Word: cherkizov  - Frequency: 2
+Word: ter  - Frequency: 2
+Word: sid  - Frequency: 2
+Word: ataqu  - Frequency: 2
+Word: terror  - Frequency: 2
+
+
+------------------------------------------------------------
+
+Keyword: 1_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font_ministéri_interior_rúss_cit_pel_agênc_descart_possibil_explosã_cherkizov_ter_sid_ataqu_terror
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: acord  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: russ  - Frequency: 1
+Word: bomb  - Frequency: 3
+Word: caus  - Frequency: 2
+Word: incident  - Frequency: 1
+Word: autor  - Frequency: 2
+Word: polic  - Frequency: 1
+Word: mosc  - Frequency: 5
+Word: assinal  - Frequency: 1
+Word: recint  - Frequency: 1
+Word: merc  - Frequency: 2
+Word: situ  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: deton  - Frequency: 2
+Word: carg  - Frequency: 1
+Word: explos  - Frequency: 1
+Word: explosã  - Frequency: 3
+Word: morr  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: 31  - Frequency: 1
+Word: for  - Frequency: 1
+Word: hospitaliz  - Frequency: 1
+Word: declar  - Frequency: 2
+Word: agênc  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: vladim  - Frequency: 1
+Word: resin  - Frequency: 1
+Word: promotor  - Frequency: 2
+Word: comec  - Frequency: 1
+Word: process  - Frequency: 1
+Word: penal  - Frequency: 1
+Word: assassinat  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: terror  - Frequency: 2
+Word: indic  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: tendênc  - Frequency: 1
+Word: acredit  - Frequency: 1
+Word: poss  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: acert  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: delinqüent  - Frequency: 1
+Word: curs  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: examin  - Frequency: 1
+Word: versõ  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: cafet  - Frequency: 2
+Word: localiz  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: denomin  - Frequency: 1
+Word: cherkizov  - Frequency: 1
+Word: testemunh  - Frequency: 1
+Word: vir  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: desconhec  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: bols  - Frequency: 1
+Word: saír  - Frequency: 1
+Word: corr  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: port  - Frequency: 1
+Word: policial  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: deleg  - Frequency: 1
+Word: yur  - Frequency: 1
+Word: siomin  - Frequency: 1
+Word: dirig  - Frequency: 1
+Word: local  - Frequency: 1
+Word: potênc  - Frequency: 1
+Word: era  - Frequency: 1
+Word: equivalent  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: tnt  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_mosc
+
+Keyword: 3_mosc
+
+Keyword: 3_mosc_bomb_explosã
+
+Keyword: 3_mosc_bomb_explosã_caus_autor_merc_deton_declar_promotor_terror_cafet
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 23
+
+
+NUM: 11
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 23
+
+
+NUM: 11
+
+
+---------------BEFORE!-------------
+
+VEC: 0_explosã_foi_fer_merc_políc_segund_caus_cherkizov_maior
+VEC: 1_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font_ministéri_interior_rúss_cit_pel_agênc_descart_possibil_explosã_cherkizov_ter_sid_ataqu_terror
+VEC: 3_mosc_bomb_explosã_caus_autor_merc_deton_declar_promotor_terror_cafet
+
+---------------AFTER!-------------
+
+VEC: 0_explosã_foi_fer_merc_políc_segund_caus_cherkizov_maior
+VEC: 1_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font
+VEC: 3_mosc_bomb_explosã_caus_autor_merc_deton_declar_promotor
+Keyword: 0_explosã_foi_fer_merc_políc_segund_caus_cherkizov_maior
+Keyword: 1_procurador_mosc_anunc_criaçã_grup_especial_investig_acident_font
+Keyword: 3_mosc_bomb_explosã_caus_autor_merc_deton_declar_promotor

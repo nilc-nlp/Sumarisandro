@@ -1,0 +1,7089 @@
+Sentenca(topic=0): O Airbus-A320 da TAM acidentado em São Paulo na última terça-feira (17) tinha um defeito no reverso da turbina direita  desde o último dia 13.
+Sentenca(topic=0): A informação, revelada na edição desta quinta do "Jornal Nacional", da TV Globo, foi confirmada, em nota, pela companhia aérea.
+Sentenca(topic=0): Reportagem da colunista Eliane Cantanhêde (íntegra disponível só para assinantes do jornal ou do UOL), publicada na edição da Folha desta quinta, mostra que nova versão da Infraero inclui falha mecânica entre as hipóteses para o acidente  --o maior da aviação brasileira.
+Sentenca(topic=0): A TAM negou a hipótese.
+Sentenca(topic=0): A falha no reversor --mecanismo que ajuda o avião a frear-- foi detectada pelo sistema eletrônico de checagem da própria aeronave, que continuou voando nos dias seguintes, com o reversor direito desligado.
+Sentenca(topic=0): A TAM afirma que "o procedimento não configura qualquer obstáculo ao pouso da aeronave".
+Sentenca(topic=1): Às 18h50 da última terça, sem controle, a aeronave --que havia decolado de Porto Alegre-- passou pela pista de Congonhas  (zona sul de São Paulo) com velocidade acima do normal, atravessou a movimentada avenida Washington Luís e atingiu um prédio da própria empresa --da TAM Express.
+Sentenca(topic=1): Além dos ocupantes, o acidente vitimou pessoas em terra, entre elas funcionários da empresa de transporte de cargas.
+Sentenca(topic=1): Até a noite desta quinta, os bombeiros confirmavam a morte de 188 pessoas.
+Sentenca(topic=1): O número pode chegar a 200.
+Sentenca(topic=2): De acordo com a companhia aérea, a recomendação da Airbus --fabricante do avião-- é que a revisão no reversor seja feita até dez dias depois de o defeito ser detectado.
+Sentenca(topic=2): Para a TAM, a falha não impediria a realização dos vôos.
+Sentenca(topic=3): Em 1996, uma falha no reverso foi a causa do acidente com o Fokker-100 da TAM, ocorrido segundos depois da decolagem, também em Congonhas.
+Sentenca(topic=3): Na ocasião, 99 pessoas morreram.
+Sentenca(topic=4): Caso a possibilidade de que uma falha na aeronave tenha provocado a tragédia com o Airbus, as suspeitas de que o acidente esteja relacionado a falhas na recém-reformada pista do aeroporto perdem força.
+Sentenca(topic=4): As obras foram entregues incompletas, sem o chamado "grooving" (ranhuras que ajudam no escoamento da água) --que reduz o risco de derrapagens de aviões em casos de chuva.
+Sentenca(topic=5): Ainda segundo o "Jornal Nacional", o mesmo avião teve problemas para pousar, um dia antes do acidente, também em Congonhas.
+Sentenca(topic=5): O vôo, que havia saído de Minas conseguiu parar apenas no limite da pista.
+Sentenca(topic=5): Em nota enviada após a exibição da reportagem, a TAM afirma "que não teve registro de qualquer problema mecânico neste avião no dia 16 de julho".
+Sentenca(topic=5): Imagens gravadas no aeroporto de Congonhas (zona sul de São Paulo) e divulgadas na quarta-feira  (18) mostram o momento do pouso do vôo 3054 da TAM.
+Sentenca(topic=5): Os vídeos comparam pousos de outras aeronaves com o do Airbus A-320 acidentado.
+Sentenca(topic=5): As imagens, divulgadas pela Infraero, mostram que o avião da TAM levou três segundos para fazer o trajeto na pista que, em condições normais, levariam 11 segundos.
+Sentenca(topic=6): O presidente da Infraero (estatal que administra os aeroportos do país), brigadeiro José Carlos Pereira, disse ontem que os peritos detectaram "fumaça forte" no motor esquerdo do Airbus-A320 da TAM no filme, de acordo com a reportagem publicada pela Folha.
+Sentenca(topic=6): Segundo o brigadeiro, a fumaça introduz um elemento novo no início das investigações: a possibilidade de falha mecânica no equipamento.
+Sentenca(topic=6): A fumaça, de acordo com a reportagem, pode indicar que os motores estavam funcionando em sentidos opostos, um impulsionando para frente  e outro freando, o que explicaria, por exemplo, por que o piloto não conseguiu parar o avião, que continuou em velocidade bem alta depois de tocar o solo e girou para a esquerda ao final da pista, Os vídeos comparam pousos de outras aeronaves com o do Airbus A-320 acidentado.
+Sentenca(topic=7): Para especialistas, a tragédia do Vôo 3054 não teria acontecido caso o Airbus da TAM tivesse pousando em Cumbica.
+Sentenca(topic=7): Segundo o perito aposentado do Departamento de Segurança de Vôo, Roberto Peterka, mesmo com problemas no reverso, a aeronave teria pousado tranqüilamente.
+Sentenca(topic=7): "Por ser a pista maior, o piloto não precisaria ter que arremeter, se realmente foi isso que ele fez, e teria espaço maior para a desaceleração", explica.
+Sentenca(topic=8): De acordo com Peterka, o fato de Congonhas ter uma pista menor não significa uma causa direta para o acidente.
+Sentenca(topic=8): "Isso não quer dizer que o aeroporto de Congonhas teve influência decisiva no acidente", conclui.
+Sentenca(topic=9): O especialista também afirma que o reverso, apontado como possível causa, não pode ser considerado o vilão do acidente.
+Sentenca(topic=9): "O reverso é um instrumento auxiliar na hora de frear o avião, mas não é considerado fator importante para o pouso, portanto, mesmo não funcionando, ele poderia ter brecado a aeronave sem problemas", diz.
+Sentenca(topic=10): Um dia antes do acidente, na segunda-feira, 16, o avião também teria apresentado problemas ao aterrissar em Congonhas, durante o vôo 3215, procedente de Belo Horizonte (Confins) , só conseguindo parar muito próximo do final da pista.
+Sentenca(topic=10): O piloto teria relatado à torre de controle que a pista estava muito escorregadia.
+Sentenca(topic=11): A TAM confirmou, na noite desta quinta-feira, que ao airbus da TAM estava com o reverso do lado direito desligado, desde o último dia 13.
+Sentenca(topic=11): De acordo com a empresa aérea, o reversor estava travado, mas argumentou que a aeronave tinha condições de pouso normais, mesmo sem ele.
+Sentenca(topic=12): Esta notícia acabou criando uma polêmica em torno da reação de membros do governo ao tomarem conhecimento da informação através da imprensa.
+Sentenca(topic=12): Uma câmera da Rede Globo posicionada estrategicamente em frente ao Palácio do Planalto, pouco antes do início do Jornal Nacional, captou imagens do assessor especial da Presidência para Assuntos Internacionais, Marco Aurélio Garcia, e seu assessor de imprensa, Bruno Gaspar, comemorando com gestos obscenos a notícia de que o reverso direito do avião da TAM - que explodiu na última terça-feira contra um prédio da companhia aérea provocando a morte de pelo menos 198 pessoas - estava com defeito.
+Sentenca(topic=12): O problema teria sido detectado pelo sistema eletrônico de checagem do próprio avião,  e ainda assim a aeronave da TAM, um Airbus A320, continuou voando, com o reverso direito desligado.
+Sentenca(topic=13): A notícia, que retirou dos ombros do governo parte da suspeita de culpa sobre o acidente, foi comemorada no Palácio com efusão singular por Marco Aurélio e seu assessor, que fizeram gestos que seriam comuns a uma torcida de futebol, mas que soam inadequados ao momento.
+Sentenca(topic=13): Garcia bateu com uma das mãos espalmada na outra cerrada, como se dissesse "se ferrou".
+Sentenca(topic=13): Seu assessor puxava os braços ao lado do corpo simulando o gesto de copular.
+Sentenca(topic=13): A câmera da emissora teria registrado a cena logo depois da transmissão da notícia, o que sugere uma comemoração festiva da matéria veiculada na TV.
+Sentenca(topic=14): Procurado pelo JB, Marco Aurélio se disse incapaz de relembrar todo o seu gestual em um dia inteiro.
+Sentenca(topic=14): Também disse não saber em que momento foi filmado.
+Sentenca(topic=14): Mas contemporizou.
+Sentenca(topic=14): - Certamente não foi regozijo.
+Sentenca(topic=14): Foi um gesto de raiva e indignação com o comportamento de certo tipo de noticiário da imprensa diante da tragédia de 200 famílias, que acabou tirando conclusões precipitadas sobre o fato - tentou explicar o assessor especial da Presidência da República.
+Sentenca(topic=15): A informação de que o Airbus A320 da TAM prefixo PR-MBK apresentava um defeito no reverso - peça acionada durante o pouso para inverter o sentido da propulsão das turbinas - direito foi antecipada pela jornalista Hildegard Angel, em sua coluna da edição de ontem do JB e confirmada pelo vice-presidente técnico da companhia, Ruy Amparo.
+Sentenca(topic=15): Na quarta-feira, o presidente da empresa, Marco Antonio Bologna, havia declarado que o avião passara por checagem justamente no dia 13 e estava em perfeito estado.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: airbus  - Frequency: 1
+Word: tam  - Frequency: 3
+Word: acident  - Frequency: 2
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: últim  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: defeit  - Frequency: 1
+Word: revers  - Frequency: 1
+Word: turbin  - Frequency: 1
+Word: direit  - Frequency: 2
+Word: dia  - Frequency: 1
+Word: 13  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: ediçã  - Frequency: 2
+Word: quint  - Frequency: 2
+Word: nacional  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: glob  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: confirm  - Frequency: 1
+Word: not  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: companh  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: reportag  - Frequency: 1
+Word: colun  - Frequency: 1
+Word: elian  - Frequency: 1
+Word: cantanhêd  - Frequency: 1
+Word: dispon  - Frequency: 1
+Word: só  - Frequency: 1
+Word: assin  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: uol  - Frequency: 1
+Word: public  - Frequency: 1
+Word: folh  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: versã  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: falh  - Frequency: 2
+Word: mecân  - Frequency: 1
+Word: hipótes  - Frequency: 2
+Word: maior  - Frequency: 1
+Word: aviaçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: neg  - Frequency: 1
+Word: reversor  - Frequency: 2
+Word: ajud  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: fre  - Frequency: 1
+Word: detect  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: eletr�  - Frequency: 1
+Word: checag  - Frequency: 1
+Word: própr  - Frequency: 1
+Word: aeronav  - Frequency: 2
+Word: continu  - Frequency: 1
+Word: voand  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: seguint  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: proced  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: configur  - Frequency: 1
+Word: obstácul  - Frequency: 1
+Word: pous  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_tam
+
+Keyword: 0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes_reversor_aeronav
+
+
+------------------------------------------------------------
+Topic: 1
+Word: �  - Frequency: 1
+Word: 18h50  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: control  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: decol  - Frequency: 1
+Word: port  - Frequency: 1
+Word: alegr  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: atravess  - Frequency: 1
+Word: moviment  - Frequency: 1
+Word: aven  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: luís  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: própr  - Frequency: 1
+Word: empres  - Frequency: 2
+Word: tam  - Frequency: 1
+Word: express  - Frequency: 1
+Word: além  - Frequency: 1
+Word: ocup  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: vitim  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: terr  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: 188  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 200  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_empres_pesso
+
+Keyword: 1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol_port_alegr_pass_pel_pist_congonh_sul_sã_paul_veloc_acim_normal_atravess_moviment_aven_washington_luís_ating_prédi_própr_tam_express_além_ocup_acident_vitim_terr_funcionári_transport_carg_noit_quint_bombeir_confirm_mort_188_númer_pod_cheg_200
+
+
+------------------------------------------------------------
+Topic: 2
+Word: acord  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: recomend  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: revisã  - Frequency: 1
+Word: reversor  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: defeit  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: detect  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: imped  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: v�  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit_dez_dias_depo_defeit_ser_detect_tam_falh_nã_imped_realiz_v�
+
+
+------------------------------------------------------------
+Topic: 3
+Word: 1996  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: revers  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: fokk  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: decolag  - Frequency: 1
+Word: também  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: ocasiã  - Frequency: 1
+Word: 99  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund_depo_decolag_também_congonh_ocasiã_99_pesso_morr
+
+
+------------------------------------------------------------
+Topic: 4
+Word: cas  - Frequency: 2
+Word: possibil  - Frequency: 1
+Word: falh  - Frequency: 2
+Word: aeronav  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: estej  - Frequency: 1
+Word: relacion  - Frequency: 1
+Word: recém  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: forc  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: for  - Frequency: 1
+Word: entregu  - Frequency: 1
+Word: incomplet  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: escoament  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: reduz  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: derrapagens  - Frequency: 1
+Word: aviõ  - Frequency: 1
+Word: chuv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_cas_falh
+
+Keyword: 4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident_estej_relacion_recém_pist_aeroport_perd_forc_obras_for_entregu_incomplet_cham_ajud_escoament_águ_reduz_risc_derrapagens_aviõ_chuv
+
+
+------------------------------------------------------------
+Topic: 5
+Word: aind  - Frequency: 1
+Word: segund  - Frequency: 3
+Word: nacional  - Frequency: 1
+Word: aviã  - Frequency: 3
+Word: tev  - Frequency: 2
+Word: problem  - Frequency: 2
+Word: pous  - Frequency: 3
+Word: dia  - Frequency: 2
+Word: antes  - Frequency: 1
+Word: acident  - Frequency: 2
+Word: também  - Frequency: 1
+Word: congonh  - Frequency: 2
+Word: v�  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: saíd  - Frequency: 1
+Word: min  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: par  - Frequency: 1
+Word: limit  - Frequency: 1
+Word: pist  - Frequency: 2
+Word: not  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: exibiçã  - Frequency: 1
+Word: reportag  - Frequency: 1
+Word: tam  - Frequency: 3
+Word: afirm  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: mecân  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: imagens  - Frequency: 2
+Word: grav  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: divulg  - Frequency: 2
+Word: quart  - Frequency: 1
+Word: mostr  - Frequency: 2
+Word: moment  - Frequency: 1
+Word: 3054  - Frequency: 1
+Word: víd  - Frequency: 1
+Word: comp  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: lev  - Frequency: 2
+Word: três  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: trajet  - Frequency: 1
+Word: condiçõ  - Frequency: 1
+Word: norm  - Frequency: 1
+Word: 11  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_segund_aviã_pous_tam
+
+Keyword: 5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�_pist_imagens_divulg_mostr_lev
+
+
+------------------------------------------------------------
+Topic: 6
+Word: president  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: país  - Frequency: 1
+Word: brigadeir  - Frequency: 2
+Word: jos  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: ontem  - Frequency: 1
+Word: perit  - Frequency: 1
+Word: detect  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: motor  - Frequency: 2
+Word: esquerd  - Frequency: 2
+Word: airbus  - Frequency: 2
+Word: tam  - Frequency: 1
+Word: film  - Frequency: 1
+Word: acord  - Frequency: 2
+Word: reportag  - Frequency: 2
+Word: public  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: folh  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: fumac  - Frequency: 2
+Word: introduz  - Frequency: 1
+Word: element  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: mecân  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: opost  - Frequency: 1
+Word: impulsion  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: fre  - Frequency: 1
+Word: explic  - Frequency: 1
+Word: exempl  - Frequency: 1
+Word: pilot  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: par  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: toc  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: gir  - Frequency: 1
+Word: final  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: víd  - Frequency: 1
+Word: comp  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: acident  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac
+
+Keyword: 6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr_aeroport_país_jos_carl_pereir_diss_ontem_perit_detect_fort_tam_film_public_pel_folh_segund_introduz_element_nov_iníci_investig_possibil_falh_mecân_equip_pod_indic_estav_funcion_sent_opost_impulsion_frent_fre_explic_exempl_pilot_nã_consegu_par_aviã_continu_veloc_bem_alta_depo_toc_sol_gir_final_pist_víd_comp_pous_aeronav_acident
+
+
+------------------------------------------------------------
+Topic: 7
+Word: especial  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: v�  - Frequency: 2
+Word: 3054  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: ter  - Frequency: 4
+Word: acontec  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: pous  - Frequency: 2
+Word: cumbic  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: perit  - Frequency: 1
+Word: aposent  - Frequency: 1
+Word: depart  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: peterk  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: revers  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: tranqüil  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: maior  - Frequency: 2
+Word: pilot  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: arremet  - Frequency: 1
+Word: realment  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: espac  - Frequency: 1
+Word: desaceler  - Frequency: 1
+Word: explic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_ter
+
+Keyword: 7_ter
+
+Keyword: 7_ter_v�_nã_pous_maior
+
+Keyword: 7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas_airbus_tam_tiv_cumbic_segund_perit_aposent_depart_seguranc_robert_peterk_problem_revers_aeronav_tranqüil_ser_pist_pilot_precis_arremet_realment_foi_fez_espac_desaceler_explic
+
+
+------------------------------------------------------------
+Topic: 8
+Word: acord  - Frequency: 1
+Word: peterk  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: congonh  - Frequency: 2
+Word: ter  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: signif  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: diret  - Frequency: 1
+Word: acident  - Frequency: 2
+Word: quer  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: influênc  - Frequency: 1
+Word: decis  - Frequency: 1
+Word: conclu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_congonh_nã_acident
+
+Keyword: 8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif_caus_diret_quer_diz_aeroport_tev_influênc_decis_conclu
+
+
+------------------------------------------------------------
+Topic: 9
+Word: especial  - Frequency: 1
+Word: também  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: revers  - Frequency: 2
+Word: apont  - Frequency: 1
+Word: com  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: nã  - Frequency: 3
+Word: pod  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: consider  - Frequency: 2
+Word: vilã  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: instrument  - Frequency: 1
+Word: auxili  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: fre  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: fator  - Frequency: 1
+Word: import  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: portant  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: brec  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: diz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_nã
+
+Keyword: 9_nã_revers_pod_consider
+
+Keyword: 9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível_caus_ser_vilã_acident_instrument_auxili_hor_fre_aviã_fator_import_pous_portant_funcion_ter_brec_aeronav_problem_diz
+
+
+------------------------------------------------------------
+Topic: 10
+Word: dia  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: também  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: apresent  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: aterriss  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: 3215  - Frequency: 1
+Word: procedent  - Frequency: 1
+Word: bel  - Frequency: 1
+Word: horizont  - Frequency: 1
+Word: só  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: par  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: final  - Frequency: 1
+Word: pist  - Frequency: 2
+Word: pilot  - Frequency: 1
+Word: relat  - Frequency: 1
+Word: torr  - Frequency: 1
+Word: control  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: escorregad  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_ter_pist
+
+Keyword: 10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent_problem_aterriss_congonh_durant_v�_3215_procedent_bel_horizont_só_consegu_par_próxim_final_pilot_relat_torr_control_estav_escorregad
+
+
+------------------------------------------------------------
+Topic: 11
+Word: tam  - Frequency: 2
+Word: confirm  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: estav  - Frequency: 2
+Word: revers  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: direit  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 13  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: reversor  - Frequency: 1
+Word: trav  - Frequency: 1
+Word: argument  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: condiçõ  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: norm  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_tam_estav
+
+Keyword: 11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig_últim_dia_13_acord_empres_aér_reversor_trav_argument_aeronav_tinh_condiçõ_pous_norm
+
+
+------------------------------------------------------------
+Topic: 12
+Word: notíc  - Frequency: 2
+Word: acab  - Frequency: 1
+Word: cri  - Frequency: 1
+Word: polêm  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: conhec  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: através  - Frequency: 1
+Word: imprens  - Frequency: 2
+Word: câm  - Frequency: 1
+Word: red  - Frequency: 1
+Word: glob  - Frequency: 1
+Word: posicion  - Frequency: 1
+Word: estrateg  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: paláci  - Frequency: 1
+Word: planalt  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: capt  - Frequency: 1
+Word: imagens  - Frequency: 1
+Word: assessor  - Frequency: 2
+Word: especial  - Frequency: 1
+Word: president  - Frequency: 1
+Word: assunt  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: auréli  - Frequency: 1
+Word: garc  - Frequency: 1
+Word: brun  - Frequency: 1
+Word: gasp  - Frequency: 1
+Word: comemor  - Frequency: 1
+Word: gest  - Frequency: 1
+Word: obscen  - Frequency: 1
+Word: revers  - Frequency: 2
+Word: direit  - Frequency: 2
+Word: aviã  - Frequency: 2
+Word: tam  - Frequency: 2
+Word: explod  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: 198  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: defeit  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: detect  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: eletr�  - Frequency: 1
+Word: checag  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: a320  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: voand  - Frequency: 1
+Word: deslig  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_notíc_imprens_assessor_revers_direit_aviã_tam_pel
+
+Keyword: 12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri_polêm_torn_reaçã_membr_govern_tom_conhec_inform_através_câm_red_glob_posicion_estrateg_frent_paláci_planalt_antes_iníci_jornal_nacional_capt_imagens_especial_president_assunt_internacion_marc_auréli_garc_brun_gasp_comemor_gest_obscen_explod_últim_terc_prédi_companh_aér_provoc_mort_198_pesso_estav_defeit_problem_ter_sid_detect_sistem_eletr�_checag_própri_aind_assim_aeronav_airbus_a320_continu_voand_deslig
+
+
+------------------------------------------------------------
+Topic: 13
+Word: notíc  - Frequency: 2
+Word: retir  - Frequency: 1
+Word: ombros  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: part  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: culp  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: comemor  - Frequency: 2
+Word: paláci  - Frequency: 1
+Word: efusã  - Frequency: 1
+Word: singul  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: auréli  - Frequency: 1
+Word: assessor  - Frequency: 2
+Word: fiz  - Frequency: 1
+Word: gest  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: comuns  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: futebol  - Frequency: 1
+Word: soam  - Frequency: 1
+Word: inadequ  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: garc  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: mã  - Frequency: 1
+Word: espalm  - Frequency: 1
+Word: cerr  - Frequency: 1
+Word: com  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: ferr  - Frequency: 1
+Word: pux  - Frequency: 1
+Word: brac  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: corp  - Frequency: 1
+Word: simul  - Frequency: 1
+Word: copul  - Frequency: 1
+Word: câm  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: cen  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: transmissã  - Frequency: 1
+Word: suger  - Frequency: 1
+Word: festiv  - Frequency: 1
+Word: matér  - Frequency: 1
+Word: veicul  - Frequency: 1
+Word: tv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_notíc_comemor_assessor_gest
+
+Keyword: 13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp_acident_foi_paláci_efusã_singul_marc_auréli_fiz_ser_comuns_torc_futebol_soam_inadequ_moment_garc_bat_mã_espalm_cerr_com_diss_ferr_pux_brac_lad_corp_simul_copul_câm_emissor_ter_registr_cen_depo_transmissã_suger_festiv_matér_veicul_tv
+
+
+------------------------------------------------------------
+Topic: 14
+Word: procur  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: jb  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: auréli  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: incapaz  - Frequency: 1
+Word: relembr  - Frequency: 1
+Word: gestual  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: inteir  - Frequency: 1
+Word: também  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: sab  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: foi  - Frequency: 3
+Word: film  - Frequency: 1
+Word: contemporiz  - Frequency: 1
+Word: cert  - Frequency: 1
+Word: regozij  - Frequency: 1
+Word: gest  - Frequency: 1
+Word: raiv  - Frequency: 1
+Word: indign  - Frequency: 1
+Word: comport  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: noticiári  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: 200  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: tir  - Frequency: 1
+Word: conclusõ  - Frequency: 1
+Word: precipit  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: explic  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: president  - Frequency: 1
+Word: repúbl  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_foi
+
+Keyword: 14_foi_diss_nã
+
+Keyword: 14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr_gestual_dia_inteir_também_sab_moment_film_contemporiz_cert_regozij_gest_raiv_indign_comport_tip_noticiári_imprens_diant_tragéd_200_famíl_acab_tir_conclusõ_precipit_fat_tent_explic_assessor_especial_president_repúbl
+
+
+------------------------------------------------------------
+Topic: 15
+Word: inform  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: a320  - Frequency: 1
+Word: tam  - Frequency: 1
+Word: prefix  - Frequency: 1
+Word: pr  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: defeit  - Frequency: 1
+Word: revers  - Frequency: 1
+Word: pec  - Frequency: 1
+Word: acion  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: invert  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: propulsã  - Frequency: 1
+Word: turbin  - Frequency: 1
+Word: direit  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: antecip  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: jornal  - Frequency: 1
+Word: hildegard  - Frequency: 1
+Word: angel  - Frequency: 1
+Word: colun  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: ontem  - Frequency: 1
+Word: jb  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: ruy  - Frequency: 1
+Word: ampar  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: president  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: antoni  - Frequency: 1
+Word: bologn  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: aviã  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: checag  - Frequency: 1
+Word: just  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 13  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: perfeit  - Frequency: 1
+Word: estad  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_pel
+
+Keyword: 15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers_pec_acion_durant_pous_invert_sent_propulsã_turbin_direit_foi_antecip_jornal_hildegard_angel_colun_ediçã_ontem_jb_confirm_vic_técnic_companh_ruy_ampar_quart_president_empres_marc_antoni_bologn_hav_declar_aviã_pass_checag_just_dia_13_estav_perfeit_estad
+
+NUM: 12
+
+
+NUM: 50
+
+
+NUM: 22
+
+
+NUM: 18
+
+
+NUM: 30
+
+
+NUM: 15
+
+
+NUM: 66
+
+
+NUM: 36
+
+
+NUM: 19
+
+
+NUM: 29
+
+
+NUM: 30
+
+
+NUM: 24
+
+
+NUM: 73
+
+
+NUM: 51
+
+
+NUM: 42
+
+
+NUM: 51
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 12
+
+
+NUM: 50
+
+
+NUM: 22
+
+
+NUM: 18
+
+
+NUM: 30
+
+
+NUM: 15
+
+
+NUM: 66
+
+
+NUM: 36
+
+
+NUM: 19
+
+
+NUM: 29
+
+
+NUM: 30
+
+
+NUM: 24
+
+
+NUM: 73
+
+
+NUM: 51
+
+
+NUM: 42
+
+
+NUM: 51
+
+
+---------------BEFORE!-------------
+
+VEC: 0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes_reversor_aeronav
+VEC: 1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol_port_alegr_pass_pel_pist_congonh_sul_sã_paul_veloc_acim_normal_atravess_moviment_aven_washington_luís_ating_prédi_própr_tam_express_além_ocup_acident_vitim_terr_funcionári_transport_carg_noit_quint_bombeir_confirm_mort_188_númer_pod_cheg_200
+VEC: 2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit_dez_dias_depo_defeit_ser_detect_tam_falh_nã_imped_realiz_v�
+VEC: 3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund_depo_decolag_também_congonh_ocasiã_99_pesso_morr
+VEC: 4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident_estej_relacion_recém_pist_aeroport_perd_forc_obras_for_entregu_incomplet_cham_ajud_escoament_águ_reduz_risc_derrapagens_aviõ_chuv
+VEC: 5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�_pist_imagens_divulg_mostr_lev
+VEC: 6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr_aeroport_país_jos_carl_pereir_diss_ontem_perit_detect_fort_tam_film_public_pel_folh_segund_introduz_element_nov_iníci_investig_possibil_falh_mecân_equip_pod_indic_estav_funcion_sent_opost_impulsion_frent_fre_explic_exempl_pilot_nã_consegu_par_aviã_continu_veloc_bem_alta_depo_toc_sol_gir_final_pist_víd_comp_pous_aeronav_acident
+VEC: 7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas_airbus_tam_tiv_cumbic_segund_perit_aposent_depart_seguranc_robert_peterk_problem_revers_aeronav_tranqüil_ser_pist_pilot_precis_arremet_realment_foi_fez_espac_desaceler_explic
+VEC: 8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif_caus_diret_quer_diz_aeroport_tev_influênc_decis_conclu
+VEC: 9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível_caus_ser_vilã_acident_instrument_auxili_hor_fre_aviã_fator_import_pous_portant_funcion_ter_brec_aeronav_problem_diz
+VEC: 10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent_problem_aterriss_congonh_durant_v�_3215_procedent_bel_horizont_só_consegu_par_próxim_final_pilot_relat_torr_control_estav_escorregad
+VEC: 11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig_últim_dia_13_acord_empres_aér_reversor_trav_argument_aeronav_tinh_condiçõ_pous_norm
+VEC: 12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri_polêm_torn_reaçã_membr_govern_tom_conhec_inform_através_câm_red_glob_posicion_estrateg_frent_paláci_planalt_antes_iníci_jornal_nacional_capt_imagens_especial_president_assunt_internacion_marc_auréli_garc_brun_gasp_comemor_gest_obscen_explod_últim_terc_prédi_companh_aér_provoc_mort_198_pesso_estav_defeit_problem_ter_sid_detect_sistem_eletr�_checag_própri_aind_assim_aeronav_airbus_a320_continu_voand_deslig
+VEC: 13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp_acident_foi_paláci_efusã_singul_marc_auréli_fiz_ser_comuns_torc_futebol_soam_inadequ_moment_garc_bat_mã_espalm_cerr_com_diss_ferr_pux_brac_lad_corp_simul_copul_câm_emissor_ter_registr_cen_depo_transmissã_suger_festiv_matér_veicul_tv
+VEC: 14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr_gestual_dia_inteir_também_sab_moment_film_contemporiz_cert_regozij_gest_raiv_indign_comport_tip_noticiári_imprens_diant_tragéd_200_famíl_acab_tir_conclusõ_precipit_fat_tent_explic_assessor_especial_president_repúbl
+VEC: 15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers_pec_acion_durant_pous_invert_sent_propulsã_turbin_direit_foi_antecip_jornal_hildegard_angel_colun_ediçã_ontem_jb_confirm_vic_técnic_companh_ruy_ampar_quart_president_empres_marc_antoni_bologn_hav_declar_aviã_pass_checag_just_dia_13_estav_perfeit_estad
+
+---------------AFTER!-------------
+
+VEC: 0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes
+VEC: 1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol
+VEC: 2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit
+VEC: 3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund
+VEC: 4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident
+VEC: 5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�
+VEC: 6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr
+VEC: 7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas
+VEC: 8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif
+VEC: 9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível
+VEC: 10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent
+VEC: 11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig
+VEC: 12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri
+VEC: 13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp
+VEC: 14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr
+VEC: 15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+TRESHOLD: 0.0915152
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" is "0.181818"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" is "0.363636"
+
+CHANGE! -- From: 16 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" is "0.363636"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" is "0.181818"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" is "0.0909091"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0.0909091"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0.0909091"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.181818"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "15_pel_inform_airbus_a320_tam_prefix_pr_apresent_defeit_revers" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.181818"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 16
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 12 -- Abs: 3
+
+
+Topic change from "15" to "12"
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 12 -- Abs: 3
+
+
+Topic change from "15" to "12"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" is "0.181818"
+
+CHANGE! -- From: 15 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" is "0.0909091"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" is "0.0909091"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" is "0.0909091"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0.0909091"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.0909091"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "14_foi_diss_nã_procur_pel_jb_marc_auréli_incapaz_relembr" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.181818"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 12 -- Abs: 2
+
+
+Topic change from "14" to "12"
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" is "0.272727"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" is "0.0909091"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" is "0.363636"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" is "0.181818"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" is "0.0909091"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0.181818"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.181818"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "12_notíc_imprens_assessor_revers_direit_aviã_tam_pel_acab_cri" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.272727"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" is "0.0909091"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" is "0.0909091"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0.0909091"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0.0909091"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.181818"
+
+CHANGE! -- From: 12 -> TO: 4
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "11_tam_estav_confirm_noit_quint_airbus_revers_lad_direit_deslig" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.272727"
+
+CHANGE! -- From: 12 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 0 -- Abs: 11
+
+
+Topic change from "11" to "0"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 0 -- Abs: 11
+
+
+Topic change from "11" to "0"
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" is "0.0909091"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" is "0.272727"
+
+CHANGE! -- From: 11 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0.0909091"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0.363636"
+
+CHANGE! -- From: 11 -> TO: 6
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.0909091"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.181818"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_ter_pist_dia_antes_acident_segund_16_aviã_também_apresent" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.0909091"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 5 -- Abs: 5
+
+
+Topic change from "10" to "5"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 5 -- Abs: 5
+
+
+Topic change from "10" to "5"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" is "0.1"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0.2"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.1"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_nã_revers_pod_consider_especial_também_afirm_apont_com_possível" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" is "0.2"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0.1"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0.2"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.1"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.1"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.1"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" and "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0.2"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.2"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_ter_v�_nã_pous_maior_especial_tragéd_3054_acontec_cas" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" and "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.1"
+
+CHANGE! -- From: 7 -> TO: 5
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.2"
+
+CHANGE! -- From: 7 -> TO: 3
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_brigadeir_motor_esquerd_airbus_acord_reportag_fumac_president_infraer_administr" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" and "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" is "0.1"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.3"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.1"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "5_segund_aviã_pous_tam_tev_problem_dia_acident_congonh_v�" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 3 -- Abs: 2
+
+
+Topic change from "5" to "3"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" and "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" is "0.2"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0.1"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0.1"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" and "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "3_1996_falh_revers_foi_caus_acident_fokk_tam_ocorr_segund" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.4"
+
+CHANGE! -- From: 4 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" and "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_acord_companh_aér_recomend_airbus_aviã_revisã_reversor_sej_feit" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol" and "0_tam_acident_últim_direit_ediçã_quint_foi_pel_falh_hipótes" is "0.1"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+NUM_TOPICS: 12
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: airbus  - Frequency: 4
+Word: tam  - Frequency: 10
+Word: acident  - Frequency: 7
+Word: sã  - Frequency: 2
+Word: paul  - Frequency: 2
+Word: últim  - Frequency: 3
+Word: terc  - Frequency: 1
+Word: tinh  - Frequency: 2
+Word: defeit  - Frequency: 1
+Word: revers  - Frequency: 6
+Word: turbin  - Frequency: 1
+Word: direit  - Frequency: 3
+Word: dia  - Frequency: 5
+Word: 13  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: ediçã  - Frequency: 2
+Word: quint  - Frequency: 3
+Word: nacional  - Frequency: 2
+Word: tv  - Frequency: 1
+Word: glob  - Frequency: 1
+Word: foi  - Frequency: 4
+Word: confirm  - Frequency: 2
+Word: not  - Frequency: 2
+Word: pel  - Frequency: 3
+Word: companh  - Frequency: 1
+Word: aér  - Frequency: 2
+Word: reportag  - Frequency: 2
+Word: colun  - Frequency: 1
+Word: elian  - Frequency: 1
+Word: cantanhêd  - Frequency: 1
+Word: dispon  - Frequency: 1
+Word: só  - Frequency: 2
+Word: assin  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: uol  - Frequency: 1
+Word: public  - Frequency: 1
+Word: folh  - Frequency: 1
+Word: mostr  - Frequency: 3
+Word: nov  - Frequency: 1
+Word: versã  - Frequency: 1
+Word: infraer  - Frequency: 2
+Word: inclu  - Frequency: 1
+Word: falh  - Frequency: 3
+Word: mecân  - Frequency: 2
+Word: hipótes  - Frequency: 2
+Word: maior  - Frequency: 3
+Word: aviaçã  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: neg  - Frequency: 1
+Word: reversor  - Frequency: 3
+Word: ajud  - Frequency: 1
+Word: aviã  - Frequency: 6
+Word: fre  - Frequency: 2
+Word: detect  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: eletr�  - Frequency: 1
+Word: checag  - Frequency: 1
+Word: própr  - Frequency: 1
+Word: aeronav  - Frequency: 6
+Word: continu  - Frequency: 1
+Word: voand  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: seguint  - Frequency: 1
+Word: deslig  - Frequency: 2
+Word: afirm  - Frequency: 3
+Word: proced  - Frequency: 1
+Word: nã  - Frequency: 7
+Word: configur  - Frequency: 1
+Word: obstácul  - Frequency: 1
+Word: pous  - Frequency: 8
+Word: 1996  - Frequency: 1
+Word: caus  - Frequency: 2
+Word: fokk  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: segund  - Frequency: 6
+Word: depo  - Frequency: 1
+Word: decolag  - Frequency: 1
+Word: também  - Frequency: 4
+Word: congonh  - Frequency: 4
+Word: ocasiã  - Frequency: 1
+Word: 99  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: tev  - Frequency: 2
+Word: problem  - Frequency: 5
+Word: antes  - Frequency: 2
+Word: v�  - Frequency: 5
+Word: hav  - Frequency: 1
+Word: saíd  - Frequency: 1
+Word: min  - Frequency: 1
+Word: consegu  - Frequency: 2
+Word: par  - Frequency: 2
+Word: limit  - Frequency: 1
+Word: pist  - Frequency: 5
+Word: envi  - Frequency: 1
+Word: exibiçã  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: 16  - Frequency: 2
+Word: julh  - Frequency: 1
+Word: imagens  - Frequency: 2
+Word: grav  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: divulg  - Frequency: 2
+Word: quart  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: 3054  - Frequency: 2
+Word: víd  - Frequency: 1
+Word: comp  - Frequency: 1
+Word: lev  - Frequency: 2
+Word: três  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: trajet  - Frequency: 1
+Word: condiçõ  - Frequency: 2
+Word: norm  - Frequency: 2
+Word: 11  - Frequency: 1
+Word: especial  - Frequency: 2
+Word: tragéd  - Frequency: 1
+Word: ter  - Frequency: 7
+Word: acontec  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: cumbic  - Frequency: 1
+Word: perit  - Frequency: 1
+Word: aposent  - Frequency: 1
+Word: depart  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: robert  - Frequency: 1
+Word: peterk  - Frequency: 1
+Word: tranqüil  - Frequency: 1
+Word: ser  - Frequency: 2
+Word: pilot  - Frequency: 2
+Word: precis  - Frequency: 1
+Word: arremet  - Frequency: 1
+Word: realment  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: espac  - Frequency: 1
+Word: desaceler  - Frequency: 1
+Word: explic  - Frequency: 1
+Word: apont  - Frequency: 1
+Word: com  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: pod  - Frequency: 2
+Word: consider  - Frequency: 2
+Word: vilã  - Frequency: 1
+Word: instrument  - Frequency: 1
+Word: auxili  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: fator  - Frequency: 1
+Word: import  - Frequency: 1
+Word: portant  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: brec  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: aterriss  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: 3215  - Frequency: 1
+Word: procedent  - Frequency: 1
+Word: bel  - Frequency: 1
+Word: horizont  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: final  - Frequency: 1
+Word: relat  - Frequency: 1
+Word: torr  - Frequency: 1
+Word: control  - Frequency: 1
+Word: estav  - Frequency: 3
+Word: escorregad  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: trav  - Frequency: 1
+Word: argument  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_tam
+
+Keyword: 0_tam
+
+Keyword: 0_tam_pous
+
+Keyword: 0_tam_pous_acident_nã_ter
+
+Keyword: 0_tam_pous_acident_nã_ter_revers_aviã_aeronav_segund
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: �  - Frequency: 1
+Word: 18h50  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: control  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: decol  - Frequency: 1
+Word: port  - Frequency: 1
+Word: alegr  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: atravess  - Frequency: 1
+Word: moviment  - Frequency: 1
+Word: aven  - Frequency: 1
+Word: washington  - Frequency: 1
+Word: luís  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: própr  - Frequency: 1
+Word: empres  - Frequency: 2
+Word: tam  - Frequency: 1
+Word: express  - Frequency: 1
+Word: além  - Frequency: 1
+Word: ocup  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: vitim  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: terr  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: carg  - Frequency: 1
+Word: noit  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: 188  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 200  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_empres_pesso
+
+Keyword: 1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol_port_alegr_pass_pel_pist_congonh_sul_sã_paul_veloc_acim_normal_atravess_moviment_aven_washington_luís_ating_prédi_própr_tam_express_além_ocup_acident_vitim_terr_funcionári_transport_carg_noit_quint_bombeir_confirm_mort_188_númer_pod_cheg_200
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: acord  - Frequency: 3
+Word: companh  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: recomend  - Frequency: 1
+Word: airbus  - Frequency: 3
+Word: aviã  - Frequency: 2
+Word: revisã  - Frequency: 1
+Word: reversor  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: depo  - Frequency: 2
+Word: defeit  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: detect  - Frequency: 2
+Word: tam  - Frequency: 2
+Word: falh  - Frequency: 2
+Word: nã  - Frequency: 2
+Word: imped  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: president  - Frequency: 1
+Word: infraer  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: país  - Frequency: 1
+Word: brigadeir  - Frequency: 2
+Word: jos  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: pereir  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: ontem  - Frequency: 1
+Word: perit  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: motor  - Frequency: 2
+Word: esquerd  - Frequency: 2
+Word: film  - Frequency: 1
+Word: reportag  - Frequency: 2
+Word: public  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: folh  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: fumac  - Frequency: 2
+Word: introduz  - Frequency: 1
+Word: element  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: mecân  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: opost  - Frequency: 1
+Word: impulsion  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: fre  - Frequency: 1
+Word: explic  - Frequency: 1
+Word: exempl  - Frequency: 1
+Word: pilot  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: par  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: toc  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: gir  - Frequency: 1
+Word: final  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: víd  - Frequency: 1
+Word: comp  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: acident  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_acord_airbus
+
+Keyword: 2_acord_airbus_aviã_depo_detect_tam_falh_nã_brigadeir_motor_esquerd_reportag_fumac
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: cas  - Frequency: 2
+Word: possibil  - Frequency: 1
+Word: falh  - Frequency: 2
+Word: aeronav  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: airbus  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: estej  - Frequency: 1
+Word: relacion  - Frequency: 1
+Word: recém  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: forc  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: for  - Frequency: 1
+Word: entregu  - Frequency: 1
+Word: incomplet  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: escoament  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: reduz  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: derrapagens  - Frequency: 1
+Word: aviõ  - Frequency: 1
+Word: chuv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_cas_falh
+
+Keyword: 4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident_estej_relacion_recém_pist_aeroport_perd_forc_obras_for_entregu_incomplet_cham_ajud_escoament_águ_reduz_risc_derrapagens_aviõ_chuv
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: acord  - Frequency: 1
+Word: peterk  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: congonh  - Frequency: 2
+Word: ter  - Frequency: 1
+Word: pist  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: signif  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: diret  - Frequency: 1
+Word: acident  - Frequency: 2
+Word: quer  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: aeroport  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: influênc  - Frequency: 1
+Word: decis  - Frequency: 1
+Word: conclu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_congonh_nã_acident
+
+Keyword: 8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif_caus_diret_quer_diz_aeroport_tev_influênc_decis_conclu
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: notíc  - Frequency: 2
+Word: acab  - Frequency: 2
+Word: cri  - Frequency: 1
+Word: polêm  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: conhec  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: através  - Frequency: 1
+Word: imprens  - Frequency: 3
+Word: câm  - Frequency: 1
+Word: red  - Frequency: 1
+Word: glob  - Frequency: 1
+Word: posicion  - Frequency: 1
+Word: estrateg  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: paláci  - Frequency: 1
+Word: planalt  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: jornal  - Frequency: 2
+Word: nacional  - Frequency: 1
+Word: capt  - Frequency: 1
+Word: imagens  - Frequency: 1
+Word: assessor  - Frequency: 3
+Word: especial  - Frequency: 2
+Word: president  - Frequency: 3
+Word: assunt  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: marc  - Frequency: 3
+Word: auréli  - Frequency: 2
+Word: garc  - Frequency: 1
+Word: brun  - Frequency: 1
+Word: gasp  - Frequency: 1
+Word: comemor  - Frequency: 1
+Word: gest  - Frequency: 2
+Word: obscen  - Frequency: 1
+Word: revers  - Frequency: 3
+Word: direit  - Frequency: 3
+Word: aviã  - Frequency: 3
+Word: tam  - Frequency: 3
+Word: explod  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: companh  - Frequency: 2
+Word: aér  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: pel  - Frequency: 5
+Word: 198  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: estav  - Frequency: 2
+Word: defeit  - Frequency: 2
+Word: problem  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: detect  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: eletr�  - Frequency: 1
+Word: checag  - Frequency: 2
+Word: própri  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: airbus  - Frequency: 2
+Word: a320  - Frequency: 2
+Word: continu  - Frequency: 1
+Word: voand  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: jb  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: incapaz  - Frequency: 1
+Word: relembr  - Frequency: 1
+Word: gestual  - Frequency: 1
+Word: dia  - Frequency: 2
+Word: inteir  - Frequency: 1
+Word: também  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: sab  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: foi  - Frequency: 4
+Word: film  - Frequency: 1
+Word: contemporiz  - Frequency: 1
+Word: cert  - Frequency: 1
+Word: regozij  - Frequency: 1
+Word: raiv  - Frequency: 1
+Word: indign  - Frequency: 1
+Word: comport  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: noticiári  - Frequency: 1
+Word: diant  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: 200  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: tir  - Frequency: 1
+Word: conclusõ  - Frequency: 1
+Word: precipit  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: explic  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: prefix  - Frequency: 1
+Word: pr  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: pec  - Frequency: 1
+Word: acion  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: pous  - Frequency: 1
+Word: invert  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: propulsã  - Frequency: 1
+Word: turbin  - Frequency: 1
+Word: antecip  - Frequency: 1
+Word: hildegard  - Frequency: 1
+Word: angel  - Frequency: 1
+Word: colun  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: ontem  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: técnic  - Frequency: 1
+Word: ruy  - Frequency: 1
+Word: ampar  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: antoni  - Frequency: 1
+Word: bologn  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: just  - Frequency: 1
+Word: 13  - Frequency: 1
+Word: perfeit  - Frequency: 1
+Word: estad  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_pel
+
+Keyword: 12_pel_foi
+
+Keyword: 12_pel_foi_imprens_assessor_president_marc_revers_direit_aviã_tam
+
+Cur_topic: 13
+
+
+
+------------------------------------------------------------
+Topic: 13
+Word: notíc  - Frequency: 2
+Word: retir  - Frequency: 1
+Word: ombros  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: part  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: culp  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: comemor  - Frequency: 2
+Word: paláci  - Frequency: 1
+Word: efusã  - Frequency: 1
+Word: singul  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: auréli  - Frequency: 1
+Word: assessor  - Frequency: 2
+Word: fiz  - Frequency: 1
+Word: gest  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: comuns  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: futebol  - Frequency: 1
+Word: soam  - Frequency: 1
+Word: inadequ  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: garc  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: mã  - Frequency: 1
+Word: espalm  - Frequency: 1
+Word: cerr  - Frequency: 1
+Word: com  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: ferr  - Frequency: 1
+Word: pux  - Frequency: 1
+Word: brac  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: corp  - Frequency: 1
+Word: simul  - Frequency: 1
+Word: copul  - Frequency: 1
+Word: câm  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: cen  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: transmissã  - Frequency: 1
+Word: suger  - Frequency: 1
+Word: festiv  - Frequency: 1
+Word: matér  - Frequency: 1
+Word: veicul  - Frequency: 1
+Word: tv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_notíc_comemor_assessor_gest
+
+Keyword: 13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp_acident_foi_paláci_efusã_singul_marc_auréli_fiz_ser_comuns_torc_futebol_soam_inadequ_moment_garc_bat_mã_espalm_cerr_com_diss_ferr_pux_brac_lad_corp_simul_copul_câm_emissor_ter_registr_cen_depo_transmissã_suger_festiv_matér_veicul_tv
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 50
+
+
+NUM: 13
+
+
+NUM: 30
+
+
+NUM: 19
+
+
+NUM: 10
+
+
+NUM: 51
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 50
+
+
+NUM: 13
+
+
+NUM: 30
+
+
+NUM: 19
+
+
+NUM: 10
+
+
+NUM: 51
+
+
+---------------BEFORE!-------------
+
+VEC: 0_tam_pous_acident_nã_ter_revers_aviã_aeronav_segund
+VEC: 1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav_decol_port_alegr_pass_pel_pist_congonh_sul_sã_paul_veloc_acim_normal_atravess_moviment_aven_washington_luís_ating_prédi_própr_tam_express_além_ocup_acident_vitim_terr_funcionári_transport_carg_noit_quint_bombeir_confirm_mort_188_númer_pod_cheg_200
+VEC: 2_acord_airbus_aviã_depo_detect_tam_falh_nã_brigadeir_motor_esquerd_reportag_fumac
+VEC: 4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit_acident_estej_relacion_recém_pist_aeroport_perd_forc_obras_for_entregu_incomplet_cham_ajud_escoament_águ_reduz_risc_derrapagens_aviõ_chuv
+VEC: 8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor_signif_caus_diret_quer_diz_aeroport_tev_influênc_decis_conclu
+VEC: 12_pel_foi_imprens_assessor_president_marc_revers_direit_aviã_tam
+VEC: 13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit_culp_acident_foi_paláci_efusã_singul_marc_auréli_fiz_ser_comuns_torc_futebol_soam_inadequ_moment_garc_bat_mã_espalm_cerr_com_diss_ferr_pux_brac_lad_corp_simul_copul_câm_emissor_ter_registr_cen_depo_transmissã_suger_festiv_matér_veicul_tv
+
+---------------AFTER!-------------
+
+VEC: 0_tam_pous_acident_nã_ter_revers_aviã_aeronav_segund
+VEC: 1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav
+VEC: 2_acord_airbus_aviã_depo_detect_tam_falh_nã_brigadeir
+VEC: 4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit
+VEC: 8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor
+VEC: 12_pel_foi_imprens_assessor_president_marc_revers_direit_aviã
+VEC: 13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit
+Keyword: 0_tam_pous_acident_nã_ter_revers_aviã_aeronav_segund
+Keyword: 1_empres_pesso_�_18h50_últim_terc_control_aeronav_hav
+Keyword: 2_acord_airbus_aviã_depo_detect_tam_falh_nã_brigadeir
+Keyword: 4_cas_falh_possibil_aeronav_tenh_provoc_tragéd_airbus_suspeit
+Keyword: 8_congonh_nã_acident_acord_peterk_fat_ter_pist_menor
+Keyword: 12_pel_foi_imprens_assessor_president_marc_revers_direit_aviã
+Keyword: 13_notíc_comemor_assessor_gest_retir_ombros_govern_part_suspeit

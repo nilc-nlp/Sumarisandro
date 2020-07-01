@@ -1,0 +1,3877 @@
+Sentenca(topic=0): As piores enchentes dos últimos 60 anos no Reino Unido deixaram milhares de britânicos desabrigados, sem abastecimento de água ou sem energia elétrica.
+Sentenca(topic=1): O país sofre com as chuvas  que caem desde junho.
+Sentenca(topic=2): Na sexta-feira, choveu 12 centímetros em algumas regiões, e há previsão de mais tempestades hoje.
+Sentenca(topic=2): O ministro do Ambiente, Hilary Benn, afirmou que a emergência está "longe de acabar, e mais inundações são prováveis".
+Sentenca(topic=3): Benn disse que oito alertas de enchentes severas já foram dados.
+Sentenca(topic=3): "Cerca de 10 mil casas já estão ou podem ser inundadas."
+Sentenca(topic=3): O degelo da neve também influi no aumento do nível dos rios.
+Sentenca(topic=3): O rio Severn, o maior do país, está cinco metros acima do nível normal de verão.
+Sentenca(topic=4): "Nunca vimos enchentes dessa altura", afirmou um porta-voz da Agência Ambiental.
+Sentenca(topic=4): O nível máximo de inundação no Reino Unido foi registrado em 1947.
+Sentenca(topic=5): Cerca de 350 mil britânicos do sudoeste do país podem ficar sem abastecimento de água  devido à ameaça de mais transbordamento dos rios Severn e Tâmisa.
+Sentenca(topic=6): A chuva torrencial que atinge o Reino Unido  encobriu estradas e milhares de pessoas estão sem fornecimento de eletricidade e de água potável em decorrência da pior enchente nos últimos 60 anos no país,  segundo informou nesta segunda-feira, 23, a rede de televisão BBC.
+Sentenca(topic=6): Os dois maiores rios do Reino Unido, Severn e Tâmisa, ameaçam transbordar nesta segunda, agravando ainda mais a situação nas regiões centro e sul da Inglaterra, que vêm sendo castigadas por inundações desde a última sexta-feira.
+Sentenca(topic=6): Serviços de metereologia acreditam que este seja o mês de julho mais chuvoso da história e prevêem mais chuvas para esta semana e início de agosto.
+Sentenca(topic=7): O nível da água do rio Severn atingiu 10,4 metros em alguns pontos,  quase ultrapassando as barreiras de defesa, que medem 10,7 metros de altura, segundo informou nesta segunda-feira, 23, a BBC.
+Sentenca(topic=7): Já o rio Tâmisa, que está com seu leito no limite, pode transbordar durante a próxima madrugada caso as chuvas cotinuem, informou a Agência de Meio-Ambiente do Reino Unido.
+Sentenca(topic=8): O primeiro-ministro Gordon Brown está em Gloucestershire, o condado mais afetado pelas enchentes, que deixaram 150 mil casas sem água.
+Sentenca(topic=8): Cerca de 43 mil residências também estão sem eletricidade, depois que uma estação na cidade de Gloucester teve de ser desligada quando o nível da água começou a subir.
+Sentenca(topic=8): Em Oxford, 1.500 pessoas foram evacuadas para o maior estádio de futebol da cidade.
+Sentenca(topic=9): O condado de Worcestershire também foi castigado pelas enchentes, onde o nível da água atingiu 1,82 metro e cerca de quatro mil pessoas estão sem água.
+Sentenca(topic=10): Desde sexta-feira, centenas de pessoas na Inglaterra foram resgatadas de suas casas, no que a Força Aérea britânica chamou de "a maior operação de resgate em tempos de paz".
+Sentenca(topic=10): Nas piores áreas, o Exército pediu ajuda à Aeronáutica, que enviou helicópteros para resgatar mais de cem moradores de suas casas.
+Sentenca(topic=11): No fim de semana, Gordon Brown prometeu destinar recursos adicionais para ajudar autoridades locais a recuperar os danos no período posterior às chuvas, e garantiu que o governo vai tirar lições da situação.
+Sentenca(topic=12): Fontes da Agência de Meio Ambiente do Reino Unido disseram à BBC que seria necessário 1 bilhão de libras por ano (R$ 3,8 bilhões) para aprimorar o sistema de barreiras contra inundações.
+Sentenca(topic=12): A Associação de Seguradores Britânicos estima que a conta para cobrir os estragos provocados pelas enchentes dos meses de junho e julho no país chegue a 2 bilhões de libras (R$ 7,6 bilhões).
+
+
+------------------------------------------------------------
+Topic: 0
+Word: pior  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: rein  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: milh  - Frequency: 1
+Word: britân  - Frequency: 1
+Word: desabrig  - Frequency: 1
+Word: abastec  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: energ  - Frequency: 1
+Word: elétr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_pior_enchent_últim_60_anos_rein_unid_deix_milh_britân_desabrig_abastec_águ_energ_elétr
+
+
+------------------------------------------------------------
+Topic: 1
+Word: país  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: caem  - Frequency: 1
+Word: junh  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_país_sofr_chuv_caem_junh
+
+Keyword: 1_país_sofr_chuv_caem_junh
+
+Keyword: 1_país_sofr_chuv_caem_junh
+
+
+------------------------------------------------------------
+Topic: 2
+Word: sext  - Frequency: 1
+Word: chov  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: centímetr  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: há  - Frequency: 1
+Word: previsã  - Frequency: 1
+Word: tempestad  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: ambient  - Frequency: 1
+Word: hilary  - Frequency: 1
+Word: benn  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: emergent  - Frequency: 1
+Word: está  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: prov  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_sext_chov_12_centímetr_regiõ_há_previsã_tempestad_hoj_ministr_ambient_hilary_benn_afirm_emergent_está_acab_inund_sã_prov
+
+
+------------------------------------------------------------
+Topic: 3
+Word: benn  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: alert  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: sev  - Frequency: 1
+Word: já  - Frequency: 2
+Word: for  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: degel  - Frequency: 1
+Word: nev  - Frequency: 1
+Word: também  - Frequency: 1
+Word: influ  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: nível  - Frequency: 2
+Word: rios  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: severn  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: país  - Frequency: 1
+Word: está  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: verã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_já_nível
+
+Keyword: 3_já_nível_benn_diss_oit_alert_enchent_sev_for_dad_10_mil_cas_estã_pod_ser_inund_degel_nev_também_influ_aument_rios_rio_severn_maior_país_está_cinc_metr_acim_normal_verã
+
+
+------------------------------------------------------------
+Topic: 4
+Word: vim  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: port  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: ambiental  - Frequency: 1
+Word: nível  - Frequency: 1
+Word: máxim  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: rein  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: 1947  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_vim_enchent_altur_afirm_port_agênc_ambiental_nível_máxim_inund_rein_unid_foi_registr_1947
+
+
+------------------------------------------------------------
+Topic: 5
+Word: cerc  - Frequency: 1
+Word: 350  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: britân  - Frequency: 1
+Word: sudo  - Frequency: 1
+Word: país  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: abastec  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: ameac  - Frequency: 1
+Word: transbord  - Frequency: 1
+Word: rios  - Frequency: 1
+Word: severn  - Frequency: 1
+Word: tâmis  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_cerc_350_mil_britân_sudo_país_pod_fic_abastec_águ_dev_ameac_transbord_rios_severn_tâmis
+
+
+------------------------------------------------------------
+Topic: 6
+Word: chuv  - Frequency: 2
+Word: torrencial  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: rein  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: encobr  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: milh  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: fornec  - Frequency: 1
+Word: eletr  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: potável  - Frequency: 1
+Word: decorrent  - Frequency: 1
+Word: pior  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: últim  - Frequency: 2
+Word: 60  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: país  - Frequency: 1
+Word: segund  - Frequency: 3
+Word: inform  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: red  - Frequency: 1
+Word: televisã  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: rios  - Frequency: 1
+Word: severn  - Frequency: 1
+Word: tâmis  - Frequency: 1
+Word: ameac  - Frequency: 1
+Word: transbord  - Frequency: 1
+Word: agrav  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: inglaterr  - Frequency: 1
+Word: vêm  - Frequency: 1
+Word: send  - Frequency: 1
+Word: castig  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: metereolog  - Frequency: 1
+Word: acredit  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: chuvos  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: prev  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: agost  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_segund
+
+Keyword: 6_segund_chuv_rein_unid_últim
+
+Keyword: 6_segund_chuv_rein_unid_últim_torrencial_ating_encobr_estrad_milh_pesso_estã_fornec_eletr_águ_potável_decorrent_pior_enchent_60_anos_país_inform_23_red_televisã_bbc_dois_maior_rios_severn_tâmis_ameac_transbord_agrav_aind_situaçã_regiõ_centr_sul_inglaterr_vêm_send_castig_inund_sext_servic_metereolog_acredit_sej_mês_julh_chuvos_histór_prev_seman_iníci_agost
+
+
+------------------------------------------------------------
+Topic: 7
+Word: nível  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: rio  - Frequency: 2
+Word: severn  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: 10  - Frequency: 2
+Word: metr  - Frequency: 2
+Word: pont  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: ultrapass  - Frequency: 1
+Word: barreir  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: med  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: inform  - Frequency: 2
+Word: 23  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: já  - Frequency: 1
+Word: tâmis  - Frequency: 1
+Word: está  - Frequency: 1
+Word: leit  - Frequency: 1
+Word: limit  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: transbord  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: cotinu  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: rein  - Frequency: 1
+Word: unid  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_rio_10_metr_segund_inform
+
+Keyword: 7_rio_10_metr_segund_inform_nível_águ_severn_ating_pont_quas_ultrapass_barreir_defes_med_altur_23_bbc_já_tâmis_está_leit_limit_pod_transbord_durant_próxim_madrug_cas_chuv_cotinu_agênc_mei_rein_unid
+
+
+------------------------------------------------------------
+Topic: 8
+Word: primeir  - Frequency: 1
+Word: gordon  - Frequency: 1
+Word: brown  - Frequency: 1
+Word: está  - Frequency: 1
+Word: gloucestershir  - Frequency: 1
+Word: cond  - Frequency: 1
+Word: afet  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 150  - Frequency: 1
+Word: mil  - Frequency: 2
+Word: cas  - Frequency: 1
+Word: águ  - Frequency: 2
+Word: cerc  - Frequency: 1
+Word: 43  - Frequency: 1
+Word: resident  - Frequency: 1
+Word: também  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: eletr  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: estaçã  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: gloucest  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: nível  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: oxford  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: for  - Frequency: 1
+Word: evacu  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: futebol  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_mil_águ_cidad
+
+Keyword: 8_mil_águ_cidad_primeir_gordon_brown_está_gloucestershir_cond_afet_pel_enchent_deix_150_cas_cerc_43_resident_também_estã_eletr_depo_estaçã_gloucest_tev_ser_deslig_nível_comec_sub_oxford_1_pesso_for_evacu_maior_estádi_futebol
+
+
+------------------------------------------------------------
+Topic: 9
+Word: cond  - Frequency: 1
+Word: worcestershir  - Frequency: 1
+Word: também  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: castig  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: nível  - Frequency: 1
+Word: águ  - Frequency: 2
+Word: ating  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: estã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_águ
+
+Keyword: 9_águ_cond_worcestershir_também_foi_castig_pel_enchent_nível_ating_1_metr_cerc_quatr_mil_pesso_estã
+
+
+------------------------------------------------------------
+Topic: 10
+Word: sext  - Frequency: 1
+Word: centen  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: inglaterr  - Frequency: 1
+Word: for  - Frequency: 1
+Word: resgat  - Frequency: 3
+Word: cas  - Frequency: 2
+Word: forc  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: britân  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: paz  - Frequency: 1
+Word: pior  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: aeronáut  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: helicópter  - Frequency: 1
+Word: cem  - Frequency: 1
+Word: morador  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_resgat
+
+Keyword: 10_resgat_cas
+
+Keyword: 10_resgat_cas_sext_centen_pesso_inglaterr_for_forc_aér_britân_cham_maior_oper_temp_paz_pior_áre_exércit_ped_ajud_aeronáut_envi_helicópter_cem_morador
+
+
+------------------------------------------------------------
+Topic: 11
+Word: fim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: gordon  - Frequency: 1
+Word: brown  - Frequency: 1
+Word: promet  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: adicion  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: loc  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: posterior  - Frequency: 1
+Word: às  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: tir  - Frequency: 1
+Word: liçõ  - Frequency: 1
+Word: situaçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_fim_seman_gordon_brown_promet_destin_recurs_adicion_ajud_autor_loc_recuper_dan_períod_posterior_às_chuv_garant_govern_vai_tir_liçõ_situaçã
+
+
+------------------------------------------------------------
+Topic: 12
+Word: font  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: ambient  - Frequency: 1
+Word: rein  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: bilhã  - Frequency: 1
+Word: libr  - Frequency: 2
+Word: ano  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: bilhõ  - Frequency: 3
+Word: aprimor  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: barreir  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: assoc  - Frequency: 1
+Word: segur  - Frequency: 1
+Word: britân  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: cobr  - Frequency: 1
+Word: estrag  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: país  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: 7  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_bilhõ
+
+Keyword: 12_bilhõ_libr
+
+Keyword: 12_bilhõ_libr_font_agênc_mei_ambient_rein_unid_diss_bbc_ser_necessári_1_bilhã_ano_3_aprimor_sistem_barreir_inund_assoc_segur_britân_estim_cont_cobr_estrag_provoc_pel_enchent_mes_junh_julh_país_cheg_2_7
+
+NUM: 15
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 20
+
+
+NUM: 33
+
+
+NUM: 15
+
+
+NUM: 16
+
+
+NUM: 58
+
+
+NUM: 35
+
+
+NUM: 38
+
+
+NUM: 17
+
+
+NUM: 25
+
+
+NUM: 23
+
+
+NUM: 37
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 15
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 20
+
+
+NUM: 33
+
+
+NUM: 15
+
+
+NUM: 16
+
+
+NUM: 58
+
+
+NUM: 35
+
+
+NUM: 38
+
+
+NUM: 17
+
+
+NUM: 25
+
+
+NUM: 23
+
+
+NUM: 37
+
+
+---------------BEFORE!-------------
+
+VEC: 0_pior_enchent_últim_60_anos_rein_unid_deix_milh_britân_desabrig_abastec_águ_energ_elétr
+VEC: 1_país_sofr_chuv_caem_junh
+VEC: 2_sext_chov_12_centímetr_regiõ_há_previsã_tempestad_hoj_ministr_ambient_hilary_benn_afirm_emergent_está_acab_inund_sã_prov
+VEC: 3_já_nível_benn_diss_oit_alert_enchent_sev_for_dad_10_mil_cas_estã_pod_ser_inund_degel_nev_também_influ_aument_rios_rio_severn_maior_país_está_cinc_metr_acim_normal_verã
+VEC: 4_vim_enchent_altur_afirm_port_agênc_ambiental_nível_máxim_inund_rein_unid_foi_registr_1947
+VEC: 5_cerc_350_mil_britân_sudo_país_pod_fic_abastec_águ_dev_ameac_transbord_rios_severn_tâmis
+VEC: 6_segund_chuv_rein_unid_últim_torrencial_ating_encobr_estrad_milh_pesso_estã_fornec_eletr_águ_potável_decorrent_pior_enchent_60_anos_país_inform_23_red_televisã_bbc_dois_maior_rios_severn_tâmis_ameac_transbord_agrav_aind_situaçã_regiõ_centr_sul_inglaterr_vêm_send_castig_inund_sext_servic_metereolog_acredit_sej_mês_julh_chuvos_histór_prev_seman_iníci_agost
+VEC: 7_rio_10_metr_segund_inform_nível_águ_severn_ating_pont_quas_ultrapass_barreir_defes_med_altur_23_bbc_já_tâmis_está_leit_limit_pod_transbord_durant_próxim_madrug_cas_chuv_cotinu_agênc_mei_rein_unid
+VEC: 8_mil_águ_cidad_primeir_gordon_brown_está_gloucestershir_cond_afet_pel_enchent_deix_150_cas_cerc_43_resident_também_estã_eletr_depo_estaçã_gloucest_tev_ser_deslig_nível_comec_sub_oxford_1_pesso_for_evacu_maior_estádi_futebol
+VEC: 9_águ_cond_worcestershir_também_foi_castig_pel_enchent_nível_ating_1_metr_cerc_quatr_mil_pesso_estã
+VEC: 10_resgat_cas_sext_centen_pesso_inglaterr_for_forc_aér_britân_cham_maior_oper_temp_paz_pior_áre_exércit_ped_ajud_aeronáut_envi_helicópter_cem_morador
+VEC: 11_fim_seman_gordon_brown_promet_destin_recurs_adicion_ajud_autor_loc_recuper_dan_períod_posterior_às_chuv_garant_govern_vai_tir_liçõ_situaçã
+VEC: 12_bilhõ_libr_font_agênc_mei_ambient_rein_unid_diss_bbc_ser_necessári_1_bilhã_ano_3_aprimor_sistem_barreir_inund_assoc_segur_britân_estim_cont_cobr_estrag_provoc_pel_enchent_mes_junh_julh_país_cheg_2_7
+
+---------------AFTER!-------------
+
+VEC: 0_pior_enchent_últim_60_anos
+VEC: 1_país_sofr_chuv_caem_junh
+VEC: 2_sext_chov_12_centímetr_regiõ
+VEC: 3_já_nível_benn_diss_oit
+VEC: 4_vim_enchent_altur_afirm_port
+VEC: 5_cerc_350_mil_britân_sudo
+VEC: 6_segund_chuv_rein_unid_últim
+VEC: 7_rio_10_metr_segund_inform
+VEC: 8_mil_águ_cidad_primeir_gordon
+VEC: 9_águ_cond_worcestershir_também_foi
+VEC: 10_resgat_cas_sext_centen_pesso
+VEC: 11_fim_seman_gordon_brown_promet
+VEC: 12_bilhõ_libr_font_agênc_mei
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0260684
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "11_fim_seman_gordon_brown_promet" is "0.166667"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "10_resgat_cas_sext_centen_pesso" is "0.166667"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "9_águ_cond_worcestershir_também_foi" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "8_mil_águ_cidad_primeir_gordon" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "7_rio_10_metr_segund_inform" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "6_segund_chuv_rein_unid_últim" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "5_cerc_350_mil_britân_sudo" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_bilhõ_libr_font_agênc_mei" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "10_resgat_cas_sext_centen_pesso" is "0.166667"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "9_águ_cond_worcestershir_também_foi" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "8_mil_águ_cidad_primeir_gordon" is "0.166667"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "7_rio_10_metr_segund_inform" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "6_segund_chuv_rein_unid_últim" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "5_cerc_350_mil_britân_sudo" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_fim_seman_gordon_brown_promet" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "9_águ_cond_worcestershir_também_foi" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "8_mil_águ_cidad_primeir_gordon" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "7_rio_10_metr_segund_inform" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "6_segund_chuv_rein_unid_últim" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "5_cerc_350_mil_britân_sudo" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "2_sext_chov_12_centímetr_regiõ" is "0.166667"
+
+CHANGE! -- From: 11 -> TO: 3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_resgat_cas_sext_centen_pesso" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 2 -- Abs: 8
+
+
+Topic change from "10" to "2"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 2 -- Abs: 8
+
+
+Topic change from "10" to "2"
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "8_mil_águ_cidad_primeir_gordon" is "0.2"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "7_rio_10_metr_segund_inform" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "6_segund_chuv_rein_unid_últim" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "5_cerc_350_mil_britân_sudo" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_águ_cond_worcestershir_também_foi" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "7_rio_10_metr_segund_inform" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "6_segund_chuv_rein_unid_últim" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "5_cerc_350_mil_britân_sudo" is "0.2"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_mil_águ_cidad_primeir_gordon" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 9 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_rio_10_metr_segund_inform" and "6_segund_chuv_rein_unid_últim" is "0.2"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_10_metr_segund_inform" and "5_cerc_350_mil_britân_sudo" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_10_metr_segund_inform" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_10_metr_segund_inform" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_10_metr_segund_inform" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_10_metr_segund_inform" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_10_metr_segund_inform" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_chuv_rein_unid_últim" and "5_cerc_350_mil_britân_sudo" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_chuv_rein_unid_últim" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_chuv_rein_unid_últim" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_chuv_rein_unid_últim" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_segund_chuv_rein_unid_últim" and "1_país_sofr_chuv_caem_junh" is "0.2"
+
+CHANGE! -- From: 7 -> TO: 2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_segund_chuv_rein_unid_últim" and "0_pior_enchent_últim_60_anos" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_cerc_350_mil_britân_sudo" and "4_vim_enchent_altur_afirm_port" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_cerc_350_mil_britân_sudo" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_cerc_350_mil_britân_sudo" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_cerc_350_mil_britân_sudo" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_cerc_350_mil_britân_sudo" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_vim_enchent_altur_afirm_port" and "3_já_nível_benn_diss_oit" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_vim_enchent_altur_afirm_port" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_vim_enchent_altur_afirm_port" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "4_vim_enchent_altur_afirm_port" and "0_pior_enchent_últim_60_anos" is "0.2"
+
+CHANGE! -- From: 5 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_já_nível_benn_diss_oit" and "2_sext_chov_12_centímetr_regiõ" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_já_nível_benn_diss_oit" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_já_nível_benn_diss_oit" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_sext_chov_12_centímetr_regiõ" and "1_país_sofr_chuv_caem_junh" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_sext_chov_12_centímetr_regiõ" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_país_sofr_chuv_caem_junh" and "0_pior_enchent_últim_60_anos" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 10
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 13
+Topic: 13
+NUM_TOPICS: 12
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: pior  - Frequency: 1
+Word: enchent  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: rein  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: deix  - Frequency: 1
+Word: milh  - Frequency: 1
+Word: britân  - Frequency: 1
+Word: desabrig  - Frequency: 1
+Word: abastec  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: energ  - Frequency: 1
+Word: elétr  - Frequency: 1
+Word: vim  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: port  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: ambiental  - Frequency: 1
+Word: nível  - Frequency: 1
+Word: máxim  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: 1947  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_enchent_rein_unid
+
+Keyword: 0_enchent_rein_unid_pior_últim_60_anos_deix_milh_britân_desabrig_abastec_águ_energ_elétr_vim_altur_afirm_port_agênc_ambiental_nível_máxim_inund_foi_registr_1947
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: país  - Frequency: 2
+Word: sofr  - Frequency: 1
+Word: chuv  - Frequency: 3
+Word: caem  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: torrencial  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: rein  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: encobr  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: milh  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: fornec  - Frequency: 1
+Word: eletr  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: potável  - Frequency: 1
+Word: decorrent  - Frequency: 1
+Word: pior  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: últim  - Frequency: 2
+Word: 60  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: segund  - Frequency: 3
+Word: inform  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: red  - Frequency: 1
+Word: televisã  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: rios  - Frequency: 1
+Word: severn  - Frequency: 1
+Word: tâmis  - Frequency: 1
+Word: ameac  - Frequency: 1
+Word: transbord  - Frequency: 1
+Word: agrav  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: inglaterr  - Frequency: 1
+Word: vêm  - Frequency: 1
+Word: send  - Frequency: 1
+Word: castig  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: metereolog  - Frequency: 1
+Word: acredit  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: chuvos  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: prev  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: agost  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_chuv_segund
+
+Keyword: 1_chuv_segund_país_rein_unid_últim
+
+Keyword: 1_chuv_segund_país_rein_unid_últim_sofr_caem_junh_torrencial_ating_encobr_estrad_milh_pesso_estã_fornec_eletr_águ_potável_decorrent_pior_enchent_60_anos_inform_23_red_televisã_bbc_dois_maior_rios_severn_tâmis_ameac_transbord_agrav_aind_situaçã_regiõ_centr_sul_inglaterr_vêm_send_castig_inund_sext_servic_metereolog_acredit_sej_mês_julh_chuvos_histór_prev_seman_iníci_agost
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: sext  - Frequency: 2
+Word: chov  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: centímetr  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: há  - Frequency: 1
+Word: previsã  - Frequency: 1
+Word: tempestad  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: ambient  - Frequency: 1
+Word: hilary  - Frequency: 1
+Word: benn  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: emergent  - Frequency: 1
+Word: está  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: centen  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: inglaterr  - Frequency: 1
+Word: for  - Frequency: 1
+Word: resgat  - Frequency: 3
+Word: cas  - Frequency: 2
+Word: forc  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: britân  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: temp  - Frequency: 1
+Word: paz  - Frequency: 1
+Word: pior  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: aeronáut  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: helicópter  - Frequency: 1
+Word: cem  - Frequency: 1
+Word: morador  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_resgat
+
+Keyword: 2_resgat_sext_cas
+
+Keyword: 2_resgat_sext_cas_chov_12_centímetr_regiõ_há_previsã_tempestad_hoj_ministr_ambient_hilary_benn_afirm_emergent_está_acab_inund_sã_prov_centen_pesso_inglaterr_for_forc_aér_britân_cham_maior_oper_temp_paz_pior_áre_exércit_ped_ajud_aeronáut_envi_helicópter_cem_morador
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: benn  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: oit  - Frequency: 1
+Word: alert  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: sev  - Frequency: 1
+Word: já  - Frequency: 2
+Word: for  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: degel  - Frequency: 1
+Word: nev  - Frequency: 1
+Word: também  - Frequency: 1
+Word: influ  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: nível  - Frequency: 2
+Word: rios  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: severn  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: país  - Frequency: 1
+Word: está  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: normal  - Frequency: 1
+Word: verã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_já_nível
+
+Keyword: 3_já_nível_benn_diss_oit_alert_enchent_sev_for_dad_10_mil_cas_estã_pod_ser_inund_degel_nev_também_influ_aument_rios_rio_severn_maior_país_está_cinc_metr_acim_normal_verã
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: cerc  - Frequency: 2
+Word: 350  - Frequency: 1
+Word: mil  - Frequency: 3
+Word: britân  - Frequency: 1
+Word: sudo  - Frequency: 1
+Word: país  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: abastec  - Frequency: 1
+Word: águ  - Frequency: 3
+Word: dev  - Frequency: 1
+Word: ameac  - Frequency: 1
+Word: transbord  - Frequency: 1
+Word: rios  - Frequency: 1
+Word: severn  - Frequency: 1
+Word: tâmis  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: gordon  - Frequency: 1
+Word: brown  - Frequency: 1
+Word: está  - Frequency: 1
+Word: gloucestershir  - Frequency: 1
+Word: cond  - Frequency: 1
+Word: afet  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 150  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: 43  - Frequency: 1
+Word: resident  - Frequency: 1
+Word: também  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: eletr  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: estaçã  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: gloucest  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: nível  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: oxford  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: for  - Frequency: 1
+Word: evacu  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: futebol  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_mil_águ
+
+Keyword: 5_mil_águ_cerc_cidad
+
+Keyword: 5_mil_águ_cerc_cidad_350_britân_sudo_país_pod_fic_abastec_dev_ameac_transbord_rios_severn_tâmis_primeir_gordon_brown_está_gloucestershir_cond_afet_pel_enchent_deix_150_cas_43_resident_também_estã_eletr_depo_estaçã_gloucest_tev_ser_deslig_nível_comec_sub_oxford_1_pesso_for_evacu_maior_estádi_futebol
+
+Cur_topic: 7
+
+
+
+------------------------------------------------------------
+Topic: 7
+Word: nível  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: rio  - Frequency: 2
+Word: severn  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: 10  - Frequency: 2
+Word: metr  - Frequency: 2
+Word: pont  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: ultrapass  - Frequency: 1
+Word: barreir  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: med  - Frequency: 1
+Word: altur  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: inform  - Frequency: 2
+Word: 23  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: já  - Frequency: 1
+Word: tâmis  - Frequency: 1
+Word: está  - Frequency: 1
+Word: leit  - Frequency: 1
+Word: limit  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: transbord  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: cotinu  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: rein  - Frequency: 1
+Word: unid  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_rio_10_metr_segund_inform
+
+Keyword: 7_rio_10_metr_segund_inform_nível_águ_severn_ating_pont_quas_ultrapass_barreir_defes_med_altur_23_bbc_já_tâmis_está_leit_limit_pod_transbord_durant_próxim_madrug_cas_chuv_cotinu_agênc_mei_rein_unid
+
+Cur_topic: 9
+
+
+
+------------------------------------------------------------
+Topic: 9
+Word: cond  - Frequency: 1
+Word: worcestershir  - Frequency: 1
+Word: também  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: castig  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: nível  - Frequency: 1
+Word: águ  - Frequency: 2
+Word: ating  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: estã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_águ
+
+Keyword: 9_águ_cond_worcestershir_também_foi_castig_pel_enchent_nível_ating_1_metr_cerc_quatr_mil_pesso_estã
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: fim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: gordon  - Frequency: 1
+Word: brown  - Frequency: 1
+Word: promet  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: adicion  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: loc  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: posterior  - Frequency: 1
+Word: às  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: tir  - Frequency: 1
+Word: liçõ  - Frequency: 1
+Word: situaçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_fim_seman_gordon_brown_promet_destin_recurs_adicion_ajud_autor_loc_recuper_dan_períod_posterior_às_chuv_garant_govern_vai_tir_liçõ_situaçã
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: font  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: ambient  - Frequency: 1
+Word: rein  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: bilhã  - Frequency: 1
+Word: libr  - Frequency: 2
+Word: ano  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: bilhõ  - Frequency: 3
+Word: aprimor  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: barreir  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: assoc  - Frequency: 1
+Word: segur  - Frequency: 1
+Word: britân  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: cobr  - Frequency: 1
+Word: estrag  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: país  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: 7  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_bilhõ
+
+Keyword: 12_bilhõ_libr
+
+Keyword: 12_bilhõ_libr_font_agênc_mei_ambient_rein_unid_diss_bbc_ser_necessári_1_bilhã_ano_3_aprimor_sistem_barreir_inund_assoc_segur_britân_estim_cont_cobr_estrag_provoc_pel_enchent_mes_junh_julh_país_cheg_2_7
+
+NUM: 27
+
+
+NUM: 61
+
+
+NUM: 44
+
+
+NUM: 33
+
+
+NUM: 51
+
+
+NUM: 35
+
+
+NUM: 17
+
+
+NUM: 23
+
+
+NUM: 37
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 27
+
+
+NUM: 61
+
+
+NUM: 44
+
+
+NUM: 33
+
+
+NUM: 51
+
+
+NUM: 35
+
+
+NUM: 17
+
+
+NUM: 23
+
+
+NUM: 37
+
+
+---------------BEFORE!-------------
+
+VEC: 0_enchent_rein_unid_pior_últim_60_anos_deix_milh_britân_desabrig_abastec_águ_energ_elétr_vim_altur_afirm_port_agênc_ambiental_nível_máxim_inund_foi_registr_1947
+VEC: 1_chuv_segund_país_rein_unid_últim_sofr_caem_junh_torrencial_ating_encobr_estrad_milh_pesso_estã_fornec_eletr_águ_potável_decorrent_pior_enchent_60_anos_inform_23_red_televisã_bbc_dois_maior_rios_severn_tâmis_ameac_transbord_agrav_aind_situaçã_regiõ_centr_sul_inglaterr_vêm_send_castig_inund_sext_servic_metereolog_acredit_sej_mês_julh_chuvos_histór_prev_seman_iníci_agost
+VEC: 2_resgat_sext_cas_chov_12_centímetr_regiõ_há_previsã_tempestad_hoj_ministr_ambient_hilary_benn_afirm_emergent_está_acab_inund_sã_prov_centen_pesso_inglaterr_for_forc_aér_britân_cham_maior_oper_temp_paz_pior_áre_exércit_ped_ajud_aeronáut_envi_helicópter_cem_morador
+VEC: 3_já_nível_benn_diss_oit_alert_enchent_sev_for_dad_10_mil_cas_estã_pod_ser_inund_degel_nev_também_influ_aument_rios_rio_severn_maior_país_está_cinc_metr_acim_normal_verã
+VEC: 5_mil_águ_cerc_cidad_350_britân_sudo_país_pod_fic_abastec_dev_ameac_transbord_rios_severn_tâmis_primeir_gordon_brown_está_gloucestershir_cond_afet_pel_enchent_deix_150_cas_43_resident_também_estã_eletr_depo_estaçã_gloucest_tev_ser_deslig_nível_comec_sub_oxford_1_pesso_for_evacu_maior_estádi_futebol
+VEC: 7_rio_10_metr_segund_inform_nível_águ_severn_ating_pont_quas_ultrapass_barreir_defes_med_altur_23_bbc_já_tâmis_está_leit_limit_pod_transbord_durant_próxim_madrug_cas_chuv_cotinu_agênc_mei_rein_unid
+VEC: 9_águ_cond_worcestershir_também_foi_castig_pel_enchent_nível_ating_1_metr_cerc_quatr_mil_pesso_estã
+VEC: 11_fim_seman_gordon_brown_promet_destin_recurs_adicion_ajud_autor_loc_recuper_dan_períod_posterior_às_chuv_garant_govern_vai_tir_liçõ_situaçã
+VEC: 12_bilhõ_libr_font_agênc_mei_ambient_rein_unid_diss_bbc_ser_necessári_1_bilhã_ano_3_aprimor_sistem_barreir_inund_assoc_segur_britân_estim_cont_cobr_estrag_provoc_pel_enchent_mes_junh_julh_país_cheg_2_7
+
+---------------AFTER!-------------
+
+VEC: 0_enchent_rein_unid_pior_últim_60_anos_deix_milh_britân
+VEC: 1_chuv_segund_país_rein_unid_últim_sofr_caem_junh_torrencial
+VEC: 2_resgat_sext_cas_chov_12_centímetr_regiõ_há_previsã_tempestad
+VEC: 3_já_nível_benn_diss_oit_alert_enchent_sev_for_dad
+VEC: 5_mil_águ_cerc_cidad_350_britân_sudo_país_pod_fic
+VEC: 7_rio_10_metr_segund_inform_nível_águ_severn_ating_pont
+VEC: 9_águ_cond_worcestershir_também_foi_castig_pel_enchent_nível_ating
+VEC: 11_fim_seman_gordon_brown_promet_destin_recurs_adicion_ajud_autor
+VEC: 12_bilhõ_libr_font_agênc_mei_ambient_rein_unid_diss_bbc
+Keyword: 0_enchent_rein_unid_pior_últim_60_anos_deix_milh_britân
+Keyword: 1_chuv_segund_país_rein_unid_últim_sofr_caem_junh_torrencial
+Keyword: 2_resgat_sext_cas_chov_12_centímetr_regiõ_há_previsã_tempestad
+Keyword: 3_já_nível_benn_diss_oit_alert_enchent_sev_for_dad
+Keyword: 5_mil_águ_cerc_cidad_350_britân_sudo_país_pod_fic
+Keyword: 7_rio_10_metr_segund_inform_nível_águ_severn_ating_pont
+Keyword: 9_águ_cond_worcestershir_também_foi_castig_pel_enchent_nível_ating
+Keyword: 11_fim_seman_gordon_brown_promet_destin_recurs_adicion_ajud_autor
+Keyword: 12_bilhõ_libr_font_agênc_mei_ambient_rein_unid_diss_bbc

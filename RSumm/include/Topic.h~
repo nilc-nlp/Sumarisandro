@@ -1,0 +1,102 @@
+#ifndef TOPIC_H
+#define TOPIC_H
+
+#include "../include/Library.h"
+#include "../include/Graph.h"
+#include "../include/Segment.h"
+#include "../include/Sentence.h"
+#include "../include/Util.h"
+
+typedef struct group_k {
+
+	int id;
+	int topics[100000];
+	char keywords[100000];
+
+}Group_K;
+
+typedef struct group_t {
+
+	int id;
+	char **topics;
+	int index_topics[100000];
+	int index_docs[100000];
+	int size;
+
+}Group_T;
+
+typedef struct group_cst {
+
+	int id;
+	int sentence[100000];
+	int document[100000];
+
+}Group_CST;
+
+typedef struct treshold_cst {
+
+	int from_s, from_doc;
+	int to_s, to_doc;
+	int n_rels;
+	float v_rels;
+
+}Treshold_CST;
+
+class Topic {
+
+	private:
+			Graph *g;
+			int *vec_topics;
+			vector<Group_K> *vec_groups_k;
+			vector<Group_T> *vec_groups_t;
+			vector<Group_CST> *vec_groups_cst;
+			vector<Treshold_CST> *vec_treshold_cst;
+			vector<Segment*> *vec_seg;
+			vector<char*> *vec_keys, *vec_change_topics, *vec_cst_aux, *vec_cst;
+
+	public:
+			Topic(Graph *g);
+			~Topic();
+
+			void setGlobalTopics(int global_topics);
+			int getGlobalTopics();
+			int getNumTopics();
+			void getTopics();
+			vector<char*>* getVecKeys();
+			//void addCSTChange(int to, int from, int value);
+			//void addCSTChange(int to, int from, float value);
+			void addCSTChange(int from_s, int from_doc, int to_s, int to_doc, int n_rels, float v_rels);
+			void clusteringCST(char type_1[5], float treshold_unit, float treshold_value);
+			vector<char*>* getVecCST();
+			bool hasVerified(vector<char*> *vec, int to, int from);
+			void sumCSTResults();
+			void addVec(vector<char*> *vec, int to, int from, int value);
+			void getToFromValue(char *str, int *to, int *from, int *value);
+			void addSegment(Segment *segment);
+			void addKeyword(int topic, char **words, int frequency[100000]);
+			void findKeywords();
+			void findNewKeywords();
+			void findCSTRelations(char type[5], char type_2[50]);
+			int averageKeys(char *type);
+			void roundWords(int number);
+			float calculateTresholdTopics(char *type);
+			int calculateTresholdCSTUnit(char *type);
+			float calculateTresholdCSTValue(char *type);
+			void clusteringCSTUnit();
+			void clusteringCSTValue();
+			float calculateTresholdKeywords(char type[5]);
+			int fillVector(vector<char*> *vec_words, Sentence *s);
+			int hasWord(char **words, char *aux);
+			void findSimilarTopics();
+			void findSimilarTopics_OLD();
+			int separateKeywords(char *keywords, char aux_topics[100000]);
+			void clusteringKeywords();
+			void clusteringTopics();
+			void clusteringTopics_OLD();
+			void changeTopic(int prev_topic, int cur_topic, float cosine);
+			float similarity(char *keywords_1, char *keywords_2);
+			void removeFromVector(int cont, vector<char*> *vec);
+			void concatenateVecs(int index_topics, int size_groups, char **A, int size_A);
+};
+
+#endif

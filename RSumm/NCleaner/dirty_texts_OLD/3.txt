@@ -1,0 +1,646 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Evite se tornar alvo dos criminosos nas redes sociais; saiba como | Reportagens Especiais - Correio do Estado </title>
+<meta name="AUTHOR" content="Widea.com.br">
+<meta name="robots" content="index,follow">
+    
+<base href="http://www.correiodoestado.com.br/">
+<!--<meta property="fb:app_id" content="257239054360768" />-->
+<meta property="fb:admins" content="100003640067166" />  
+<link rel="canonical" href="http://www.correiodoestado.com.br/noticias/evite-se-tornar-alvo-dos-criminosos-nas-redes-sociais-saiba_137682/" />
+
+<!-- COMENTARIO FACEBOOK -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=176106985782488";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript" language="JavaScript" src="http://www.correiodoestado.com.br/js/functions.js"><!--  --></script>
+<script src="http://www.correiodoestado.com.br/js/ac_runactivecontent.js" type="text/javascript"><!--  --></script>
+<script src="http://www.correiodoestado.com.br/js/ajaxlib.js" language="javascript" type="text/javascript"><!--  --></script>
+<script src="http://www.correiodoestado.com.br/js/jquery.js" language="javascript" type="text/javascript"><!--  --></script>
+<script type="text/javascript" src="http://www.correiodoestado.com.br/js/jquery.fancybox-1.2.1.pack.js"></script>
+<script src="http://www.correiodoestado.com.br/js/ajax.js" language="javascript" type="text/javascript"><!--  --></script>
+<script src="http://www.correiodoestado.com.br/js/menu.js" language="javascript" type="text/javascript"><!--  --></script>
+<script type="text/javascript" language="JavaScript" src="http://www.correiodoestado.com.br/js/overlib/overlib.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://www.correiodoestado.com.br/js/jquery.fancybox-1.2.1.pack.js"></script>
+<link rel="icon" href="correio.ico" type="image/x-icon">
+<link href="http://www.correiodoestado.com.br/css/padrao.css" rel="stylesheet" type="text/css"/>
+    <link href="http://www.correiodoestado.com.br/noticias/css/noticias.css" rel="stylesheet" type="text/css"/>
+    
+   
+    
+<script type="text/javascript">
+$(document).ready(function() {
+    $("#galeria_fotos .galeriabox").fancybox({ 'imageScale': false, 'centerOnScroll':false, 'hideOnContentClick':false,'zoomSpeedIn':600,'zoomSpeedOut': 500,'easingIn':'easeOutBack','easingOut':'easeInBack' }); ;
+});
+</script>
+</head>
+<body>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5435672-6']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="div0">
+
+<!-- codModelo=19 -->
+
+<div id="topo_default"><div id="login_capa_ajax">
+</div>
+<script type="text/javascript">
+//$("#login_capa_ajax").html('<center>carregando</center>');
+$("#login_capa_ajax").load("http://www.correiodoestado.com.br/modulos/topo/topo_ajax.php?urlRedir=http://www.correiodoestado.com.br/noticias/evite-se-tornar-alvo-dos-criminosos-nas-redes-sociais-saiba_137682/&error=&codCanal=167");
+</script></div>
+<div id="topo">
+<div id="topo_content" class="conteudoCenter">
+<div id="ban_topogrande">
+<!--banner 728x90 teste -->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.wideasolucoes.com.br/www/delivery/ajs.php':'http://ads.wideasolucoes.com.br/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=4");
+   document.write ("&amp;Canal=Notícias");
+   document.write ("&amp;Editoria=Reportagens Especiais");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&am</scr_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.wideasolucoes.com.br/www/delivery/ck.php?n=abb151f4&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.wideasolucoes.com.br/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abb151f4' border='0' alt='' /></a></noscript>
+</div>
+<div id="ban_topopequeno">
+
+<!--banner 150x90 -->
+
+
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.wideasolucoes.com.br/www/delivery/ajs.php':'http://ads.wideasolucoes.com.br/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=3");
+   document.write ("&amp;Canal=Notícias");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context)</scr if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.wideasolucoes.com.br/www/delivery/ck.php?n=ad861c00&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.wideasolucoes.com.br/www/delivery/avw.php?zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ad861c00' border='0' alt='' /></a></noscript>
+</div>
+<div id="logo"><a href="http://www.correiodoestado.com.br/" title="Correio do Estado"><img src="http://www.correiodoestado.com.br/images/correio_do_estado_logo.gif" /></a>
+<br/>
+<span id="data">Brasil, Terça-feira, 08 de Maio de 2012</span></div>
+<div id="topo_opcoes">
+<form action="http://www.correiodoestado.com.br/busca/" id="cse-search-box">
+  <div>
+  <input type="hidden" name="cx" value="015586217218645673577:sveiyjyffxu" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" class="input_busca" name="q" id="q" autocomplete="off" size="31" />
+    <input type="image" name="sa" src="http://www.correiodoestado.com.br/images/bt-buscar.png" class="button_image" value="Pesquisar" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=pt"></script>
+
+</div></div></div>
+<div id="div00" class="conteudoCenter">
+<div id="div00_content" class="aligns">
+<div id="navega"><div class="breadCrumbTrail">
+
+                                    <table height="30px" style="float:left;">
+                                        <tr>
+                                            <td><a href="http://www.correiodoestado.com.br/"><img src="http://www.correiodoestado.com.br/images/bct-home.gif" alt="Página Inicial"/></a></td>
+                                            <td width="9px"><img src="http://www.correiodoestado.com.br/images/bct-arrow.gif" alt=""/></td>
+                                                                        		  <td><a href="http://www.correiodoestado.com.br/noticias/reportagens-especiais/" target="_self" title="Reportagens Especiais">Reportagens Especiais</a></td>
+                                                                            
+                                                                                <td width="9px"><img src="http://www.correiodoestado.com.br/images/bct-arrow.gif" alt=""/></td>
+                                                                                        <td><span>  Evite se tornar alvo dos criminosos nas redes sociais; saiba como</span></td>
+                                                                            
+                                                                            </tr>
+                                    </table>
+
+
+
+
+
+						                </div>
+                </div>
+<div id="esquerda">
+<div id="noticiafelpuda"></div>
+<div id="menu00">
+<div id="menu01" class="menu">
+        	<h3 style="color:#999999">Notícias</h3>
+        	<ul id="primary-nav">
+ 
+		<li><a href="http://www.correiodoestado.com.br/noticias/" target="_self"><h4>Últimas Notícias</h4></a></li>
+				 
+		<li><a href="http://ads.wideasolucoes.com.br/www/delivery/ck.php?oaparams=2__bannerid=712__zoneid=3__cb=7e32dd4c00__oadest=http%3A%2F%2Fwww.correiodoestado.com.br%2Fpremiojbarbosarodrigues%2F" target="_self"><h4>Prêmio Professor J. Barbosa Rodrigues</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/servicos/loterias/" target="_self"><h4>Loterias</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/politica/" target="_self"><h4>Política</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/cidades/" target="_self"><h4>Cidades</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/esportes/" target="_self"><h4>Esportes</h4></a></li>
+						<li><a href="http://www.correiodoestado.com.br/noticias/economia/" target="_self" title="Economia"><h4>Economia</h4></a>
+		<ul class="submenu" style="margin-left:3px;">  
+                 <li class="submenu" style="width:160px; float:left;"><span style="float:left; margin-left:0px;">-</span><a href="http://www.correiodoestado.com.br/noticias/economia/consumidor/" title="Consumidor"  target="_self" style="margin-left:3px; float:left; width:95%;"><!--<img src="http://www.correiodoestado.com.br/images/seta_menu.gif" align="absmiddle" border="0"/>&nbsp;-->Consumidor</a></li>
+				 
+                 <li class="submenu" style="width:160px; float:left;"><span style="float:left; margin-left:0px;">-</span><a href="http://www.correiodoestado.com.br/noticias/economia/carreira/" title="Profissões"  target="_self" style="margin-left:3px; float:left; width:95%;"><!--<img src="http://www.correiodoestado.com.br/images/seta_menu.gif" align="absmiddle" border="0"/>&nbsp;-->Profissões</a></li>
+						</ul>
+		</li>		 
+		<li><a href="http://www.correiodoestado.com.br/noticias/agronegocios/" target="_self"><h4>Agronegócios</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/mundo/" target="_self"><h4>Brasil/Mundo</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/ecologia/" target="_self"><h4>Ecologia</h4></a></li>
+						<li><a href="http://www.correiodoestado.com.br/noticias/arte-cultura/" target="_self" title="Arte e cultura"><h4>Arte e cultura</h4></a>
+		<ul class="submenu" style="margin-left:3px;">  
+                 <li class="submenu" style="width:160px; float:left;"><span style="float:left; margin-left:0px;">-</span><a href="http://www.correiodoestado.com.br/noticias/arte-cultura/entretenimentos/" title="Entretenimento"  target="_self" style="margin-left:3px; float:left; width:95%;"><!--<img src="http://www.correiodoestado.com.br/images/seta_menu.gif" align="absmiddle" border="0"/>&nbsp;-->Entretenimento</a></li>
+				 
+                 <li class="submenu" style="width:160px; float:left;"><span style="float:left; margin-left:0px;">-</span><a href="http://www.correiodoestado.com.br/noticias/arte-cultura/astral/" title="Astral"  target="_self" style="margin-left:3px; float:left; width:95%;"><!--<img src="http://www.correiodoestado.com.br/images/seta_menu.gif" align="absmiddle" border="0"/>&nbsp;-->Astral</a></li>
+						</ul>
+		</li>		 
+		<li><a href="http://www.correiodoestado.com.br/noticias/ciencia-saude/" target="_self"><h4>Ciência e Saúde</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/receitas/" target="_self"><h4>Receitas</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/tecnologia/" target="_self"><h4>Tecnologia</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/noticias/reportagens-especiais/" target="_self"><h4>Reportagens Especiais</h4></a></li>
+					</ul> 
+</div>
+
+<div id="menu02" class="menu">
+        <a href="http://www.correiodoestado.com.br/classificados/" title="Classificados" target="_self">	<h3 style="color:#019676">Classificados</h3>
+        </a>	<ul id="primary-nav">
+	</ul> 
+</div>
+
+<div id="menu03" class="menu">
+        	<h3 style="color:#990000">Serviços</h3>
+        	<ul id="primary-nav">
+ 
+		<li><a href="http://www.correiodoestado.com.br/servicos/assinatura/" target="_self"><h4>Correio Assinatura</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/servicos/roteirotv/" target="_self"><h4>Novelas</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/servicos/cinema/" target="_self"><h4>Cinema</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/servicos/usuario/" target="_self"><h4>Correio 2.0</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/servicos/videos/" target="_self"><h4>Vídeos</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/widget/" target="_self"><h4>Notícias em seu site</h4></a></li>
+					</ul> 
+</div>
+
+<div id="menu04" class="menu">
+        	<h3 style="color:#ffa51f">Parceiros</h3>
+        	<ul id="primary-nav">
+ 
+		<li><a href="http://www.mega94.com.br/" target="_blank"><h4>Mega 94</h4></a></li>
+				 
+		<li><a href="http://www.culturaam680.com.br/" target="_blank"><h4>Cultura AM</h4></a></li>
+					</ul> 
+</div>
+
+<div id="menu01" class="menu">
+        	<h3 style="color:#003399">Contato</h3>
+        	<ul id="primary-nav">
+ 
+		<li><a href="http://www.correiodoestado.com.br/contato/fale-com-a-redacao/" target="_self"><h4>Fale com a Redação</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/contato/central-atendimento/" target="_self"><h4>Central de Atendimento</h4></a></li>
+				 
+		<li><a href="http://www.correiodoestado.com.br/contato/expediente/" target="_self"><h4>Expediente</h4></a></li>
+					</ul> 
+</div>
+</div>
+<div id="enquete"><div id="enquete_ajax"></div>
+<script>
+    //$('#enquete_ajax').load('modulos/enquete/modulo.php?ajax=1&canal=167');
+    $.ajax({
+      url: 'modulos/enquete/modulo.php',
+      data:'ajax=1&canal=167',
+      type:'GET',
+      cache:false,
+      success: function(data) {
+        $("#enquete_ajax").html(data);
+      }
+    });
+</script>
+</div>
+<div id="clima"><iframe src='http://selos.climatempo.com.br/selos/MostraSelo.php?CODCIDADE=212,213,216,754,751&SKIN=padrao' scrolling='no' frameborder='0' width=150 height='170' marginheight='0' marginwidth='0'></iframe>
+</div></div>
+<div id="content">
+<div id="noticialeitura"><script>
+function grava_comentario() {
+//$("#noticia_comentarios").html("<b>Aguarde... Carregando...</b>");
+  var resultado = $.ajax({
+            type: "POST",
+            url: "modulos/noticias/comentarios.php",
+            data: "comentario="+$('#comentario_com').val()+"&action="+$('#action_com').val()+"&id="+$('#not_id_com').val()+"&nome="+$('#nome_com').val()+"&email="+$('#email_com').val(),
+            async: true,
+            success: function(resultado){
+                $("#noticia_comentarios").html(resultado);
+            }
+        }).responseText;	
+  return false;
+}
+</script>
+
+
+
+
+
+
+<script language="Javascript" type="text/Javascript">
+
+    //Specify affected tags. Add or remove from list:
+
+    var tgs = new Array( 'div' );
+
+
+
+    //Specify spectrum of different font sizes:
+
+    var szs = new Array( 'xx-small','x-small','small','medium','large','x-large','xx-large' );
+
+    var startSz = 2;
+
+    function ts(local, tamanho){
+
+        if (!document.getElementById) return
+
+        sz = startSz;
+
+        sz += tamanho;
+
+        if ( sz < 0 ) sz = 0;
+
+        if ( sz > 6 ) sz = 6;
+
+        startSz = sz;
+
+        $('#'+local+' span').css('font-size', szs[sz]);
+
+        $('#'+local).css('font-size', szs[sz]);
+
+    }
+
+    function esteUrlComentar(){
+
+        esteurl = location.href;
+
+        if(esteurl.search("#comentar") != -1)
+
+            return esteurl;
+
+        else
+
+            return esteurl+'#comentar';
+
+    }
+
+    
+
+    
+</script>
+
+
+
+
+    <h1> Evite se tornar alvo dos criminosos nas redes sociais; saiba como/h1>
+
+
+    <div class="creditos aligns">
+
+    
+            <span><b>GABRIEL MAYMONE</b> </span>
+
+        
+        <span style="float:right">
+
+    08/01/2012 00h02
+                <br />
+
+                <span class="atalho">
+
+                    <a href="javascript:ts('texto',-1)" title="Diminuir Letra"><img src="http://www.correiodoestado.com.br/images/ico-font_delete.gif" /><span id="ksht5"></span></a> <a href="javascript:ts('texto',1)" title="Aumentar Letra"><img src="http://www.correiodoestado.com.br/images/ico-font_add.gif" /><span id="ksht4"></span></a>
+
+                </span>
+
+            </span><br>
+
+
+    </div>
+
+    <script>
+
+        $(document).ready(function() {
+
+            $(".boxImagem").fancybox({ 'imageScale': false, 'centerOnScroll':false, 'hideOnContentClick':false,'zoomSpeedIn':600,'zoomSpeedOut': 500,'easingIn':'easeOutBack','easingOut':'easeInBack' }); ;
+
+        });
+
+    </script>
+
+
+
+
+    
+    
+
+    <div style="float:left; margin:5px; width:290px;">
+
+        <table>
+
+            <tr>
+
+                <td><a href="http://www.correiodoestado.com.br/uploads/2012/01/522933955.jpg" class="boxImagem"><img src="http://www.correiodoestado.com.br/imagem.php?imagem=uploads/2012/01/522933955.jpg&altura=500&largura=280" alt="foto"/></a></td>
+
+            </tr>
+
+        
+                <tr>
+
+                    <td align="left"><span id="img_credito">Foto: Gerson Oliveira/ Correio do Estado</span></td>
+
+                </tr>
+
+
+
+            </table>
+
+        </div>
+
+    
+
+
+    <div id="texto">
+
+    <p>
+	Divulgar informa&ccedil;&otilde;es pela Internet exige responsabilidade. Muitos acabam se tornando alvos f&aacute;ceis dos criminosos por publicarem na rede, informa&ccedil;&otilde;es preciosas que facilitam o trabalho dos bandidos.</p>
+<p>
+	A Pol&iacute;cia Civil esclarece que os criminosos costumam procurar um alvo antes de agir. Com as redes sociais, o trabalho deles fica ainda mais f&aacute;cil, quando n&atilde;o se toma as medidas necess&aacute;rias para evitar chamar a aten&ccedil;&atilde;o dos bandidos.</p>
+<p>
+	Primeiramente, &eacute; necess&aacute;rio utilizar nas redes sociais, as mesmas regras de seguran&ccedil;a utilizadas no dia a dia. Ningu&eacute;m vai chegar em um desconhecido e mostrar uma foto de fam&iacute;lia, ent&atilde;o, n&atilde;o fa&ccedil;a isso na rede. Uma foto de biqu&iacute;ni, n&atilde;o vai ser colocada no mural da faculdade para que todos vejam. No mural do Facebook, por exemplo, funciona da mesma forma, uma foto publicada no perfil, pode ser vista por qualquer um.</p>
+<blockquote>
+	<p style="text-align: center">
+		<strong>A pol&iacute;cia alerta que as informa&ccedil;&otilde;es n&atilde;o fiquem abertas na rede</strong></p>
+</blockquote>
+<p>
+	A dica mais importante dada pela pol&iacute;cia &eacute; que se utilizem os filtros para separar os amigos em grupos. A maioria das redes sociais possui essa ferramenta, a dica &eacute; separar os contatos por n&iacute;veis de intimidade, por exemplo, fam&iacute;lia, amigos, colegas de trabalho, etc. Dessa forma, ao postar uma publica&ccedil;&atilde;o ou foto, ela poder&aacute; ser direcionada a determinado grupo, como apenas familiares ou colegas de trabalho. Desta forma &eacute; poss&iacute;vel evitar que a vida pessoal se torne p&uacute;blica.</p>
+<p>
+	<strong>Outro lado</strong></p>
+<p>
+	Para esclarecer um crime, os investigadores da Pol&iacute;cia Civil utilizam de todos os artefatos poss&iacute;veis. Hoje em dia &eacute; comum a utiliza&ccedil;&atilde;o das redes sociais para a pol&iacute;cia descobrir determinada informa&ccedil;&atilde;o que pode ser importante. Tudo &eacute; v&aacute;lido.</p>
+<p>
+	Vale ressaltar que a informa&ccedil;&atilde;o publicada em um perfil de rede social pode ser usado contra a pessoa pela pol&iacute;cia, que pode incluir as informa&ccedil;&otilde;es no inqu&eacute;rito policial.</p>
+<p style="text-align: center">
+	<span _fck_bookmark="1" style="display: none">&nbsp;</span><img alt="" src="http://www.correiodoestado.com.br/userfiles/Ipe/album_facebook.jpg" style="width: 382px; height: 328px" />span _fck_bookmark="1" style="display: none">&nbsp;</span></p>
+<p style="text-align: center">
+	<strong><span style="font-size: 11px">Simples fato de filtrar informa&ccedil;&otilde;es publicadas na rede pode evitar futuros transtornos</span></strong></p>
+<p>
+	<strong>Pol&iacute;cia localiza v&iacute;tima de assalto</strong></p>
+<p>
+	Na &uacute;ltima ter&ccedil;a-feira, dia 3 de janeiro, uma resid&ecirc;ncia no Bairro S&atilde;o Francisco foi invadida por assaltantes, que levaram notebook, televis&atilde;o, m&aacute;quina fotogr&aacute;fica digital, roupas e sapatos. Pai e filha dirigiram-se &agrave; delegacia para registro de boletim de ocorr&ecirc;ncia do fato. Ao mesmo tempo, um rapaz era preso nas imedia&ccedil;&otilde;es do bairro, em atitude suspeita, com uma m&aacute;quina fotogr&aacute;fica digital e alegou ter acabado de comprar o objeto de um amigo.</p>
+<p>
+	O rapaz foi levado &agrave; delegacia para esclarecimentos enquanto os investigadores come&ccedil;aram a procurar pistas sobre os verdadeiros propriet&aacute;rios da m&aacute;quina. Em uma das fotos, viram uma jovem e uma toalha de banheiro pendurada atr&aacute;s dela, com o nome Emmily, bordado.</p>
+<p>
+	Eles digitaram ent&atilde;o o nome no Facebook e na busca identificaram a garota da foto. De posse do nome completo da mo&ccedil;a, buscaram seu endere&ccedil;o no sistema de informa&ccedil;&atilde;o da pol&iacute;cia e por volta das 2h da madrugada de quarta-feira (04), chegaram &agrave; casa no Bairro S&atilde;o Francisco.</p>
+<p style="text-align: center">
+	<span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span><img alt="" src="http://www.correiodoestado.com.br/userfiles/Ipe/foto_toalha.jpg" style="width: 520px; height: 392px" /><span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span><span _fck_bookmark="1" style="display: none">&nbsp;</span></p>
+<p style="text-align: center">
+	<strong><span style="font-size: 11px">Foto que estava na c&acirc;mera fotogr&aacute;fica que a pol&iacute;cia usou para encontrar v&iacute;tima pelo Facebook</span></strong></p>
+<p>
+	Este foi um caso em que a exposi&ccedil;&atilde;o na rede social contribuiu para a pessoa em quest&atilde;o, por&eacute;m, a pol&iacute;cia alerta que as informa&ccedil;&otilde;es n&atilde;o fiquem abertas na rede, pois na maioria dos casos, as consequ&ecirc;ncias podem ser mais nocivas do que ben&eacute;ficas.</p>
+
+                </div><br/>
+
+
+                        
+
+                        
+
+                        
+
+
+
+            <div id="espalhe_leitura">
+
+                
+
+                <div style="float: left;">
+
+                    <span>Compartilhe</span><br />
+
+                    <!-- AddThis Button BEGIN -->
+
+                    <div class="addthis_toolbox addthis_default_style addthis_32x32_style" style="padding: 5px">
+
+                    <a class="addthis_button_twitter"></a>
+
+                    <a class="addthis_button_facebook"></a>
+
+                    <a class="addthis_button_orkut"></a>
+
+                    <a class="addthis_button_email"></a>
+
+                    </div>
+
+                    <script type="text/javascript">    var addthis_config = { "data_track_clickback": true };</script>
+
+                    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=correioofertas"></script>
+
+                    <!-- AddThis Button END -->
+
+                    <br />
+
+                </div>
+
+                
+
+    
+
+
+    
+                    <div id="impressao_leitura">
+
+                        <a href="javascript:void(0)" style="color:#C6C6C6;" rel="nofollow" title="Imprimir essa notícia" onclick="window.open('http://www.correiodoestado.com.br/impressao.php?codDiv=206&id=137682','imprimirNoticia', 'width=750,height=600,scrollbars=YES');">Versão para impressão <img src="http://www.correiodoestado.com.br/images/ico-document_print.gif"/></a>
+
+                    </div>
+
+                </div>
+
+                
+
+
+                <script src="http://connect.facebook.net/pt_BR/all.js#xfbml=1"></script><fb:comments href="http://www.correiodoestado.com.br/noticias/evite-se-tornar-alvo-dos-criminosos-nas-redes-sociais-saiba_137682/" num_posts="3" width="600"></fb:comments>
+                
+
+                
+
+                
+                
+
+
+
+
+
+</div>
+<div id="ultimas_noticias_capa">
+&nbsp;</div>
+<div id="ban_noticiainterna">
+<!-- EDITORIAS 300x250 (Direita) BLOCO EM NOTICIAS  -->
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.wideasolucoes.com.br/www/delivery/ajs.php':'http://ads.wideasolucoes.com.br/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=5");
+   document.write ("&amp;Canal=Notícias");
+   document.write ("&amp;Editoria=Reportagens Especiais");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.</scr ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.wideasolucoes.com.br/www/delivery/ck.php?n=ad979231&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.wideasolucoes.com.br/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ad979231' border='0' alt='' /></a></noscript>
+</div></div>
+<div id="direita">
+<div id="ban_direita">	
+	<!-- EDITORIAS 120x600 (Direita) -->
+
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.wideasolucoes.com.br/www/delivery/ajs.php':'http://ads.wideasolucoes.com.br/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=7");
+   document.write ("&amp;Canal=Notícias")</scrdocument.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://ads.wideasolucoes.com.br/www/delivery/ck.php?n=a2ea7b2e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.wideasolucoes.com.br/www/delivery/avw.php?zoneid=7&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2ea7b2e' border='0' alt='' /></a></noscript>
+	
+	
+	
+	
+	</div></div></div></div>
+<div id="rodape"><div id="menu_rodape">
+	
+<table cellpadding="0" cellspacing="0">
+<tr valign="top">
+
+<td>
+	<div id="menu_rodape_bloco">
+		<table>
+			<tr><th><img src="http://www.correiodoestado.com.br/images/correiodoestado_logo.gif"/></th></tr>
+			<tr><td><a rel="nofollow" href="http://www.correiodoestado.com.br/quem-somos/">Quem somos</a></td></tr>
+			<tr><td><a href="http://www.correiodoestado.com.br/publicidade/">Publicidade</a></td></tr>
+			<tr><td><a rel="nofollow" href="http://www.correiodoestado.com.br/termos-de-uso/">Termos de Uso</a></td></tr>
+
+		</table>
+	</div>
+</td>
+
+<td>
+	<div id="menu_rodape_bloco">
+		<table>
+			<tr><th><span id="colorCarro" class="rodape_default_bloco"><a href="http://www.correiodoestado.com.br/carro/" title="Correio Carro"><img src="http://www.correiodoestado.com.br/images/correio_carro_ico.gif" alt="Carros"/>Carro</a></span></th></tr>
+			<tr><td><a title="Compre seu carro" href="http://www.correiodoestado.com.br/carro/compre/">Compre seu carro</a></td></tr>
+            <tr><td><a title="Venda seu carro" href="http://www.correiodoestado.com.br/carro/venda/">Venda Seu Carro</a></td></tr>
+            <tr><td><a title="Lojas" href="http://www.correiodoestado.com.br/carro/lojas/">Lojas/Garagistas</a></td></tr>
+            <tr><td><a rel="nofollow" title="Área do Garagista" href="http://www.correiodoestado.com.br/carro/area_anunciante/">Área do anunciante</a></td></tr>
+     		<tr><td><a title="Termos de Uso" href="http://www.correiodoestado.com.br/carro/termos-de-uso/">Termos de Uso</a></td></tr>
+     	</table>
+	</div>
+</td>
+
+<td>
+	<div id="menu_rodape_bloco">
+		<table>
+			<tr><th> <span id="colorCasa" class="rodape_default_bloco"><a href="http://www.correiodoestado.com.br/casa/" title="Correio Casa"><img src="http://www.correiodoestado.com.br/images/correio_casa_ico.gif" alt="Casas"/>Casa</a></span></th></tr>
+			<tr><td><a href="http://www.correiodoestado.com.br/casa/encontre-seu-imovel/">Encontre seu imóvel</a></td></tr>
+			<tr><td><a href="http://www.correiodoestado.com.br/casa/busca-no-mapa/">Busque no mapa</a></td></tr>
+			<tr><td><a href="http://www.correiodoestado.com.br/casa/venda-seu-imovel/">Venda seu imóvel</a></td></tr>
+			<tr><td><a href="http://www.correiodoestado.com.br/casa/cadastro-anunciante/?etapa=2&tipo=imobiliaria/">Imobiliárias/Corretores</a></td></tr>
+            <tr><td><a rel="nofollow" href="http://www.correiodoestado.com.br/casa/login-area-anunciante/">Área do anunciante</a>  
+            <tr><td><a title="Termos de Uso" href="http://www.correiodoestado.com.br/casa/termos-de-uso/">Termos de Uso</a></td></tr>    
+		</table>
+	</div>
+</td>
+
+<td>
+	<div id="menu_rodape_bloco">
+	<table>
+			<tr><th><span id="colorEmprego" class="rodape_default_bloco"><a href="http://www.correiodoestado.com.br/contato/central-atendimento/">CENTRAL DE ATENDIMENTO</a></span></th></tr>
+			<tr><td>Assinaturas: (67) 3323-6100</td></tr>
+            <tr><td>Publicidade local: (67) 3320-0023 / (67) 3323-6090</td></tr>
+            <tr><td>Administra&ccedil;&atilde;o: (67) 3323-6090 / (67) 3323-6059</td></tr>
+            <tr><td>&nbsp;</td></tr>
+                        <tr>
+            	<td>
+            		<a rel="nofollow" href="http://twitter.com/correio_estado" title="Correio do Estado no Twitter" target="_blank"><img src="http://www.correiodoestado.com.br/images/twitter.png"></img></a>
+            		&nbsp;
+            		<a rel="nofollow" href="http://www.facebook.com/home.php?#!/correiodoestado" title="Correio do Estado no Facebook" target="_blank"><img src="http://www.correiodoestado.com.br/images/facebook.png"></a></img>
+            	</td>
+            </tr>
+            		</table>
+	</div>
+</td>
+
+</tr>
+
+<tr>
+	<td colspan="5">&nbsp;</td>
+</tr>
+
+<tr>
+	<td colspan="5" style="text-align:center;">&copy;2012 CORREIO DO ESTADO S/A. Todos os Direitos Reservados.</td>
+</tr>
+</table>
+
+</div>
+</div><!--Cache noticias_CanalNot_137682 : 08-05-2012 23:02:06 expira em 08-05-2012 23:03:06 --></div>
+</body>
+</html>
+

@@ -1,0 +1,39 @@
+#ifndef GRAPH_H
+#define GRAPH_H
+
+#include "../include/Library.h"
+#include "../include/Sentence.h"
+
+class Sentence;
+
+class Graph {
+
+	private:
+		Sentence *ini, *fim;
+		int num_nos;
+		int topic;
+
+	public:
+		Graph();
+		~Graph();
+
+		/* Entrada: - arquivo que contém o texto a ser sumarizado
+					- número do texto
+					- matriz de stopwords (vector<char*>)
+					- valor que permite descobrir a posição sequencial da sentença
+		*/
+		void carregar(FILE *arq, int origem_texto, vector<char*> *stopwords, int posicao, int *dezena, char nome_arq[2000]);
+
+		void setNumNos(int num_nos);
+		void setIni(Sentence *no);
+		void setFim(Sentence *no);
+
+		Sentence* getIni();
+		Sentence* getFim();
+		int getNumNos();
+
+		void setNumTopics(int num_topics);
+		int getNumTopics();
+};
+
+#endif

@@ -1,0 +1,25 @@
+# Script to segment topics (Salton)
+dir="../../../../../Downloads/CorpusTopicosAlgo5/C"
+max="50"
+
+for ((i=1; i<=$max; i++))
+do
+	`rm $dir$i/*~`
+	`rm $dir$i/*.seg`
+	`rm $dir$i/keywords*`
+	`rm $dir$i/cosseno*`
+	`rm $dir$i/cst*`
+done
+
+for	((i=1; i<=$max; i++))
+do
+	new_dir="$dir$i"
+	files=""
+
+	for arq in `ls $new_dir`
+	do
+		files="$files $new_dir/$arq"
+	done
+	
+	echo `./RSumm -segmentado$files 0.70 2>&1 > Cosseno/cosseno$i.txt`
+done

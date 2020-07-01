@@ -1,0 +1,26 @@
+  <div class="news_body">
+    <div class="font_change">
+      <div id="abanoticia" style="display: block;"><table class="image center"><tbody>
+    <tr><td><img src="http://imgsapp.diariodepernambuco.com.br/app/noticia_127983242361/2013/12/19/480634/20131219185655582487o.jpg" alt="Engarrafamentos se espalharam pela cidade nesta quinta-feira. Foto: Paulo Paiva/DP/D.A Press" title="Engarrafamentos se espalharam pela cidade nesta quinta-feira. Foto: Paulo Paiva/DP/D.A Press" border="0"/><td></tr>
+    <tr><td class="zebra">Engarrafamentos se espalharam pela cidade nesta quinta-feira. Foto: Paulo Paiva/DP/D.A Press</td></tr></table><div>Em 17 horas, o Recife sofreu com quase o dobro das chuvas esperado para todo o mês de dezembro. Deslizamentos, alagamentos, congestionamentos, quedas de árvores e muitos atrasos foram vivenciados pela população em toda a Região Metropolitana. A Agência Pernambucana de Águas e Climas (Apac) explicou o fenômeno, mas já adiantou que as chuvas devem continuar nas próximas 48 horas.&nbsp;</div><div><br /></div><div><div class="block half"><div><span class="h2">Saiba mais...</span></div><a href="http://www.diariodepernambuco.com.br/app/noticia/vida-urbana/2013/12/19/interna_vidaurbana,480631/chuvas-causam-15-deslizamentos-no-recife.shtml" class="">
+                     <span class="text"></span>
+                     <span class="redlight">Chuvas causam 15 deslizamentos no Recife</span>
+                   </a><a href="http://www.diariodepernambuco.com.br/app/noticia/vida-urbana/2013/12/19/interna_vidaurbana,480602/chuvas-causam-transtornos-no-shopping-guararapes.shtml" class="zebra">
+                     <span class="text"></span>
+                     <span class="redlight">Chuvas causam transtornos no Shopping Guararapes</span>
+                   </a><a href="http://www.diariodepernambuco.com.br/app/noticia/vida-urbana/2013/12/19/interna_vidaurbana,480588/chuvas-desta-quinta-feira-ja-superam-em-50-media-prevista-para-dezembro.shtml" class="">
+                     <span class="text"></span>
+                     <span class="redlight">Chuvas desta quinta-feira já superam em 50% média prevista para dezembro</span>
+                   </a><a href="http://www.diariodepernambuco.com.br/app/noticia/vida-urbana/2013/12/19/interna_vidaurbana,480541/chuvas-causam-deslizamentos-de-barreiras-e-quedas-de-arvores-no-recife.shtml" class="zebra">
+                     <span class="text"></span>
+                     <span class="redlight">Chuvas causam deslizamentos de barreiras e quedas de árvores no Recife</span>
+                   </a><a href="http://www.diariodepernambuco.com.br/app/noticia/vida-urbana/2013/12/19/interna_vidaurbana,480498/apac-preve-mais-chuvas-com-intensidade-moderada-em-todo-estado.shtml" class="">
+                     <span class="text"></span>
+                     <span class="redlight">Apac prevê mais chuvas com intensidade moderada em todo estado</span>
+                   </a><a href="http://www.diariodepernambuco.com.br/app/noticia/vida-urbana/2013/12/19/interna_vidaurbana,480651/defesa-civil-pede-que-moradores-de-areas-de-risco-fiquem-em-locais-seguros-nesta-noite.shtml" class="zebra">
+                     <span class="text"></span>
+                     <span class="redlight">Defesa Civil pede que moradores de áreas de risco fiquem em locais seguros nesta noite</span>
+                   </a><a href="http://www.diariodepernambuco.com.br/app/noticia/vida-urbana/2013/12/19/interna_vidaurbana,480639/confira-os-pontos-criticos-de-alagamento-do-recife-e-evite-engarrafamentos.shtml" class="">
+                     <span class="text"></span>
+                     <span class="redlight">Confira os pontos críticos de alagamento do Recife e evite engarrafamentos</span>
+                   </a></div>Segundo os especialistas, só é possível dar uma previsão meteorológica segura neste período, de 48 horas, e os nordestinos devem se preparar para mais água, no entanto, ela deverá enfraquecer gradativamente. <br /><br />As fortes chuvas começaram às 23h dessa quarta-feira (18), no Recife. Até as 16h desta quinta (19), havia chovido 131,2 milímetros. A média mensal é de 68 milímetros.</div><div><br /></div><div>A precipitação fora do normal teria sido causada pela junção de dois fenômenos, a Zona de Convergência do Atlântico Sul e o vórtice ciclônico de altos níveis.</div><div><br /></div></div>

@@ -1,0 +1,8 @@
+<p>
+Falha no aplicativo para smartphones do Banco do Brasil fez com que os usuários tivessem acesso a extratos e a dados de outros clientes, de acordo com relatos em redes sociais. O problema aconteceu na noite desta segunda-feira (09/12). O acesso às contas pelo aplicativo foi suspenso.</p>
+<p>
+Nesta terça-feira, o banco informou que o aplicativo voltou a funcionar com o problema corrigido. No Twitter, o BB informou que foi identificado o problema. Em nota, a instituição confirmou que houve acesso a informações de contas de outros clientes que também estivessem operando o aplicativo. “No entanto, os sistemas de segurança do banco permaneceram ativos, e não houve comprometimento de dados ou risco no caso de transações bancárias”, acrescentou.</p>
+<p>
+Segundo o banco, as falhas ocorreram nos aplicativos do BB, com sistemas IPhone e Android. “O problema afetou usuários que estavam online no período de 19h52 até por volta das 20h40, quando os acessos à solução foram interrompidos. O aplicativo voltou a ficar disponível, com estabilidade, a partir das 23h45”, diz o banco.</p>
+<p>
+Ainda de acordo com o banco, o&nbsp; problema surgiu nos processos periódicos de atualização de versões dos aplicativos.</p>

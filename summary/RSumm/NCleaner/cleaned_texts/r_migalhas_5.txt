@@ -1,0 +1,14 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P align=justify><FONT face=Arial><FONT size=2>O advogado criminalista Luís Carlos Dias Torres, do escritório Torres Falavigna Advogados, sustenta que os atuais projetos que tramitam no Congresso para reforma do CP não realizam uma mudança significativa no sistema penal brasileiro.</FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2></FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2>Em entrevista à TV Migalhas, o causídico fala sobre o problema do sistema carcerário tupiniquim, que em sua opinião deriva da má gestão dos recursos públicos.</FONT></FONT></P>
+<P align=center><FONT face=Arial><FONT size=2><IFRAME height=315 src="http://www.youtube.com/embed/8gyW-gLxgbU?rel=0" frameBorder=0 width=560 allowfullscreen=""></IFRAME></FONT></FONT></P>
+<P align=justify><FONT size=2 face=Arial></FONT></P></FONT>
+<P></P></FONT>
+<P align=justify><FONT size=2 face=Arial><STRONG>Reforma do CP</STRONG></FONT></P>
+<P align=justify><FONT color=#333333 size=2 face=Arial>A comissão temporária de reforma do Código Penal aprovou na do último dia 17 o relatório do senador Pedro Taques sobre o projeto de reforma do CP (</FONT><A onclick="jan = window.open('http://www.senado.gov.br/atividade/materia/detalhes.asp?p_cod_mate=106404', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www.senado.gov.br/atividade/materia/detalhes.asp?p_cod_mate=106404' } return false; " href="http://www.migalhas.com.br/Quentes/17,MI192491,31047-Relatorio+final+do+novo+CP+e+aprovado+com+alteracoes" target=_self><FONT size=2>PL 236/12</FONT></A><FONT><FONT><FONT face=Arial><FONT size=2>). A proposta, que teve por base anteprojeto proposto por uma comissão de juristas, sugere penas maiores para crimes contra a vida, aumenta o rol de crimes hediondos e torna mais rigoroso o modelo de progressão de penas, impondo ao condenado por crime mais grave tempo maior sob regime fechado nos presídios. Veja a </FONT></FONT><A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131218-09.pdf" target=_blank><FONT size=2 face=Arial>íntegra do texto aprovado</FONT></A><FONT size=2 face=Arial>.</FONT></FONT></FONT></P></FONT>
+<P></P>
+</div>

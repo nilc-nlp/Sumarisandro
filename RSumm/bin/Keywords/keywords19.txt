@@ -1,0 +1,1567 @@
+Sentenca(topic=0): ﻿O médico pessoal do argentino Diego Maradona, Alfredo Cahe, revelou nesta segunda-feira que uma recaída da hepatite aguda de que sofre foi o motivo da nova internação do ex-craque.
+Sentenca(topic=1): Maradona havia recebido alta no último dia 11, mas voltou a ser internado na sexta-feira e os boletins médicos não especificaram o que se passava com o ex-jogador --Cahe descartou pancreatite ou úlcera.
+Sentenca(topic=1): "Maradona teve uma recaída na hepatite aguda. Agora está estável. Apesar de ter melhorado no domingo, deverá continuar internado", disse Cahe, em declarações ao jornal "La Nación".
+Sentenca(topic=2): Maradona, 46, desenvolveu um hepatite tóxica por excesso de consumo de álcool, o que já o manteve internado durante 13 dias antes da primeira alta.
+Sentenca(topic=2): Cahe disse ainda que Maradona não voltou a consumir bebidas alcoólicas e que as causas da recaída estão sendo investigadas.
+Sentenca(topic=3): ﻿Maradona voltou a ter problemas de saúde no fim de semana.
+Sentenca(topic=3): Internado em um hospital em Buenos Aires, ele teve uma recaída e voltou a sentir dores  devido a hepatite aguda que o atinge, segundo seu médico pessoal, Alfredo Cahe.
+Sentenca(topic=4): "Agora está estável. Mesmo com esta melhora, ele continuará internado", disse o médico, que descartou a possibilidade do ex-jogador ter uma pancreatite (inflamação do pâncreas, órgão situado atrás do estômago e que influencia na digestão).
+Sentenca(topic=5): Cahe reforçou que Maradona ainda tem problemas.
+Sentenca(topic=5): "Os valores hepáticos dele na avaliação não estão equilibrados e ele não está bem. Mas não é nada grave", afirma, em entrevista ao diário La Nación.
+Sentenca(topic=6): No domingo, Maradona assistiu ao empate por 1 a 1 no clássico Boca Juniors e River Plate pela televisão.
+Sentenca(topic=6): Os torcedores do Boca, que compareceram em grande número ao Estádio La Bombonera, levaram muitas faixas e bandeiras com mensagens de apoio ao ídolo argentino.
+Sentenca(topic=7): Sua filha, Dalma, foi ao estádio assistir ao jogo.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ﻿o  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: pessoal  - Frequency: 1
+Word: argentin  - Frequency: 1
+Word: dieg  - Frequency: 1
+Word: maradon  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: cah  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: agud  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: motiv  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: ex  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_﻿o_médic_pessoal_argentin_dieg_maradon_alfred_cah_revel_segund_recaíd_hepatit_agud_sofr_foi_motiv_nov_intern_ex
+
+
+------------------------------------------------------------
+Topic: 1
+Word: maradon  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: intern  - Frequency: 2
+Word: sext  - Frequency: 1
+Word: boletins  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: especific  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: ex  - Frequency: 1
+Word: descart  - Frequency: 1
+Word: pancreatit  - Frequency: 1
+Word: úlcer  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: agud  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: está  - Frequency: 1
+Word: estável  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: cah  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: nación  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_intern
+
+Keyword: 1_intern_maradon_hav_receb_alta_últim_dia_11_volt_ser_sext_boletins_médic_nã_especific_pass_ex_descart_pancreatit_úlcer_tev_recaíd_hepatit_agud_agor_está_estável_apes_ter_melhor_doming_dev_continu_diss_cah_declar_jornal_nación
+
+
+------------------------------------------------------------
+Topic: 2
+Word: maradon  - Frequency: 2
+Word: 46  - Frequency: 1
+Word: desenvolv  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: tóxic  - Frequency: 1
+Word: excess  - Frequency: 1
+Word: consum  - Frequency: 2
+Word: álcool  - Frequency: 1
+Word: já  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: 13  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: cah  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: beb  - Frequency: 1
+Word: alcoól  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: investig  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_maradon_consum
+
+Keyword: 2_maradon_consum_46_desenvolv_hepatit_tóxic_excess_álcool_já_mantev_intern_durant_13_dias_antes_primeir_alta_cah_diss_aind_nã_volt_beb_alcoól_caus_recaíd_estã_send_investig
+
+
+------------------------------------------------------------
+Topic: 3
+Word: ﻿maradon  - Frequency: 1
+Word: volt  - Frequency: 2
+Word: ter  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: hospital  - Frequency: 1
+Word: buen  - Frequency: 1
+Word: air  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: dor  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: agud  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: pessoal  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: cah  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_volt
+
+Keyword: 3_volt_﻿maradon_ter_problem_saúd_fim_seman_intern_hospital_buen_air_tev_recaíd_sent_dor_dev_hepatit_agud_ating_segund_médic_pessoal_alfred_cah
+
+
+------------------------------------------------------------
+Topic: 4
+Word: está  - Frequency: 1
+Word: estável  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: descart  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: ex  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: pancreatit  - Frequency: 1
+Word: pâncr  - Frequency: 1
+Word: órgã  - Frequency: 1
+Word: situ  - Frequency: 1
+Word: atrás  - Frequency: 1
+Word: est�  - Frequency: 1
+Word: influenc  - Frequency: 1
+Word: digestã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_está_estável_melhor_continu_intern_diss_médic_descart_possibil_ex_ter_pancreatit_pâncr_órgã_situ_atrás_est�_influenc_digestã
+
+
+------------------------------------------------------------
+Topic: 5
+Word: cah  - Frequency: 1
+Word: reforc  - Frequency: 1
+Word: maradon  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: valor  - Frequency: 1
+Word: hepát  - Frequency: 1
+Word: avali  - Frequency: 1
+Word: nã  - Frequency: 3
+Word: estã  - Frequency: 1
+Word: equilibr  - Frequency: 1
+Word: está  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: entrev  - Frequency: 1
+Word: diári  - Frequency: 1
+Word: la  - Frequency: 1
+Word: nación  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_nã
+
+Keyword: 5_nã
+
+Keyword: 5_nã_cah_reforc_maradon_aind_tem_problem_valor_hepát_avali_estã_equilibr_está_bem_grav_afirm_entrev_diári_la_nación
+
+
+------------------------------------------------------------
+Topic: 6
+Word: doming  - Frequency: 1
+Word: maradon  - Frequency: 1
+Word: assist  - Frequency: 1
+Word: empat  - Frequency: 1
+Word: 1  - Frequency: 2
+Word: clássic  - Frequency: 1
+Word: boc  - Frequency: 2
+Word: juniors  - Frequency: 1
+Word: riv  - Frequency: 1
+Word: plat  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: televisã  - Frequency: 1
+Word: torcedor  - Frequency: 1
+Word: comparec  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: la  - Frequency: 1
+Word: bombon  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: faix  - Frequency: 1
+Word: bandeir  - Frequency: 1
+Word: mensagens  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: ídol  - Frequency: 1
+Word: argentin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_1_boc
+
+Keyword: 6_1_boc_doming_maradon_assist_empat_clássic_juniors_riv_plat_pel_televisã_torcedor_comparec_grand_númer_estádi_la_bombon_lev_faix_bandeir_mensagens_apoi_ídol_argentin
+
+
+------------------------------------------------------------
+Topic: 7
+Word: filh  - Frequency: 1
+Word: dalm  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: assist  - Frequency: 1
+Word: jog  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_filh_dalm_foi_estádi_assist_jog
+
+Keyword: 7_filh_dalm_foi_estádi_assist_jog
+
+NUM: 19
+
+
+NUM: 38
+
+
+NUM: 29
+
+
+NUM: 24
+
+
+NUM: 19
+
+
+NUM: 20
+
+
+NUM: 26
+
+
+NUM: 6
+
+
+LESSER: 6
+
+(FINAL) AVERAGE: 6
+
+NUM: 19
+
+
+NUM: 38
+
+
+NUM: 29
+
+
+NUM: 24
+
+
+NUM: 19
+
+
+NUM: 20
+
+
+NUM: 26
+
+
+NUM: 6
+
+
+LESSER: 6
+
+---------------BEFORE!-------------
+
+VEC: 0_﻿o_médic_pessoal_argentin_dieg_maradon_alfred_cah_revel_segund_recaíd_hepatit_agud_sofr_foi_motiv_nov_intern_ex
+VEC: 1_intern_maradon_hav_receb_alta_últim_dia_11_volt_ser_sext_boletins_médic_nã_especific_pass_ex_descart_pancreatit_úlcer_tev_recaíd_hepatit_agud_agor_está_estável_apes_ter_melhor_doming_dev_continu_diss_cah_declar_jornal_nación
+VEC: 2_maradon_consum_46_desenvolv_hepatit_tóxic_excess_álcool_já_mantev_intern_durant_13_dias_antes_primeir_alta_cah_diss_aind_nã_volt_beb_alcoól_caus_recaíd_estã_send_investig
+VEC: 3_volt_﻿maradon_ter_problem_saúd_fim_seman_intern_hospital_buen_air_tev_recaíd_sent_dor_dev_hepatit_agud_ating_segund_médic_pessoal_alfred_cah
+VEC: 4_está_estável_melhor_continu_intern_diss_médic_descart_possibil_ex_ter_pancreatit_pâncr_órgã_situ_atrás_est�_influenc_digestã
+VEC: 5_nã_cah_reforc_maradon_aind_tem_problem_valor_hepát_avali_estã_equilibr_está_bem_grav_afirm_entrev_diári_la_nación
+VEC: 6_1_boc_doming_maradon_assist_empat_clássic_juniors_riv_plat_pel_televisã_torcedor_comparec_grand_númer_estádi_la_bombon_lev_faix_bandeir_mensagens_apoi_ídol_argentin
+VEC: 7_filh_dalm_foi_estádi_assist_jog
+
+---------------AFTER!-------------
+
+VEC: 0_﻿o_médic_pessoal_argentin_dieg_maradon
+VEC: 1_intern_maradon_hav_receb_alta_últim
+VEC: 2_maradon_consum_46_desenvolv_hepatit_tóxic
+VEC: 3_volt_﻿maradon_ter_problem_saúd_fim
+VEC: 4_está_estável_melhor_continu_intern_diss
+VEC: 5_nã_cah_reforc_maradon_aind_tem
+VEC: 6_1_boc_doming_maradon_assist_empat
+VEC: 7_filh_dalm_foi_estádi_assist_jog
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+TRESHOLD: 0.0714286
+
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "7_filh_dalm_foi_estádi_assist_jog" and "6_1_boc_doming_maradon_assist_empat" is "0.166667"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_filh_dalm_foi_estádi_assist_jog" and "5_nã_cah_reforc_maradon_aind_tem" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_filh_dalm_foi_estádi_assist_jog" and "4_está_estável_melhor_continu_intern_diss" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_filh_dalm_foi_estádi_assist_jog" and "3_volt_﻿maradon_ter_problem_saúd_fim" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_filh_dalm_foi_estádi_assist_jog" and "2_maradon_consum_46_desenvolv_hepatit_tóxic" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_filh_dalm_foi_estádi_assist_jog" and "1_intern_maradon_hav_receb_alta_últim" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_filh_dalm_foi_estádi_assist_jog" and "0_﻿o_médic_pessoal_argentin_dieg_maradon" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "6_1_boc_doming_maradon_assist_empat" and "5_nã_cah_reforc_maradon_aind_tem" is "0.166667"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_1_boc_doming_maradon_assist_empat" and "4_está_estável_melhor_continu_intern_diss" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_1_boc_doming_maradon_assist_empat" and "3_volt_﻿maradon_ter_problem_saúd_fim" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "6_1_boc_doming_maradon_assist_empat" and "2_maradon_consum_46_desenvolv_hepatit_tóxic" is "0.166667"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "6_1_boc_doming_maradon_assist_empat" and "1_intern_maradon_hav_receb_alta_últim" is "0.166667"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "6_1_boc_doming_maradon_assist_empat" and "0_﻿o_médic_pessoal_argentin_dieg_maradon" is "0.166667"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_nã_cah_reforc_maradon_aind_tem" and "4_está_estável_melhor_continu_intern_diss" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_nã_cah_reforc_maradon_aind_tem" and "3_volt_﻿maradon_ter_problem_saúd_fim" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "5_nã_cah_reforc_maradon_aind_tem" and "2_maradon_consum_46_desenvolv_hepatit_tóxic" is "0.166667"
+
+CHANGE! -- From: 6 -> TO: 3
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "5_nã_cah_reforc_maradon_aind_tem" and "1_intern_maradon_hav_receb_alta_últim" is "0.166667"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "5_nã_cah_reforc_maradon_aind_tem" and "0_﻿o_médic_pessoal_argentin_dieg_maradon" is "0.166667"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_está_estável_melhor_continu_intern_diss" and "3_volt_﻿maradon_ter_problem_saúd_fim" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_está_estável_melhor_continu_intern_diss" and "2_maradon_consum_46_desenvolv_hepatit_tóxic" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "4_está_estável_melhor_continu_intern_diss" and "1_intern_maradon_hav_receb_alta_últim" is "0.166667"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_está_estável_melhor_continu_intern_diss" and "0_﻿o_médic_pessoal_argentin_dieg_maradon" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_volt_﻿maradon_ter_problem_saúd_fim" and "2_maradon_consum_46_desenvolv_hepatit_tóxic" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_volt_﻿maradon_ter_problem_saúd_fim" and "1_intern_maradon_hav_receb_alta_últim" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_volt_﻿maradon_ter_problem_saúd_fim" and "0_﻿o_médic_pessoal_argentin_dieg_maradon" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "2_maradon_consum_46_desenvolv_hepatit_tóxic" and "1_intern_maradon_hav_receb_alta_últim" is "0.166667"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "2_maradon_consum_46_desenvolv_hepatit_tóxic" and "0_﻿o_médic_pessoal_argentin_dieg_maradon" is "0.166667"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "1_intern_maradon_hav_receb_alta_últim" and "0_﻿o_médic_pessoal_argentin_dieg_maradon" is "0.166667"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 7
+Topic: 7
+Topic: 8
+NUM_TOPICS: 7
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ﻿o  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: pessoal  - Frequency: 1
+Word: argentin  - Frequency: 1
+Word: dieg  - Frequency: 1
+Word: maradon  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: cah  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: agud  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: motiv  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: ex  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_﻿o_médic_pessoal_argentin_dieg_maradon_alfred_cah_revel_segund_recaíd_hepatit_agud_sofr_foi_motiv_nov_intern_ex
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: maradon  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: intern  - Frequency: 3
+Word: sext  - Frequency: 1
+Word: boletins  - Frequency: 1
+Word: médic  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: especific  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: ex  - Frequency: 2
+Word: descart  - Frequency: 2
+Word: pancreatit  - Frequency: 2
+Word: úlcer  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: agud  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: está  - Frequency: 2
+Word: estável  - Frequency: 2
+Word: apes  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: melhor  - Frequency: 2
+Word: doming  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: continu  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: cah  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: nación  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: pâncr  - Frequency: 1
+Word: órgã  - Frequency: 1
+Word: situ  - Frequency: 1
+Word: atrás  - Frequency: 1
+Word: est�  - Frequency: 1
+Word: influenc  - Frequency: 1
+Word: digestã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_intern
+
+Keyword: 1_intern_médic_ex_descart_pancreatit_está_estável_ter_melhor_continu_diss
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: maradon  - Frequency: 3
+Word: 46  - Frequency: 1
+Word: desenvolv  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: tóxic  - Frequency: 1
+Word: excess  - Frequency: 1
+Word: consum  - Frequency: 2
+Word: álcool  - Frequency: 1
+Word: já  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: 13  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: cah  - Frequency: 2
+Word: diss  - Frequency: 1
+Word: aind  - Frequency: 2
+Word: nã  - Frequency: 4
+Word: volt  - Frequency: 1
+Word: beb  - Frequency: 1
+Word: alcoól  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: estã  - Frequency: 2
+Word: send  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: reforc  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: valor  - Frequency: 1
+Word: hepát  - Frequency: 1
+Word: avali  - Frequency: 1
+Word: equilibr  - Frequency: 1
+Word: está  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: entrev  - Frequency: 1
+Word: diári  - Frequency: 1
+Word: la  - Frequency: 1
+Word: nación  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_nã
+
+Keyword: 2_nã_maradon
+
+Keyword: 2_nã_maradon_consum_cah_aind_estã
+
+Keyword: 2_nã_maradon_consum_cah_aind_estã_46_desenvolv_hepatit_tóxic_excess_álcool_já_mantev_intern_durant_13_dias_antes_primeir_alta_diss_volt_beb_alcoól_caus_recaíd_send_investig_reforc_tem_problem_valor_hepát_avali_equilibr_está_bem_grav_afirm_entrev_diári_la_nación
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: ﻿maradon  - Frequency: 1
+Word: volt  - Frequency: 2
+Word: ter  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: intern  - Frequency: 1
+Word: hospital  - Frequency: 1
+Word: buen  - Frequency: 1
+Word: air  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: recaíd  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: dor  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: hepatit  - Frequency: 1
+Word: agud  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: pessoal  - Frequency: 1
+Word: alfred  - Frequency: 1
+Word: cah  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_volt
+
+Keyword: 3_volt_﻿maradon_ter_problem_saúd_fim_seman_intern_hospital_buen_air_tev_recaíd_sent_dor_dev_hepatit_agud_ating_segund_médic_pessoal_alfred_cah
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: doming  - Frequency: 1
+Word: maradon  - Frequency: 1
+Word: assist  - Frequency: 1
+Word: empat  - Frequency: 1
+Word: 1  - Frequency: 2
+Word: clássic  - Frequency: 1
+Word: boc  - Frequency: 2
+Word: juniors  - Frequency: 1
+Word: riv  - Frequency: 1
+Word: plat  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: televisã  - Frequency: 1
+Word: torcedor  - Frequency: 1
+Word: comparec  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: la  - Frequency: 1
+Word: bombon  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: faix  - Frequency: 1
+Word: bandeir  - Frequency: 1
+Word: mensagens  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: ídol  - Frequency: 1
+Word: argentin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_1_boc
+
+Keyword: 6_1_boc_doming_maradon_assist_empat_clássic_juniors_riv_plat_pel_televisã_torcedor_comparec_grand_númer_estádi_la_bombon_lev_faix_bandeir_mensagens_apoi_ídol_argentin
+
+Cur_topic: 7
+
+
+
+------------------------------------------------------------
+Topic: 7
+Word: filh  - Frequency: 1
+Word: dalm  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: assist  - Frequency: 1
+Word: jog  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_filh_dalm_foi_estádi_assist_jog
+
+Keyword: 7_filh_dalm_foi_estádi_assist_jog
+
+NUM: 19
+
+
+NUM: 11
+
+
+NUM: 44
+
+
+NUM: 24
+
+
+NUM: 26
+
+
+NUM: 6
+
+
+LESSER: 6
+
+(FINAL) AVERAGE: 6
+
+NUM: 19
+
+
+NUM: 11
+
+
+NUM: 44
+
+
+NUM: 24
+
+
+NUM: 26
+
+
+NUM: 6
+
+
+LESSER: 6
+
+---------------BEFORE!-------------
+
+VEC: 0_﻿o_médic_pessoal_argentin_dieg_maradon_alfred_cah_revel_segund_recaíd_hepatit_agud_sofr_foi_motiv_nov_intern_ex
+VEC: 1_intern_médic_ex_descart_pancreatit_está_estável_ter_melhor_continu_diss
+VEC: 2_nã_maradon_consum_cah_aind_estã_46_desenvolv_hepatit_tóxic_excess_álcool_já_mantev_intern_durant_13_dias_antes_primeir_alta_diss_volt_beb_alcoól_caus_recaíd_send_investig_reforc_tem_problem_valor_hepát_avali_equilibr_está_bem_grav_afirm_entrev_diári_la_nación
+VEC: 3_volt_﻿maradon_ter_problem_saúd_fim_seman_intern_hospital_buen_air_tev_recaíd_sent_dor_dev_hepatit_agud_ating_segund_médic_pessoal_alfred_cah
+VEC: 6_1_boc_doming_maradon_assist_empat_clássic_juniors_riv_plat_pel_televisã_torcedor_comparec_grand_númer_estádi_la_bombon_lev_faix_bandeir_mensagens_apoi_ídol_argentin
+VEC: 7_filh_dalm_foi_estádi_assist_jog
+
+---------------AFTER!-------------
+
+VEC: 0_﻿o_médic_pessoal_argentin_dieg_maradon
+VEC: 1_intern_médic_ex_descart_pancreatit_está
+VEC: 2_nã_maradon_consum_cah_aind_estã
+VEC: 3_volt_﻿maradon_ter_problem_saúd_fim
+VEC: 6_1_boc_doming_maradon_assist_empat
+VEC: 7_filh_dalm_foi_estádi_assist_jog
+Keyword: 0_﻿o_médic_pessoal_argentin_dieg_maradon
+Keyword: 1_intern_médic_ex_descart_pancreatit_está
+Keyword: 2_nã_maradon_consum_cah_aind_estã
+Keyword: 3_volt_﻿maradon_ter_problem_saúd_fim
+Keyword: 6_1_boc_doming_maradon_assist_empat
+Keyword: 7_filh_dalm_foi_estádi_assist_jog

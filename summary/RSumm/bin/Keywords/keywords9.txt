@@ -1,0 +1,6565 @@
+Sentenca(topic=0): A PF (Polícia Federal) prendeu na manhã desta sexta-feira 23 pessoas suspeitas de envolvimento em esquema da Assembléia Legislativa do Estado de Rondônia para desvio de recursos públicos e influência indevida sobre Poder Judiciário, Ministério Público, Tribunal de Contas e Poder Executivo do Estado.
+Sentenca(topic=0): Entre os presos estão o presidente do TJ  (Tribunal de Justiça) de Rondônia, desembargador Sebastião Teixeira Chaves, e o presidente da Assembléia Legislativa, deputado José Carlos de Oliveira.
+Sentenca(topic=0): A polícia informou que o grupo já desviou R$ 70 milhões.
+Sentenca(topic=1): Também foram presos o juiz José Jorge Ribeiro da Luz, o conselheiro do Tribunal de Contas Edilson de Souza Silva, o procurador de Justiça José Carlos Vitachi, o diretor geral da Assembléia Legislativa, José Ronaldo Palitot, servidores, assessores e familiares de deputados.
+Sentenca(topic=2): Oito dos presos pela PF serão mandados para Brasília.
+Sentenca(topic=2): Os outros ficarão em Rondônia.
+Sentenca(topic=3): Segundo a polícia, a Assembléia Legislativa fazia contratos com base em licitações "viciadas e fraudulentas".
+Sentenca(topic=3): Os recursos públicos eram desviados para pagamentos de serviços, compras e obras supostamente superfaturadas.
+Sentenca(topic=3): A polícia informou que, em alguns casos, objetos de contratos nem eram entregues e serviços não eram feitos.
+Sentenca(topic=4): As informações coletadas pela PF durante as investigações foram enviadas ao TJ (Tribunal de Justiça) do Estado de Rondônia e ao STJ (Superior Tribunal de Justiça).
+Sentenca(topic=4): A polícia também vai abrir nova investigação sobre a participação de desembargadores e conselheiros do Tribunal de Contas no suposto esquema.
+Sentenca(topic=4): Ao menos 300 policiais de Amapá, Distrito Federal, Mato Grosso, Acre e Rondônia trabalharam na Operação Dominó.
+Sentenca(topic=5): A Polícia Federal desencadeou na manhã desta sexta-feira em Rondônia, a "Operação Dominó", destinada a prender uma quadrilha de altos funcionários públicos especializada em desvio de recursos públicos, corrupção, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais.
+Sentenca(topic=5): Entre os alvos da operação estão o presidente do Tribunal de Justiça do Estado, desembargador Sebastião Teixeira Chaves, e sua mulher, a advogada Marilda Shirley de Souza Leira Teixeira Chaves.
+Sentenca(topic=5): Estão recebendo voz de prisão, também, o presidente da Assembléia Legislativa de Rondônia, deputado José Carlos de Oliveira  (PL), o "Carlão", acusado de ser o líder da quadrilha, além de juízes, outros desembargadores, promotores e, pelo menos, mais nove deputados estaduais.
+Sentenca(topic=6): O grupo é acusado de lesar os cofres públicos em cerca de R$ 70 milhões, desde 2004.
+Sentenca(topic=6): Um dos seus principais crimes era a falsificação de pagamentos de funcionários fantasmas por laranjas na Assembléia Legislativa.
+Sentenca(topic=6): Dos 24 deputados estaduais, 23 praticavam esse crime e, segundo a PF, desviaram mais de R$ 10 milhões com essa prática, em apenas um ano.
+Sentenca(topic=6): Entre os laranjas estavam familiares, amigos e empregados dos parlamentares.
+Sentenca(topic=6): Na maioria das vezes, o dinheiro arrecadado ia para contas dos próprios parlamentares, que também foram flagrados em fitas de vídeo gravadas pelo governador Ivo Cassol (ex-PSDB e atualmente no PPS) em que ele era chantageado para pagar mensalão de até R$ 50 mil para cada um dos parlamentares envolvidos em troca de apoio a matérias de interesse do governo local na Assembléia Legislativa.
+Sentenca(topic=6): Os mesmos parlamentares fizeram, também, um conluio com o Ministério Público e com a Justiça do Estado de Rondônia.
+Sentenca(topic=6): Pelo acordo, a Justiça livrava os parlamentares dos processos abertos contra eles pela Polícia e, em contrapartida, a Assembléia aprovava aumentos salariais para procuradores e juízes em porcentuais muito acima dos toleráveis pela Lei de Responsabilidade Fiscal.
+Sentenca(topic=7): As fraudes envolviam, também, o superfaturamento de contratos com fornecedores da Assembléia, além de uma verdadeira "farra" com passagens aéreas distribuídas fartamente entre os parlamentares, seus familiares e amigos.
+Sentenca(topic=8): Desde julho de 2005 até agora, foram feitas interceptações telefônicas com autorização da Justiça Federal para monitorar os passos da quadrilha, na qual estão envolvidos, também, conselheiros do Tribunal de Contas do Estado.
+Sentenca(topic=8): As investigações demonstram que a organização possui grande influência em Rondônia, dificultando o funcionamento regular dos poderes.
+Sentenca(topic=9): A PF abriu uma nova frente de atuação para apurar o caso com o objetivo de apurar a participação de desembargadores e conselheiros do Tribunal de Contas na quadrilha.
+Sentenca(topic=10): A PF divulgou que cerca de 300 policiais federais do Amazonas, Distrito Federal, Mato Grosso, Acre e de Rondônia fazem parte das investigações da "Operação Dominó".
+Sentenca(topic=11): O superintendente regional da Polícia Federal de Rondônia, delegado Joaquim Mesquita, informou nesta sexta-feira, dia 04, que 23 pessoas foram presas, até o momento, pela Operação Dominó, em Rondônia.
+Sentenca(topic=11): A quadrilha é acusada de praticar diversos crimes administrativos, como desvio de recursos públicos, corrupção, prevaricação, concussão, peculato, extorsão, lavagem de dinheiro e venda de sentenças judiciais.
+Sentenca(topic=12): Entre os presos estão o presidente do Tribunal de Justiça de Rondônia, desembargador Sebastião Teixeira Chaves, o presidente da Assembléia Legislativa do Estado, deputado José Carlos de Oliveira  (PL), o "Carlão", acusado de liderar do esquema fraudulento, o ex-procurador-geral de Justiça, Abdiel Ramos Figueira, o vice-presidente do Tribunal de Contas de Rondônia, Edílson de Sousa Silva, além de outros juízes, desembargadores, promotores e mais nove deputados estaduais.
+Sentenca(topic=12): De acordo com a Polícia Federal, as prisões ocorreram sem resistência.
+Sentenca(topic=13): A operação também cumpriu 60 mandados de busca e apreensão.
+Sentenca(topic=13): Mais de 300 policiais federais do Amazonas, Distrito Federal, Mato Grosso, Acre e Rondônia participaram das buscas e prisões.
+Sentenca(topic=14): Segundo divulgada pela PF, o grupo criminoso desviou desde 2004 cerca de R$ 70 milhões dos cofres públicos, por meio do pagamento de serviços, compras e obras superfaturadas.
+Sentenca(topic=15): "
+Sentenca(topic=15): Essa investigação demonstra a existência de uma grande organização criminosa no estado de Rondônia, que teve início na Assembléia Legislativa e estendeu seus 'tentáculos' para parte dos poderes do Estado, comprometendo e envolvendo pessoas do Tribunal de Justiça, do Tribunal de Contas, do Ministério Público e do Poder Executivo", resumiu Mesquita.
+Sentenca(topic=16): O delegado informou que as pessoas que foram presas por mandado expedido pelo Superior Tribunal de Justiça  (STJ), ou seja, os membros do alto escalão do governo de Rondônia, serão transferidas para a Superintendência da Polícia Federal em Brasília.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: pf  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: prend  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: esquem  - Frequency: 1
+Word: assembl  - Frequency: 2
+Word: legisl  - Frequency: 2
+Word: estad  - Frequency: 2
+Word: rond�  - Frequency: 2
+Word: desvi  - Frequency: 2
+Word: recurs  - Frequency: 1
+Word: públic  - Frequency: 2
+Word: influênc  - Frequency: 1
+Word: indev  - Frequency: 1
+Word: pod  - Frequency: 2
+Word: judiciári  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: execut  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: president  - Frequency: 2
+Word: tj  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: desembarg  - Frequency: 1
+Word: sebastiã  - Frequency: 1
+Word: teixeir  - Frequency: 1
+Word: chav  - Frequency: 1
+Word: deput  - Frequency: 1
+Word: jos  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: já  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 70  - Frequency: 1
+Word: milhõ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_assembl_legisl_estad_rond�_desvi_públic_pod_president
+
+Keyword: 0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf_federal_prend_manhã_sext_23_pesso_suspeit_envolv_esquem_recurs_influênc_indev_judiciári_ministéri_tribunal_cont_execut_pres_estã_tj_justic_desembarg_sebastiã_teixeir_chav_deput_jos_carl_oliveir_políc_inform_grup_já_r$_70_milhõ
+
+
+------------------------------------------------------------
+Topic: 1
+Word: também  - Frequency: 1
+Word: for  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: juiz  - Frequency: 1
+Word: jos  - Frequency: 3
+Word: jorg  - Frequency: 1
+Word: ribeir  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: conselheir  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: edilson  - Frequency: 1
+Word: souz  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: vitach  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: geral  - Frequency: 1
+Word: assembl  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: ronald  - Frequency: 1
+Word: palitot  - Frequency: 1
+Word: servidor  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: deput  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_jos
+
+Keyword: 1_jos
+
+Keyword: 1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir_tribunal_cont_edilson_souz_silv_procur_justic_carl_vitach_diretor_geral_assembl_legisl_ronald_palitot_servidor_assessor_famili_deput
+
+
+------------------------------------------------------------
+Topic: 2
+Word: oit  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: rond�  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�
+
+Keyword: 2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�
+
+
+------------------------------------------------------------
+Topic: 3
+Word: segund  - Frequency: 1
+Word: políc  - Frequency: 2
+Word: assembl  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: contrat  - Frequency: 2
+Word: bas  - Frequency: 1
+Word: licit  - Frequency: 1
+Word: fraudulent  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: eram  - Frequency: 3
+Word: desvi  - Frequency: 1
+Word: pagament  - Frequency: 1
+Word: servic  - Frequency: 2
+Word: compr  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: superfatur  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: entregu  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: feit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_eram
+
+Keyword: 3_eram_políc_contrat_servic
+
+Keyword: 3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas_licit_fraudulent_recurs_públic_desvi_pagament_compr_obras_supost_superfatur_inform_cas_objet_entregu_nã_feit
+
+
+------------------------------------------------------------
+Topic: 4
+Word: inform  - Frequency: 1
+Word: colet  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: investig  - Frequency: 2
+Word: for  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: tj  - Frequency: 1
+Word: justic  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: rond�  - Frequency: 2
+Word: stj  - Frequency: 1
+Word: tribunal  - Frequency: 2
+Word: políc  - Frequency: 1
+Word: também  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: desembarg  - Frequency: 1
+Word: conselheir  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: esquem  - Frequency: 1
+Word: 300  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: amap  - Frequency: 1
+Word: distrit  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: gross  - Frequency: 1
+Word: acre  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: domin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_investig_justic_rond�_tribunal
+
+Keyword: 4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant_for_envi_tj_estad_stj_políc_também_vai_abrir_nov_particip_desembarg_conselheir_cont_supost_esquem_300_polic_amap_distrit_federal_mat_gross_acre_trabalh_oper_domin
+
+
+------------------------------------------------------------
+Topic: 5
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: desencad  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: rond�  - Frequency: 2
+Word: domin  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: prend  - Frequency: 1
+Word: quadrilh  - Frequency: 2
+Word: altos  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: públic  - Frequency: 2
+Word: especializ  - Frequency: 1
+Word: desvi  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: corrupçã  - Frequency: 1
+Word: peculat  - Frequency: 1
+Word: extorsã  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: vend  - Frequency: 1
+Word: sentenc  - Frequency: 1
+Word: judic  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: estã  - Frequency: 2
+Word: president  - Frequency: 2
+Word: tribunal  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: desembarg  - Frequency: 2
+Word: sebastiã  - Frequency: 1
+Word: teixeir  - Frequency: 2
+Word: chav  - Frequency: 2
+Word: mulh  - Frequency: 1
+Word: advog  - Frequency: 1
+Word: marild  - Frequency: 1
+Word: shirley  - Frequency: 1
+Word: souz  - Frequency: 1
+Word: leir  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: voz  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: também  - Frequency: 1
+Word: assembl  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: deput  - Frequency: 2
+Word: jos  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: além  - Frequency: 1
+Word: juíz  - Frequency: 1
+Word: promotor  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: estadu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput
+
+Keyword: 5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput_políc_federal_desencad_manhã_sext_domin_destin_prend_altos_funcionári_especializ_desvi_recurs_corrupçã_peculat_extorsã_lavag_dinheir_vend_sentenc_judic_alvos_oper_tribunal_justic_estad_sebastiã_mulh_advog_marild_shirley_souz_leir_receb_voz_prisã_também_assembl_legisl_jos_carl_oliveir_acus_ser_líd_além_juíz_promotor_pel_nov_estadu
+
+
+------------------------------------------------------------
+Topic: 6
+Word: grup  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: les  - Frequency: 1
+Word: cofr  - Frequency: 1
+Word: públic  - Frequency: 2
+Word: cerc  - Frequency: 1
+Word: r$  - Frequency: 3
+Word: 70  - Frequency: 1
+Word: milhõ  - Frequency: 2
+Word: 2004  - Frequency: 1
+Word: princip  - Frequency: 1
+Word: crim  - Frequency: 2
+Word: era  - Frequency: 2
+Word: falsific  - Frequency: 1
+Word: pagament  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: fantasm  - Frequency: 1
+Word: laranj  - Frequency: 2
+Word: assembl  - Frequency: 3
+Word: legisl  - Frequency: 2
+Word: 24  - Frequency: 1
+Word: deput  - Frequency: 1
+Word: estadu  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: pratic  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: desvi  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: prátic  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: amig  - Frequency: 1
+Word: empreg  - Frequency: 1
+Word: parlament  - Frequency: 5
+Word: maior  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: arrecad  - Frequency: 1
+Word: ia  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: também  - Frequency: 2
+Word: for  - Frequency: 1
+Word: flagr  - Frequency: 1
+Word: fit  - Frequency: 1
+Word: víd  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: pel  - Frequency: 4
+Word: govern  - Frequency: 2
+Word: ivo  - Frequency: 1
+Word: cassol  - Frequency: 1
+Word: atual  - Frequency: 1
+Word: pps  - Frequency: 1
+Word: chantag  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: mensalã  - Frequency: 1
+Word: 50  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: troc  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: matér  - Frequency: 1
+Word: inter  - Frequency: 1
+Word: local  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: conlui  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: justic  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: rond�  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: process  - Frequency: 1
+Word: abert  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: contrapart  - Frequency: 1
+Word: aprov  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: salari  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: juíz  - Frequency: 1
+Word: porcentu  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: toler  - Frequency: 1
+Word: lei  - Frequency: 1
+Word: respons  - Frequency: 1
+Word: fiscal  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_parlament
+
+Keyword: 6_parlament_pel
+
+Keyword: 6_parlament_pel_r$_assembl
+
+Keyword: 6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj_legisl_também_govern_justic
+
+
+------------------------------------------------------------
+Topic: 7
+Word: fraud  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: também  - Frequency: 1
+Word: superfatur  - Frequency: 1
+Word: contrat  - Frequency: 1
+Word: fornecedor  - Frequency: 1
+Word: assembl  - Frequency: 1
+Word: além  - Frequency: 1
+Word: verdadeir  - Frequency: 1
+Word: passagens  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: distribuíd  - Frequency: 1
+Word: fart  - Frequency: 1
+Word: parlament  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: amig  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir_passagens_aér_distribuíd_fart_parlament_famili_amig
+
+
+------------------------------------------------------------
+Topic: 8
+Word: julh  - Frequency: 1
+Word: 2005  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: for  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: intercept  - Frequency: 1
+Word: telef�  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: monitor  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: quadrilh  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: também  - Frequency: 1
+Word: conselheir  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: demonstr  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: possu  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: influênc  - Frequency: 1
+Word: rond�  - Frequency: 1
+Word: dificult  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: regul  - Frequency: 1
+Word: pod  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic_federal_monitor_pass_quadrilh_estã_envolv_também_conselheir_tribunal_cont_estad_investig_demonstr_organiz_possu_grand_influênc_rond�_dificult_funcion_regul_pod
+
+
+------------------------------------------------------------
+Topic: 9
+Word: pf  - Frequency: 1
+Word: abriu  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: atuaçã  - Frequency: 1
+Word: apur  - Frequency: 2
+Word: cas  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: desembarg  - Frequency: 1
+Word: conselheir  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: quadrilh  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_apur
+
+Keyword: 9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip_desembarg_conselheir_tribunal_cont_quadrilh
+
+
+------------------------------------------------------------
+Topic: 10
+Word: pf  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 300  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: feder  - Frequency: 1
+Word: amazon  - Frequency: 1
+Word: distrit  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: gross  - Frequency: 1
+Word: acre  - Frequency: 1
+Word: rond�  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: domin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal_mat_gross_acre_rond�_faz_part_investig_domin
+
+
+------------------------------------------------------------
+Topic: 11
+Word: superintendent  - Frequency: 1
+Word: regional  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: rond�  - Frequency: 2
+Word: deleg  - Frequency: 1
+Word: joaquim  - Frequency: 1
+Word: mesquit  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 04  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: for  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: domin  - Frequency: 1
+Word: quadrilh  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: pratic  - Frequency: 1
+Word: divers  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: com  - Frequency: 1
+Word: desvi  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: corrupçã  - Frequency: 1
+Word: prevaric  - Frequency: 1
+Word: concussã  - Frequency: 1
+Word: peculat  - Frequency: 1
+Word: extorsã  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: vend  - Frequency: 1
+Word: sentenc  - Frequency: 1
+Word: judic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_rond�
+
+Keyword: 11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform_sext_dia_04_23_pesso_for_pres_moment_pel_oper_domin_quadrilh_acus_pratic_divers_crim_administr_com_desvi_recurs_públic_corrupçã_prevaric_concussã_peculat_extorsã_lavag_dinheir_vend_sentenc_judic
+
+
+------------------------------------------------------------
+Topic: 12
+Word: pres  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: president  - Frequency: 2
+Word: tribunal  - Frequency: 2
+Word: justic  - Frequency: 2
+Word: rond�  - Frequency: 2
+Word: desembarg  - Frequency: 2
+Word: sebastiã  - Frequency: 1
+Word: teixeir  - Frequency: 1
+Word: chav  - Frequency: 1
+Word: assembl  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: deput  - Frequency: 2
+Word: jos  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: oliveir  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: lider  - Frequency: 1
+Word: esquem  - Frequency: 1
+Word: fraudulent  - Frequency: 1
+Word: ex  - Frequency: 1
+Word: abdiel  - Frequency: 1
+Word: ram  - Frequency: 1
+Word: figueir  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: edílson  - Frequency: 1
+Word: sous  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: além  - Frequency: 1
+Word: juíz  - Frequency: 1
+Word: promotor  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: estadu  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: prisõ  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: resistent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_president_tribunal_justic_rond�_desembarg_deput
+
+Keyword: 12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã_teixeir_chav_assembl_legisl_estad_jos_carl_oliveir_acus_lider_esquem_fraudulent_ex_abdiel_ram_figueir_vic_cont_edílson_sous_silv_além_juíz_promotor_nov_estadu_acord_políc_federal_prisõ_ocorr_resistent
+
+
+------------------------------------------------------------
+Topic: 13
+Word: oper  - Frequency: 1
+Word: também  - Frequency: 1
+Word: cumpr  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: busc  - Frequency: 2
+Word: apreensã  - Frequency: 1
+Word: 300  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: feder  - Frequency: 1
+Word: amazon  - Frequency: 1
+Word: distrit  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: gross  - Frequency: 1
+Word: acre  - Frequency: 1
+Word: rond�  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: prisõ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_busc
+
+Keyword: 13_busc_oper_também_cumpr_60_mand_apreensã_300_polic_feder_amazon_distrit_federal_mat_gross_acre_rond�_particip_prisõ
+
+
+------------------------------------------------------------
+Topic: 14
+Word: segund  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: crimin  - Frequency: 1
+Word: desvi  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 70  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: cofr  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: pagament  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: compr  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: superfatur  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc_r$_70_milhõ_cofr_públic_mei_pagament_servic_compr_obras_superfatur
+
+
+------------------------------------------------------------
+Topic: 15
+Word: investig  - Frequency: 1
+Word: demonstr  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: crimin  - Frequency: 1
+Word: estad  - Frequency: 2
+Word: rond�  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: assembl  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: estend  - Frequency: 1
+Word: part  - Frequency: 1
+Word: pod  - Frequency: 2
+Word: compromet  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: tribunal  - Frequency: 2
+Word: justic  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: execut  - Frequency: 1
+Word: resum  - Frequency: 1
+Word: mesquit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_estad_pod_tribunal
+
+Keyword: 15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin_rond�_tev_iníci_assembl_legisl_estend_part_compromet_envolv_pesso_justic_cont_ministéri_públic_execut_resum_mesquit
+
+
+------------------------------------------------------------
+Topic: 16
+Word: deleg  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: for  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: exped  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: escalã  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: rond�  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: superintendent  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: brasíl  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_deleg_inform_pesso_for_pres_mand_exped_pel_superior_tribunal_justic_sej_membr_alto_escalã_govern_rond�_serã_transfer_superintendent_políc_federal_brasíl
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 25
+
+
+NUM: 36
+
+
+NUM: 60
+
+
+NUM: 13
+
+
+NUM: 16
+
+
+NUM: 31
+
+
+NUM: 14
+
+
+NUM: 17
+
+
+NUM: 40
+
+
+NUM: 41
+
+
+NUM: 19
+
+
+NUM: 20
+
+
+NUM: 26
+
+
+NUM: 23
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 45
+
+
+NUM: 28
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 25
+
+
+NUM: 36
+
+
+NUM: 60
+
+
+NUM: 13
+
+
+NUM: 16
+
+
+NUM: 31
+
+
+NUM: 14
+
+
+NUM: 17
+
+
+NUM: 40
+
+
+NUM: 41
+
+
+NUM: 19
+
+
+NUM: 20
+
+
+NUM: 26
+
+
+NUM: 23
+
+
+---------------BEFORE!-------------
+
+VEC: 0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf_federal_prend_manhã_sext_23_pesso_suspeit_envolv_esquem_recurs_influênc_indev_judiciári_ministéri_tribunal_cont_execut_pres_estã_tj_justic_desembarg_sebastiã_teixeir_chav_deput_jos_carl_oliveir_políc_inform_grup_já_r$_70_milhõ
+VEC: 1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir_tribunal_cont_edilson_souz_silv_procur_justic_carl_vitach_diretor_geral_assembl_legisl_ronald_palitot_servidor_assessor_famili_deput
+VEC: 2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�
+VEC: 3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas_licit_fraudulent_recurs_públic_desvi_pagament_compr_obras_supost_superfatur_inform_cas_objet_entregu_nã_feit
+VEC: 4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant_for_envi_tj_estad_stj_políc_também_vai_abrir_nov_particip_desembarg_conselheir_cont_supost_esquem_300_polic_amap_distrit_federal_mat_gross_acre_trabalh_oper_domin
+VEC: 5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput_políc_federal_desencad_manhã_sext_domin_destin_prend_altos_funcionári_especializ_desvi_recurs_corrupçã_peculat_extorsã_lavag_dinheir_vend_sentenc_judic_alvos_oper_tribunal_justic_estad_sebastiã_mulh_advog_marild_shirley_souz_leir_receb_voz_prisã_também_assembl_legisl_jos_carl_oliveir_acus_ser_líd_além_juíz_promotor_pel_nov_estadu
+VEC: 6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj_legisl_também_govern_justic
+VEC: 7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir_passagens_aér_distribuíd_fart_parlament_famili_amig
+VEC: 8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic_federal_monitor_pass_quadrilh_estã_envolv_também_conselheir_tribunal_cont_estad_investig_demonstr_organiz_possu_grand_influênc_rond�_dificult_funcion_regul_pod
+VEC: 9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip_desembarg_conselheir_tribunal_cont_quadrilh
+VEC: 10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal_mat_gross_acre_rond�_faz_part_investig_domin
+VEC: 11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform_sext_dia_04_23_pesso_for_pres_moment_pel_oper_domin_quadrilh_acus_pratic_divers_crim_administr_com_desvi_recurs_públic_corrupçã_prevaric_concussã_peculat_extorsã_lavag_dinheir_vend_sentenc_judic
+VEC: 12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã_teixeir_chav_assembl_legisl_estad_jos_carl_oliveir_acus_lider_esquem_fraudulent_ex_abdiel_ram_figueir_vic_cont_edílson_sous_silv_além_juíz_promotor_nov_estadu_acord_políc_federal_prisõ_ocorr_resistent
+VEC: 13_busc_oper_também_cumpr_60_mand_apreensã_300_polic_feder_amazon_distrit_federal_mat_gross_acre_rond�_particip_prisõ
+VEC: 14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc_r$_70_milhõ_cofr_públic_mei_pagament_servic_compr_obras_superfatur
+VEC: 15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin_rond�_tev_iníci_assembl_legisl_estend_part_compromet_envolv_pesso_justic_cont_ministéri_públic_execut_resum_mesquit
+VEC: 16_deleg_inform_pesso_for_pres_mand_exped_pel_superior_tribunal_justic_sej_membr_alto_escalã_govern_rond�_serã_transfer_superintendent_políc_federal_brasíl
+
+---------------AFTER!-------------
+
+VEC: 0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf
+VEC: 1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir
+VEC: 2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�
+VEC: 3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas
+VEC: 4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant
+VEC: 5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput
+VEC: 6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj
+VEC: 7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir
+VEC: 8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic
+VEC: 9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip
+VEC: 10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal
+VEC: 11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform
+VEC: 12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã
+VEC: 13_busc_oper_também_cumpr_60_mand_apreensã_300_polic
+VEC: 14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc
+VEC: 15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin
+VEC: 16_deleg_inform_pesso_for_pres_mand_exped_pel_superior
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0870914
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" is "0.1"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" is "0.2"
+
+CHANGE! -- From: 17 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" is "0.3"
+
+CHANGE! -- From: 17 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.3"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0.2"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_deleg_inform_pesso_for_pres_mand_exped_pel_superior" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 16 -- Topic s_aux: 11 -- Abs: 5
+
+
+Topic change from "16" to "11"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" is "0.2"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" is "0.1"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" is "0.4"
+
+CHANGE! -- From: 15 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" is "0.1"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0.1"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_segund_divulg_pel_pf_grup_crimin_desvi_2004_cerc" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" is "0.1"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" is "0.3"
+
+CHANGE! -- From: 14 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_busc_oper_também_cumpr_60_mand_apreensã_300_polic" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" is "0.2"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0.5"
+
+CHANGE! -- From: 13 -> TO: 6
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.3"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_president_tribunal_justic_rond�_desembarg_deput_pres_estã_sebastiã" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 12
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" is "0.2"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0.1"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_rond�_superintendent_regional_políc_federal_deleg_joaquim_mesquit_inform" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" is "0.1"
+
+CHANGE! -- From: 11 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.1"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_pf_divulg_cerc_300_polic_feder_amazon_distrit_federal" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.111111"
+
+CHANGE! -- From: 10 -> TO: 5
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.111111"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_apur_pf_abriu_nov_frent_atuaçã_cas_objet_particip" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 4 -- Abs: 5
+
+
+Topic change from "9" to "4"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.111111"
+
+CHANGE! -- From: 9 -> TO: 5
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0.111111"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_julh_2005_agor_for_feit_intercept_telef�_autoriz_justic" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 4 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" and "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" is "0.111111"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0.222222"
+
+CHANGE! -- From: 8 -> TO: 4
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0.111111"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_fraud_envolv_também_superfatur_contrat_fornecedor_assembl_além_verdadeir" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" and "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" is "0.111111"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.111111"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0.111111"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.111111"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "6_parlament_pel_r$_assembl_públic_milhõ_crim_era_laranj" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.222222"
+
+CHANGE! -- From: 7 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" and "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" is "0.111111"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.111111"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "5_rond�_quadrilh_públic_estã_president_desembarg_teixeir_chav_deput" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.333333"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" and "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0.333333"
+
+CHANGE! -- From: 5 -> TO: 3
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "4_investig_justic_rond�_tribunal_inform_colet_pel_pf_durant" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" and "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "3_eram_políc_contrat_servic_segund_assembl_legisl_faz_bas" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.222222"
+
+CHANGE! -- From: 4 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 0 -- Abs: 3
+
+
+Topic change from "3" to "0"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" and "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" is "0.111111"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "2_oit_pres_pel_pf_serã_mand_brasíl_fic_rond�" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0.222222"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir" and "0_assembl_legisl_estad_rond�_desvi_públic_pod_president_pf" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 16
+Topic: 16
+Topic: 11
+NUM_TOPICS: 7
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: pf  - Frequency: 5
+Word: federal  - Frequency: 5
+Word: prend  - Frequency: 2
+Word: manhã  - Frequency: 2
+Word: sext  - Frequency: 2
+Word: 23  - Frequency: 2
+Word: pesso  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: envolv  - Frequency: 4
+Word: esquem  - Frequency: 3
+Word: assembl  - Frequency: 9
+Word: legisl  - Frequency: 7
+Word: estad  - Frequency: 7
+Word: rond�  - Frequency: 11
+Word: desvi  - Frequency: 5
+Word: recurs  - Frequency: 3
+Word: públic  - Frequency: 7
+Word: influênc  - Frequency: 2
+Word: indev  - Frequency: 1
+Word: pod  - Frequency: 3
+Word: judiciári  - Frequency: 1
+Word: ministéri  - Frequency: 2
+Word: tribunal  - Frequency: 8
+Word: cont  - Frequency: 6
+Word: execut  - Frequency: 1
+Word: pres  - Frequency: 3
+Word: estã  - Frequency: 5
+Word: president  - Frequency: 6
+Word: tj  - Frequency: 2
+Word: justic  - Frequency: 9
+Word: desembarg  - Frequency: 7
+Word: sebastiã  - Frequency: 3
+Word: teixeir  - Frequency: 4
+Word: chav  - Frequency: 4
+Word: deput  - Frequency: 6
+Word: jos  - Frequency: 3
+Word: carl  - Frequency: 3
+Word: oliveir  - Frequency: 3
+Word: políc  - Frequency: 7
+Word: inform  - Frequency: 3
+Word: grup  - Frequency: 2
+Word: já  - Frequency: 1
+Word: r$  - Frequency: 4
+Word: 70  - Frequency: 2
+Word: milhõ  - Frequency: 3
+Word: oit  - Frequency: 1
+Word: pel  - Frequency: 7
+Word: serã  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: faz  - Frequency: 1
+Word: contrat  - Frequency: 3
+Word: bas  - Frequency: 1
+Word: licit  - Frequency: 1
+Word: fraudulent  - Frequency: 2
+Word: eram  - Frequency: 3
+Word: pagament  - Frequency: 2
+Word: servic  - Frequency: 2
+Word: compr  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: supost  - Frequency: 2
+Word: superfatur  - Frequency: 2
+Word: cas  - Frequency: 2
+Word: objet  - Frequency: 2
+Word: entregu  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: feit  - Frequency: 2
+Word: colet  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: investig  - Frequency: 3
+Word: for  - Frequency: 3
+Word: envi  - Frequency: 1
+Word: stj  - Frequency: 1
+Word: também  - Frequency: 6
+Word: vai  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: nov  - Frequency: 4
+Word: particip  - Frequency: 2
+Word: conselheir  - Frequency: 3
+Word: 300  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: amap  - Frequency: 1
+Word: distrit  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: gross  - Frequency: 1
+Word: acre  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: oper  - Frequency: 2
+Word: domin  - Frequency: 2
+Word: desencad  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: quadrilh  - Frequency: 4
+Word: altos  - Frequency: 1
+Word: funcionári  - Frequency: 2
+Word: especializ  - Frequency: 1
+Word: corrupçã  - Frequency: 1
+Word: peculat  - Frequency: 1
+Word: extorsã  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 2
+Word: vend  - Frequency: 1
+Word: sentenc  - Frequency: 1
+Word: judic  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: mulh  - Frequency: 1
+Word: advog  - Frequency: 1
+Word: marild  - Frequency: 1
+Word: shirley  - Frequency: 1
+Word: souz  - Frequency: 1
+Word: leir  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: voz  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: acus  - Frequency: 3
+Word: ser  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: além  - Frequency: 3
+Word: juíz  - Frequency: 3
+Word: promotor  - Frequency: 2
+Word: estadu  - Frequency: 3
+Word: les  - Frequency: 1
+Word: cofr  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: princip  - Frequency: 1
+Word: crim  - Frequency: 2
+Word: era  - Frequency: 2
+Word: falsific  - Frequency: 1
+Word: fantasm  - Frequency: 1
+Word: laranj  - Frequency: 2
+Word: 24  - Frequency: 1
+Word: pratic  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: prátic  - Frequency: 1
+Word: ano  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: famili  - Frequency: 2
+Word: amig  - Frequency: 2
+Word: empreg  - Frequency: 1
+Word: parlament  - Frequency: 6
+Word: maior  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: arrecad  - Frequency: 1
+Word: ia  - Frequency: 1
+Word: flagr  - Frequency: 1
+Word: fit  - Frequency: 1
+Word: víd  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: ivo  - Frequency: 1
+Word: cassol  - Frequency: 1
+Word: atual  - Frequency: 1
+Word: pps  - Frequency: 1
+Word: chantag  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: mensalã  - Frequency: 1
+Word: 50  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: troc  - Frequency: 1
+Word: apoi  - Frequency: 1
+Word: matér  - Frequency: 1
+Word: inter  - Frequency: 1
+Word: local  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: conlui  - Frequency: 1
+Word: acord  - Frequency: 2
+Word: livr  - Frequency: 1
+Word: process  - Frequency: 1
+Word: abert  - Frequency: 1
+Word: contrapart  - Frequency: 1
+Word: aprov  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: salari  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: porcentu  - Frequency: 1
+Word: acim  - Frequency: 1
+Word: toler  - Frequency: 1
+Word: lei  - Frequency: 1
+Word: respons  - Frequency: 1
+Word: fiscal  - Frequency: 1
+Word: fraud  - Frequency: 1
+Word: fornecedor  - Frequency: 1
+Word: verdadeir  - Frequency: 1
+Word: passagens  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: distribuíd  - Frequency: 1
+Word: fart  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: 2005  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: intercept  - Frequency: 1
+Word: telef�  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: monitor  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: demonstr  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: possu  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: dificult  - Frequency: 1
+Word: funcion  - Frequency: 1
+Word: regul  - Frequency: 1
+Word: abriu  - Frequency: 1
+Word: frent  - Frequency: 1
+Word: atuaçã  - Frequency: 1
+Word: apur  - Frequency: 2
+Word: lider  - Frequency: 1
+Word: ex  - Frequency: 1
+Word: abdiel  - Frequency: 1
+Word: ram  - Frequency: 1
+Word: figueir  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: edílson  - Frequency: 1
+Word: sous  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: prisõ  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: resistent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_rond�
+
+Keyword: 0_rond�
+
+Keyword: 0_rond�_assembl_justic
+
+Keyword: 0_rond�_assembl_justic_tribunal
+
+Keyword: 0_rond�_assembl_justic_tribunal_legisl_estad_públic_desembarg_políc_pel
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: também  - Frequency: 1
+Word: for  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: juiz  - Frequency: 1
+Word: jos  - Frequency: 3
+Word: jorg  - Frequency: 1
+Word: ribeir  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: conselheir  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: edilson  - Frequency: 1
+Word: souz  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: vitach  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: geral  - Frequency: 1
+Word: assembl  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: ronald  - Frequency: 1
+Word: palitot  - Frequency: 1
+Word: servidor  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: deput  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_jos
+
+Keyword: 1_jos
+
+Keyword: 1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir_tribunal_cont_edilson_souz_silv_procur_justic_carl_vitach_diretor_geral_assembl_legisl_ronald_palitot_servidor_assessor_famili_deput
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: pf  - Frequency: 2
+Word: divulg  - Frequency: 2
+Word: cerc  - Frequency: 2
+Word: 300  - Frequency: 2
+Word: polic  - Frequency: 2
+Word: feder  - Frequency: 2
+Word: amazon  - Frequency: 2
+Word: distrit  - Frequency: 2
+Word: federal  - Frequency: 4
+Word: mat  - Frequency: 2
+Word: gross  - Frequency: 2
+Word: acre  - Frequency: 2
+Word: rond�  - Frequency: 5
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: domin  - Frequency: 2
+Word: superintendent  - Frequency: 2
+Word: regional  - Frequency: 1
+Word: políc  - Frequency: 2
+Word: deleg  - Frequency: 2
+Word: joaquim  - Frequency: 1
+Word: mesquit  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: sext  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 04  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: for  - Frequency: 2
+Word: pres  - Frequency: 2
+Word: moment  - Frequency: 1
+Word: pel  - Frequency: 3
+Word: oper  - Frequency: 2
+Word: quadrilh  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: pratic  - Frequency: 1
+Word: divers  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: com  - Frequency: 1
+Word: desvi  - Frequency: 2
+Word: recurs  - Frequency: 1
+Word: públic  - Frequency: 2
+Word: corrupçã  - Frequency: 1
+Word: prevaric  - Frequency: 1
+Word: concussã  - Frequency: 1
+Word: peculat  - Frequency: 1
+Word: extorsã  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: vend  - Frequency: 1
+Word: sentenc  - Frequency: 1
+Word: judic  - Frequency: 1
+Word: também  - Frequency: 1
+Word: cumpr  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: mand  - Frequency: 2
+Word: busc  - Frequency: 2
+Word: apreensã  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: prisõ  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: crimin  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 70  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: cofr  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: pagament  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: compr  - Frequency: 1
+Word: obras  - Frequency: 1
+Word: superfatur  - Frequency: 1
+Word: exped  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: escalã  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: brasíl  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_rond�
+
+Keyword: 10_rond�_federal
+
+Keyword: 10_rond�_federal_pel
+
+Keyword: 10_rond�_federal_pel_pf_divulg_cerc_300_polic_feder_amazon_distrit_mat_gross_acre_domin_superintendent_políc_deleg_inform_pesso_for_pres_oper_desvi_públic_mand_busc
+
+Cur_topic: 15
+
+
+
+------------------------------------------------------------
+Topic: 15
+Word: investig  - Frequency: 1
+Word: demonstr  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: crimin  - Frequency: 1
+Word: estad  - Frequency: 2
+Word: rond�  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: assembl  - Frequency: 1
+Word: legisl  - Frequency: 1
+Word: estend  - Frequency: 1
+Word: part  - Frequency: 1
+Word: pod  - Frequency: 2
+Word: compromet  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: tribunal  - Frequency: 2
+Word: justic  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: execut  - Frequency: 1
+Word: resum  - Frequency: 1
+Word: mesquit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_estad_pod_tribunal
+
+Keyword: 15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin_rond�_tev_iníci_assembl_legisl_estend_part_compromet_envolv_pesso_justic_cont_ministéri_públic_execut_resum_mesquit
+
+NUM: 10
+
+
+NUM: 28
+
+
+NUM: 27
+
+
+NUM: 26
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 10
+
+
+NUM: 28
+
+
+NUM: 27
+
+
+NUM: 26
+
+
+---------------BEFORE!-------------
+
+VEC: 0_rond�_assembl_justic_tribunal_legisl_estad_públic_desembarg_políc_pel
+VEC: 1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir_tribunal_cont_edilson_souz_silv_procur_justic_carl_vitach_diretor_geral_assembl_legisl_ronald_palitot_servidor_assessor_famili_deput
+VEC: 10_rond�_federal_pel_pf_divulg_cerc_300_polic_feder_amazon_distrit_mat_gross_acre_domin_superintendent_políc_deleg_inform_pesso_for_pres_oper_desvi_públic_mand_busc
+VEC: 15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin_rond�_tev_iníci_assembl_legisl_estend_part_compromet_envolv_pesso_justic_cont_ministéri_públic_execut_resum_mesquit
+
+---------------AFTER!-------------
+
+VEC: 0_rond�_assembl_justic_tribunal_legisl_estad_públic_desembarg_políc_pel
+VEC: 1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir_tribunal
+VEC: 10_rond�_federal_pel_pf_divulg_cerc_300_polic_feder_amazon
+VEC: 15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin_rond�
+Keyword: 0_rond�_assembl_justic_tribunal_legisl_estad_públic_desembarg_políc_pel
+Keyword: 1_jos_também_for_pres_juiz_jorg_ribeir_luz_conselheir_tribunal
+Keyword: 10_rond�_federal_pel_pf_divulg_cerc_300_polic_feder_amazon
+Keyword: 15_estad_pod_tribunal_investig_demonstr_existent_grand_organiz_crimin_rond�

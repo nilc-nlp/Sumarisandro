@@ -1,0 +1,8490 @@
+Sentenca(topic=0): Um terremoto de 6,8 graus na escala Richter atingiu a costa noroeste do Japão nesta segunda-feira, 16, matando pelo menos sete pessoas na cidade de Kashiwazaki e deixando outros 700 feridos.
+Sentenca(topic=0): Equipes de resgate continuam procurando por pessoas em meio aos escombros.
+Sentenca(topic=1): Chamas e rolos de fumaça preta foram vistos na usina nuclear de Kashiwazaki, que foi automaticamente fechada durante o terremoto.
+Sentenca(topic=1): Segundo a TV NHK, o fogo atingiu um transformador de eletricidade e não houve vazamento de radiação.
+Sentenca(topic=2): A força do abalo danificou estradas e pontes na costa.
+Sentenca(topic=3): Cerca de 2 mil moradores de Kashiwazaki, a cidade mais afetada pelo tremor, tiveram de deixar suas casas.
+Sentenca(topic=3): Cerca de 300 edifícios da cidade ficaram destruídos.
+Sentenca(topic=4): Rachaduras de um metro de largura foram vistas no solo ao longo do litoral.
+Sentenca(topic=4): A Agência de Meteorologia divulgou alertas de tsunami para o estado de Niigata e a região costeira das redondezas, mas por fim o aviso foi cancelado.
+Sentenca(topic=5): O tremor atingiu a região às 10h13 (horário local, 22h13 de domingo, em Brasília) e seu epicentro foi localizado a 260 km da costa de Niigata, ao nordeste da capital, Tóquio, onde também foi sentido.
+Sentenca(topic=5): Uma série de pequenos abalos secundários atingiu a área, dentre eles um de 4,2 graus.
+Sentenca(topic=6): Segundo Koichi Uhira, da Agência de Meteorologia, esses tremores podem continuar por uma semana.
+Sentenca(topic=7): Vários serviços de trem bala ligando Tóquio ao norte e ao nordeste do país foram suspensos.
+Sentenca(topic=7): Informações oficiais indicam que o fornecimento de água e gás para as 35 mil residências de Kashiwazaki foi cortado depois que foram constatados vazamentos de gás.
+Sentenca(topic=8): Cerca de 27 mil famílias estavam sem energia elétrica na manhã desta segunda-feira em Niigata.
+Sentenca(topic=9): Um terremoto de 6,8 graus na escala Richter, com epicentro a 17 quilômetros de profundidade, atingiu a costa noroeste do Japão às 10h13m desta segunda-feira (22h13m de domingo em Brasília).
+Sentenca(topic=9): O tremor derrubou vários prédios.
+Sentenca(topic=9): Quatro pessoas morreram e cerca de 400 ficaram feridas.
+Sentenca(topic=10): O terremoto, que pôde ser sentido em Tóquio, foi seguido por outro tremor de menor magnitude, de 4,2 graus na escala Ritcher, às 10h34m (22h34m de domingo em Brasília).
+Sentenca(topic=11): A agência meteorológica do Japão chegou a emitir um alerta de tsunami para a Ilha Sado, na costa da província de Niigata, mas suspendeu o aviso uma hora depois.
+Sentenca(topic=12): Duas mulheres de cerca de 80 anos morreram quando suas casas desmoronaram após o tremor.
+Sentenca(topic=12): Os detalhes das outras duas mortes, informadas pela emissora pública NHK, não estão disponíveis.
+Sentenca(topic=13): Um pequeno incêndio aconteceu em um transformador elétrico da usina nuclear de Kashiwazaki Kariwa, a maior do mundo,  localizada perto do epicentro, mas o fogo já foi controlado.
+Sentenca(topic=13): Os reatores nucleares foram desligados e não houve liberação de radiação.
+Sentenca(topic=14): Niigata foi atingida em outubro de 2004 por um terremoto de mesma intensidade, que provocou a morte de 65 pessoas e deixou mais de 3 mil feridos.
+Sentenca(topic=15): Um forte terremoto matou ao menos cinco pessoas no noroeste do Japão nesta segunda-feira.
+Sentenca(topic=15): Mais de 600 pessoas ficaram feridas, casas foram derrubadas e houve um pequeno incêndio na maior usina nuclear do mundo.
+Sentenca(topic=16): Os prédios chegaram a tremer em Tóquio,  e os reatores de usinas nucleares em Niigata desligaram-se automaticamente para checagens, embora não haja relatos de vazamento de radiação.
+Sentenca(topic=16): Duas mulheres na faixa dos 80 anos morreram  quando suas casas ruíram durante o tremor de magnitude 6,8, na área de Niigata, cerca de 250 km noroeste de Tóquio, informou a imprensa japonesa.
+Sentenca(topic=16): Um porta-voz policial confirmou cinco mortes.
+Sentenca(topic=16): A imprensa noticiou que  uma outra idosa e um casal estariam entre os mortos.
+Sentenca(topic=17): - Prateleiras altas caíram  e as coisas voaram por toda parte - contou Harumi Mikami, 55,  uma professora que estava em sua escola na Cidade de Kashiwazaki, perto do epicentro do terremoto.
+Sentenca(topic=17): - Metade da minha casa está destruída -  disse Mikami.
+Sentenca(topic=17): - Minha maior preocupação é onde vou viver agora.
+Sentenca(topic=17): Cerca de 1.700 pessoas fugiram de suas casas para quase 100 centros de resgate, segundo a rede NHK e a Prefeitura de Niigata.
+Sentenca(topic=18): Um incêndio em um transformador elétrico na usina nuclear de Kashiwazaki Kariwa foi rapidamente extinto, mas ainda não está claro quando a companhia elétrica de Tóquio vai religar três unidades no complexo,  disse Yoshinobu Kamijima, porta-voz da empresa.
+Sentenca(topic=19): O Japão é um dos países do mundo mais suscetíveis a terremotos, com um tremor ocorrendo a ao menos cada cinco minutos.
+Sentenca(topic=20): Os mercados financeiros do país estão fechados nesta segunda-feira  devido a um feriado.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: terremot  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: graus  - Frequency: 1
+Word: escal  - Frequency: 1
+Word: richt  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: noro  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: set  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: cidad  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 700  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: resgat  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: escombr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_pesso
+
+Keyword: 0_pesso_terremot_6_graus_escal_richt_ating_cost_noro_japã_segund_16_mat_pel_set_cidad_kashiwazak_deix_700_fer_equip_resgat_continu_procur_mei_escombr
+
+
+------------------------------------------------------------
+Topic: 1
+Word: cham  - Frequency: 1
+Word: rol  - Frequency: 1
+Word: fumac  - Frequency: 1
+Word: pret  - Frequency: 1
+Word: for  - Frequency: 1
+Word: vist  - Frequency: 1
+Word: usin  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: automat  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: terremot  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: nhk  - Frequency: 1
+Word: fog  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: transform  - Frequency: 1
+Word: eletr  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: houv  - Frequency: 1
+Word: vazament  - Frequency: 1
+Word: radiaçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_cham_rol_fumac_pret_for_vist_usin_nucl_kashiwazak_foi_automat_fech_durant_terremot_segund_tv_nhk_fog_ating_transform_eletr_nã_houv_vazament_radiaçã
+
+
+------------------------------------------------------------
+Topic: 2
+Word: forc  - Frequency: 1
+Word: abal  - Frequency: 1
+Word: danific  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: cost  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_forc_abal_danific_estrad_pont_cost
+
+Keyword: 2_forc_abal_danific_estrad_pont_cost
+
+
+------------------------------------------------------------
+Topic: 3
+Word: cerc  - Frequency: 2
+Word: 2  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: morador  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: afet  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: 300  - Frequency: 1
+Word: edifíci  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: destruíd  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_cerc_cidad
+
+Keyword: 3_cerc_cidad_2_mil_morador_kashiwazak_afet_pel_tremor_tiv_deix_cas_300_edifíci_fic_destruíd
+
+
+------------------------------------------------------------
+Topic: 4
+Word: rachadur  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: largur  - Frequency: 1
+Word: for  - Frequency: 1
+Word: vist  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: long  - Frequency: 1
+Word: litoral  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: meteorolog  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: alert  - Frequency: 1
+Word: tsunam  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: niigat  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: costeir  - Frequency: 1
+Word: redond  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: avis  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: cancel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_rachadur_metr_largur_for_vist_sol_long_litoral_agênc_meteorolog_divulg_alert_tsunam_estad_niigat_regiã_costeir_redond_fim_avis_foi_cancel
+
+
+------------------------------------------------------------
+Topic: 5
+Word: tremor  - Frequency: 1
+Word: ating  - Frequency: 2
+Word: regiã  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h13  - Frequency: 1
+Word: local  - Frequency: 1
+Word: 22h13  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: localiz  - Frequency: 1
+Word: 260  - Frequency: 1
+Word: km  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: niigat  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: tóqui  - Frequency: 1
+Word: também  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: abal  - Frequency: 1
+Word: secundári  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: dentr  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: graus  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_ating_foi
+
+Keyword: 5_ating_foi_tremor_regiã_às_10h13_local_22h13_doming_brasíl_epicentr_localiz_260_km_cost_niigat_nord_capital_tóqui_também_sent_séri_pequen_abal_secundári_áre_dentr_4_graus
+
+
+------------------------------------------------------------
+Topic: 6
+Word: segund  - Frequency: 1
+Word: koich  - Frequency: 1
+Word: uhir  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: meteorolog  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: seman  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_segund_koich_uhir_agênc_meteorolog_tremor_pod_continu_seman
+
+Keyword: 6_segund_koich_uhir_agênc_meteorolog_tremor_pod_continu_seman
+
+
+------------------------------------------------------------
+Topic: 7
+Word: vári  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: bal  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: tóqui  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: país  - Frequency: 1
+Word: for  - Frequency: 2
+Word: suspens  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: ofic  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: fornec  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: gás  - Frequency: 2
+Word: 35  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: resident  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: cort  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: constat  - Frequency: 1
+Word: vazament  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_for_gás
+
+Keyword: 7_for_gás_vári_servic_trem_bal_lig_tóqui_nort_nord_país_suspens_inform_ofic_indic_fornec_águ_35_mil_resident_kashiwazak_foi_cort_depo_constat_vazament
+
+
+------------------------------------------------------------
+Topic: 8
+Word: cerc  - Frequency: 1
+Word: 27  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: energ  - Frequency: 1
+Word: elétr  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: niigat  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_cerc_27_mil_famíl_estav_energ_elétr_manhã_segund_niigat
+
+Keyword: 8_cerc_27_mil_famíl_estav_energ_elétr_manhã_segund_niigat
+
+
+------------------------------------------------------------
+Topic: 9
+Word: terremot  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: graus  - Frequency: 1
+Word: escal  - Frequency: 1
+Word: richt  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: profund  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: noro  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h13m  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: derrub  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_terremot_6_graus_escal_richt_epicentr_17_quil�_profund_ating_cost_noro_japã_às_10h13m_segund_doming_brasíl_tremor_derrub_vári_prédi_quatr_pesso_morr_cerc_400_fic_fer
+
+
+------------------------------------------------------------
+Topic: 10
+Word: terremot  - Frequency: 1
+Word: p�  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: tóqui  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: magnitud  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: graus  - Frequency: 1
+Word: escal  - Frequency: 1
+Word: ritch  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h34m  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasíl  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_terremot_p�_ser_sent_tóqui_foi_segu_tremor_menor_magnitud_4_graus_escal_ritch_às_10h34m_doming_brasíl
+
+
+------------------------------------------------------------
+Topic: 11
+Word: agênc  - Frequency: 1
+Word: meteorológ  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: emit  - Frequency: 1
+Word: alert  - Frequency: 1
+Word: tsunam  - Frequency: 1
+Word: ilha  - Frequency: 1
+Word: sad  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: provínc  - Frequency: 1
+Word: niigat  - Frequency: 1
+Word: suspend  - Frequency: 1
+Word: avis  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: depo  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_agênc_meteorológ_japã_cheg_emit_alert_tsunam_ilha_sad_cost_provínc_niigat_suspend_avis_hor_depo
+
+
+------------------------------------------------------------
+Topic: 12
+Word: duas  - Frequency: 2
+Word: mulh  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: desmoron  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: detalh  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: nhk  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: disponív  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_duas
+
+Keyword: 12_duas_mulh_cerc_80_anos_morr_cas_desmoron_tremor_detalh_mort_inform_pel_emissor_públic_nhk_nã_estã_disponív
+
+
+------------------------------------------------------------
+Topic: 13
+Word: pequen  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: transform  - Frequency: 1
+Word: elétr  - Frequency: 1
+Word: usin  - Frequency: 1
+Word: nucl  - Frequency: 2
+Word: kashiwazak  - Frequency: 1
+Word: kariw  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: fog  - Frequency: 1
+Word: já  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: control  - Frequency: 1
+Word: reator  - Frequency: 1
+Word: for  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: houv  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: radiaçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_nucl
+
+Keyword: 13_nucl_pequen_incêndi_acontec_transform_elétr_usin_kashiwazak_kariw_maior_mund_localiz_pert_epicentr_fog_já_foi_control_reator_for_deslig_nã_houv_liber_radiaçã
+
+
+------------------------------------------------------------
+Topic: 14
+Word: niigat  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: outubr  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: terremot  - Frequency: 1
+Word: intens  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: 65  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: fer  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_niigat_foi_ating_outubr_2004_terremot_intens_provoc_mort_65_pesso_deix_3_mil_fer
+
+
+------------------------------------------------------------
+Topic: 15
+Word: fort  - Frequency: 1
+Word: terremot  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: noro  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: 600  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: for  - Frequency: 1
+Word: derrub  - Frequency: 1
+Word: houv  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: usin  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: mund  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_pesso
+
+Keyword: 15_pesso_fort_terremot_mat_cinc_noro_japã_segund_600_fic_fer_cas_for_derrub_houv_pequen_incêndi_maior_usin_nucl_mund
+
+
+------------------------------------------------------------
+Topic: 16
+Word: prédi  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: tóqui  - Frequency: 2
+Word: reator  - Frequency: 1
+Word: usin  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: niigat  - Frequency: 2
+Word: deslig  - Frequency: 1
+Word: automat  - Frequency: 1
+Word: checagens  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: haj  - Frequency: 1
+Word: relat  - Frequency: 1
+Word: vazament  - Frequency: 1
+Word: radiaçã  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: mulh  - Frequency: 1
+Word: faix  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: ruír  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: magnitud  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 250  - Frequency: 1
+Word: km  - Frequency: 1
+Word: noro  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: imprens  - Frequency: 2
+Word: japones  - Frequency: 1
+Word: port  - Frequency: 1
+Word: policial  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: mort  - Frequency: 2
+Word: notic  - Frequency: 1
+Word: idos  - Frequency: 1
+Word: casal  - Frequency: 1
+Word: estar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_tóqui_niigat_imprens_mort
+
+Keyword: 16_tóqui_niigat_imprens_mort_prédi_cheg_trem_reator_usin_nucl_deslig_automat_checagens_nã_haj_relat_vazament_radiaçã_duas_mulh_faix_80_anos_morr_cas_ruír_durant_tremor_magnitud_6_áre_cerc_250_km_noro_inform_japones_port_policial_confirm_cinc_notic_idos_casal_estar
+
+
+------------------------------------------------------------
+Topic: 17
+Word: prateleir  - Frequency: 1
+Word: altas  - Frequency: 1
+Word: caír  - Frequency: 1
+Word: cois  - Frequency: 1
+Word: voar  - Frequency: 1
+Word: part  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: harum  - Frequency: 1
+Word: mikam  - Frequency: 2
+Word: 55  - Frequency: 1
+Word: professor  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: escol  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: terremot  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: cas  - Frequency: 2
+Word: está  - Frequency: 1
+Word: destruíd  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: vou  - Frequency: 1
+Word: viv  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: resgat  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: red  - Frequency: 1
+Word: nhk  - Frequency: 1
+Word: prefeitur  - Frequency: 1
+Word: niigat  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_mikam_cas
+
+Keyword: 17_mikam_cas_prateleir_altas_caír_cois_voar_part_cont_harum_55_professor_estav_escol_cidad_kashiwazak_pert_epicentr_terremot_metad_está_destruíd_diss_maior_preocup_vou_viv_agor_cerc_1_pesso_fug_quas_100_centr_resgat_segund_red_nhk_prefeitur_niigat
+
+
+------------------------------------------------------------
+Topic: 18
+Word: incêndi  - Frequency: 1
+Word: transform  - Frequency: 1
+Word: elétr  - Frequency: 2
+Word: usin  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: kariw  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: rapid  - Frequency: 1
+Word: extint  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: está  - Frequency: 1
+Word: clar  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: tóqui  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: relig  - Frequency: 1
+Word: três  - Frequency: 1
+Word: unidad  - Frequency: 1
+Word: complex  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: yoshinobu  - Frequency: 1
+Word: kamijim  - Frequency: 1
+Word: port  - Frequency: 1
+Word: empres  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 18_elétr
+
+Keyword: 18_elétr_incêndi_transform_usin_nucl_kashiwazak_kariw_foi_rapid_extint_aind_nã_está_clar_companh_tóqui_vai_relig_três_unidad_complex_diss_yoshinobu_kamijim_port_empres
+
+
+------------------------------------------------------------
+Topic: 19
+Word: japã  - Frequency: 1
+Word: país  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: suscetív  - Frequency: 1
+Word: terremot  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: minut  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 19_japã_país_mund_suscetív_terremot_tremor_ocorr_cinc_minut
+
+Keyword: 19_japã_país_mund_suscetív_terremot_tremor_ocorr_cinc_minut
+
+
+------------------------------------------------------------
+Topic: 20
+Word: merc  - Frequency: 1
+Word: financeir  - Frequency: 1
+Word: país  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: feri  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 20_merc_financeir_país_estã_fech_segund_dev_feri
+
+Keyword: 20_merc_financeir_país_estã_fech_segund_dev_feri
+
+NUM: 26
+
+
+NUM: 25
+
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 16
+
+
+NUM: 22
+
+
+NUM: 29
+
+
+NUM: 9
+
+
+NUM: 26
+
+
+NUM: 10
+
+
+NUM: 29
+
+
+NUM: 18
+
+
+NUM: 16
+
+
+NUM: 19
+
+
+NUM: 25
+
+
+NUM: 15
+
+
+NUM: 21
+
+
+NUM: 45
+
+
+NUM: 41
+
+
+NUM: 26
+
+
+NUM: 9
+
+
+NUM: 8
+
+
+(FINAL) AVERAGE: 6
+
+NUM: 26
+
+
+NUM: 25
+
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 16
+
+
+NUM: 22
+
+
+NUM: 29
+
+
+NUM: 9
+
+
+NUM: 26
+
+
+NUM: 10
+
+
+NUM: 29
+
+
+NUM: 18
+
+
+NUM: 16
+
+
+NUM: 19
+
+
+NUM: 25
+
+
+NUM: 15
+
+
+NUM: 21
+
+
+NUM: 45
+
+
+NUM: 41
+
+
+NUM: 26
+
+
+NUM: 9
+
+
+NUM: 8
+
+
+---------------BEFORE!-------------
+
+VEC: 0_pesso_terremot_6_graus_escal_richt_ating_cost_noro_japã_segund_16_mat_pel_set_cidad_kashiwazak_deix_700_fer_equip_resgat_continu_procur_mei_escombr
+VEC: 1_cham_rol_fumac_pret_for_vist_usin_nucl_kashiwazak_foi_automat_fech_durant_terremot_segund_tv_nhk_fog_ating_transform_eletr_nã_houv_vazament_radiaçã
+VEC: 2_forc_abal_danific_estrad_pont_cost
+VEC: 3_cerc_cidad_2_mil_morador_kashiwazak_afet_pel_tremor_tiv_deix_cas_300_edifíci_fic_destruíd
+VEC: 4_rachadur_metr_largur_for_vist_sol_long_litoral_agênc_meteorolog_divulg_alert_tsunam_estad_niigat_regiã_costeir_redond_fim_avis_foi_cancel
+VEC: 5_ating_foi_tremor_regiã_às_10h13_local_22h13_doming_brasíl_epicentr_localiz_260_km_cost_niigat_nord_capital_tóqui_também_sent_séri_pequen_abal_secundári_áre_dentr_4_graus
+VEC: 6_segund_koich_uhir_agênc_meteorolog_tremor_pod_continu_seman
+VEC: 7_for_gás_vári_servic_trem_bal_lig_tóqui_nort_nord_país_suspens_inform_ofic_indic_fornec_águ_35_mil_resident_kashiwazak_foi_cort_depo_constat_vazament
+VEC: 8_cerc_27_mil_famíl_estav_energ_elétr_manhã_segund_niigat
+VEC: 9_terremot_6_graus_escal_richt_epicentr_17_quil�_profund_ating_cost_noro_japã_às_10h13m_segund_doming_brasíl_tremor_derrub_vári_prédi_quatr_pesso_morr_cerc_400_fic_fer
+VEC: 10_terremot_p�_ser_sent_tóqui_foi_segu_tremor_menor_magnitud_4_graus_escal_ritch_às_10h34m_doming_brasíl
+VEC: 11_agênc_meteorológ_japã_cheg_emit_alert_tsunam_ilha_sad_cost_provínc_niigat_suspend_avis_hor_depo
+VEC: 12_duas_mulh_cerc_80_anos_morr_cas_desmoron_tremor_detalh_mort_inform_pel_emissor_públic_nhk_nã_estã_disponív
+VEC: 13_nucl_pequen_incêndi_acontec_transform_elétr_usin_kashiwazak_kariw_maior_mund_localiz_pert_epicentr_fog_já_foi_control_reator_for_deslig_nã_houv_liber_radiaçã
+VEC: 14_niigat_foi_ating_outubr_2004_terremot_intens_provoc_mort_65_pesso_deix_3_mil_fer
+VEC: 15_pesso_fort_terremot_mat_cinc_noro_japã_segund_600_fic_fer_cas_for_derrub_houv_pequen_incêndi_maior_usin_nucl_mund
+VEC: 16_tóqui_niigat_imprens_mort_prédi_cheg_trem_reator_usin_nucl_deslig_automat_checagens_nã_haj_relat_vazament_radiaçã_duas_mulh_faix_80_anos_morr_cas_ruír_durant_tremor_magnitud_6_áre_cerc_250_km_noro_inform_japones_port_policial_confirm_cinc_notic_idos_casal_estar
+VEC: 17_mikam_cas_prateleir_altas_caír_cois_voar_part_cont_harum_55_professor_estav_escol_cidad_kashiwazak_pert_epicentr_terremot_metad_está_destruíd_diss_maior_preocup_vou_viv_agor_cerc_1_pesso_fug_quas_100_centr_resgat_segund_red_nhk_prefeitur_niigat
+VEC: 18_elétr_incêndi_transform_usin_nucl_kashiwazak_kariw_foi_rapid_extint_aind_nã_está_clar_companh_tóqui_vai_relig_três_unidad_complex_diss_yoshinobu_kamijim_port_empres
+VEC: 19_japã_país_mund_suscetív_terremot_tremor_ocorr_cinc_minut
+VEC: 20_merc_financeir_país_estã_fech_segund_dev_feri
+
+---------------AFTER!-------------
+
+VEC: 0_pesso_terremot_6_graus_escal_richt
+VEC: 1_cham_rol_fumac_pret_for_vist
+VEC: 2_forc_abal_danific_estrad_pont_cost
+VEC: 3_cerc_cidad_2_mil_morador_kashiwazak
+VEC: 4_rachadur_metr_largur_for_vist_sol
+VEC: 5_ating_foi_tremor_regiã_às_10h13
+VEC: 6_segund_koich_uhir_agênc_meteorolog_tremor
+VEC: 7_for_gás_vári_servic_trem_bal
+VEC: 8_cerc_27_mil_famíl_estav_energ
+VEC: 9_terremot_6_graus_escal_richt_epicentr
+VEC: 10_terremot_p�_ser_sent_tóqui_foi
+VEC: 11_agênc_meteorológ_japã_cheg_emit_alert
+VEC: 12_duas_mulh_cerc_80_anos_morr
+VEC: 13_nucl_pequen_incêndi_acontec_transform_elétr
+VEC: 14_niigat_foi_ating_outubr_2004_terremot
+VEC: 15_pesso_fort_terremot_mat_cinc_noro
+VEC: 16_tóqui_niigat_imprens_mort_prédi_cheg
+VEC: 17_mikam_cas_prateleir_altas_caír_cois
+VEC: 18_elétr_incêndi_transform_usin_nucl_kashiwazak
+VEC: 19_japã_país_mund_suscetív_terremot_tremor
+VEC: 20_merc_financeir_país_estã_fech_segund
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 9
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 8
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 7
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 6
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 2 e 5
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 4
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 3
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 2
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.714286
+
+
+SIM: 0.714286
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.833333
+
+
+SIM: 0.833333
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0707483
+
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "19_japã_país_mund_suscetív_terremot_tremor" is "0.285714"
+
+CHANGE! -- From: 21 -> TO: 20
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "18_elétr_incêndi_transform_usin_nucl_kashiwazak" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "17_mikam_cas_prateleir_altas_caír_cois" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "16_tóqui_niigat_imprens_mort_prédi_cheg" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "15_pesso_fort_terremot_mat_cinc_noro" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "14_niigat_foi_ating_outubr_2004_terremot" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "13_nucl_pequen_incêndi_acontec_transform_elétr" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.142857"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.142857"
+
+Comparação entre os tópicos 2 e 9
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "9_terremot_6_graus_escal_richt_epicentr" is "0"
+
+Comparação entre os tópicos 2 e 8
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 2 e 7
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 2 e 6
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0.142857"
+
+Comparação entre os tópicos 2 e 5
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 2 e 4
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 2 e 3
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 2 e 2
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_merc_financeir_país_estã_fech_segund" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "18_elétr_incêndi_transform_usin_nucl_kashiwazak" is "0.142857"
+
+CHANGE! -- From: 20 -> TO: 19
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "17_mikam_cas_prateleir_altas_caír_cois" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "16_tóqui_niigat_imprens_mort_prédi_cheg" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "15_pesso_fort_terremot_mat_cinc_noro" is "0.285714"
+
+CHANGE! -- From: 20 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "14_niigat_foi_ating_outubr_2004_terremot" is "0.285714"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "13_nucl_pequen_incêndi_acontec_transform_elétr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.285714"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.285714"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "9_terremot_6_graus_escal_richt_epicentr" is "0.142857"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0.142857"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "5_ating_foi_tremor_regiã_às_10h13" is "0.142857"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "19_japã_país_mund_suscetív_terremot_tremor" and "0_pesso_terremot_6_graus_escal_richt" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 19 -- Topic s_aux: 15 -- Abs: 4
+
+
+Topic change from "19" to "15"
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 16
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "17_mikam_cas_prateleir_altas_caír_cois" is "0.142857"
+
+CHANGE! -- From: 19 -> TO: 18
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "16_tóqui_niigat_imprens_mort_prédi_cheg" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "15_pesso_fort_terremot_mat_cinc_noro" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "14_niigat_foi_ating_outubr_2004_terremot" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.714286
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "13_nucl_pequen_incêndi_acontec_transform_elétr" is "0.714286"
+
+CHANGE! -- From: 19 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.142857"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "9_terremot_6_graus_escal_richt_epicentr" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0.142857"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_elétr_incêndi_transform_usin_nucl_kashiwazak" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 19
+Topic: 16
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 18 -- Topic s_aux: 13 -- Abs: 5
+
+
+Topic change from "18" to "13"
+
+Topic: 15 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 16
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "16_tóqui_niigat_imprens_mort_prédi_cheg" is "0.142857"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "15_pesso_fort_terremot_mat_cinc_noro" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "14_niigat_foi_ating_outubr_2004_terremot" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "13_nucl_pequen_incêndi_acontec_transform_elétr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.142857"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "9_terremot_6_graus_escal_richt_epicentr" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_mikam_cas_prateleir_altas_caír_cois" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 16
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 16
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "15_pesso_fort_terremot_mat_cinc_noro" is "0.142857"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "14_niigat_foi_ating_outubr_2004_terremot" is "0.285714"
+
+CHANGE! -- From: 17 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "13_nucl_pequen_incêndi_acontec_transform_elétr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.285714"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.285714"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "9_terremot_6_graus_escal_richt_epicentr" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_tóqui_niigat_imprens_mort_prédi_cheg" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 16
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 14 -- Abs: 2
+
+
+Topic change from "16" to "14"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 14 -- Abs: 2
+
+
+Topic change from "16" to "14"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 14 -- Abs: 2
+
+
+Topic change from "16" to "14"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 14 -- Abs: 2
+
+
+Topic change from "16" to "14"
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 16
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "14_niigat_foi_ating_outubr_2004_terremot" is "0.285714"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "13_nucl_pequen_incêndi_acontec_transform_elétr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.285714"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "9_terremot_6_graus_escal_richt_epicentr" is "0.142857"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "15_pesso_fort_terremot_mat_cinc_noro" and "0_pesso_terremot_6_graus_escal_richt" is "0.285714"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 16
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 15 -- Topic s_aux: 14 -- Abs: 1
+
+
+Topic change from "15" to "14"
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 15 -- Topic s_aux: 14 -- Abs: 1
+
+
+Topic change from "15" to "14"
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 15 -- Topic s_aux: 14 -- Abs: 1
+
+
+Topic change from "15" to "14"
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 15
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "13_nucl_pequen_incêndi_acontec_transform_elétr" is "0.142857"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.428571"
+
+CHANGE! -- From: 15 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "9_terremot_6_graus_escal_richt_epicentr" is "0.142857"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "5_ating_foi_tremor_regiã_às_10h13" is "0.285714"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "14_niigat_foi_ating_outubr_2004_terremot" and "0_pesso_terremot_6_graus_escal_richt" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 15
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 10 -- Abs: 4
+
+
+Topic change from "14" to "10"
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "12_duas_mulh_cerc_80_anos_morr" is "0.142857"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.142857"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.142857"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "9_terremot_6_graus_escal_richt_epicentr" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_nucl_pequen_incêndi_acontec_transform_elétr" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "11_agênc_meteorológ_japã_cheg_emit_alert" is "0.142857"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.142857"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "9_terremot_6_graus_escal_richt_epicentr" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "8_cerc_27_mil_famíl_estav_energ" is "0.142857"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0.142857"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_duas_mulh_cerc_80_anos_morr" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "10_terremot_p�_ser_sent_tóqui_foi" is "0.142857"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "9_terremot_6_graus_escal_richt_epicentr" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0.142857"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_agênc_meteorológ_japã_cheg_emit_alert" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "9_terremot_6_graus_escal_richt_epicentr" is "0.142857"
+
+CHANGE! -- From: 11 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "5_ating_foi_tremor_regiã_às_10h13" is "0.142857"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_terremot_p�_ser_sent_tóqui_foi" and "0_pesso_terremot_6_graus_escal_richt" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "8_cerc_27_mil_famíl_estav_energ" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.833333
+
+
+Similarity between "9_terremot_6_graus_escal_richt_epicentr" and "0_pesso_terremot_6_graus_escal_richt" is "0.833333"
+
+CHANGE! -- From: 10 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 0 -- Abs: 9
+
+
+Topic change from "9" to "0"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 0 -- Abs: 9
+
+
+Topic change from "9" to "0"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 0 -- Abs: 9
+
+
+Topic change from "9" to "0"
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "7_for_gás_vári_servic_trem_bal" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0.333333"
+
+CHANGE! -- From: 9 -> TO: 4
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cerc_27_mil_famíl_estav_energ" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 3 -- Abs: 5
+
+
+Topic change from "8" to "3"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_for_gás_vári_servic_trem_bal" and "6_segund_koich_uhir_agênc_meteorolog_tremor" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_for_gás_vári_servic_trem_bal" and "5_ating_foi_tremor_regiã_às_10h13" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "7_for_gás_vári_servic_trem_bal" and "4_rachadur_metr_largur_for_vist_sol" is "0.166667"
+
+CHANGE! -- From: 8 -> TO: 5
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_for_gás_vári_servic_trem_bal" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_for_gás_vári_servic_trem_bal" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "7_for_gás_vári_servic_trem_bal" and "1_cham_rol_fumac_pret_for_vist" is "0.166667"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_for_gás_vári_servic_trem_bal" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "6_segund_koich_uhir_agênc_meteorolog_tremor" and "5_ating_foi_tremor_regiã_às_10h13" is "0.166667"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_koich_uhir_agênc_meteorolog_tremor" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_koich_uhir_agênc_meteorolog_tremor" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_koich_uhir_agênc_meteorolog_tremor" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_koich_uhir_agênc_meteorolog_tremor" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_segund_koich_uhir_agênc_meteorolog_tremor" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_ating_foi_tremor_regiã_às_10h13" and "4_rachadur_metr_largur_for_vist_sol" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_ating_foi_tremor_regiã_às_10h13" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_ating_foi_tremor_regiã_às_10h13" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_ating_foi_tremor_regiã_às_10h13" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_ating_foi_tremor_regiã_às_10h13" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_rachadur_metr_largur_for_vist_sol" and "3_cerc_cidad_2_mil_morador_kashiwazak" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_rachadur_metr_largur_for_vist_sol" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "4_rachadur_metr_largur_for_vist_sol" and "1_cham_rol_fumac_pret_for_vist" is "0.333333"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_rachadur_metr_largur_for_vist_sol" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_cerc_cidad_2_mil_morador_kashiwazak" and "2_forc_abal_danific_estrad_pont_cost" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_cerc_cidad_2_mil_morador_kashiwazak" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_cerc_cidad_2_mil_morador_kashiwazak" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_forc_abal_danific_estrad_pont_cost" and "1_cham_rol_fumac_pret_for_vist" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_forc_abal_danific_estrad_pont_cost" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_cham_rol_fumac_pret_for_vist" and "0_pesso_terremot_6_graus_escal_richt" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 18
+Topic: 14
+Topic: 11
+Topic: 21
+NUM_TOPICS: 18
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: terremot  - Frequency: 2
+Word: 6  - Frequency: 2
+Word: graus  - Frequency: 2
+Word: escal  - Frequency: 2
+Word: richt  - Frequency: 2
+Word: ating  - Frequency: 2
+Word: cost  - Frequency: 2
+Word: noro  - Frequency: 2
+Word: japã  - Frequency: 2
+Word: segund  - Frequency: 2
+Word: 16  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: set  - Frequency: 1
+Word: pesso  - Frequency: 3
+Word: cidad  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 700  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: equip  - Frequency: 1
+Word: resgat  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: escombr  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: profund  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h13m  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: derrub  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: fic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_pesso
+
+Keyword: 0_pesso_terremot_6_graus_escal_richt_ating_cost_noro_japã_segund_fer
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: cham  - Frequency: 1
+Word: rol  - Frequency: 1
+Word: fumac  - Frequency: 1
+Word: pret  - Frequency: 1
+Word: for  - Frequency: 4
+Word: vist  - Frequency: 2
+Word: usin  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: kashiwazak  - Frequency: 2
+Word: foi  - Frequency: 3
+Word: automat  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: terremot  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: nhk  - Frequency: 1
+Word: fog  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: transform  - Frequency: 1
+Word: eletr  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: houv  - Frequency: 1
+Word: vazament  - Frequency: 2
+Word: radiaçã  - Frequency: 1
+Word: rachadur  - Frequency: 1
+Word: metr  - Frequency: 1
+Word: largur  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: long  - Frequency: 1
+Word: litoral  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: meteorolog  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: alert  - Frequency: 1
+Word: tsunam  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: niigat  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: costeir  - Frequency: 1
+Word: redond  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: avis  - Frequency: 1
+Word: cancel  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: bal  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: tóqui  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: país  - Frequency: 1
+Word: suspens  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: ofic  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: fornec  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: gás  - Frequency: 2
+Word: 35  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: resident  - Frequency: 1
+Word: cort  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: constat  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_for
+
+Keyword: 1_for_foi
+
+Keyword: 1_for_foi_vist_kashiwazak_vazament_gás
+
+Keyword: 1_for_foi_vist_kashiwazak_vazament_gás_cham_rol_fumac_pret_usin_nucl_automat_fech_durant_terremot_segund_tv_nhk_fog_ating_transform_eletr_nã_houv_radiaçã_rachadur_metr_largur_sol_long_litoral_agênc_meteorolog_divulg_alert_tsunam_estad_niigat_regiã_costeir_redond_fim_avis_cancel_vári_servic_trem_bal_lig_tóqui_nort_nord_país_suspens_inform_ofic_indic_fornec_águ_35_mil_resident_cort_depo_constat
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: forc  - Frequency: 1
+Word: abal  - Frequency: 1
+Word: danific  - Frequency: 1
+Word: estrad  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: cost  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_forc_abal_danific_estrad_pont_cost
+
+Keyword: 2_forc_abal_danific_estrad_pont_cost
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: cerc  - Frequency: 3
+Word: 2  - Frequency: 1
+Word: mil  - Frequency: 2
+Word: morador  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: afet  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: 300  - Frequency: 1
+Word: edifíci  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: destruíd  - Frequency: 1
+Word: 27  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: energ  - Frequency: 1
+Word: elétr  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: niigat  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_cerc
+
+Keyword: 3_cerc_mil_cidad
+
+Keyword: 3_cerc_mil_cidad_2_morador_kashiwazak_afet_pel_tremor_tiv_deix_cas_300_edifíci_fic_destruíd_27_famíl_estav_energ_elétr_manhã_segund_niigat
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: tremor  - Frequency: 1
+Word: ating  - Frequency: 2
+Word: regiã  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h13  - Frequency: 1
+Word: local  - Frequency: 1
+Word: 22h13  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: localiz  - Frequency: 1
+Word: 260  - Frequency: 1
+Word: km  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: niigat  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: tóqui  - Frequency: 1
+Word: também  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: abal  - Frequency: 1
+Word: secundári  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: dentr  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: graus  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_ating_foi
+
+Keyword: 5_ating_foi_tremor_regiã_às_10h13_local_22h13_doming_brasíl_epicentr_localiz_260_km_cost_niigat_nord_capital_tóqui_também_sent_séri_pequen_abal_secundári_áre_dentr_4_graus
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: segund  - Frequency: 1
+Word: koich  - Frequency: 1
+Word: uhir  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: meteorolog  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: seman  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_segund_koich_uhir_agênc_meteorolog_tremor_pod_continu_seman
+
+Keyword: 6_segund_koich_uhir_agênc_meteorolog_tremor_pod_continu_seman
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: terremot  - Frequency: 4
+Word: p�  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: tóqui  - Frequency: 3
+Word: foi  - Frequency: 2
+Word: segu  - Frequency: 1
+Word: tremor  - Frequency: 3
+Word: menor  - Frequency: 1
+Word: magnitud  - Frequency: 2
+Word: 4  - Frequency: 1
+Word: graus  - Frequency: 1
+Word: escal  - Frequency: 1
+Word: ritch  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 10h34m  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: niigat  - Frequency: 3
+Word: ating  - Frequency: 1
+Word: outubr  - Frequency: 1
+Word: 2004  - Frequency: 1
+Word: intens  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: mort  - Frequency: 3
+Word: 65  - Frequency: 1
+Word: pesso  - Frequency: 3
+Word: deix  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: fort  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: cinc  - Frequency: 3
+Word: noro  - Frequency: 2
+Word: japã  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: 600  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: cas  - Frequency: 2
+Word: for  - Frequency: 1
+Word: derrub  - Frequency: 1
+Word: houv  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: usin  - Frequency: 2
+Word: nucl  - Frequency: 2
+Word: mund  - Frequency: 2
+Word: prédi  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: reator  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: automat  - Frequency: 1
+Word: checagens  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: haj  - Frequency: 1
+Word: relat  - Frequency: 1
+Word: vazament  - Frequency: 1
+Word: radiaçã  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: mulh  - Frequency: 1
+Word: faix  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: ruír  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 250  - Frequency: 1
+Word: km  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: imprens  - Frequency: 2
+Word: japones  - Frequency: 1
+Word: port  - Frequency: 1
+Word: policial  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: notic  - Frequency: 1
+Word: idos  - Frequency: 1
+Word: casal  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: país  - Frequency: 1
+Word: suscetív  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: minut  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_terremot
+
+Keyword: 10_terremot_tóqui_tremor_niigat_mort_pesso_cinc
+
+Keyword: 10_terremot_tóqui_tremor_niigat_mort_pesso_cinc_foi_magnitud_fer_noro_japã_cas_usin_nucl_mund_imprens
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: agênc  - Frequency: 1
+Word: meteorológ  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: emit  - Frequency: 1
+Word: alert  - Frequency: 1
+Word: tsunam  - Frequency: 1
+Word: ilha  - Frequency: 1
+Word: sad  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: provínc  - Frequency: 1
+Word: niigat  - Frequency: 1
+Word: suspend  - Frequency: 1
+Word: avis  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: depo  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_agênc_meteorológ_japã_cheg_emit_alert_tsunam_ilha_sad_cost_provínc_niigat_suspend_avis_hor_depo
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: duas  - Frequency: 2
+Word: mulh  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: desmoron  - Frequency: 1
+Word: tremor  - Frequency: 1
+Word: detalh  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: nhk  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: disponív  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_duas
+
+Keyword: 12_duas_mulh_cerc_80_anos_morr_cas_desmoron_tremor_detalh_mort_inform_pel_emissor_públic_nhk_nã_estã_disponív
+
+Cur_topic: 13
+
+
+
+------------------------------------------------------------
+Topic: 13
+Word: pequen  - Frequency: 1
+Word: incêndi  - Frequency: 2
+Word: acontec  - Frequency: 1
+Word: transform  - Frequency: 2
+Word: elétr  - Frequency: 3
+Word: usin  - Frequency: 2
+Word: nucl  - Frequency: 3
+Word: kashiwazak  - Frequency: 2
+Word: kariw  - Frequency: 2
+Word: maior  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: fog  - Frequency: 1
+Word: já  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: control  - Frequency: 1
+Word: reator  - Frequency: 1
+Word: for  - Frequency: 1
+Word: deslig  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: houv  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: radiaçã  - Frequency: 1
+Word: rapid  - Frequency: 1
+Word: extint  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: está  - Frequency: 1
+Word: clar  - Frequency: 1
+Word: companh  - Frequency: 1
+Word: tóqui  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: relig  - Frequency: 1
+Word: três  - Frequency: 1
+Word: unidad  - Frequency: 1
+Word: complex  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: yoshinobu  - Frequency: 1
+Word: kamijim  - Frequency: 1
+Word: port  - Frequency: 1
+Word: empres  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_elétr_nucl
+
+Keyword: 13_elétr_nucl_incêndi_transform_usin_kashiwazak_kariw_foi_nã
+
+Keyword: 13_elétr_nucl_incêndi_transform_usin_kashiwazak_kariw_foi_nã_pequen_acontec_maior_mund_localiz_pert_epicentr_fog_já_control_reator_for_deslig_houv_liber_radiaçã_rapid_extint_aind_está_clar_companh_tóqui_vai_relig_três_unidad_complex_diss_yoshinobu_kamijim_port_empres
+
+Cur_topic: 17
+
+
+
+------------------------------------------------------------
+Topic: 17
+Word: prateleir  - Frequency: 1
+Word: altas  - Frequency: 1
+Word: caír  - Frequency: 1
+Word: cois  - Frequency: 1
+Word: voar  - Frequency: 1
+Word: part  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: harum  - Frequency: 1
+Word: mikam  - Frequency: 2
+Word: 55  - Frequency: 1
+Word: professor  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: escol  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: kashiwazak  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: epicentr  - Frequency: 1
+Word: terremot  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: cas  - Frequency: 2
+Word: está  - Frequency: 1
+Word: destruíd  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: vou  - Frequency: 1
+Word: viv  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: resgat  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: red  - Frequency: 1
+Word: nhk  - Frequency: 1
+Word: prefeitur  - Frequency: 1
+Word: niigat  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_mikam_cas
+
+Keyword: 17_mikam_cas_prateleir_altas_caír_cois_voar_part_cont_harum_55_professor_estav_escol_cidad_kashiwazak_pert_epicentr_terremot_metad_está_destruíd_diss_maior_preocup_vou_viv_agor_cerc_1_pesso_fug_quas_100_centr_resgat_segund_red_nhk_prefeitur_niigat
+
+Cur_topic: 20
+
+
+
+------------------------------------------------------------
+Topic: 20
+Word: merc  - Frequency: 1
+Word: financeir  - Frequency: 1
+Word: país  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: fech  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: feri  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 20_merc_financeir_país_estã_fech_segund_dev_feri
+
+Keyword: 20_merc_financeir_país_estã_fech_segund_dev_feri
+
+NUM: 12
+
+
+NUM: 66
+
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 24
+
+
+NUM: 29
+
+
+NUM: 9
+
+
+NUM: 17
+
+
+NUM: 16
+
+
+NUM: 19
+
+
+NUM: 42
+
+
+NUM: 41
+
+
+NUM: 8
+
+
+(FINAL) AVERAGE: 6
+
+NUM: 12
+
+
+NUM: 66
+
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 24
+
+
+NUM: 29
+
+
+NUM: 9
+
+
+NUM: 17
+
+
+NUM: 16
+
+
+NUM: 19
+
+
+NUM: 42
+
+
+NUM: 41
+
+
+NUM: 8
+
+
+---------------BEFORE!-------------
+
+VEC: 0_pesso_terremot_6_graus_escal_richt_ating_cost_noro_japã_segund_fer
+VEC: 1_for_foi_vist_kashiwazak_vazament_gás_cham_rol_fumac_pret_usin_nucl_automat_fech_durant_terremot_segund_tv_nhk_fog_ating_transform_eletr_nã_houv_radiaçã_rachadur_metr_largur_sol_long_litoral_agênc_meteorolog_divulg_alert_tsunam_estad_niigat_regiã_costeir_redond_fim_avis_cancel_vári_servic_trem_bal_lig_tóqui_nort_nord_país_suspens_inform_ofic_indic_fornec_águ_35_mil_resident_cort_depo_constat
+VEC: 2_forc_abal_danific_estrad_pont_cost
+VEC: 3_cerc_mil_cidad_2_morador_kashiwazak_afet_pel_tremor_tiv_deix_cas_300_edifíci_fic_destruíd_27_famíl_estav_energ_elétr_manhã_segund_niigat
+VEC: 5_ating_foi_tremor_regiã_às_10h13_local_22h13_doming_brasíl_epicentr_localiz_260_km_cost_niigat_nord_capital_tóqui_também_sent_séri_pequen_abal_secundári_áre_dentr_4_graus
+VEC: 6_segund_koich_uhir_agênc_meteorolog_tremor_pod_continu_seman
+VEC: 10_terremot_tóqui_tremor_niigat_mort_pesso_cinc_foi_magnitud_fer_noro_japã_cas_usin_nucl_mund_imprens
+VEC: 11_agênc_meteorológ_japã_cheg_emit_alert_tsunam_ilha_sad_cost_provínc_niigat_suspend_avis_hor_depo
+VEC: 12_duas_mulh_cerc_80_anos_morr_cas_desmoron_tremor_detalh_mort_inform_pel_emissor_públic_nhk_nã_estã_disponív
+VEC: 13_elétr_nucl_incêndi_transform_usin_kashiwazak_kariw_foi_nã_pequen_acontec_maior_mund_localiz_pert_epicentr_fog_já_control_reator_for_deslig_houv_liber_radiaçã_rapid_extint_aind_está_clar_companh_tóqui_vai_relig_três_unidad_complex_diss_yoshinobu_kamijim_port_empres
+VEC: 17_mikam_cas_prateleir_altas_caír_cois_voar_part_cont_harum_55_professor_estav_escol_cidad_kashiwazak_pert_epicentr_terremot_metad_está_destruíd_diss_maior_preocup_vou_viv_agor_cerc_1_pesso_fug_quas_100_centr_resgat_segund_red_nhk_prefeitur_niigat
+VEC: 20_merc_financeir_país_estã_fech_segund_dev_feri
+
+---------------AFTER!-------------
+
+VEC: 0_pesso_terremot_6_graus_escal_richt
+VEC: 1_for_foi_vist_kashiwazak_vazament_gás
+VEC: 2_forc_abal_danific_estrad_pont_cost
+VEC: 3_cerc_mil_cidad_2_morador_kashiwazak
+VEC: 5_ating_foi_tremor_regiã_às_10h13
+VEC: 6_segund_koich_uhir_agênc_meteorolog_tremor
+VEC: 10_terremot_tóqui_tremor_niigat_mort_pesso
+VEC: 11_agênc_meteorológ_japã_cheg_emit_alert
+VEC: 12_duas_mulh_cerc_80_anos_morr
+VEC: 13_elétr_nucl_incêndi_transform_usin_kashiwazak
+VEC: 17_mikam_cas_prateleir_altas_caír_cois
+VEC: 20_merc_financeir_país_estã_fech_segund
+Keyword: 0_pesso_terremot_6_graus_escal_richt
+Keyword: 1_for_foi_vist_kashiwazak_vazament_gás
+Keyword: 2_forc_abal_danific_estrad_pont_cost
+Keyword: 3_cerc_mil_cidad_2_morador_kashiwazak
+Keyword: 5_ating_foi_tremor_regiã_às_10h13
+Keyword: 6_segund_koich_uhir_agênc_meteorolog_tremor
+Keyword: 10_terremot_tóqui_tremor_niigat_mort_pesso
+Keyword: 11_agênc_meteorológ_japã_cheg_emit_alert
+Keyword: 12_duas_mulh_cerc_80_anos_morr
+Keyword: 13_elétr_nucl_incêndi_transform_usin_kashiwazak
+Keyword: 17_mikam_cas_prateleir_altas_caír_cois
+Keyword: 20_merc_financeir_país_estã_fech_segund

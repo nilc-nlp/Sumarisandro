@@ -1,0 +1,3483 @@
+Sentenca(topic=0): O ministro da Saúde egípcio, Hatem El-Gabaly, informou nesta segunda-feira que 57 pessoas morreram e 128 ficaram feridas no choque entre dois trens de passageiros no delta do Nilo, ao norte do Cairo.
+Sentenca(topic=1): Os feridos, vários deles em estado grave, foram levados para seis hospitais da região onde aconteceu o acidente, um dos piores ocorridos no Egito desde 2002, disse El-Gabaly, citado pela agência egípcia de notícias Mena.
+Sentenca(topic=1): Fontes policiais e médicas informaram anteriormente que pelo menos 80 pessoas tinham morrido no acidente.
+Sentenca(topic=1): O acidente ocorreu às 7h15 (1h15 em Brasília) entre um trem procedente da cidade nortista de Lardo e outro que esperava na estação Qalyoub, 20 quilômetros ao norte da capital do Egito.
+Sentenca(topic=1): Mais de 45 ambulâncias levaram as vítimas aos hospitais de Qaliubiya e de Shebin al-Qanater.
+Sentenca(topic=2): Efetivos do Exército, membros da Defesa Civil e equipes médicas participam dos trabalhos de resgate.
+Sentenca(topic=3): O Governador de Qaluibiya, Adli Hussein, que se deslocou junto com outros vários altos funcionários egípcios ao local do acidente, afirmou que a colisão ocorreu quando o trem número 808 que circulava em alta velocidade se chocou com a parte traseira de outro, que vinha da de Qaliub.
+Sentenca(topic=4): Fontes do Ministério de Transporte disseram que vários vagões descarrilaram e tombaram, e que os bombeiros conseguiram controlar um incêndio no trem que procedia de Lardo.
+Sentenca(topic=5): A maior tragédia ferroviária da história do Egito ocorreu em fevereiro de 2002, após o incêndio de um trem que cobria o trajeto entre Cairo e Luxor  (sul), lotado de passageiros, e que deixou 376 mortos, segundo números oficiais.
+Sentenca(topic=6): Uma colisão entre dois trens de passageiros provocou a morte de pelo menos 80 pessoas e deixou 165 feridas.
+Sentenca(topic=6): O acidente ocorreu no delta do Nilo, ao norte de Cairo, no Egito.
+Sentenca(topic=7): No entanto, o ministro da Saúde, Hatem El-Gabaly, insistiu que até o momento foram recuperados apenas 36 cadáveres e que 133 feridos foram encaminhados a hospitais da região.
+Sentenca(topic=7): A emissora de TV estatal Nile News mostrou as primeiras imagens do acidente, nas quais era possível ver vários cadáveres que ainda se encontram no interior ou sob os vagões descarrilados.
+Sentenca(topic=7): Fontes do Ministério de Transporte disseram que o número de mortos pode aumentar devido ao estado grave de vários dos feridos e que ainda há cadáveres sob os vagões dos dois trens.
+Sentenca(topic=8): Mais de 45 ambulâncias foram enviadas ao local do acidente para socorrer as vítimas.
+Sentenca(topic=9): O governador de Qaluibiya, Adli Hussein, que se deslocou junto com outros vários altos funcionários egípcios ao local do acidente, afirmou que a colisão ocorreu quando o trem número 808 que circulava em alta velocidade se chocou com a parte traseira de outro, que vinha de Qaliub.
+Sentenca(topic=10): Trata-se do terceiro acidente deste tipo no Delta do Nilo desde 28 de fevereiro, quando cerca de 20 pessoas ficaram feridas em choque entre dois trens em Beheira, 150 quilômetros ao norte do Cairo.
+Sentenca(topic=10): No dia 1° de maio, mais de 40 pessoas ficaram feridas em um acidente similar na província de Al Sharquiya, cerca de 100 quilômetros ao norte da capital.
+Sentenca(topic=10): A maior tragédia ferroviária da história do Egito ocorreu em fevereiro de 2002, após o incêndio de um trem que cobria o trajeto entre Cairo e Luxor (sul) , lotado de passageiros, e que deixou 376 mortos, segundo números oficiais.
+Sentenca(topic=11): Pelo menos 80 pessoas morreram e mais de 165 ficaram feridas nesta segunda-feira após a colisão de dois trens de passageiros no delta do Nilo, ao norte do Cairo, informaram fontes policiais e médicas.
+Sentenca(topic=11): A emissora de TV estatal "Nile News" mostrou as primeiras imagens do acidente, nas quais era possível ver vários cadáveres que ainda se encontram no interior ou sob os vagões descarrilados.
+Sentenca(topic=11): No entanto, o ministro da Saúde, Hatem El-Gabaly, insistiu que até o momento foram recuperados apenas 36 cadáveres e que 133 feridos foram encaminhados a hospitais da região.
+Sentenca(topic=11): Mais de 45 ambulâncias foram enviadas ao local do acidente para socorrer as vítimas.
+Sentenca(topic=11): O governador de Qaluibiya, Adli Hussein, que se deslocou junto com outros vários altos funcionários egípcios ao local do acidente, afirmou que a colisão ocorreu quando o trem número 808  que circulava em alta velocidade se chocou com a parte traseira de outro, que vinha de Qaliub.
+Sentenca(topic=11): A maior tragédia ferroviária da história do Egito ocorreu em fevereiro de 2002, após o incêndio de um trem que cobria o trajeto entre Cairo e Luxor, lotado de passageiros, e que deixou 376 mortos, segundo números oficiais.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ministr  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: egípci  - Frequency: 1
+Word: hat  - Frequency: 1
+Word: el  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: 57  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: 128  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: choqu  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: trens  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: delt  - Frequency: 1
+Word: nil  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: cair  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_ministr_saúd_egípci_hat_el_inform_segund_57_pesso_morr_128_fic_fer_choqu_dois_trens_passageir_delt_nil_nort_cair
+
+
+------------------------------------------------------------
+Topic: 1
+Word: fer  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: for  - Frequency: 1
+Word: lev  - Frequency: 2
+Word: seis  - Frequency: 1
+Word: hospit  - Frequency: 2
+Word: regiã  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: acident  - Frequency: 3
+Word: pior  - Frequency: 1
+Word: ocorr  - Frequency: 2
+Word: egit  - Frequency: 2
+Word: 2002  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: el  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: agênc  - Frequency: 1
+Word: egípc  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: men  - Frequency: 1
+Word: font  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: às  - Frequency: 1
+Word: 7h15  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: procedent  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: nortist  - Frequency: 1
+Word: lard  - Frequency: 1
+Word: esper  - Frequency: 1
+Word: estaçã  - Frequency: 1
+Word: qalyoub  - Frequency: 1
+Word: 20  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: 45  - Frequency: 1
+Word: ambulânc  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: qaliubiy  - Frequency: 1
+Word: shebin  - Frequency: 1
+Word: al  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_acident
+
+Keyword: 1_acident_lev_hospit_ocorr_egit_pel
+
+Keyword: 1_acident_lev_hospit_ocorr_egit_pel_fer_vári_estad_grav_for_seis_regiã_acontec_pior_2002_diss_el_cit_agênc_egípc_notíc_men_font_polic_médic_inform_anterior_80_pesso_tinh_morr_às_7h15_brasíl_trem_procedent_cidad_nortist_lard_esper_estaçã_qalyoub_20_quil�_nort_capital_45_ambulânc_vítim_qaliubiy_shebin_al
+
+
+------------------------------------------------------------
+Topic: 2
+Word: efet  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: resgat  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_efet_exércit_membr_defes_civil_equip_médic_particip_trabalh_resgat
+
+Keyword: 2_efet_exércit_membr_defes_civil_equip_médic_particip_trabalh_resgat
+
+
+------------------------------------------------------------
+Topic: 3
+Word: govern  - Frequency: 1
+Word: qaluibiy  - Frequency: 1
+Word: adli  - Frequency: 1
+Word: hussein  - Frequency: 1
+Word: desloc  - Frequency: 1
+Word: junt  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: altos  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: egípci  - Frequency: 1
+Word: local  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: colisã  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: 808  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: choc  - Frequency: 1
+Word: part  - Frequency: 1
+Word: traseir  - Frequency: 1
+Word: vinh  - Frequency: 1
+Word: qaliub  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos_funcionári_egípci_local_acident_afirm_colisã_ocorr_trem_númer_808_circul_alta_veloc_choc_part_traseir_vinh_qaliub
+
+
+------------------------------------------------------------
+Topic: 4
+Word: font  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: vagõ  - Frequency: 1
+Word: descarril  - Frequency: 1
+Word: tomb  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: control  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: proced  - Frequency: 1
+Word: lard  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb_bombeir_consegu_control_incêndi_trem_proced_lard
+
+
+------------------------------------------------------------
+Topic: 5
+Word: maior  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: ferroviár  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: egit  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: fevereir  - Frequency: 1
+Word: 2002  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: cobr  - Frequency: 1
+Word: trajet  - Frequency: 1
+Word: cair  - Frequency: 1
+Word: luxor  - Frequency: 1
+Word: lot  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 376  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: ofic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002_incêndi_trem_cobr_trajet_cair_luxor_lot_passageir_deix_376_mort_segund_númer_ofic
+
+
+------------------------------------------------------------
+Topic: 6
+Word: colisã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: trens  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 165  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: delt  - Frequency: 1
+Word: nil  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: cair  - Frequency: 1
+Word: egit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_colisã_dois_trens_passageir_provoc_mort_pel_80_pesso_deix_165_fer_acident_ocorr_delt_nil_nort_cair_egit
+
+
+------------------------------------------------------------
+Topic: 7
+Word: entant  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: hat  - Frequency: 1
+Word: el  - Frequency: 1
+Word: insist  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: for  - Frequency: 2
+Word: recuper  - Frequency: 1
+Word: 36  - Frequency: 1
+Word: cadáv  - Frequency: 3
+Word: 133  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: encaminh  - Frequency: 1
+Word: hospit  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: nil  - Frequency: 1
+Word: news  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: imagens  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: era  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: ver  - Frequency: 1
+Word: vári  - Frequency: 2
+Word: aind  - Frequency: 2
+Word: encontr  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: vagõ  - Frequency: 2
+Word: descarril  - Frequency: 1
+Word: font  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: há  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: trens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_cadáv
+
+Keyword: 7_cadáv_for_fer_vári_aind_vagõ
+
+Keyword: 7_cadáv_for_fer_vári_aind_vagõ_entant_ministr_saúd_hat_el_insist_moment_recuper_36_133_encaminh_hospit_regiã_emissor_tv_estatal_nil_news_mostr_primeir_imagens_acident_era_possível_ver_encontr_interior_descarril_font_ministéri_transport_diss_númer_mort_pod_aument_dev_estad_grav_há_dois_trens
+
+
+------------------------------------------------------------
+Topic: 8
+Word: 45  - Frequency: 1
+Word: ambulânc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: local  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: socorr  - Frequency: 1
+Word: vítim  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_45_ambulânc_for_envi_local_acident_socorr_vítim
+
+Keyword: 8_45_ambulânc_for_envi_local_acident_socorr_vítim
+
+
+------------------------------------------------------------
+Topic: 9
+Word: govern  - Frequency: 1
+Word: qaluibiy  - Frequency: 1
+Word: adli  - Frequency: 1
+Word: hussein  - Frequency: 1
+Word: desloc  - Frequency: 1
+Word: junt  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: altos  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: egípci  - Frequency: 1
+Word: local  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: colisã  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: 808  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: choc  - Frequency: 1
+Word: part  - Frequency: 1
+Word: traseir  - Frequency: 1
+Word: vinh  - Frequency: 1
+Word: qaliub  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos_funcionári_egípci_local_acident_afirm_colisã_ocorr_trem_númer_808_circul_alta_veloc_choc_part_traseir_vinh_qaliub
+
+
+------------------------------------------------------------
+Topic: 10
+Word: trat  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: acident  - Frequency: 2
+Word: tip  - Frequency: 1
+Word: delt  - Frequency: 1
+Word: nil  - Frequency: 1
+Word: 28  - Frequency: 1
+Word: fevereir  - Frequency: 2
+Word: cerc  - Frequency: 2
+Word: 20  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: fic  - Frequency: 2
+Word: fer  - Frequency: 2
+Word: choqu  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: trens  - Frequency: 1
+Word: beheir  - Frequency: 1
+Word: 150  - Frequency: 1
+Word: quil�  - Frequency: 2
+Word: nort  - Frequency: 2
+Word: cair  - Frequency: 2
+Word: dia  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: 40  - Frequency: 1
+Word: simil  - Frequency: 1
+Word: provínc  - Frequency: 1
+Word: al  - Frequency: 1
+Word: sharquiy  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: ferroviár  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: egit  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: 2002  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: cobr  - Frequency: 1
+Word: trajet  - Frequency: 1
+Word: luxor  - Frequency: 1
+Word: lot  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 376  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: ofic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort_cair
+
+Keyword: 10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort_cair_trat_terceir_tip_delt_nil_28_20_choqu_dois_trens_beheir_150_dia_1_mai_40_simil_provínc_al_sharquiy_100_capital_maior_tragéd_ferroviár_histór_egit_ocorr_2002_incêndi_trem_cobr_trajet_luxor_lot_passageir_deix_376_mort_segund_númer_ofic
+
+
+------------------------------------------------------------
+Topic: 11
+Word: pel  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: 165  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: segund  - Frequency: 2
+Word: colisã  - Frequency: 2
+Word: dois  - Frequency: 1
+Word: trens  - Frequency: 1
+Word: passageir  - Frequency: 2
+Word: delt  - Frequency: 1
+Word: nil  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: cair  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: font  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: news  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: imagens  - Frequency: 1
+Word: acident  - Frequency: 3
+Word: era  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: ver  - Frequency: 1
+Word: vári  - Frequency: 2
+Word: cadáv  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: vagõ  - Frequency: 1
+Word: descarril  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: hat  - Frequency: 1
+Word: el  - Frequency: 1
+Word: insist  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: for  - Frequency: 3
+Word: recuper  - Frequency: 1
+Word: 36  - Frequency: 1
+Word: 133  - Frequency: 1
+Word: encaminh  - Frequency: 1
+Word: hospit  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: 45  - Frequency: 1
+Word: ambulânc  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: local  - Frequency: 2
+Word: socorr  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: qaluibiy  - Frequency: 1
+Word: adli  - Frequency: 1
+Word: hussein  - Frequency: 1
+Word: desloc  - Frequency: 1
+Word: junt  - Frequency: 1
+Word: altos  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: egípci  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: ocorr  - Frequency: 2
+Word: trem  - Frequency: 2
+Word: númer  - Frequency: 2
+Word: 808  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: choc  - Frequency: 1
+Word: part  - Frequency: 1
+Word: traseir  - Frequency: 1
+Word: vinh  - Frequency: 1
+Word: qaliub  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: tragéd  - Frequency: 1
+Word: ferroviár  - Frequency: 1
+Word: histór  - Frequency: 1
+Word: egit  - Frequency: 1
+Word: fevereir  - Frequency: 1
+Word: 2002  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: cobr  - Frequency: 1
+Word: trajet  - Frequency: 1
+Word: luxor  - Frequency: 1
+Word: lot  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 376  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: ofic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_acident_for
+
+Keyword: 11_acident_for_fer_segund_colisã_passageir_cair_vári_cadáv_local_ocorr_trem_númer
+
+NUM: 21
+
+
+NUM: 53
+
+
+NUM: 10
+
+
+NUM: 26
+
+
+NUM: 15
+
+
+NUM: 22
+
+
+NUM: 19
+
+
+NUM: 48
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 26
+
+
+NUM: 51
+
+
+NUM: 13
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 21
+
+
+NUM: 53
+
+
+NUM: 10
+
+
+NUM: 26
+
+
+NUM: 15
+
+
+NUM: 22
+
+
+NUM: 19
+
+
+NUM: 48
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 26
+
+
+NUM: 51
+
+
+NUM: 13
+
+
+---------------BEFORE!-------------
+
+VEC: 0_ministr_saúd_egípci_hat_el_inform_segund_57_pesso_morr_128_fic_fer_choqu_dois_trens_passageir_delt_nil_nort_cair
+VEC: 1_acident_lev_hospit_ocorr_egit_pel_fer_vári_estad_grav_for_seis_regiã_acontec_pior_2002_diss_el_cit_agênc_egípc_notíc_men_font_polic_médic_inform_anterior_80_pesso_tinh_morr_às_7h15_brasíl_trem_procedent_cidad_nortist_lard_esper_estaçã_qalyoub_20_quil�_nort_capital_45_ambulânc_vítim_qaliubiy_shebin_al
+VEC: 2_efet_exércit_membr_defes_civil_equip_médic_particip_trabalh_resgat
+VEC: 3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos_funcionári_egípci_local_acident_afirm_colisã_ocorr_trem_númer_808_circul_alta_veloc_choc_part_traseir_vinh_qaliub
+VEC: 4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb_bombeir_consegu_control_incêndi_trem_proced_lard
+VEC: 5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002_incêndi_trem_cobr_trajet_cair_luxor_lot_passageir_deix_376_mort_segund_númer_ofic
+VEC: 6_colisã_dois_trens_passageir_provoc_mort_pel_80_pesso_deix_165_fer_acident_ocorr_delt_nil_nort_cair_egit
+VEC: 7_cadáv_for_fer_vári_aind_vagõ_entant_ministr_saúd_hat_el_insist_moment_recuper_36_133_encaminh_hospit_regiã_emissor_tv_estatal_nil_news_mostr_primeir_imagens_acident_era_possível_ver_encontr_interior_descarril_font_ministéri_transport_diss_númer_mort_pod_aument_dev_estad_grav_há_dois_trens
+VEC: 8_45_ambulânc_for_envi_local_acident_socorr_vítim
+VEC: 9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos_funcionári_egípci_local_acident_afirm_colisã_ocorr_trem_númer_808_circul_alta_veloc_choc_part_traseir_vinh_qaliub
+VEC: 10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort_cair_trat_terceir_tip_delt_nil_28_20_choqu_dois_trens_beheir_150_dia_1_mai_40_simil_provínc_al_sharquiy_100_capital_maior_tragéd_ferroviár_histór_egit_ocorr_2002_incêndi_trem_cobr_trajet_luxor_lot_passageir_deix_376_mort_segund_númer_ofic
+VEC: 11_acident_for_fer_segund_colisã_passageir_cair_vári_cadáv_local_ocorr_trem_númer
+
+---------------AFTER!-------------
+
+VEC: 0_ministr_saúd_egípci_hat_el_inform_segund_57
+VEC: 1_acident_lev_hospit_ocorr_egit_pel_fer_vári
+VEC: 2_efet_exércit_membr_defes_civil_equip_médic_particip
+VEC: 3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos
+VEC: 4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb
+VEC: 5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002
+VEC: 6_colisã_dois_trens_passageir_provoc_mort_pel_80
+VEC: 7_cadáv_for_fer_vári_aind_vagõ_entant_ministr
+VEC: 8_45_ambulânc_for_envi_local_acident_socorr_vítim
+VEC: 9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos
+VEC: 10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort
+VEC: 11_acident_for_fer_segund_colisã_passageir_cair_vári
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 8
+Similaridade entre eles: 1
+
+
+SIM: 1
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0843855
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" is "0.333333"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "8_45_ambulânc_for_envi_local_acident_socorr_vítim" is "0.222222"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" is "0.333333"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "6_colisã_dois_trens_passageir_provoc_mort_pel_80" is "0.222222"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.333333"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_acident_for_fer_segund_colisã_passageir_cair_vári" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 10 -- Abs: 1
+
+
+Topic change from "11" to "10"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "8_45_ambulânc_for_envi_local_acident_socorr_vítim" is "0.111111"
+
+CHANGE! -- From: 11 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "6_colisã_dois_trens_passageir_provoc_mort_pel_80" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.222222"
+
+CHANGE! -- From: 11 -> TO: 2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_acident_fevereir_cerc_pesso_fic_fer_quil�_nort" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 1 -- Abs: 9
+
+
+Topic change from "10" to "1"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "8_45_ambulânc_for_envi_local_acident_socorr_vítim" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" is "0.125"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "6_colisã_dois_trens_passageir_provoc_mort_pel_80" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" is "0.125"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 8
+Similaridade entre eles: 1
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "1"
+
+CHANGE! -- From: 10 -> TO: 4
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.125"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" is "0.125"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "6_colisã_dois_trens_passageir_provoc_mort_pel_80" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.125"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_45_ambulânc_for_envi_local_acident_socorr_vítim" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" and "6_colisã_dois_trens_passageir_provoc_mort_pel_80" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" and "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" and "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" is "0.25"
+
+CHANGE! -- From: 8 -> TO: 5
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0.125"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.25"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_cadáv_for_fer_vári_aind_vagõ_entant_ministr" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_colisã_dois_trens_passageir_provoc_mort_pel_80" and "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_colisã_dois_trens_passageir_provoc_mort_pel_80" and "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_colisã_dois_trens_passageir_provoc_mort_pel_80" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_colisã_dois_trens_passageir_provoc_mort_pel_80" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_colisã_dois_trens_passageir_provoc_mort_pel_80" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.125"
+
+CHANGE! -- From: 7 -> TO: 2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_colisã_dois_trens_passageir_provoc_mort_pel_80" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" and "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.25"
+
+CHANGE! -- From: 6 -> TO: 2
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_maior_tragéd_ferroviár_histór_egit_ocorr_fevereir_2002" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" and "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" is "0.125"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.125"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_font_ministéri_transport_diss_vári_vagõ_descarril_tomb" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "2_efet_exércit_membr_defes_civil_equip_médic_particip" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0.125"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_govern_qaluibiy_adli_hussein_desloc_junt_vári_altos" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_efet_exércit_membr_defes_civil_equip_médic_particip" and "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_efet_exércit_membr_defes_civil_equip_médic_particip" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_acident_lev_hospit_ocorr_egit_pel_fer_vári" and "0_ministr_saúd_egípci_hat_el_inform_segund_57" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 9
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+NUM_TOPICS: 8
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ministr  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: egípci  - Frequency: 1
+Word: hat  - Frequency: 1
+Word: el  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: 57  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: 128  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: choqu  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: trens  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: delt  - Frequency: 1
+Word: nil  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: cair  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_ministr_saúd_egípci_hat_el_inform_segund_57_pesso_morr_128_fic_fer_choqu_dois_trens_passageir_delt_nil_nort_cair
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: fer  - Frequency: 6
+Word: vári  - Frequency: 5
+Word: estad  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: for  - Frequency: 4
+Word: lev  - Frequency: 2
+Word: seis  - Frequency: 1
+Word: hospit  - Frequency: 3
+Word: regiã  - Frequency: 2
+Word: acontec  - Frequency: 1
+Word: acident  - Frequency: 11
+Word: pior  - Frequency: 1
+Word: ocorr  - Frequency: 9
+Word: egit  - Frequency: 6
+Word: 2002  - Frequency: 4
+Word: diss  - Frequency: 1
+Word: el  - Frequency: 2
+Word: cit  - Frequency: 1
+Word: pel  - Frequency: 4
+Word: agênc  - Frequency: 1
+Word: egípc  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: men  - Frequency: 1
+Word: font  - Frequency: 2
+Word: polic  - Frequency: 2
+Word: médic  - Frequency: 2
+Word: inform  - Frequency: 2
+Word: anterior  - Frequency: 1
+Word: 80  - Frequency: 3
+Word: pesso  - Frequency: 5
+Word: tinh  - Frequency: 1
+Word: morr  - Frequency: 2
+Word: às  - Frequency: 1
+Word: 7h15  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: trem  - Frequency: 7
+Word: procedent  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: nortist  - Frequency: 1
+Word: lard  - Frequency: 1
+Word: esper  - Frequency: 1
+Word: estaçã  - Frequency: 1
+Word: qalyoub  - Frequency: 1
+Word: 20  - Frequency: 2
+Word: quil�  - Frequency: 3
+Word: nort  - Frequency: 5
+Word: capital  - Frequency: 2
+Word: 45  - Frequency: 2
+Word: ambulânc  - Frequency: 2
+Word: vítim  - Frequency: 2
+Word: qaliubiy  - Frequency: 1
+Word: shebin  - Frequency: 1
+Word: al  - Frequency: 2
+Word: govern  - Frequency: 3
+Word: qaluibiy  - Frequency: 3
+Word: adli  - Frequency: 3
+Word: hussein  - Frequency: 3
+Word: desloc  - Frequency: 3
+Word: junt  - Frequency: 3
+Word: altos  - Frequency: 3
+Word: funcionári  - Frequency: 3
+Word: egípci  - Frequency: 3
+Word: local  - Frequency: 4
+Word: afirm  - Frequency: 3
+Word: colisã  - Frequency: 5
+Word: númer  - Frequency: 6
+Word: 808  - Frequency: 3
+Word: circul  - Frequency: 3
+Word: alta  - Frequency: 3
+Word: veloc  - Frequency: 3
+Word: choc  - Frequency: 3
+Word: part  - Frequency: 3
+Word: traseir  - Frequency: 3
+Word: vinh  - Frequency: 3
+Word: qaliub  - Frequency: 3
+Word: maior  - Frequency: 3
+Word: tragéd  - Frequency: 3
+Word: ferroviár  - Frequency: 3
+Word: histór  - Frequency: 3
+Word: fevereir  - Frequency: 4
+Word: incêndi  - Frequency: 3
+Word: cobr  - Frequency: 3
+Word: trajet  - Frequency: 3
+Word: cair  - Frequency: 6
+Word: luxor  - Frequency: 3
+Word: lot  - Frequency: 3
+Word: passageir  - Frequency: 5
+Word: deix  - Frequency: 4
+Word: 376  - Frequency: 3
+Word: mort  - Frequency: 4
+Word: segund  - Frequency: 4
+Word: ofic  - Frequency: 3
+Word: dois  - Frequency: 3
+Word: trens  - Frequency: 3
+Word: provoc  - Frequency: 1
+Word: 165  - Frequency: 2
+Word: delt  - Frequency: 3
+Word: nil  - Frequency: 3
+Word: trat  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: 28  - Frequency: 1
+Word: cerc  - Frequency: 2
+Word: fic  - Frequency: 3
+Word: choqu  - Frequency: 1
+Word: beheir  - Frequency: 1
+Word: 150  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: 40  - Frequency: 1
+Word: simil  - Frequency: 1
+Word: provínc  - Frequency: 1
+Word: sharquiy  - Frequency: 1
+Word: 100  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: news  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: imagens  - Frequency: 1
+Word: era  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: ver  - Frequency: 1
+Word: cadáv  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: vagõ  - Frequency: 1
+Word: descarril  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: hat  - Frequency: 1
+Word: insist  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: 36  - Frequency: 1
+Word: 133  - Frequency: 1
+Word: encaminh  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: socorr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_acident
+
+Keyword: 1_acident
+
+Keyword: 1_acident_ocorr
+
+Keyword: 1_acident_ocorr
+
+Keyword: 1_acident_ocorr_trem
+
+Keyword: 1_acident_ocorr_trem_fer_egit_númer_cair
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: efet  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: membr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: resgat  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_efet_exércit_membr_defes_civil_equip_médic_particip_trabalh_resgat
+
+Keyword: 2_efet_exércit_membr_defes_civil_equip_médic_particip_trabalh_resgat
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: font  - Frequency: 2
+Word: ministéri  - Frequency: 2
+Word: transport  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: vári  - Frequency: 3
+Word: vagõ  - Frequency: 3
+Word: descarril  - Frequency: 2
+Word: tomb  - Frequency: 1
+Word: bombeir  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: control  - Frequency: 1
+Word: incêndi  - Frequency: 1
+Word: trem  - Frequency: 1
+Word: proced  - Frequency: 1
+Word: lard  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: saúd  - Frequency: 1
+Word: hat  - Frequency: 1
+Word: el  - Frequency: 1
+Word: insist  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: for  - Frequency: 2
+Word: recuper  - Frequency: 1
+Word: 36  - Frequency: 1
+Word: cadáv  - Frequency: 3
+Word: 133  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: encaminh  - Frequency: 1
+Word: hospit  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: estatal  - Frequency: 1
+Word: nil  - Frequency: 1
+Word: news  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: imagens  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: era  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: ver  - Frequency: 1
+Word: aind  - Frequency: 2
+Word: encontr  - Frequency: 1
+Word: interior  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: aument  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: há  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: trens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_vári_vagõ_cadáv
+
+Keyword: 4_vári_vagõ_cadáv_font_ministéri_transport_diss_descarril_for_fer_aind
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: 45  - Frequency: 1
+Word: ambulânc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: local  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: socorr  - Frequency: 1
+Word: vítim  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_45_ambulânc_for_envi_local_acident_socorr_vítim
+
+Keyword: 8_45_ambulânc_for_envi_local_acident_socorr_vítim
+
+NUM: 21
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 10
+
+
+NUM: 11
+
+
+NUM: 8
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 21
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 10
+
+
+NUM: 11
+
+
+NUM: 8
+
+
+---------------BEFORE!-------------
+
+VEC: 0_ministr_saúd_egípci_hat_el_inform_segund_57_pesso_morr_128_fic_fer_choqu_dois_trens_passageir_delt_nil_nort_cair
+VEC: 1_acident_ocorr_trem_fer_egit_númer_cair
+VEC: 2_efet_exércit_membr_defes_civil_equip_médic_particip_trabalh_resgat
+VEC: 4_vári_vagõ_cadáv_font_ministéri_transport_diss_descarril_for_fer_aind
+VEC: 8_45_ambulânc_for_envi_local_acident_socorr_vítim
+
+---------------AFTER!-------------
+
+VEC: 0_ministr_saúd_egípci_hat_el_inform_segund
+VEC: 1_acident_ocorr_trem_fer_egit_númer_cair
+VEC: 2_efet_exércit_membr_defes_civil_equip_médic
+VEC: 4_vári_vagõ_cadáv_font_ministéri_transport_diss
+VEC: 8_45_ambulânc_for_envi_local_acident_socorr
+Keyword: 0_ministr_saúd_egípci_hat_el_inform_segund
+Keyword: 1_acident_ocorr_trem_fer_egit_númer_cair
+Keyword: 2_efet_exércit_membr_defes_civil_equip_médic
+Keyword: 4_vári_vagõ_cadáv_font_ministéri_transport_diss
+Keyword: 8_45_ambulânc_for_envi_local_acident_socorr

@@ -1,0 +1,34 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+
+<P align=justify><FONT face=Arial><FONT size=2>O plenário do STF reconheceu que o MP eleitoral tem legitimidade para recorrer de decisão que deferiu registro de candidatura, mesmo que não tenha apresentado impugnação ao pedido inicial desse registro. A decisão foi tomada por maioria de votos, no julgamento do ARE <A onclick="jan = window.open('http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4348076', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4348076' } return false; " href="" target=_self>728.188</A>.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Contudo, para garantia da segurança jurídica, os ministros decidiram negar provimento ao recurso, no caso concreto, assentando que esse entendimento, julgado sob o crivo da repercussão geral, só valerá para as próximas eleições. Assim, todos os recursos sobre esse tema referentes ao pleito de 2012 deverão ser desprovidos.</FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2><STRONG>Caso</STRONG></FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>O MPE recorreu contra decisão do TSE que, ao analisar recurso por ele interposto, aplicou o entendimento da súmula 11 daquela Corte, que fala que partidos políticos não podem recorrer contra deferimento de registros se não tiverem impugnado o pedido inicial, para negar legitimidade ao Ministério Público para recorrer contra um deferimento de registro.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Ao se manifestar, o procurador-geral da República, Rodrigo Janot, destacou que o artigo 127 da <A onclick="jan = window.open('http://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm', 'popup1', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www.planalto.gov.br/ccivil_03/constituicao/ConstituicaoCompilado.htm' } return false; " href="" target=_self>CF</A> garante ao MP a possibilidade de promover, perante o Judiciário, em qualquer grau, todas as medidas necessárias à efetivação de valores e direitos insertos na própria Carta ou no ordenamento legal pátrio, como garante da ordem pública. Ao atuar assim, lembrou o procurador, o MP age como fiscal da lei, e não como órgão agente.</FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2><STRONG>Votos</STRONG></FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2><IMG border=0 src="http://www.globalframe.com.br/gf_base/empresas/MIGA/imagens/FDE22DE19C1E3AA4A6F2A639257CA6CFEDBB_lewandowski.jpg" align=left>O relator do caso, ministro <STRONG>Lewandowski</STRONG>, entende que o artigo 127 da CF – que trata das atribuições do MP – ao incumbir o chamado Parquet de defender a ordem pública e o regime democrático, outorga a ele a possiblidade de recorrer, como custos legis (fiscal da lei), contra o deferimento de registros, mesmo que não tenha impugnado o pleito original, por se tratar de matéria de ordem pública.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Segundo o ministro Lewandowski, o MP é legitimado nato para zelar em tudo que diga respeito a direitos políticos, inexistindo disposição legal que vede a interposição de recurso nesses casos, questionando registros concedidos em contrariedade à lei, não podendo se falar em preclusão para a atuação do órgão.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>O parquet não é parte interessada na matéria. Ele desempenha um papel de fiscal da legalidade do processo eleitoral, e pode, a qualquer tempo, contrapor-se a registros de candidaturas que não se enquadram nos ditames legais, concluiu o ministro.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Acompanharam o relator os ministros Barroso, Rosa Weber, Fux, Toffoli, Celso de Mello e o presidente do Tribunal, ministro JB. </FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Para os ministros Marco Aurélio, Teori Zavascki, Cármen Lúcia e Gilmar Mendes, se o MP não impugnar o pedido de registro, ocorre a preclusão. Se em um primeiro momento, quando pode questionar, o MPE silenciou, não pode, como se houvesse uma segunda oportunidade, não como parte, mas como fiscal da lei, protocolar esse mesmo recurso, disse em seu voto o ministro Marco Aurélio.</FONT></FONT></P>
+<UL>
+<LI>
+<DIV align=justify><FONT face=Arial><FONT size=2><STRONG><U>Processo Relacionado</U></STRONG> : ARE <A onclick="jan = window.open('http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4348076', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4348076' } return false; " href="" target=_self>728.188</A></FONT></FONT></FONT></DIV></LI></UL></FONT>
+</FONT>
+</FONT>
+</FONT>
+
+</div>

@@ -1,0 +1,19 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P align=center><FONT face=Verdana><FONT size=2><FONT face=Arial><IMG border=0 src="http://www.globalframe.com.br/gf_base/empresas/MIGA/imagens/D52546BD67FF5EA8D0B144CD81C6A388FE49_tj-sp.jpg" width=498 height=264></P>
+<P align=justify>O corregedor-Geral da Justiça de São Paulo e presidente eleito para o biênio 2014/2015 do TJ/SP, desembargador José Renato Nalini, lançou nesta quinta-feira, 18, o projeto "Petição 10, Sentença 10". A proposta, idealizada pelo TJ/RS, propõe limitar a extensão de petições e sentenças a dez páginas para proporcionar maior rapidez processual e incentivar a consciência ecológica.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>Além de dar maior celeridade ao Poder Judiciário, a proposta busca diminuir o impacto ambiental no uso do papel. Na produção de uma tonelada de papel são consumidas de duas a três toneladas de madeira ; para a produção de um quilo do mesmo material, são necessários 540 litros de água.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial><EM>"Precisamos de concisão. Simplificar não só as petições, mas as contrarrazões, sentenças e acórdãos, pois o Judiciário talvez seja o Poder mais antiecológico do País"</EM>, ressaltou Nalini, ao dar início à solenidade. <EM>"Não é a complexidade do direito que justifica petições com dezenas, às vezes centenas de laudas. Se o direito é límpido, poucos parágrafos bastam para convencer o juiz"</EM>, afirmou.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>Para o presidente eleito, esse projeto é um primeiro passo a ser dado para mudar a cultura da escrita, muito presente entre os operadores do direito no Brasil. <EM>"Espero que este seja apenas um passo inicial para uma mudança de mentalidade, incentivando as pessoas a serem mais econômicas."</EM></FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>A solenidade aconteceu no gabinete da CGJ - Corregedoria Geral da Justiça com a assinatura de um protocolo de intenções firmado entre a CGJ, a Escola Paulista da Magistratura, a Procuradoria Geral do Estado e a Defensoria Pública do Estado de SP.</FONT></FONT></FONT></P>
+<P align=justify><FONT face=Verdana><FONT size=2><FONT face=Arial>O tribunal disponibiliza um <A onclick="jan = window.open('http://www.tjsp.jus.br/Institucional/Peticao10Sentenca10/Default.aspx', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www.tjsp.jus.br/Institucional/Peticao10Sentenca10/Default.aspx' } return false; " href="" target=_self>link</A> em seu site para que as pessoas possam aderir ao projeto. </FONT></P></FONT></FONT></FONT>
+</FONT>
+</FONT>
+</FONT>
+</FONT>
+
+</div>

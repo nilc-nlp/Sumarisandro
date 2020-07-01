@@ -1,0 +1,48 @@
+#ifndef EDGE_H
+#define EDGE_H
+
+#include "../include/Library.h"
+#include "../include/Sentence.h"
+
+class Sentence;
+
+class Edge {
+
+	private:
+
+		Sentence *s;
+		float peso;
+		bool cortada;
+
+		/* Relação CST. */
+		vector<float> *cst;
+		vector<char*> *cst_rel;
+
+	public:
+
+		Edge();
+		Edge(Sentence *s, float peso, float cst, char *cst_rel);
+		Edge(Sentence *s, float peso);
+		~Edge();
+
+		void setCortada(bool cortada);
+		void setPeso(float peso);
+		void setCST(float cst);
+		void setCSTRelation(char* cst_rel);
+		void setS(Sentence *s);
+		void setAresta(Sentence *s, float peso, float cst, char *cst_rel);
+		void setAresta(Sentence *s, float peso);
+
+		bool getCortada();
+		float getPeso();
+		float getCST(int index);
+		char* getCSTRelation(int index);
+		float getTotalPesosCST();
+		int getSizeVecCST();
+		int getSizeVecCSTRel();
+		vector<float>* getVecCST();
+		vector<char*>* getVecCSTRel();
+		Sentence* getS();
+};
+
+#endif

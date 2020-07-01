@@ -1,0 +1,8501 @@
+Sentenca(topic=0): Se a eleição fosse hoje, o presidente Luiz Inácio Lula da Silva, candidato à reeleição, teria 44% das intenções de voto, contra 25% do tucano Geraldo Alckmin, de acordo com a pesquisa CNI/Ibope divulgada nesta sexta-feira.
+Sentenca(topic=0): Heloísa Helena, candidata à Presidência pelo PSOL, aparece em terceiro, com 11% das intenções de voto, seguida por Cristovam Buarque (PDT) e Luciano Bivar (PSL) , ambos com 1%.
+Sentenca(topic=0): José Maria Eymael, do PSDC, e Rui Pimenta, do PCO, não chegaram a obter 1% das intenções de voto.
+Sentenca(topic=0): Considerando apenas os votos válidos, Lula venceria as eleições de outubro ainda no primeiro turno.
+Sentenca(topic=0): Não é possível fazer uma comparação entre a pesquisa divulgada hoje e a anterior, porque esta é a primeira CNI/Ibope com a lista oficial dos candidatos do TSE  (Tribunal Superior Eleitoral) à sucessão presidencial.
+Sentenca(topic=0): A pesquisa de hoje apresentou uma variação na lista espontânea  (quando os entrevistados dizem em quem pretendem votar sem um cartão com nomes).
+Sentenca(topic=0): Neste cenário, Lula sobe de 27% para 31% e Alckmin passa de 4% para 14%; Heloísa também cresce, de 1% para 6%.
+Sentenca(topic=1): De acordo com a CNI/Ibope, num possível segundo turno, Lula perderia 10 pontos de vantagem para Alckmin.
+Sentenca(topic=1): Em junho, o presidente tinha 53% das intenções de voto contra 29% do tucano.
+Sentenca(topic=1): Agora, Lula teria 50%, contra 36% de Alckmin.
+Sentenca(topic=2): Num eventual segundo turno com Heloísa Helena, a vantagem de Lula também cairia, de acordo com a pesquisa de hoje.
+Sentenca(topic=2): O presidente teria 53% das intenções de voto contra 30% de Heloísa.
+Sentenca(topic=2): Em junho, Lula tinha 57% e Heloísa 21%.
+Sentenca(topic=3): A pesquisa ouviu 2.002 pessoas entre os dias 29 e 31 de julho, em 142 municípios do país.
+Sentenca(topic=3): A margem de erro é de dois pontos percentuais, para mais ou para menos.
+Sentenca(topic=4): Na comparação com a pesquisa Ibope divulgada há nove dias, Lula permaneceu estável em 44% e Alckmin oscilou dois pontos percentuais, de 27% para 25%.
+Sentenca(topic=4): Já Heloísa subiu três pontos, de 8% para 11%.
+Sentenca(topic=4): Num eventual segundo turno e na comparação com a pesquisa Ibope do dia 25, Lula oscila de 48% para 50%, enquanto Alckmin cai de 39% para 36%.
+Sentenca(topic=5): Uma possível disputa entre Lula e Heloísa num segundo turno não foi cogitada pelo Ibope nesse levantamento do dia 25.
+Sentenca(topic=6): Os números da última pesquisa Datafolha são semelhantes aos divulgados nesta sexta-feira.
+Sentenca(topic=6): Na pesquisa, divulgada no último dia 19 pela Folha, Lula aparece com 44% das intenções de voto e Alckmin, com 28%.
+Sentenca(topic=6): A candidata do PSOL à Presidência vem em terceiro, com 10%.
+Sentenca(topic=7): BRASÍLIA - A pesquisa CNI/Ibope realizada em julho e divulgada nesta sexta-feira mostra que o presidente Luiz Inácio da Silva teria 44% dos votos no primeiro turno, enquanto o candidato tucano Geraldo Alckmin teria 25% das intenções de voto.
+Sentenca(topic=7): A senadora do PSOL, Heloísa Helena, ficaria com 11%.
+Sentenca(topic=7): O senador Cristovam Buarque  (PDT) e Luciano Bivar  (PSL) ficaram cada um com 1% das intenções de voto, enquanto José Maria Eymael (PDC) e Rui Costa Pimenta (PCO) não receberam indicação.
+Sentenca(topic=7): A margem de erro é de 2 pontos porcentuais.
+Sentenca(topic=8): A CNI explica que a pesquisa não traz a comparação com pesquisas anteriores para primeiro turno porque é a primeira vez que o Ibope utiliza a lista oficial de candidatos a presidente da República.
+Sentenca(topic=8): Embora não permita comparações, vale relembrar que na pesquisa de junho Lula tinha 48% das intenções de voto; Alckmin 18% e Heloísa Helena, 5%.
+Sentenca(topic=8): Naquela ocasião, faziam parte da lista da pesquisa CNI/Ibope Enéas (Prona), que tinha 2%; Pedro Simon (PMDB), também 2%, além de Cristovam Buarque e Eymael, cada com 1% das intenções.
+Sentenca(topic=9): No segundo turno, as intenções de voto do presidente Lula caíram de 53% em junho para 50% em julho, enquanto o candidato Alckmin subiu de 29% para 36%.
+Sentenca(topic=9): Os votos brancos e nulos somaram 10% e aqueles que não sabem ou não opinaram são 4%.
+Sentenca(topic=10): Na hipótese de um segundo turno com a candidata Heloísa Helena, Lula também teve uma redução nas intenções de voto de 57% para 53%.
+Sentenca(topic=10): A senadora subiu de 21% para 30% entre junho e julho.
+Sentenca(topic=10): Brancos e nulos somam 12% e os que não sabem ou não opinaram, 5%.
+Sentenca(topic=11): A rejeição ao presidente Luiz Inácio Lula da Silva subiu de 28% em junho para 32% em julho.
+Sentenca(topic=11): O candidato tucano Geraldo Alckmin, caiu de 34% para 28%.
+Sentenca(topic=11): Já o índice da candidata do PSOL, Heloísa Helena, caiu de 36% para 32%.
+Sentenca(topic=12): O senador Cristovam Buarque, candidato pelo PDT, teve alta de 29% para 32%.
+Sentenca(topic=13): O candidato José Maria Eymael teve o índice de rejeição de 36%, Luciano Bivar 32% e Rui Pimenta 32%.
+Sentenca(topic=13): A Pesquisa CNI/Ibope ainda revela que caiu de 67% para 64% os eleitores que afirmam que votariam com certeza no presidente Lula.
+Sentenca(topic=13): Em relação ao candidato Geraldo Alckmin, o número de entrevistados que afirmam que votariam com certeza cresceu de 42% para 52%.
+Sentenca(topic=13): Heloísa Helena subiu de 29% para 40%.
+Sentenca(topic=14): A pesquisa foi realizada entre os dias 29 e 31 de julho e foi registrada no TSE com o número 12.197/2006.
+Sentenca(topic=15): O Instituto de pesquisa CNI/Ibope divulgou nesta sexta-feira, em Brasília, que o presidente Luiz Inácio Lula da Silva seria reeleito em primeiro turno caso as eleições fossem hoje.
+Sentenca(topic=16): De acordo com a pesquisa, Lula  (PT) tem 44% das intenções de voto, contra 25% de Geraldo Alckmin (PSDB) e 11% de Heloísa Helena (PSOL).
+Sentenca(topic=16): Os outros candidatos que concorrem a vaga presidencial Cristovam Buarque (PDT) e Luciano Bivar (PSL) aparecem cada um com 1% das intenções de voto.
+Sentenca(topic=16): Os candidatos José Maria Eymael  (PSDC) e Ruy Pimenta  (PCO) não pontuaram.
+Sentenca(topic=16): Com 44%, Lula tem seis pontos percentuais a mais do que a soma dos índices de seus adversários, que é de 38%.
+Sentenca(topic=16): Considerando a margem de erro de dois pontos percentuais, para mais ou para menos, a vantagem poderia assegurar vitória em primeiro turno.
+Sentenca(topic=17): Os votos brancos e nulos somam 9%, e 9% dos entrevistados não opinaram.
+Sentenca(topic=18): Esta foi a primeira pesquisa da série CNI/Ibope feita já com a lista oficial de candidatos à Presidência registrados no TSE (Tribunal Superior Eleitoral).
+
+
+------------------------------------------------------------
+Topic: 0
+Word: eleiçã  - Frequency: 1
+Word: foss  - Frequency: 1
+Word: hoj  - Frequency: 3
+Word: president  - Frequency: 2
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 3
+Word: silv  - Frequency: 1
+Word: candidat  - Frequency: 3
+Word: reeleiçã  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: 44%  - Frequency: 1
+Word: intençõ  - Frequency: 3
+Word: vot  - Frequency: 5
+Word: 25%  - Frequency: 1
+Word: tucan  - Frequency: 1
+Word: gerald  - Frequency: 1
+Word: alckmin  - Frequency: 2
+Word: acord  - Frequency: 1
+Word: pesquis  - Frequency: 3
+Word: cni  - Frequency: 2
+Word: divulg  - Frequency: 2
+Word: sext  - Frequency: 1
+Word: heloís  - Frequency: 2
+Word: helen  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: psol  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: 11%  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: cristov  - Frequency: 1
+Word: buarqu  - Frequency: 1
+Word: lucian  - Frequency: 1
+Word: biv  - Frequency: 1
+Word: 1%  - Frequency: 3
+Word: jos  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: eymael  - Frequency: 1
+Word: psdc  - Frequency: 1
+Word: rui  - Frequency: 1
+Word: piment  - Frequency: 1
+Word: pco  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: cheg  - Frequency: 1
+Word: obter  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: vál  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: eleiçõ  - Frequency: 1
+Word: outubr  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: primeir  - Frequency: 2
+Word: turn  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: compar  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: list  - Frequency: 2
+Word: oficial  - Frequency: 1
+Word: tse  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: eleitoral  - Frequency: 1
+Word: sucessã  - Frequency: 1
+Word: presidencial  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: variaçã  - Frequency: 1
+Word: espontân  - Frequency: 1
+Word: entrevist  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: pretend  - Frequency: 1
+Word: cartã  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: cenári  - Frequency: 1
+Word: sob  - Frequency: 1
+Word: 27%  - Frequency: 1
+Word: 31%  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: 4%  - Frequency: 1
+Word: 14%  - Frequency: 1
+Word: também  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 6%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_vot
+
+Keyword: 0_vot
+
+Keyword: 0_vot_hoj_lul_candidat_intençõ_pesquis_1%
+
+Keyword: 0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president_alckmin_cni_divulg_heloís_nã_primeir_list
+
+
+------------------------------------------------------------
+Topic: 1
+Word: acord  - Frequency: 1
+Word: cni  - Frequency: 1
+Word: num  - Frequency: 1
+Word: possível  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: lul  - Frequency: 2
+Word: perd  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: alckmin  - Frequency: 2
+Word: junh  - Frequency: 1
+Word: president  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: 53%  - Frequency: 1
+Word: intençõ  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: 29%  - Frequency: 1
+Word: tucan  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: 50%  - Frequency: 1
+Word: 36%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_lul_alckmin
+
+Keyword: 1_lul_alckmin_acord_cni_num_possível_segund_turn_perd_10_pont_vantag_junh_president_tinh_53%_intençõ_vot_29%_tucan_agor_ter_50%_36%
+
+
+------------------------------------------------------------
+Topic: 2
+Word: num  - Frequency: 1
+Word: eventual  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: heloís  - Frequency: 3
+Word: helen  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: lul  - Frequency: 2
+Word: também  - Frequency: 1
+Word: cair  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: president  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: 53%  - Frequency: 1
+Word: intençõ  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: 30%  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: 57%  - Frequency: 1
+Word: 21%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_heloís
+
+Keyword: 2_heloís_lul
+
+Keyword: 2_heloís_lul_num_eventual_segund_turn_helen_vantag_também_cair_acord_pesquis_hoj_president_ter_53%_intençõ_vot_30%_junh_tinh_57%_21%
+
+
+------------------------------------------------------------
+Topic: 3
+Word: pesquis  - Frequency: 1
+Word: ouv  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: 29  - Frequency: 1
+Word: 31  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: 142  - Frequency: 1
+Word: municípi  - Frequency: 1
+Word: país  - Frequency: 1
+Word: marg  - Frequency: 1
+Word: erro  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: percentu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_pesquis_ouv_2_pesso_dias_29_31_julh_142_municípi_país_marg_erro_dois_pont_percentu
+
+
+------------------------------------------------------------
+Topic: 4
+Word: compar  - Frequency: 2
+Word: pesquis  - Frequency: 2
+Word: ibop  - Frequency: 2
+Word: divulg  - Frequency: 1
+Word: há  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: lul  - Frequency: 2
+Word: permanec  - Frequency: 1
+Word: estável  - Frequency: 1
+Word: 44%  - Frequency: 1
+Word: alckmin  - Frequency: 2
+Word: oscil  - Frequency: 2
+Word: dois  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: percentu  - Frequency: 1
+Word: 27%  - Frequency: 1
+Word: 25%  - Frequency: 1
+Word: já  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: três  - Frequency: 1
+Word: 8%  - Frequency: 1
+Word: 11%  - Frequency: 1
+Word: num  - Frequency: 1
+Word: eventual  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: 48%  - Frequency: 1
+Word: 50%  - Frequency: 1
+Word: cai  - Frequency: 1
+Word: 39%  - Frequency: 1
+Word: 36%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_compar_pesquis_ibop_lul_alckmin_oscil_pont
+
+Keyword: 4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg_há_nov_dias_permanec_estável_44%_dois_percentu_27%_25%_já_heloís_sub_três_8%_11%_num_eventual_segund_turn_dia_25_48%_50%_cai_39%_36%
+
+
+------------------------------------------------------------
+Topic: 5
+Word: possível  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: num  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: cogit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: ibop  - Frequency: 1
+Word: levant  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 25  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_possível_disput_lul_heloís_num_segund_turn_nã_foi_cogit_pel_ibop_levant_dia_25
+
+
+------------------------------------------------------------
+Topic: 6
+Word: númer  - Frequency: 1
+Word: últim  - Frequency: 2
+Word: pesquis  - Frequency: 2
+Word: datafolh  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: semelh  - Frequency: 1
+Word: divulg  - Frequency: 2
+Word: sext  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 19  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: folh  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: 44%  - Frequency: 1
+Word: intençõ  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: 28%  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: psol  - Frequency: 1
+Word: president  - Frequency: 1
+Word: vem  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: 10%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_últim_pesquis_divulg
+
+Keyword: 6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext_dia_19_pel_folh_lul_aparec_44%_intençõ_vot_alckmin_28%_candidat_psol_president_vem_terceir_10%
+
+
+------------------------------------------------------------
+Topic: 7
+Word: brasÍl  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: cni  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: president  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: 44%  - Frequency: 1
+Word: vot  - Frequency: 3
+Word: primeir  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: tucan  - Frequency: 1
+Word: gerald  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: 25%  - Frequency: 1
+Word: intençõ  - Frequency: 2
+Word: senador  - Frequency: 2
+Word: psol  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: helen  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: 11%  - Frequency: 1
+Word: cristov  - Frequency: 1
+Word: buarqu  - Frequency: 1
+Word: lucian  - Frequency: 1
+Word: biv  - Frequency: 1
+Word: 1%  - Frequency: 1
+Word: jos  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: eymael  - Frequency: 1
+Word: rui  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: piment  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: marg  - Frequency: 1
+Word: erro  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: porcentu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_vot
+
+Keyword: 7_vot_ter_intençõ_senador_fic
+
+Keyword: 7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni_realiz_julh_divulg_sext_mostr_president_luiz_ináci_silv_44%_primeir_turn_candidat_tucan_gerald_alckmin_25%_psol_heloís_helen_11%_cristov_buarqu_lucian_biv_1%_jos_mar_eymael_rui_cost_piment_nã_receb_indic_marg_erro_2_pont_porcentu
+
+
+------------------------------------------------------------
+Topic: 8
+Word: cni  - Frequency: 2
+Word: explic  - Frequency: 1
+Word: pesquis  - Frequency: 4
+Word: nã  - Frequency: 2
+Word: traz  - Frequency: 1
+Word: compar  - Frequency: 2
+Word: anterior  - Frequency: 1
+Word: primeir  - Frequency: 2
+Word: turn  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: ibop  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: list  - Frequency: 2
+Word: oficial  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: president  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: val  - Frequency: 1
+Word: relembr  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: tinh  - Frequency: 2
+Word: 48%  - Frequency: 1
+Word: intençõ  - Frequency: 2
+Word: vot  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: 18%  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: helen  - Frequency: 1
+Word: 5%  - Frequency: 1
+Word: ocasiã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: ené  - Frequency: 1
+Word: 2%  - Frequency: 2
+Word: pedr  - Frequency: 1
+Word: simon  - Frequency: 1
+Word: também  - Frequency: 1
+Word: além  - Frequency: 1
+Word: cristov  - Frequency: 1
+Word: buarqu  - Frequency: 1
+Word: eymael  - Frequency: 1
+Word: 1%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_pesquis
+
+Keyword: 8_pesquis
+
+Keyword: 8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ_2%
+
+Keyword: 8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ_2%_explic_traz_anterior_turn_porqu_vez_ibop_utiliz_oficial_candidat_president_repúbl_permit_val_relembr_junh_lul_48%_vot_alckmin_18%_heloís_helen_5%_ocasiã_faz_part_ené_pedr_simon_também_além_cristov_buarqu_eymael_1%
+
+
+------------------------------------------------------------
+Topic: 9
+Word: segund  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: intençõ  - Frequency: 1
+Word: vot  - Frequency: 2
+Word: president  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: caír  - Frequency: 1
+Word: 53%  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: 50%  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: 29%  - Frequency: 1
+Word: 36%  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: nul  - Frequency: 1
+Word: som  - Frequency: 1
+Word: 10%  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: sab  - Frequency: 1
+Word: opin  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: 4%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_vot_nã
+
+Keyword: 9_vot_nã_segund_turn_intençõ_president_lul_caír_53%_junh_50%_julh_candidat_alckmin_sub_29%_36%_branc_nul_som_10%_sab_opin_sã_4%
+
+
+------------------------------------------------------------
+Topic: 10
+Word: hipótes  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: helen  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: também  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: reduçã  - Frequency: 1
+Word: intençõ  - Frequency: 1
+Word: vot  - Frequency: 1
+Word: 57%  - Frequency: 1
+Word: 53%  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: 21%  - Frequency: 1
+Word: 30%  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: nul  - Frequency: 1
+Word: som  - Frequency: 1
+Word: 12%  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: sab  - Frequency: 1
+Word: opin  - Frequency: 1
+Word: 5%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_nã
+
+Keyword: 10_nã_hipótes_segund_turn_candidat_heloís_helen_lul_também_tev_reduçã_intençõ_vot_57%_53%_senador_sub_21%_30%_junh_julh_branc_nul_som_12%_sab_opin_5%
+
+
+------------------------------------------------------------
+Topic: 11
+Word: rejeiçã  - Frequency: 1
+Word: president  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: 28%  - Frequency: 2
+Word: junh  - Frequency: 1
+Word: 32%  - Frequency: 2
+Word: julh  - Frequency: 1
+Word: candidat  - Frequency: 2
+Word: tucan  - Frequency: 1
+Word: gerald  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: caiu  - Frequency: 2
+Word: 34%  - Frequency: 1
+Word: já  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: psol  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: helen  - Frequency: 1
+Word: 36%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_28%_32%_candidat_caiu
+
+Keyword: 11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci_lul_silv_sub_junh_julh_tucan_gerald_alckmin_34%_já_índic_psol_heloís_helen_36%
+
+
+------------------------------------------------------------
+Topic: 12
+Word: senador  - Frequency: 1
+Word: cristov  - Frequency: 1
+Word: buarqu  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: pdt  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: 29%  - Frequency: 1
+Word: 32%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta_29%_32%
+
+Keyword: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta_29%_32%
+
+
+------------------------------------------------------------
+Topic: 13
+Word: candidat  - Frequency: 2
+Word: jos  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: eymael  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: rejeiçã  - Frequency: 1
+Word: 36%  - Frequency: 1
+Word: lucian  - Frequency: 1
+Word: biv  - Frequency: 1
+Word: 32%  - Frequency: 2
+Word: rui  - Frequency: 1
+Word: piment  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: cni  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: caiu  - Frequency: 1
+Word: 67%  - Frequency: 1
+Word: 64%  - Frequency: 1
+Word: eleitor  - Frequency: 1
+Word: afirm  - Frequency: 2
+Word: vot  - Frequency: 2
+Word: certez  - Frequency: 2
+Word: president  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: gerald  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: entrevist  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 42%  - Frequency: 1
+Word: 52%  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: helen  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: 29%  - Frequency: 1
+Word: 40%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_candidat_32%_afirm_vot_certez
+
+Keyword: 13_candidat_32%_afirm_vot_certez_jos_mar_eymael_tev_índic_rejeiçã_36%_lucian_biv_rui_piment_pesquis_cni_aind_revel_caiu_67%_64%_eleitor_president_lul_relaçã_gerald_alckmin_númer_entrevist_cresc_42%_52%_heloís_helen_sub_29%_40%
+
+
+------------------------------------------------------------
+Topic: 14
+Word: pesquis  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: realiz  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: 29  - Frequency: 1
+Word: 31  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: tse  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: 12  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_foi
+
+Keyword: 14_foi_pesquis_realiz_dias_29_31_julh_registr_tse_númer_12
+
+
+------------------------------------------------------------
+Topic: 15
+Word: institut  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: cni  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: president  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: reeleit  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: eleiçõ  - Frequency: 1
+Word: foss  - Frequency: 1
+Word: hoj  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz_ináci_lul_silv_ser_reeleit_primeir_turn_cas_eleiçõ_foss_hoj
+
+
+------------------------------------------------------------
+Topic: 16
+Word: acord  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: lul  - Frequency: 2
+Word: tem  - Frequency: 2
+Word: 44%  - Frequency: 2
+Word: intençõ  - Frequency: 2
+Word: vot  - Frequency: 2
+Word: 25%  - Frequency: 1
+Word: gerald  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: 11%  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: helen  - Frequency: 1
+Word: candidat  - Frequency: 2
+Word: concorr  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: presidencial  - Frequency: 1
+Word: cristov  - Frequency: 1
+Word: buarqu  - Frequency: 1
+Word: lucian  - Frequency: 1
+Word: biv  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: 1%  - Frequency: 1
+Word: jos  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: eymael  - Frequency: 1
+Word: ruy  - Frequency: 1
+Word: piment  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: pontu  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: pont  - Frequency: 2
+Word: percentu  - Frequency: 2
+Word: som  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: adversári  - Frequency: 1
+Word: 38%  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: marg  - Frequency: 1
+Word: erro  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: assegur  - Frequency: 1
+Word: vitór  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: turn  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_lul_tem_44%_intençõ_vot_candidat_pont_percentu
+
+Keyword: 16_lul_tem_44%_intençõ_vot_candidat_pont_percentu_acord_pesquis_25%_gerald_alckmin_11%_heloís_helen_concorr_vag_presidencial_cristov_buarqu_lucian_biv_aparec_1%_jos_mar_eymael_ruy_piment_nã_pontu_seis_som_índic_adversári_38%_consider_marg_erro_dois_vantag_pod_assegur_vitór_primeir_turn
+
+
+------------------------------------------------------------
+Topic: 17
+Word: vot  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: nul  - Frequency: 1
+Word: som  - Frequency: 1
+Word: 9%  - Frequency: 2
+Word: entrevist  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: opin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_9%
+
+Keyword: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+
+Keyword: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+
+
+------------------------------------------------------------
+Topic: 18
+Word: foi  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: cni  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: já  - Frequency: 1
+Word: list  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: president  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: tse  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: eleitoral  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 18_foi_primeir_pesquis_séri_cni_feit_já_list_oficial_candidat_president_registr_tse_superior_eleitoral
+
+NUM: 15
+
+
+NUM: 24
+
+
+NUM: 23
+
+
+NUM: 16
+
+
+NUM: 35
+
+
+NUM: 15
+
+
+NUM: 25
+
+
+NUM: 48
+
+
+NUM: 45
+
+
+NUM: 25
+
+
+NUM: 28
+
+
+NUM: 23
+
+
+NUM: 10
+
+
+NUM: 39
+
+
+NUM: 11
+
+
+NUM: 19
+
+
+NUM: 47
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 15
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 15
+
+
+NUM: 24
+
+
+NUM: 23
+
+
+NUM: 16
+
+
+NUM: 35
+
+
+NUM: 15
+
+
+NUM: 25
+
+
+NUM: 48
+
+
+NUM: 45
+
+
+NUM: 25
+
+
+NUM: 28
+
+
+NUM: 23
+
+
+NUM: 10
+
+
+NUM: 39
+
+
+NUM: 11
+
+
+NUM: 19
+
+
+NUM: 47
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 15
+
+
+---------------BEFORE!-------------
+
+VEC: 0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president_alckmin_cni_divulg_heloís_nã_primeir_list
+VEC: 1_lul_alckmin_acord_cni_num_possível_segund_turn_perd_10_pont_vantag_junh_president_tinh_53%_intençõ_vot_29%_tucan_agor_ter_50%_36%
+VEC: 2_heloís_lul_num_eventual_segund_turn_helen_vantag_também_cair_acord_pesquis_hoj_president_ter_53%_intençõ_vot_30%_junh_tinh_57%_21%
+VEC: 3_pesquis_ouv_2_pesso_dias_29_31_julh_142_municípi_país_marg_erro_dois_pont_percentu
+VEC: 4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg_há_nov_dias_permanec_estável_44%_dois_percentu_27%_25%_já_heloís_sub_três_8%_11%_num_eventual_segund_turn_dia_25_48%_50%_cai_39%_36%
+VEC: 5_possível_disput_lul_heloís_num_segund_turn_nã_foi_cogit_pel_ibop_levant_dia_25
+VEC: 6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext_dia_19_pel_folh_lul_aparec_44%_intençõ_vot_alckmin_28%_candidat_psol_president_vem_terceir_10%
+VEC: 7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni_realiz_julh_divulg_sext_mostr_president_luiz_ináci_silv_44%_primeir_turn_candidat_tucan_gerald_alckmin_25%_psol_heloís_helen_11%_cristov_buarqu_lucian_biv_1%_jos_mar_eymael_rui_cost_piment_nã_receb_indic_marg_erro_2_pont_porcentu
+VEC: 8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ_2%_explic_traz_anterior_turn_porqu_vez_ibop_utiliz_oficial_candidat_president_repúbl_permit_val_relembr_junh_lul_48%_vot_alckmin_18%_heloís_helen_5%_ocasiã_faz_part_ené_pedr_simon_também_além_cristov_buarqu_eymael_1%
+VEC: 9_vot_nã_segund_turn_intençõ_president_lul_caír_53%_junh_50%_julh_candidat_alckmin_sub_29%_36%_branc_nul_som_10%_sab_opin_sã_4%
+VEC: 10_nã_hipótes_segund_turn_candidat_heloís_helen_lul_também_tev_reduçã_intençõ_vot_57%_53%_senador_sub_21%_30%_junh_julh_branc_nul_som_12%_sab_opin_5%
+VEC: 11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci_lul_silv_sub_junh_julh_tucan_gerald_alckmin_34%_já_índic_psol_heloís_helen_36%
+VEC: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta_29%_32%
+VEC: 13_candidat_32%_afirm_vot_certez_jos_mar_eymael_tev_índic_rejeiçã_36%_lucian_biv_rui_piment_pesquis_cni_aind_revel_caiu_67%_64%_eleitor_president_lul_relaçã_gerald_alckmin_númer_entrevist_cresc_42%_52%_heloís_helen_sub_29%_40%
+VEC: 14_foi_pesquis_realiz_dias_29_31_julh_registr_tse_númer_12
+VEC: 15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz_ináci_lul_silv_ser_reeleit_primeir_turn_cas_eleiçõ_foss_hoj
+VEC: 16_lul_tem_44%_intençõ_vot_candidat_pont_percentu_acord_pesquis_25%_gerald_alckmin_11%_heloís_helen_concorr_vag_presidencial_cristov_buarqu_lucian_biv_aparec_1%_jos_mar_eymael_ruy_piment_nã_pontu_seis_som_índic_adversári_38%_consider_marg_erro_dois_vantag_pod_assegur_vitór_primeir_turn
+VEC: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+VEC: 18_foi_primeir_pesquis_séri_cni_feit_já_list_oficial_candidat_president_registr_tse_superior_eleitoral
+
+---------------AFTER!-------------
+
+VEC: 0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president
+VEC: 1_lul_alckmin_acord_cni_num_possível_segund_turn
+VEC: 2_heloís_lul_num_eventual_segund_turn_helen_vantag
+VEC: 3_pesquis_ouv_2_pesso_dias_29_31_julh
+VEC: 4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg
+VEC: 5_possível_disput_lul_heloís_num_segund_turn_nã
+VEC: 6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext
+VEC: 7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni
+VEC: 8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ
+VEC: 9_vot_nã_segund_turn_intençõ_president_lul_caír
+VEC: 10_nã_hipótes_segund_turn_candidat_heloís_helen_lul
+VEC: 11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci
+VEC: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta
+VEC: 13_candidat_32%_afirm_vot_certez_jos_mar_eymael
+VEC: 14_foi_pesquis_realiz_dias_29_31_julh_registr
+VEC: 15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz
+VEC: 16_lul_tem_44%_intençõ_vot_candidat_pont_percentu
+VEC: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+VEC: 18_foi_primeir_pesquis_séri_cni_feit_já_list
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.625
+
+
+SIM: 0.625
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.625
+
+
+SIM: 0.625
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+TRESHOLD: 0.142463
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "17_9%_vot_branc_nul_som_entrevist_nã_opin" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" is "0.333333"
+
+CHANGE! -- From: 19 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "14_foi_pesquis_realiz_dias_29_31_julh_registr" is "0.333333"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0.444444"
+
+CHANGE! -- From: 19 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.222222"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.111111"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_foi_primeir_pesquis_séri_cni_feit_já_list" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 19
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 18 -- Topic s_aux: 8 -- Abs: 10
+
+
+Topic change from "18" to "8"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" is "0.222222"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "14_foi_pesquis_realiz_dias_29_31_julh_registr" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0.222222"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_9%_vot_branc_nul_som_entrevist_nã_opin" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "14_foi_pesquis_realiz_dias_29_31_julh_registr" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" is "0.333333"
+
+CHANGE! -- From: 17 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.333333"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0.333333"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.222222"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.222222"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.111111"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "16_lul_tem_44%_intençõ_vot_candidat_pont_percentu" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.444444"
+
+CHANGE! -- From: 17 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 16 -- Topic s_aux: 0 -- Abs: 16
+
+
+Topic change from "16" to "0"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 16 -- Topic s_aux: 0 -- Abs: 16
+
+
+Topic change from "16" to "0"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 16 -- Topic s_aux: 0 -- Abs: 16
+
+
+Topic change from "16" to "0"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 16 -- Topic s_aux: 0 -- Abs: 16
+
+
+Topic change from "16" to "0"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 16 -- Topic s_aux: 0 -- Abs: 16
+
+
+Topic change from "16" to "0"
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "14_foi_pesquis_realiz_dias_29_31_julh_registr" is "0.222222"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" is "0.333333"
+
+CHANGE! -- From: 16 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0.222222"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.222222"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0.333333"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.222222"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.111111"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_institut_pesquis_cni_divulg_sext_brasíl_president_luiz" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 15 -- Topic s_aux: 11 -- Abs: 4
+
+
+Topic change from "15" to "11"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0.555556"
+
+CHANGE! -- From: 15 -> TO: 4
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_foi_pesquis_realiz_dias_29_31_julh_registr" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 14 -- Topic s_aux: 3 -- Abs: 11
+
+
+Topic change from "14" to "3"
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" is "0.222222"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" is "0.333333"
+
+CHANGE! -- From: 14 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "13_candidat_32%_afirm_vot_certez_jos_mar_eymael" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 11 -- Abs: 2
+
+
+Topic change from "13" to "11"
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 11 -- Abs: 2
+
+
+Topic change from "13" to "11"
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 11 -- Abs: 2
+
+
+Topic change from "13" to "11"
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 11 -- Abs: 2
+
+
+Topic change from "13" to "11"
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" is "0.222222"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" is "0.222222"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "11_28%_32%_candidat_caiu_rejeiçã_president_luiz_ináci" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "9_vot_nã_segund_turn_intençõ_president_lul_caír" is "0.444444"
+
+CHANGE! -- From: 11 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0.555556"
+
+CHANGE! -- From: 11 -> TO: 6
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0.555556"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.333333"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "10_nã_hipótes_segund_turn_candidat_heloís_helen_lul" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 5 -- Abs: 5
+
+
+Topic change from "10" to "5"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 5 -- Abs: 5
+
+
+Topic change from "10" to "5"
+
+Topic: 10 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 5 -- Abs: 5
+
+
+Topic change from "10" to "5"
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" is "0.25"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.25"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0.5"
+
+CHANGE! -- From: 10 -> TO: 6
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.125"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0.375"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.375"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+Similarity between "9_vot_nã_segund_turn_intençõ_president_lul_caír" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.5"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" is "0.375"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0.125"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0.125"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.25"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0.125"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.125"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "8_pesquis_cni_nã_compar_primeir_list_tinh_intençõ" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" and "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" is "0.125"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.125"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0.125"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.125"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "7_vot_ter_intençõ_senador_fic_brasÍl_pesquis_cni" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.375"
+
+CHANGE! -- From: 8 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 0 -- Abs: 7
+
+
+Topic change from "7" to "0"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 0 -- Abs: 7
+
+
+Topic change from "7" to "0"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 0 -- Abs: 7
+
+
+Topic change from "7" to "0"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 0 -- Abs: 7
+
+
+Topic change from "7" to "0"
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" and "5_possível_disput_lul_heloís_num_segund_turn_nã" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.25"
+
+CHANGE! -- From: 7 -> TO: 5
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0.125"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_últim_pesquis_divulg_númer_datafolh_sã_semelh_sext" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 4 -- Abs: 2
+
+
+Topic change from "6" to "4"
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 4 -- Abs: 2
+
+
+Topic change from "6" to "4"
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 4 -- Abs: 2
+
+
+Topic change from "6" to "4"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_possível_disput_lul_heloís_num_segund_turn_nã" and "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" is "0.125"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_possível_disput_lul_heloís_num_segund_turn_nã" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.625
+
+
+Similarity between "5_possível_disput_lul_heloís_num_segund_turn_nã" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0.625"
+
+CHANGE! -- From: 6 -> TO: 3
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.625
+
+
+Similarity between "5_possível_disput_lul_heloís_num_segund_turn_nã" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.625"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_possível_disput_lul_heloís_num_segund_turn_nã" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" and "3_pesquis_ouv_2_pesso_dias_29_31_julh" is "0.125"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0.125"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.25"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "4_compar_pesquis_ibop_lul_alckmin_oscil_pont_divulg" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 3
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 2 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_pesquis_ouv_2_pesso_dias_29_31_julh" and "2_heloís_lul_num_eventual_segund_turn_helen_vantag" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_pesquis_ouv_2_pesso_dias_29_31_julh" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_pesquis_ouv_2_pesso_dias_29_31_julh" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+Similarity between "2_heloís_lul_num_eventual_segund_turn_helen_vantag" and "1_lul_alckmin_acord_cni_num_possível_segund_turn" is "0.5"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "2_heloís_lul_num_eventual_segund_turn_helen_vantag" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "1_lul_alckmin_acord_cni_num_possível_segund_turn" and "0_vot_hoj_lul_candidat_intençõ_pesquis_1%_president" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 4
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 18
+Topic: 9
+NUM_TOPICS: 17
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: eleiçã  - Frequency: 1
+Word: foss  - Frequency: 1
+Word: hoj  - Frequency: 3
+Word: president  - Frequency: 3
+Word: luiz  - Frequency: 2
+Word: ináci  - Frequency: 2
+Word: lul  - Frequency: 5
+Word: silv  - Frequency: 2
+Word: candidat  - Frequency: 6
+Word: reeleiçã  - Frequency: 1
+Word: ter  - Frequency: 3
+Word: 44%  - Frequency: 4
+Word: intençõ  - Frequency: 7
+Word: vot  - Frequency: 10
+Word: 25%  - Frequency: 3
+Word: tucan  - Frequency: 2
+Word: gerald  - Frequency: 3
+Word: alckmin  - Frequency: 4
+Word: acord  - Frequency: 2
+Word: pesquis  - Frequency: 5
+Word: cni  - Frequency: 3
+Word: divulg  - Frequency: 3
+Word: sext  - Frequency: 2
+Word: heloís  - Frequency: 4
+Word: helen  - Frequency: 3
+Word: pel  - Frequency: 1
+Word: psol  - Frequency: 2
+Word: aparec  - Frequency: 2
+Word: terceir  - Frequency: 1
+Word: 11%  - Frequency: 3
+Word: segu  - Frequency: 1
+Word: cristov  - Frequency: 3
+Word: buarqu  - Frequency: 3
+Word: lucian  - Frequency: 3
+Word: biv  - Frequency: 3
+Word: 1%  - Frequency: 5
+Word: jos  - Frequency: 3
+Word: mar  - Frequency: 3
+Word: eymael  - Frequency: 3
+Word: psdc  - Frequency: 1
+Word: rui  - Frequency: 2
+Word: piment  - Frequency: 3
+Word: pco  - Frequency: 1
+Word: nã  - Frequency: 4
+Word: cheg  - Frequency: 1
+Word: obter  - Frequency: 1
+Word: consider  - Frequency: 2
+Word: vál  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: eleiçõ  - Frequency: 1
+Word: outubr  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: primeir  - Frequency: 4
+Word: turn  - Frequency: 3
+Word: possível  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: compar  - Frequency: 1
+Word: anterior  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: list  - Frequency: 2
+Word: oficial  - Frequency: 1
+Word: tse  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: eleitoral  - Frequency: 1
+Word: sucessã  - Frequency: 1
+Word: presidencial  - Frequency: 2
+Word: apresent  - Frequency: 1
+Word: variaçã  - Frequency: 1
+Word: espontân  - Frequency: 1
+Word: entrevist  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: pretend  - Frequency: 1
+Word: cartã  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: cenári  - Frequency: 1
+Word: sob  - Frequency: 1
+Word: 27%  - Frequency: 1
+Word: 31%  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: 4%  - Frequency: 1
+Word: 14%  - Frequency: 1
+Word: também  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 6%  - Frequency: 1
+Word: brasÍl  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: senador  - Frequency: 2
+Word: fic  - Frequency: 2
+Word: cost  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: marg  - Frequency: 2
+Word: erro  - Frequency: 2
+Word: 2  - Frequency: 1
+Word: pont  - Frequency: 3
+Word: porcentu  - Frequency: 1
+Word: tem  - Frequency: 2
+Word: concorr  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: ruy  - Frequency: 1
+Word: pontu  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: percentu  - Frequency: 2
+Word: som  - Frequency: 1
+Word: índic  - Frequency: 1
+Word: adversári  - Frequency: 1
+Word: 38%  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: vantag  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: assegur  - Frequency: 1
+Word: vitór  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_vot
+
+Keyword: 0_vot
+
+Keyword: 0_vot
+
+Keyword: 0_vot_intençõ
+
+Keyword: 0_vot_intençõ_candidat
+
+Keyword: 0_vot_intençõ_candidat_lul_pesquis_1%
+
+Keyword: 0_vot_intençõ_candidat_lul_pesquis_1%_44%_alckmin_heloís_nã_primeir
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: acord  - Frequency: 1
+Word: cni  - Frequency: 1
+Word: num  - Frequency: 2
+Word: possível  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: turn  - Frequency: 2
+Word: lul  - Frequency: 5
+Word: perd  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: pont  - Frequency: 3
+Word: vantag  - Frequency: 1
+Word: alckmin  - Frequency: 5
+Word: junh  - Frequency: 1
+Word: president  - Frequency: 2
+Word: tinh  - Frequency: 1
+Word: 53%  - Frequency: 1
+Word: intençõ  - Frequency: 2
+Word: vot  - Frequency: 2
+Word: 29%  - Frequency: 1
+Word: tucan  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: 50%  - Frequency: 2
+Word: 36%  - Frequency: 2
+Word: compar  - Frequency: 2
+Word: pesquis  - Frequency: 4
+Word: ibop  - Frequency: 2
+Word: divulg  - Frequency: 3
+Word: há  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: permanec  - Frequency: 1
+Word: estável  - Frequency: 1
+Word: 44%  - Frequency: 2
+Word: oscil  - Frequency: 2
+Word: dois  - Frequency: 1
+Word: percentu  - Frequency: 1
+Word: 27%  - Frequency: 1
+Word: 25%  - Frequency: 1
+Word: já  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: sub  - Frequency: 1
+Word: três  - Frequency: 1
+Word: 8%  - Frequency: 1
+Word: 11%  - Frequency: 1
+Word: eventual  - Frequency: 1
+Word: dia  - Frequency: 2
+Word: 25  - Frequency: 1
+Word: 48%  - Frequency: 1
+Word: cai  - Frequency: 1
+Word: 39%  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: últim  - Frequency: 2
+Word: datafolh  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: semelh  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: 19  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: folh  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: 28%  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: psol  - Frequency: 1
+Word: vem  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: 10%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_lul_alckmin
+
+Keyword: 1_lul_alckmin_pesquis
+
+Keyword: 1_lul_alckmin_pesquis_pont_divulg
+
+Keyword: 1_lul_alckmin_pesquis_pont_divulg_num_segund_turn_president_intençõ_vot_50%_36%_compar_ibop_44%_oscil_dia_últim
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: num  - Frequency: 2
+Word: eventual  - Frequency: 1
+Word: segund  - Frequency: 4
+Word: turn  - Frequency: 4
+Word: heloís  - Frequency: 5
+Word: helen  - Frequency: 2
+Word: vantag  - Frequency: 1
+Word: lul  - Frequency: 5
+Word: também  - Frequency: 2
+Word: cair  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: president  - Frequency: 2
+Word: ter  - Frequency: 1
+Word: 53%  - Frequency: 3
+Word: intençõ  - Frequency: 3
+Word: vot  - Frequency: 4
+Word: 30%  - Frequency: 2
+Word: junh  - Frequency: 3
+Word: tinh  - Frequency: 1
+Word: 57%  - Frequency: 2
+Word: 21%  - Frequency: 2
+Word: possível  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: nã  - Frequency: 5
+Word: foi  - Frequency: 1
+Word: cogit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: ibop  - Frequency: 1
+Word: levant  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: caír  - Frequency: 1
+Word: 50%  - Frequency: 1
+Word: julh  - Frequency: 2
+Word: candidat  - Frequency: 2
+Word: alckmin  - Frequency: 1
+Word: sub  - Frequency: 2
+Word: 29%  - Frequency: 1
+Word: 36%  - Frequency: 1
+Word: branc  - Frequency: 2
+Word: nul  - Frequency: 2
+Word: som  - Frequency: 2
+Word: 10%  - Frequency: 1
+Word: sab  - Frequency: 2
+Word: opin  - Frequency: 2
+Word: sã  - Frequency: 1
+Word: 4%  - Frequency: 1
+Word: hipótes  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: reduçã  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: 12%  - Frequency: 1
+Word: 5%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_heloís_lul_nã
+
+Keyword: 2_heloís_lul_nã_segund_turn_vot
+
+Keyword: 2_heloís_lul_nã_segund_turn_vot_53%_intençõ_junh
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: pesquis  - Frequency: 2
+Word: ouv  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: dias  - Frequency: 2
+Word: 29  - Frequency: 2
+Word: 31  - Frequency: 2
+Word: julh  - Frequency: 2
+Word: 142  - Frequency: 1
+Word: municípi  - Frequency: 1
+Word: país  - Frequency: 1
+Word: marg  - Frequency: 1
+Word: erro  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: percentu  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: realiz  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: tse  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: 12  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_pesquis_dias_29_31_julh_foi
+
+Keyword: 3_pesquis_dias_29_31_julh_foi_ouv_2_pesso_142_municípi_país_marg_erro_dois_pont_percentu_realiz_registr_tse_númer_12
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: cni  - Frequency: 3
+Word: explic  - Frequency: 1
+Word: pesquis  - Frequency: 5
+Word: nã  - Frequency: 2
+Word: traz  - Frequency: 1
+Word: compar  - Frequency: 2
+Word: anterior  - Frequency: 1
+Word: primeir  - Frequency: 3
+Word: turn  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: ibop  - Frequency: 1
+Word: utiliz  - Frequency: 1
+Word: list  - Frequency: 3
+Word: oficial  - Frequency: 2
+Word: candidat  - Frequency: 2
+Word: president  - Frequency: 2
+Word: repúbl  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: val  - Frequency: 1
+Word: relembr  - Frequency: 1
+Word: junh  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: tinh  - Frequency: 2
+Word: 48%  - Frequency: 1
+Word: intençõ  - Frequency: 2
+Word: vot  - Frequency: 1
+Word: alckmin  - Frequency: 1
+Word: 18%  - Frequency: 1
+Word: heloís  - Frequency: 1
+Word: helen  - Frequency: 1
+Word: 5%  - Frequency: 1
+Word: ocasiã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: ené  - Frequency: 1
+Word: 2%  - Frequency: 2
+Word: pedr  - Frequency: 1
+Word: simon  - Frequency: 1
+Word: também  - Frequency: 1
+Word: além  - Frequency: 1
+Word: cristov  - Frequency: 1
+Word: buarqu  - Frequency: 1
+Word: eymael  - Frequency: 1
+Word: 1%  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: já  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: tse  - Frequency: 1
+Word: superior  - Frequency: 1
+Word: eleitoral  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_pesquis
+
+Keyword: 8_pesquis
+
+Keyword: 8_pesquis_cni_primeir_list
+
+Keyword: 8_pesquis_cni_primeir_list_nã_compar_oficial_candidat_president_tinh_intençõ_2%
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: rejeiçã  - Frequency: 2
+Word: president  - Frequency: 3
+Word: luiz  - Frequency: 2
+Word: ináci  - Frequency: 2
+Word: lul  - Frequency: 3
+Word: silv  - Frequency: 2
+Word: sub  - Frequency: 2
+Word: 28%  - Frequency: 2
+Word: junh  - Frequency: 1
+Word: 32%  - Frequency: 4
+Word: julh  - Frequency: 1
+Word: candidat  - Frequency: 4
+Word: tucan  - Frequency: 1
+Word: gerald  - Frequency: 2
+Word: alckmin  - Frequency: 2
+Word: caiu  - Frequency: 3
+Word: 34%  - Frequency: 1
+Word: já  - Frequency: 1
+Word: índic  - Frequency: 2
+Word: psol  - Frequency: 1
+Word: heloís  - Frequency: 2
+Word: helen  - Frequency: 2
+Word: 36%  - Frequency: 2
+Word: jos  - Frequency: 1
+Word: mar  - Frequency: 1
+Word: eymael  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: lucian  - Frequency: 1
+Word: biv  - Frequency: 1
+Word: rui  - Frequency: 1
+Word: piment  - Frequency: 1
+Word: pesquis  - Frequency: 2
+Word: cni  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: 67%  - Frequency: 1
+Word: 64%  - Frequency: 1
+Word: eleitor  - Frequency: 1
+Word: afirm  - Frequency: 2
+Word: vot  - Frequency: 2
+Word: certez  - Frequency: 2
+Word: relaçã  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: entrevist  - Frequency: 1
+Word: cresc  - Frequency: 1
+Word: 42%  - Frequency: 1
+Word: 52%  - Frequency: 1
+Word: 29%  - Frequency: 1
+Word: 40%  - Frequency: 1
+Word: institut  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: reeleit  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: turn  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: eleiçõ  - Frequency: 1
+Word: foss  - Frequency: 1
+Word: hoj  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_32%_candidat
+
+Keyword: 11_32%_candidat_president_lul_caiu
+
+Keyword: 11_32%_candidat_president_lul_caiu_rejeiçã_luiz_ináci_silv_sub_28%_gerald_alckmin_índic_heloís_helen_36%_pesquis_cni_afirm_vot_certez
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: senador  - Frequency: 1
+Word: cristov  - Frequency: 1
+Word: buarqu  - Frequency: 1
+Word: candidat  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: pdt  - Frequency: 1
+Word: tev  - Frequency: 1
+Word: alta  - Frequency: 1
+Word: 29%  - Frequency: 1
+Word: 32%  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta_29%_32%
+
+Keyword: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta_29%_32%
+
+Cur_topic: 17
+
+
+
+------------------------------------------------------------
+Topic: 17
+Word: vot  - Frequency: 1
+Word: branc  - Frequency: 1
+Word: nul  - Frequency: 1
+Word: som  - Frequency: 1
+Word: 9%  - Frequency: 2
+Word: entrevist  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: opin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_9%
+
+Keyword: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+
+Keyword: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+
+NUM: 11
+
+
+NUM: 19
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 22
+
+
+NUM: 12
+
+
+NUM: 22
+
+
+NUM: 10
+
+
+NUM: 8
+
+
+LESSER: 8
+
+(FINAL) AVERAGE: 8
+
+NUM: 11
+
+
+NUM: 19
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 22
+
+
+NUM: 12
+
+
+NUM: 22
+
+
+NUM: 10
+
+
+NUM: 8
+
+
+LESSER: 8
+
+---------------BEFORE!-------------
+
+VEC: 0_vot_intençõ_candidat_lul_pesquis_1%_44%_alckmin_heloís_nã_primeir
+VEC: 1_lul_alckmin_pesquis_pont_divulg_num_segund_turn_president_intençõ_vot_50%_36%_compar_ibop_44%_oscil_dia_últim
+VEC: 2_heloís_lul_nã_segund_turn_vot_53%_intençõ_junh
+VEC: 3_pesquis_dias_29_31_julh_foi_ouv_2_pesso_142_municípi_país_marg_erro_dois_pont_percentu_realiz_registr_tse_númer_12
+VEC: 8_pesquis_cni_primeir_list_nã_compar_oficial_candidat_president_tinh_intençõ_2%
+VEC: 11_32%_candidat_president_lul_caiu_rejeiçã_luiz_ináci_silv_sub_28%_gerald_alckmin_índic_heloís_helen_36%_pesquis_cni_afirm_vot_certez
+VEC: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta_29%_32%
+VEC: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+
+---------------AFTER!-------------
+
+VEC: 0_vot_intençõ_candidat_lul_pesquis_1%_44%_alckmin
+VEC: 1_lul_alckmin_pesquis_pont_divulg_num_segund_turn
+VEC: 2_heloís_lul_nã_segund_turn_vot_53%_intençõ
+VEC: 3_pesquis_dias_29_31_julh_foi_ouv_2
+VEC: 8_pesquis_cni_primeir_list_nã_compar_oficial_candidat
+VEC: 11_32%_candidat_president_lul_caiu_rejeiçã_luiz_ináci
+VEC: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta
+VEC: 17_9%_vot_branc_nul_som_entrevist_nã_opin
+Keyword: 0_vot_intençõ_candidat_lul_pesquis_1%_44%_alckmin
+Keyword: 1_lul_alckmin_pesquis_pont_divulg_num_segund_turn
+Keyword: 2_heloís_lul_nã_segund_turn_vot_53%_intençõ
+Keyword: 3_pesquis_dias_29_31_julh_foi_ouv_2
+Keyword: 8_pesquis_cni_primeir_list_nã_compar_oficial_candidat
+Keyword: 11_32%_candidat_president_lul_caiu_rejeiçã_luiz_ináci
+Keyword: 12_senador_cristov_buarqu_candidat_pel_pdt_tev_alta
+Keyword: 17_9%_vot_branc_nul_som_entrevist_nã_opin

@@ -1,0 +1,7129 @@
+Sentenca(topic=0): Quinze voluntários da ONG francesa Ação Contra a Fome (ACF) foram assassinados no nordeste do Sri Lanka, informou hoje um porta-voz da organização.
+Sentenca(topic=1): Os crimes aconteceram na cidade de Muttur, que durante as últimas duas semanas vive graves conflitos entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil  (LTTE).
+Sentenca(topic=1): Os corpos de 11 homens e 4 mulheres de etnia tâmil, vestidos com camisetas da ACF, apareceram na semana passada no escritório da organização.
+Sentenca(topic=1): O diretor da ACF no Sri Lanka, Benoit Miribel, confirmou a morte de seus funcionários e afirmou, comovido, que a ONG "não sofreu uma perda similar em seus mais de 25 anos de existência".
+Sentenca(topic=1): "Tentamos enviar uma equipe a Muttur para averiguar o que está acontecendo, mas os soldados não permitiram que entrássemos na cidade, que está totalmente bloqueada", afirmou.
+Sentenca(topic=2): Até o momento, as autoridades do Sri Lanka não confirmaram as mortes ou esclareceram o que acontece na cidade de Muttur.
+Sentenca(topic=3): O violento conflito começou em 26 de julho, quando as tropas aéreas do governo bombardearam posições da guerrilha, depois que os rebeldes bloquearam uma represa situada em seu território por mais de uma semana, impedindo a provisão de água em localidades sob controle governamental.
+Sentenca(topic=3): No domingo, o LTTE ofereceu o cessar-fogo em troca do desbloqueio da presa, mas o governo rejeitou a oferta e lançou uma nova ofensiva sobre a área, de onde mais de 15 mil civis foram obrigados a fugir na última semana.
+Sentenca(topic=3): Os rebeldes afirmaram que consideram o novo bombardeio do Exército equivalente a "uma declaração de guerra".
+Sentenca(topic=4): O enviado especial da Noruega para a paz no Sri Lanka, Jon Hanssen-Bauer, chegou na semana passada à ilha e manteve diferentes reuniões com as duas partes, na tentativa de reduzir a tensão e evitar a volta a uma guerra civil.
+Sentenca(topic=5): Quinze voluntários da ONG francesa Ação Contra a Fome (ACF) foram assassinados no nordeste do Sri Lanka.
+Sentenca(topic=5): Os crimes aconteceram na cidade de Muttur, que durante as últimas duas semanas vive graves conflitos entre as tropas do Exército do Sri Lanka e a guerrilha dos Tigres de Libertação da Pátria Tâmil (LTTE).
+Sentenca(topic=5): Os corpos de 11 homens e 4 mulheres de etnia tâmil, vestidos com camisetas da ACF, apareceram na semana passada no escritório da organização.
+Sentenca(topic=6): O diretor da ACF no Sri Lanka, Benoit Miribel, confirmou a morte de seus funcionários e afirmou, comovido, que a ONG "não sofreu uma perda similar em seus mais de 25 anos de existência".
+Sentenca(topic=7): "Tentamos enviar uma equipe a Muttur para averiguar o que está acontecendo, mas os soldados não permitiram que entrássemos na cidade, que está totalmente bloqueada", afirmou.
+Sentenca(topic=8): Até o momento, as autoridades do Sri Lanka não confirmaram as mortes ou esclareceram o que acontece na cidade de Muttur.
+Sentenca(topic=9): O violento conflito começou em 26 de julho, quando as tropas aéreas do Governo bombardearam posições da guerrilha, depois que os rebeldes bloquearam uma represa situada em seu território por mais de uma semana, impedindo a provisão de água em localidades sob controle governamental.
+Sentenca(topic=9): No domingo, o LTTE ofereceu o cessar-fogo em troca do desbloqueio da presa, mas o Governo rejeitou a oferta e lançou uma nova ofensiva sobre a área, de onde mais de 15 mil civis foram obrigados a fugir na última semana.
+Sentenca(topic=9): Os rebeldes afirmaram que consideram o novo bombardeio do Exército equivalente "uma declaração de guerra".
+Sentenca(topic=9): O enviado especial da Noruega para a paz no Sri Lanka, Jon Hansse-Bauer, chegou na semana passada à ilha e manteve diferentes reuniões com as duas partes, na tentativa de reduzir a tensão  e evitar a volta a uma guerra civil.
+Sentenca(topic=10): Quinze funcionários locais de uma organização de caridade francesa no Sri Lanka foram encontrados mortos na cidade de Muttur, no norte do país.
+Sentenca(topic=10): Segundo um representante do grupo Action Contre la Faim, os corpos foram encontrados no escritório da organização.
+Sentenca(topic=10): Confrontos entre o Exército e o grupo rebelde Tigres Tâmeis eclodiram na região de Muttur há duas semanas, após a guerrilha ter cortado o suprimento de água para alguns vilarejos.
+Sentenca(topic=10): No domingo, o Exército bombardeou posições rebeldes na área.
+Sentenca(topic=10): Os ataques ocorreram apesar de um acordo assinado pelos Tigres Tâmeis para permitir a reabertura do reservatório de água e a ameaça de que novos bombardeios seriam considerados pelo grupo como uma declaração de guerra.
+Sentenca(topic=11): Ainda não se sabe quem cometeu os assassinatos dos funcionários da organização francesa.
+Sentenca(topic=11): O diretor-geral da Action Contre la Faim, Benoit Miribel, disse que a organização nunca havia sofrido uma perda tão grande em 25 anos de existência.
+Sentenca(topic=11): Segundo ele, o grupo pretendia enviar uma equipe à região, mas foi impedido por soldados.
+Sentenca(topic=11): "
+Sentenca(topic=11): Nossa simpatia está com as famílias das vítimas e com todos os civis afetados por este massacre, cuja escala ainda é desconhecida", disse Miribel.
+Sentenca(topic=12): Os funcionários da organização, da etnia tâmil, trabalhavam com ajuda humanitária e reconstrução pós-tsunami.
+Sentenca(topic=13): Uma página na internet pró-Tigres Tâmeis responsabilizou o governo pelas mortes, mas o Exército rejeitou a acusação.
+Sentenca(topic=13): O líder da ala política do grupo, S. P. Thamilselvan, disse que a decisão do governo de retomar os bombardeios é "uma declaração de guerra".
+Sentenca(topic=13): Mas o Exército do Sri Lanka disse que os Tigres Tâmeis haviam iniciado os ataques.
+Sentenca(topic=14): "Quando os terroristas abriram com sua artilharia, nós não tivemos escolha senão retaliar", disse o porta-voz do Exército Abdullah Jayawardene à BBC.
+Sentenca(topic=15): Os confrontos em Muttur têm sido os mais intensos na ilha desde a assinatura de um cessar-fogo há quatro anos.
+Sentenca(topic=16): O governo diz estar comprometido com a trégua, mas a situação política com os rebeldes, que lutam pela independência do norte e do leste do país, permanece em um impasse.
+Sentenca(topic=17): Pelo menos 60 mil pessoas já morreram no país por conta da violência desde o início da insurgência rebelde, há três décadas.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: quinz  - Frequency: 1
+Word: voluntári  - Frequency: 1
+Word: ong  - Frequency: 1
+Word: frances  - Frequency: 1
+Word: açã  - Frequency: 1
+Word: fom  - Frequency: 1
+Word: for  - Frequency: 1
+Word: assassin  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: port  - Frequency: 1
+Word: organiz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord_sri_lank_inform_hoj_port_organiz
+
+
+------------------------------------------------------------
+Topic: 1
+Word: crim  - Frequency: 1
+Word: acontec  - Frequency: 2
+Word: cidad  - Frequency: 2
+Word: muttur  - Frequency: 2
+Word: durant  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: seman  - Frequency: 2
+Word: viv  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: sri  - Frequency: 2
+Word: lank  - Frequency: 2
+Word: guerrilh  - Frequency: 1
+Word: tigr  - Frequency: 1
+Word: libert  - Frequency: 1
+Word: pátr  - Frequency: 1
+Word: tâmil  - Frequency: 2
+Word: corp  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: homens  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: mulh  - Frequency: 1
+Word: etni  - Frequency: 1
+Word: vest  - Frequency: 1
+Word: camiset  - Frequency: 1
+Word: acf  - Frequency: 2
+Word: aparec  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: escritóri  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: benoit  - Frequency: 1
+Word: miribel  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: afirm  - Frequency: 2
+Word: comov  - Frequency: 1
+Word: ong  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: simil  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: averigu  - Frequency: 1
+Word: está  - Frequency: 2
+Word: sold  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: entráss  - Frequency: 1
+Word: total  - Frequency: 1
+Word: bloqu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm_está
+
+Keyword: 1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm_está_crim_durant_últim_duas_viv_grav_conflit_trop_exércit_guerrilh_tigr_libert_pátr_corp_11_homens_4_mulh_etni_vest_camiset_aparec_pass_escritóri_organiz_diretor_benoit_miribel_confirm_mort_funcionári_comov_ong_sofr_perd_simil_25_anos_existent_envi_equip_averigu_sold_nã_permit_entráss_total_bloqu
+
+
+------------------------------------------------------------
+Topic: 2
+Word: moment  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: esclarec  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: muttur  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec_cidad_muttur
+
+
+------------------------------------------------------------
+Topic: 3
+Word: violent  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: 26  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: bombard  - Frequency: 1
+Word: posiçõ  - Frequency: 1
+Word: guerrilh  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: rebeld  - Frequency: 2
+Word: bloqu  - Frequency: 1
+Word: repres  - Frequency: 1
+Word: situ  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: seman  - Frequency: 2
+Word: imped  - Frequency: 1
+Word: provisã  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: local  - Frequency: 1
+Word: control  - Frequency: 1
+Word: governamental  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: ltte  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: cess  - Frequency: 1
+Word: troc  - Frequency: 1
+Word: desbloquei  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: ofert  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: nov  - Frequency: 2
+Word: ofens  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: for  - Frequency: 1
+Word: obrig  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: consid  - Frequency: 1
+Word: bombardei  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: equivalent  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: guerr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_govern_rebeld_seman_nov
+
+Keyword: 3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh_trop_aér_bombard_posiçõ_guerrilh_depo_bloqu_repres_situ_territóri_imped_provisã_águ_local_control_governamental_doming_ltte_oferec_cess_troc_desbloquei_pres_rejeit_ofert_lanc_ofens_áre_15_mil_civ_for_obrig_fug_últim_afirm_consid_bombardei_exércit_equivalent_declar_guerr
+
+
+------------------------------------------------------------
+Topic: 4
+Word: envi  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: norueg  - Frequency: 1
+Word: paz  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: jon  - Frequency: 1
+Word: hanssen  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: ilha  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: diferent  - Frequency: 1
+Word: reuniõ  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: part  - Frequency: 1
+Word: tentat  - Frequency: 1
+Word: reduz  - Frequency: 1
+Word: tensã  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: guerr  - Frequency: 1
+Word: civil  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg_seman_pass_ilha_mantev_diferent_reuniõ_duas_part_tentat_reduz_tensã_evit_volt_guerr_civil
+
+
+------------------------------------------------------------
+Topic: 5
+Word: quinz  - Frequency: 1
+Word: voluntári  - Frequency: 1
+Word: ong  - Frequency: 1
+Word: frances  - Frequency: 1
+Word: açã  - Frequency: 1
+Word: fom  - Frequency: 1
+Word: for  - Frequency: 1
+Word: assassin  - Frequency: 1
+Word: nord  - Frequency: 1
+Word: sri  - Frequency: 2
+Word: lank  - Frequency: 2
+Word: crim  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: muttur  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: seman  - Frequency: 2
+Word: viv  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: guerrilh  - Frequency: 1
+Word: tigr  - Frequency: 1
+Word: libert  - Frequency: 1
+Word: pátr  - Frequency: 1
+Word: tâmil  - Frequency: 2
+Word: corp  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: homens  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: mulh  - Frequency: 1
+Word: etni  - Frequency: 1
+Word: vest  - Frequency: 1
+Word: camiset  - Frequency: 1
+Word: acf  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: escritóri  - Frequency: 1
+Word: organiz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_sri_lank_seman_tâmil
+
+Keyword: 5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord_crim_acontec_cidad_muttur_durant_últim_duas_viv_grav_conflit_trop_exércit_guerrilh_tigr_libert_pátr_corp_11_homens_4_mulh_etni_vest_camiset_acf_aparec_pass_escritóri_organiz
+
+
+------------------------------------------------------------
+Topic: 6
+Word: diretor  - Frequency: 1
+Word: acf  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: benoit  - Frequency: 1
+Word: miribel  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: comov  - Frequency: 1
+Word: ong  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: simil  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: existent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári_afirm_comov_ong_sofr_perd_simil_25_anos_existent
+
+
+------------------------------------------------------------
+Topic: 7
+Word: envi  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: muttur  - Frequency: 1
+Word: averigu  - Frequency: 1
+Word: está  - Frequency: 2
+Word: acontec  - Frequency: 1
+Word: sold  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: entráss  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: total  - Frequency: 1
+Word: bloqu  - Frequency: 1
+Word: afirm  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_está
+
+Keyword: 7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit_entráss_cidad_total_bloqu_afirm
+
+
+------------------------------------------------------------
+Topic: 8
+Word: moment  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: esclarec  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: muttur  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec_cidad_muttur
+
+
+------------------------------------------------------------
+Topic: 9
+Word: violent  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: 26  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: bombard  - Frequency: 1
+Word: posiçõ  - Frequency: 1
+Word: guerrilh  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: rebeld  - Frequency: 2
+Word: bloqu  - Frequency: 1
+Word: repres  - Frequency: 1
+Word: situ  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: seman  - Frequency: 3
+Word: imped  - Frequency: 1
+Word: provisã  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: local  - Frequency: 1
+Word: control  - Frequency: 1
+Word: governamental  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: ltte  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: cess  - Frequency: 1
+Word: troc  - Frequency: 1
+Word: desbloquei  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: ofert  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: nov  - Frequency: 2
+Word: ofens  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: for  - Frequency: 1
+Word: obrig  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: consid  - Frequency: 1
+Word: bombardei  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: equivalent  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: guerr  - Frequency: 2
+Word: envi  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: norueg  - Frequency: 1
+Word: paz  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: jon  - Frequency: 1
+Word: hanss  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: ilha  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: diferent  - Frequency: 1
+Word: reuniõ  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: part  - Frequency: 1
+Word: tentat  - Frequency: 1
+Word: reduz  - Frequency: 1
+Word: tensã  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: civil  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_seman
+
+Keyword: 9_seman_govern_rebeld_nov_guerr
+
+Keyword: 9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26_julh_trop_aér_bombard_posiçõ_guerrilh_depo_bloqu_repres_situ_territóri_imped_provisã_águ_local_control_governamental_doming_ltte_oferec_cess_troc_desbloquei_pres_rejeit_ofert_lanc_ofens_áre_15_mil_civ_for_obrig_fug_últim_afirm_consid_bombardei_exércit_equivalent_declar_envi_especial_norueg_paz_sri_lank_jon_hanss_cheg_pass_ilha_mantev_diferent_reuniõ_duas_part_tentat_reduz_tensã_evit_volt_civil
+
+
+------------------------------------------------------------
+Topic: 10
+Word: quinz  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: loc  - Frequency: 1
+Word: organiz  - Frequency: 2
+Word: caridad  - Frequency: 1
+Word: frances  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: for  - Frequency: 2
+Word: encontr  - Frequency: 2
+Word: mort  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: muttur  - Frequency: 2
+Word: nort  - Frequency: 1
+Word: país  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: grup  - Frequency: 3
+Word: action  - Frequency: 1
+Word: contr  - Frequency: 1
+Word: la  - Frequency: 1
+Word: faim  - Frequency: 1
+Word: corp  - Frequency: 1
+Word: escritóri  - Frequency: 1
+Word: confront  - Frequency: 1
+Word: exércit  - Frequency: 2
+Word: rebeld  - Frequency: 2
+Word: tigr  - Frequency: 2
+Word: tâm  - Frequency: 2
+Word: eclod  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: há  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: guerrilh  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: cort  - Frequency: 1
+Word: supriment  - Frequency: 1
+Word: águ  - Frequency: 2
+Word: vilarej  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: bombard  - Frequency: 1
+Word: posiçõ  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: assin  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: permit  - Frequency: 1
+Word: reabertur  - Frequency: 1
+Word: reservatóri  - Frequency: 1
+Word: ameac  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: bombardei  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: com  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: guerr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_grup
+
+Keyword: 10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm_águ_pel
+
+
+------------------------------------------------------------
+Topic: 11
+Word: aind  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: sab  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: assassinat  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: organiz  - Frequency: 2
+Word: frances  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: action  - Frequency: 1
+Word: contr  - Frequency: 1
+Word: la  - Frequency: 1
+Word: faim  - Frequency: 1
+Word: benoit  - Frequency: 1
+Word: miribel  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: nunc  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: tã  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: pretend  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: imped  - Frequency: 1
+Word: sold  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: simpat  - Frequency: 1
+Word: está  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: afet  - Frequency: 1
+Word: massacr  - Frequency: 1
+Word: escal  - Frequency: 1
+Word: desconhec  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_aind_organiz_miribel_diss
+
+Keyword: 11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári_frances_diretor_action_contr_la_faim_benoit_nunc_hav_sofr_perd_tã_grand_25_anos_existent_segund_grup_pretend_envi_equip_regiã_foi_imped_sold_noss_simpat_está_famíl_vítim_civ_afet_massacr_escal_desconhec
+
+
+------------------------------------------------------------
+Topic: 12
+Word: funcionári  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: etni  - Frequency: 1
+Word: tâmil  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: humanitár  - Frequency: 1
+Word: reconstruçã  - Frequency: 1
+Word: pós  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+
+Keyword: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+
+
+------------------------------------------------------------
+Topic: 13
+Word: págin  - Frequency: 1
+Word: internet  - Frequency: 1
+Word: pró  - Frequency: 1
+Word: tâm  - Frequency: 2
+Word: responsabiliz  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: pel  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: exércit  - Frequency: 2
+Word: rejeit  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: ala  - Frequency: 1
+Word: polít  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: thamilselvan  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: decisã  - Frequency: 1
+Word: retom  - Frequency: 1
+Word: bombardei  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: guerr  - Frequency: 1
+Word: sri  - Frequency: 1
+Word: lank  - Frequency: 1
+Word: tigr  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: ataqu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_tâm_govern_exércit_diss
+
+Keyword: 13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel_mort_rejeit_acus_líd_ala_polít_grup_thamilselvan_decisã_retom_bombardei_declar_guerr_sri_lank_tigr_hav_inic_ataqu
+
+
+------------------------------------------------------------
+Topic: 14
+Word: terror  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: artilh  - Frequency: 1
+Word: nós  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: escolh  - Frequency: 1
+Word: senã  - Frequency: 1
+Word: retali  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: port  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: abdullah  - Frequency: 1
+Word: jayawarden  - Frequency: 1
+Word: bbc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali_diss_port_exércit_abdullah_jayawarden_bbc
+
+
+------------------------------------------------------------
+Topic: 15
+Word: confront  - Frequency: 1
+Word: muttur  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: intens  - Frequency: 1
+Word: ilha  - Frequency: 1
+Word: assinatur  - Frequency: 1
+Word: cess  - Frequency: 1
+Word: há  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: anos  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há_quatr_anos
+
+
+------------------------------------------------------------
+Topic: 16
+Word: govern  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: compromet  - Frequency: 1
+Word: trégu  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: polít  - Frequency: 1
+Word: rebeld  - Frequency: 1
+Word: lut  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: independent  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: país  - Frequency: 1
+Word: permanec  - Frequency: 1
+Word: impass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut_pel_independent_nort_lest_país_permanec_impass
+
+
+------------------------------------------------------------
+Topic: 17
+Word: pel  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: já  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: país  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: violênc  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: insurgent  - Frequency: 1
+Word: rebeld  - Frequency: 1
+Word: há  - Frequency: 1
+Word: três  - Frequency: 1
+Word: déc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_pel_60_mil_pesso_já_morr_país_cont_violênc_iníci_insurgent_rebeld_há_três_déc
+
+NUM: 15
+
+
+NUM: 58
+
+
+NUM: 11
+
+
+NUM: 51
+
+
+NUM: 24
+
+
+NUM: 42
+
+
+NUM: 18
+
+
+NUM: 14
+
+
+NUM: 11
+
+
+NUM: 73
+
+
+NUM: 11
+
+
+NUM: 44
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 28
+
+
+NUM: 15
+
+
+NUM: 11
+
+
+NUM: 16
+
+
+NUM: 15
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 15
+
+
+NUM: 58
+
+
+NUM: 11
+
+
+NUM: 51
+
+
+NUM: 24
+
+
+NUM: 42
+
+
+NUM: 18
+
+
+NUM: 14
+
+
+NUM: 11
+
+
+NUM: 73
+
+
+NUM: 11
+
+
+NUM: 44
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 28
+
+
+NUM: 15
+
+
+NUM: 11
+
+
+NUM: 16
+
+
+NUM: 15
+
+
+---------------BEFORE!-------------
+
+VEC: 0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord_sri_lank_inform_hoj_port_organiz
+VEC: 1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm_está_crim_durant_últim_duas_viv_grav_conflit_trop_exércit_guerrilh_tigr_libert_pátr_corp_11_homens_4_mulh_etni_vest_camiset_aparec_pass_escritóri_organiz_diretor_benoit_miribel_confirm_mort_funcionári_comov_ong_sofr_perd_simil_25_anos_existent_envi_equip_averigu_sold_nã_permit_entráss_total_bloqu
+VEC: 2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec_cidad_muttur
+VEC: 3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh_trop_aér_bombard_posiçõ_guerrilh_depo_bloqu_repres_situ_territóri_imped_provisã_águ_local_control_governamental_doming_ltte_oferec_cess_troc_desbloquei_pres_rejeit_ofert_lanc_ofens_áre_15_mil_civ_for_obrig_fug_últim_afirm_consid_bombardei_exércit_equivalent_declar_guerr
+VEC: 4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg_seman_pass_ilha_mantev_diferent_reuniõ_duas_part_tentat_reduz_tensã_evit_volt_guerr_civil
+VEC: 5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord_crim_acontec_cidad_muttur_durant_últim_duas_viv_grav_conflit_trop_exércit_guerrilh_tigr_libert_pátr_corp_11_homens_4_mulh_etni_vest_camiset_acf_aparec_pass_escritóri_organiz
+VEC: 6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári_afirm_comov_ong_sofr_perd_simil_25_anos_existent
+VEC: 7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit_entráss_cidad_total_bloqu_afirm
+VEC: 8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec_cidad_muttur
+VEC: 9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26_julh_trop_aér_bombard_posiçõ_guerrilh_depo_bloqu_repres_situ_territóri_imped_provisã_águ_local_control_governamental_doming_ltte_oferec_cess_troc_desbloquei_pres_rejeit_ofert_lanc_ofens_áre_15_mil_civ_for_obrig_fug_últim_afirm_consid_bombardei_exércit_equivalent_declar_envi_especial_norueg_paz_sri_lank_jon_hanss_cheg_pass_ilha_mantev_diferent_reuniõ_duas_part_tentat_reduz_tensã_evit_volt_civil
+VEC: 10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm_águ_pel
+VEC: 11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári_frances_diretor_action_contr_la_faim_benoit_nunc_hav_sofr_perd_tã_grand_25_anos_existent_segund_grup_pretend_envi_equip_regiã_foi_imped_sold_noss_simpat_está_famíl_vítim_civ_afet_massacr_escal_desconhec
+VEC: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+VEC: 13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel_mort_rejeit_acus_líd_ala_polít_grup_thamilselvan_decisã_retom_bombardei_declar_guerr_sri_lank_tigr_hav_inic_ataqu
+VEC: 14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali_diss_port_exércit_abdullah_jayawarden_bbc
+VEC: 15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há_quatr_anos
+VEC: 16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut_pel_independent_nort_lest_país_permanec_impass
+VEC: 17_pel_60_mil_pesso_já_morr_país_cont_violênc_iníci_insurgent_rebeld_há_três_déc
+
+---------------AFTER!-------------
+
+VEC: 0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord
+VEC: 1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm
+VEC: 2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec
+VEC: 3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh
+VEC: 4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg
+VEC: 5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã
+VEC: 6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári
+VEC: 7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit
+VEC: 8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec
+VEC: 9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26
+VEC: 10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm
+VEC: 11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári
+VEC: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+VEC: 13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel
+VEC: 14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali
+VEC: 15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há
+VEC: 16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut
+VEC: 17_pel_60_mil_pesso_já_morr_país_cont_violênc
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 8
+Similaridade entre eles: 0.888889
+
+
+SIM: 0.888889
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 9
+Similaridade entre eles: 1
+
+
+SIM: 1
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+SIM: 0.555556
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0926652
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" is "0.1"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" is "0.2"
+
+CHANGE! -- From: 18 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_pel_60_mil_pesso_já_morr_país_cont_violênc" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 18
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 17 -- Topic s_aux: 13 -- Abs: 4
+
+
+Topic change from "17" to "13"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 14
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" is "0.1"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" is "0.2"
+
+CHANGE! -- From: 17 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0.2"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0.2"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_govern_diz_estar_compromet_trégu_situaçã_polít_rebeld_lut" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 16 -- Topic s_aux: 13 -- Abs: 3
+
+
+Topic change from "16" to "13"
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" is "0.1"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" is "0.2"
+
+CHANGE! -- From: 16 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_confront_muttur_têm_sid_intens_ilha_assinatur_cess_há" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 15 -- Topic s_aux: 10 -- Abs: 5
+
+
+Topic change from "15" to "10"
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 11
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" is "0.1"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" is "0.2"
+
+CHANGE! -- From: 15 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" is "0.1"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_terror_abrir_artilh_nós_nã_tiv_escolh_senã_retali" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 11
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 14 -- Topic s_aux: 11 -- Abs: 3
+
+
+Topic change from "14" to "11"
+
+Topic: 10 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 12
+Topic: 11
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" is "0.1"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" is "0.2"
+
+CHANGE! -- From: 14 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" is "0.3"
+
+CHANGE! -- From: 14 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0.1"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0.1"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_tâm_govern_exércit_diss_págin_internet_pró_responsabiliz_pel" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 12
+Topic: 11
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 11 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 13 -- Topic s_aux: 10 -- Abs: 3
+
+
+Topic change from "13" to "10"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" is "0.3"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" is "0.2"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0.2"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_aind_organiz_miribel_diss_nã_sab_comet_assassinat_funcionári" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" is "0.1"
+
+CHANGE! -- From: 11 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0.1"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_grup_organiz_for_encontr_muttur_exércit_rebeld_tigr_tâm" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 11 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 9 -- Abs: 1
+
+
+Topic change from "10" to "9"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 12
+Topic: 10
+Topic: 10
+Topic: 10
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0.111111"
+
+CHANGE! -- From: 10 -> TO: 6
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 8
+Similaridade entre eles: 0.888889
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0.888889"
+
+CHANGE! -- From: 10 -> TO: 4
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.111111"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_seman_govern_rebeld_nov_guerr_violent_conflit_comec_26" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 12
+Topic: 10
+Topic: 10
+Topic: 10
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 11 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" is "0.222222"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0.444444"
+
+CHANGE! -- From: 9 -> TO: 7
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0.222222"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0.222222"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 9
+Similaridade entre eles: 1
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "1"
+
+CHANGE! -- From: 9 -> TO: 3
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.333333"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 2 -- Abs: 6
+
+
+Topic change from "8" to "2"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" and "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0.111111"
+
+CHANGE! -- From: 8 -> TO: 5
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.222222"
+
+CHANGE! -- From: 8 -> TO: 3
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.222222"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_está_envi_equip_muttur_averigu_acontec_sold_nã_permit" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" and "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" is "0.222222"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0.222222"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.444444"
+
+CHANGE! -- From: 7 -> TO: 3
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.333333"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_diretor_acf_sri_lank_benoit_miribel_confirm_mort_funcionári" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 2 -- Abs: 4
+
+
+Topic change from "6" to "2"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" and "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" is "0.222222"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0.111111"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.222222"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.444444"
+
+CHANGE! -- From: 6 -> TO: 2
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.555556
+
+
+Similarity between "5_sri_lank_seman_tâmil_quinz_voluntári_ong_frances_açã" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0.555556"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" and "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0.222222"
+
+CHANGE! -- From: 5 -> TO: 3
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.222222"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_envi_especial_norueg_paz_sri_lank_jon_hanssen_cheg" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" and "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.111111"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_govern_rebeld_seman_nov_violent_conflit_comec_26_julh" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 12
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 11 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" is "0.333333"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_moment_autor_sri_lank_nã_confirm_mort_esclarec_acontec" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_acontec_cidad_muttur_seman_sri_lank_tâmil_acf_afirm" and "0_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 12
+Topic: 2
+Topic: 2
+Topic: 2
+NUM_TOPICS: 12
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: quinz  - Frequency: 2
+Word: voluntári  - Frequency: 2
+Word: ong  - Frequency: 2
+Word: frances  - Frequency: 2
+Word: açã  - Frequency: 2
+Word: fom  - Frequency: 2
+Word: for  - Frequency: 2
+Word: assassin  - Frequency: 2
+Word: nord  - Frequency: 2
+Word: sri  - Frequency: 3
+Word: lank  - Frequency: 3
+Word: inform  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: port  - Frequency: 1
+Word: organiz  - Frequency: 2
+Word: crim  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: muttur  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: seman  - Frequency: 2
+Word: viv  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: guerrilh  - Frequency: 1
+Word: tigr  - Frequency: 1
+Word: libert  - Frequency: 1
+Word: pátr  - Frequency: 1
+Word: tâmil  - Frequency: 2
+Word: corp  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: homens  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: mulh  - Frequency: 1
+Word: etni  - Frequency: 1
+Word: vest  - Frequency: 1
+Word: camiset  - Frequency: 1
+Word: acf  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: escritóri  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_sri_lank
+
+Keyword: 0_sri_lank_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord_organiz_seman_tâmil
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: crim  - Frequency: 1
+Word: acontec  - Frequency: 2
+Word: cidad  - Frequency: 3
+Word: muttur  - Frequency: 5
+Word: durant  - Frequency: 1
+Word: últim  - Frequency: 3
+Word: duas  - Frequency: 3
+Word: seman  - Frequency: 8
+Word: viv  - Frequency: 1
+Word: grav  - Frequency: 1
+Word: conflit  - Frequency: 3
+Word: trop  - Frequency: 3
+Word: exércit  - Frequency: 7
+Word: sri  - Frequency: 5
+Word: lank  - Frequency: 5
+Word: guerrilh  - Frequency: 4
+Word: tigr  - Frequency: 4
+Word: libert  - Frequency: 1
+Word: pátr  - Frequency: 1
+Word: tâmil  - Frequency: 2
+Word: corp  - Frequency: 2
+Word: 11  - Frequency: 1
+Word: homens  - Frequency: 1
+Word: 4  - Frequency: 1
+Word: mulh  - Frequency: 1
+Word: etni  - Frequency: 1
+Word: vest  - Frequency: 1
+Word: camiset  - Frequency: 1
+Word: acf  - Frequency: 2
+Word: aparec  - Frequency: 1
+Word: pass  - Frequency: 2
+Word: escritóri  - Frequency: 2
+Word: organiz  - Frequency: 3
+Word: diretor  - Frequency: 1
+Word: benoit  - Frequency: 1
+Word: miribel  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 3
+Word: funcionári  - Frequency: 2
+Word: afirm  - Frequency: 4
+Word: comov  - Frequency: 1
+Word: ong  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: simil  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: anos  - Frequency: 2
+Word: existent  - Frequency: 1
+Word: envi  - Frequency: 2
+Word: equip  - Frequency: 1
+Word: averigu  - Frequency: 1
+Word: está  - Frequency: 2
+Word: sold  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: permit  - Frequency: 2
+Word: entráss  - Frequency: 1
+Word: total  - Frequency: 1
+Word: bloqu  - Frequency: 3
+Word: violent  - Frequency: 2
+Word: comec  - Frequency: 2
+Word: 26  - Frequency: 2
+Word: julh  - Frequency: 2
+Word: aér  - Frequency: 2
+Word: govern  - Frequency: 7
+Word: bombard  - Frequency: 3
+Word: posiçõ  - Frequency: 3
+Word: depo  - Frequency: 2
+Word: rebeld  - Frequency: 8
+Word: repres  - Frequency: 2
+Word: situ  - Frequency: 2
+Word: territóri  - Frequency: 2
+Word: imped  - Frequency: 2
+Word: provisã  - Frequency: 2
+Word: águ  - Frequency: 4
+Word: local  - Frequency: 2
+Word: control  - Frequency: 2
+Word: governamental  - Frequency: 2
+Word: doming  - Frequency: 3
+Word: ltte  - Frequency: 2
+Word: oferec  - Frequency: 2
+Word: cess  - Frequency: 3
+Word: troc  - Frequency: 2
+Word: desbloquei  - Frequency: 2
+Word: pres  - Frequency: 2
+Word: rejeit  - Frequency: 3
+Word: ofert  - Frequency: 2
+Word: lanc  - Frequency: 2
+Word: nov  - Frequency: 5
+Word: ofens  - Frequency: 2
+Word: áre  - Frequency: 3
+Word: 15  - Frequency: 2
+Word: mil  - Frequency: 3
+Word: civ  - Frequency: 2
+Word: for  - Frequency: 4
+Word: obrig  - Frequency: 2
+Word: fug  - Frequency: 2
+Word: consid  - Frequency: 2
+Word: bombardei  - Frequency: 4
+Word: equivalent  - Frequency: 2
+Word: declar  - Frequency: 4
+Word: guerr  - Frequency: 5
+Word: especial  - Frequency: 1
+Word: norueg  - Frequency: 1
+Word: paz  - Frequency: 1
+Word: jon  - Frequency: 1
+Word: hanss  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: ilha  - Frequency: 2
+Word: mantev  - Frequency: 1
+Word: diferent  - Frequency: 1
+Word: reuniõ  - Frequency: 1
+Word: part  - Frequency: 1
+Word: tentat  - Frequency: 1
+Word: reduz  - Frequency: 1
+Word: tensã  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: quinz  - Frequency: 1
+Word: loc  - Frequency: 1
+Word: caridad  - Frequency: 1
+Word: frances  - Frequency: 1
+Word: encontr  - Frequency: 2
+Word: nort  - Frequency: 2
+Word: país  - Frequency: 3
+Word: segund  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: grup  - Frequency: 4
+Word: action  - Frequency: 1
+Word: contr  - Frequency: 1
+Word: la  - Frequency: 1
+Word: faim  - Frequency: 1
+Word: confront  - Frequency: 2
+Word: tâm  - Frequency: 4
+Word: eclod  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: há  - Frequency: 3
+Word: ter  - Frequency: 1
+Word: cort  - Frequency: 1
+Word: supriment  - Frequency: 1
+Word: vilarej  - Frequency: 1
+Word: ataqu  - Frequency: 2
+Word: ocorr  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: assin  - Frequency: 1
+Word: pel  - Frequency: 5
+Word: reabertur  - Frequency: 1
+Word: reservatóri  - Frequency: 1
+Word: ameac  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: com  - Frequency: 1
+Word: págin  - Frequency: 1
+Word: internet  - Frequency: 1
+Word: pró  - Frequency: 1
+Word: responsabiliz  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: ala  - Frequency: 1
+Word: polít  - Frequency: 2
+Word: thamilselvan  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: decisã  - Frequency: 1
+Word: retom  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: intens  - Frequency: 1
+Word: assinatur  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: compromet  - Frequency: 1
+Word: trégu  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: lut  - Frequency: 1
+Word: independent  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: permanec  - Frequency: 1
+Word: impass  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: já  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: violênc  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: insurgent  - Frequency: 1
+Word: três  - Frequency: 1
+Word: déc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_seman_rebeld
+
+Keyword: 1_seman_rebeld_exércit_govern
+
+Keyword: 1_seman_rebeld_exércit_govern
+
+Keyword: 1_seman_rebeld_exércit_govern_muttur_sri_lank_nov_guerr_pel
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: moment  - Frequency: 2
+Word: autor  - Frequency: 2
+Word: sri  - Frequency: 4
+Word: lank  - Frequency: 4
+Word: nã  - Frequency: 3
+Word: confirm  - Frequency: 3
+Word: mort  - Frequency: 3
+Word: esclarec  - Frequency: 2
+Word: acontec  - Frequency: 3
+Word: cidad  - Frequency: 3
+Word: muttur  - Frequency: 3
+Word: envi  - Frequency: 2
+Word: especial  - Frequency: 1
+Word: norueg  - Frequency: 1
+Word: paz  - Frequency: 1
+Word: jon  - Frequency: 1
+Word: hanssen  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: ilha  - Frequency: 1
+Word: mantev  - Frequency: 1
+Word: diferent  - Frequency: 1
+Word: reuniõ  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: part  - Frequency: 1
+Word: tentat  - Frequency: 1
+Word: reduz  - Frequency: 1
+Word: tensã  - Frequency: 1
+Word: evit  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: guerr  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: acf  - Frequency: 1
+Word: benoit  - Frequency: 1
+Word: miribel  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: afirm  - Frequency: 2
+Word: comov  - Frequency: 1
+Word: ong  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: simil  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: averigu  - Frequency: 1
+Word: está  - Frequency: 2
+Word: sold  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: entráss  - Frequency: 1
+Word: total  - Frequency: 1
+Word: bloqu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_sri_lank
+
+Keyword: 2_sri_lank_nã_confirm_mort_acontec_cidad_muttur
+
+Keyword: 2_sri_lank_nã_confirm_mort_acontec_cidad_muttur_moment_autor_esclarec_envi_afirm_está
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: aind  - Frequency: 2
+Word: nã  - Frequency: 2
+Word: sab  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: assassinat  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: organiz  - Frequency: 2
+Word: frances  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: action  - Frequency: 1
+Word: contr  - Frequency: 1
+Word: la  - Frequency: 1
+Word: faim  - Frequency: 1
+Word: benoit  - Frequency: 1
+Word: miribel  - Frequency: 2
+Word: diss  - Frequency: 3
+Word: nunc  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: perd  - Frequency: 1
+Word: tã  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: 25  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: pretend  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: imped  - Frequency: 1
+Word: sold  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: simpat  - Frequency: 1
+Word: está  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: afet  - Frequency: 1
+Word: massacr  - Frequency: 1
+Word: escal  - Frequency: 1
+Word: desconhec  - Frequency: 1
+Word: terror  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: artilh  - Frequency: 1
+Word: nós  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: escolh  - Frequency: 1
+Word: senã  - Frequency: 1
+Word: retali  - Frequency: 1
+Word: port  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: abdullah  - Frequency: 1
+Word: jayawarden  - Frequency: 1
+Word: bbc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_diss
+
+Keyword: 11_diss_aind_nã_organiz_miribel
+
+Keyword: 11_diss_aind_nã_organiz_miribel_sab_comet_assassinat_funcionári_frances_diretor_action_contr_la_faim_benoit_nunc_hav_sofr_perd_tã_grand_25_anos_existent_segund_grup_pretend_envi_equip_regiã_foi_imped_sold_noss_simpat_está_famíl_vítim_civ_afet_massacr_escal_desconhec_terror_abrir_artilh_nós_tiv_escolh_senã_retali_port_exércit_abdullah_jayawarden_bbc
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: funcionári  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: etni  - Frequency: 1
+Word: tâmil  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: humanitár  - Frequency: 1
+Word: reconstruçã  - Frequency: 1
+Word: pós  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+
+Keyword: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+
+NUM: 14
+
+
+NUM: 10
+
+
+NUM: 14
+
+
+NUM: 57
+
+
+NUM: 9
+
+
+LESSER: 9
+
+(FINAL) AVERAGE: 9
+
+NUM: 14
+
+
+NUM: 10
+
+
+NUM: 14
+
+
+NUM: 57
+
+
+NUM: 9
+
+
+LESSER: 9
+
+---------------BEFORE!-------------
+
+VEC: 0_sri_lank_quinz_voluntári_ong_frances_açã_fom_for_assassin_nord_organiz_seman_tâmil
+VEC: 1_seman_rebeld_exércit_govern_muttur_sri_lank_nov_guerr_pel
+VEC: 2_sri_lank_nã_confirm_mort_acontec_cidad_muttur_moment_autor_esclarec_envi_afirm_está
+VEC: 11_diss_aind_nã_organiz_miribel_sab_comet_assassinat_funcionári_frances_diretor_action_contr_la_faim_benoit_nunc_hav_sofr_perd_tã_grand_25_anos_existent_segund_grup_pretend_envi_equip_regiã_foi_imped_sold_noss_simpat_está_famíl_vítim_civ_afet_massacr_escal_desconhec_terror_abrir_artilh_nós_tiv_escolh_senã_retali_port_exércit_abdullah_jayawarden_bbc
+VEC: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+
+---------------AFTER!-------------
+
+VEC: 0_sri_lank_quinz_voluntári_ong_frances_açã_fom_for
+VEC: 1_seman_rebeld_exércit_govern_muttur_sri_lank_nov_guerr
+VEC: 2_sri_lank_nã_confirm_mort_acontec_cidad_muttur_moment
+VEC: 11_diss_aind_nã_organiz_miribel_sab_comet_assassinat_funcionári
+VEC: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós
+Keyword: 0_sri_lank_quinz_voluntári_ong_frances_açã_fom_for
+Keyword: 1_seman_rebeld_exércit_govern_muttur_sri_lank_nov_guerr
+Keyword: 2_sri_lank_nã_confirm_mort_acontec_cidad_muttur_moment
+Keyword: 11_diss_aind_nã_organiz_miribel_sab_comet_assassinat_funcionári
+Keyword: 12_funcionári_organiz_etni_tâmil_trabalh_ajud_humanitár_reconstruçã_pós

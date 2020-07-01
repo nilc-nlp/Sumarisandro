@@ -1,0 +1,19 @@
+<div id="noticia-corpo" class="row">
+      <div class="twelve columns" itemprop="articleBody"><div style="float: left; margin: 0px 10px 5px 0px; padding: 0px 10px 5px 0px; width: 310px;"><img src="http://emc.jornalacidade.com.br/dbimagens/0e982c51-c2cc-4dfd-9a16-e14d0e86af1b.jpg" alt="Reprodu&ccedil;&atilde;o EPTV" align="" title="Reprodu&ccedil;&atilde;o EPTV" />
+<div style="background-color: rgb(238, 238, 238); display: block; font-weight: normal; padding: 0.67em; text-align: left; margin: 0px; font-size: 11px; background-position: initial initial; background-repeat: initial initial;">Guilherme Longo, padrasto do menino Joaquim Ponte Marques (foto: Reprodu&ccedil;&atilde;o / EPTV)</div>
+</div>
+<p>N&atilde;o cabe ao Superior Tribunal de Justi&ccedil;a (STJ) analisar extens&atilde;o de habeas corpus concedido por outro tribunal. Com esse entendimento, o ministro Marco Aur&eacute;lio Bellizze extinguiu pedido de habeas corpus apresentado pela defesa do padrasto do menino Joaquim Marques, de tr&ecirc;s anos de idade, cujo corpo foi encontrado em um rio no munic&iacute;pio de Barretos, no in&iacute;cio de novembro. <br />
+<br />
+O padrasto, Guilherme Longo, e a m&atilde;e, Nat&aacute;lia Ponte, foram apontados pela pol&iacute;cia como suspeitos do homic&iacute;dio. Ambos tiveram a pris&atilde;o tempor&aacute;ria decretada para viabilizar a investiga&ccedil;&atilde;o, por&eacute;m Nat&aacute;lia conseguiu habeas corpus e foi solta.&nbsp;<br />
+<br />
+A defesa sustentava que a concess&atilde;o de habeas corpus em favor da m&atilde;e do menino Joaquim, com base em crit&eacute;rios objetivos, obrigaria a coloca&ccedil;&atilde;o tamb&eacute;m do padrasto em liberdade. <br />
+<br />
+Ainda conforme a defesa, n&atilde;o existiria prova da materialidade do crime, j&aacute; que os laudos n&atilde;o apontavam a causa da morte do menino. O padrasto tamb&eacute;m teria colaborado com a investiga&ccedil;&atilde;o em todos os momentos, sendo dispens&aacute;vel a pris&atilde;o para prosseguimento das apura&ccedil;&otilde;es. <br />
+<strong><br />
+Liminar contra liminar</strong><br />
+<br />
+O ministro Marco Aur&eacute;lio Bellizze afirmou que n&atilde;o cabe ao STJ analisar liminar ou m&eacute;rito de habeas corpus contra decis&atilde;o de tribunal inferior, que negou liminar em habeas corpus anteriormente impetrado. <br />
+<br />
+O ministro Bellizze tamb&eacute;m entendeu que a compet&ecirc;ncia para analisar a extens&atilde;o de habeas corpus concedido a outro r&eacute;u &eacute; do tribunal que originariamente concedeu o benef&iacute;cio. <br />
+<br />
+Por esses dois motivos, o ministro Bellizze extinguiu o processo, indeferindo liminarmente o habeas corpus ao padrasto. &nbsp;</p></div>

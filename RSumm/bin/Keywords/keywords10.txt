@@ -1,0 +1,6457 @@
+Sentenca(topic=0): A aviação de Israel realizou durante a madrugada desta segunda-feira, dia 7, ataques a 150 alvos no Líbano.
+Sentenca(topic=0): Enquanto isso, soldados israelenses mataram 10 integrantes da milícia do Hezbollah.
+Sentenca(topic=1): Durante este domingo, dia 6, foram travadas lugas sangrentas.
+Sentenca(topic=2): Os foguetes e ataques do Hezbollah causaram a morte de 15 pessoas e deixaram mais de 200 feridas.
+Sentenca(topic=2): Já o Exército de Israel provocaram a morte de 30 militantes do Hezbollah.
+Sentenca(topic=2): Comandos israelenses mataram outros três guerrilheiros libaneses na cidade de Tiro, onde destruíram sete plataformas de lançamento de foguetes, informaram as fontes israelenses.
+Sentenca(topic=3): A aviação israelense atacou 150 alvos na madrugada de hoje no Líbano, enquanto soldados do Estado judeu mataram 10 milicianos do Hisbolá nas aldeias libanesas de Bint Djebeil e Kafr Hula, segundo informações de fontes militares.
+Sentenca(topic=3): Os combates se intensificaram hoje após a sangrenta batalha deste domingo, quando a guerrilha xiita do Hezbolá matou 15 pessoas e deixou mais de 200 feridas, entre militares e civis.
+Sentenca(topic=3): Por sua parte, as forças militares de Israel no sul do Líbano informaram que também no domingo foram mortos 30 milicianos do Hezbolá, enquanto um oficial e dois soldados israelenses ficaram feridos hoje em Oleado.
+Sentenca(topic=4): Comandos israelenses mataram outros três guerrilheiros libaneses na cidade de Tiro, onde destruíram sete plataformas de lançamento de foguetes, informaram as fontes israelenses.
+Sentenca(topic=5): O primeiro-ministro de Israel, Ehud Olmert, realizará hoje consultas com seu vice-primeiro-ministro, Shimon Peres, e com os titulares da Defesa, Amir Peretz, e de Exteriores, Tzipi Livni, entre outros, a fim de analisar o agravamento da situação dos conflitos, que não possibilitaram o fim dos ataques do Hezbolá a Israel.
+Sentenca(topic=6): Segundo fontes militares e policiais, os milicianos do Hisbolá já dispararam aproximadamente 2,7 mil foguetes Katyusha e mísseis de diferentes alcances contra território israelense desde de o início dos conflitos, que chega hoje ao seu 27º dia.
+Sentenca(topic=6): De acordo com um porta-voz militar, o Hezbolá contava com pelo menos 11 mil mísseis e foguetes "apontados contra Israel" no começo as hostilidades.
+Sentenca(topic=6): Além disso, a rádio pública israelense informou que  uma fonte do Governo, que não quis revelar sua identidade, assinalou que essas operações podem estender-se até o rio Litani, a 30 quilômetros da fronteira entre os dois países.
+Sentenca(topic=7): As operações por terra, que contam com a participação de aproximadamente dez mil efetivos, têm como missão criar uma "zona militar especial" ao longo da fronteira entre os dois países, de 110 quilômetros, para afastar os milicianos islâmicos do Hisbolá de Israel.
+Sentenca(topic=8): A intenção declarada do Governo israelense é ceder essa zona de segurança a uma força multinacional, que garanta seu controle e apóie às forças do Exército libanês nesse propósito.
+Sentenca(topic=8): A esse respeito, o Conselho de Segurança da ONU debaterá hoje ou amanhã uma proposta de resolução apresentada pelos Estados Unidos e pela França, que contempla um cessar-fogo e inclui também o posicionamento de uma força multinacional no Líbano.
+Sentenca(topic=8): Aparentemente, Israel estaria disposto a aceitar a resolução, mas o presidente do Parlamento libanês, Nabih Berri, declarou neste domingo que seu país rejeita a proposta.
+Sentenca(topic=9): "Todo o Líbano rejeita a minuta de resolução e exige que ela seja reconsiderada, para que haja uma harmonia com o plano de sete pontos aprovado pelo governo libanês e suas comunidades", afirmou Berri, em entrevista coletiva em Beirute.
+Sentenca(topic=9): "Aceitar esta minuta de resolução significaria que as tropas israelenses poderiam seguir ocupando as zonas que já ocupam agora", concluiu.
+Sentenca(topic=10): A Força Aérea israelense lançou uma série de bombardeios contra o Líbano nesta segunda-feira.
+Sentenca(topic=10): Foram atingidos alvos no leste do país, entre eles um dos redutos do Hezbollah, Baalbek, no vale do Bekaa, nos subúrbios do lado sul de Beirute e na cidade portuária de Tiro.
+Sentenca(topic=10): As autoridades libanesas estimam o número de mortos em 11 civis, seis deles integrantes da mesma família.
+Sentenca(topic=10): De acordo com um correspondente da BBC em Tiro, John Simpson, a cidade, na qual ficaram apenas cerca de 3 mil pessoas, ficou completamente isolada depois dos últimos ataques de Israel.
+Sentenca(topic=11): Os militares isralenses justificaram os ataques, afirmando que eram necessários porque o grupo militante Hezbollah continua a lançar mísseis contra "alvos civis" em Israel.
+Sentenca(topic=12): As tropas de infantaria de Israel também entraram em combates com homens do Hezbollah nesta segunda-feira, no povoado de Houla, no sul do Líbano.
+Sentenca(topic=13): A ofensiva israelense foi lançada depois de uma seqüência de ataques do Hezbollah no domingo que causou as maiores baixas para Israel nas quatro semanas do conflito.
+Sentenca(topic=13): Pelo menos quinze soldados israelenses morreram - doze deles, reservistas - no norte de Israel, na cidade de Kfar Giladi , ao serem atingidos por um míssil do Hezbollah.
+Sentenca(topic=13): Outros nove ficaram feridos.
+Sentenca(topic=14): O míssil do Hezbollah teria atingido um prédio na cidade, perto da fronteira com o Líbano, onde se encontravam os reservistas, recém-convocados para a ativa.
+Sentenca(topic=15): Na cidade de Haifa, os mísseis do Hezbollah mataram pelo menos três civis.
+Sentenca(topic=15): Segundo a agência de notícias France Presse, os mortos eram todos moradores de um kibbutz ao norte de Israel.
+Sentenca(topic=15): Testemunhas disseram que os disparos de mísseis feitos pelo Hezbollah duraram cerca de 15 minutos.
+Sentenca(topic=16): O Líbano apresentou um pedido formal ao Conselho de Segurança da Organização das Nações Unidas (ONU) de uma revisão da proposta de resolução para o fim do conflito no Oriente Médio.
+Sentenca(topic=16): O representate do Líbano na ONU, Nouhad Mahmoud, disse que submeteu uma emenda ao esboço franco-americano, pedido que as forças israelenses se retirem do território libanês.
+Sentenca(topic=16): O Líbano também apresentou objeções à forma como o texto lida com disputas territoriais e à questão dos prisioneiros mantidos em ambos os lados.
+Sentenca(topic=16): Mas o embaixador da Rússia na ONU, Vitaly Churkin, disse que um acordo ainda está distante, e pediu ao governo libanês que reconheça que as suas preocupações estão sendo atendidas implicitamente no texto da resolução.
+Sentenca(topic=16): As discussões em torno da proposta devem prosseguir nesta segunda-feira na sede da ONU, em Nova York.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: aviaçã  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 7  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: 150  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: líban  - Frequency: 1
+Word: sold  - Frequency: 1
+Word: israelens  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: milíc  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_aviaçã_israel_realiz_durant_madrug_segund_dia_7_ataqu_150_alvos_líban_sold_israelens_mat_10_integr_milíc_hezbollah
+
+
+------------------------------------------------------------
+Topic: 1
+Word: durant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: for  - Frequency: 1
+Word: trav  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: sangrent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_durant_doming_dia_6_for_trav_lug_sangrent
+
+Keyword: 1_durant_doming_dia_6_for_trav_lug_sangrent
+
+
+------------------------------------------------------------
+Topic: 2
+Word: foguet  - Frequency: 2
+Word: ataqu  - Frequency: 1
+Word: hezbollah  - Frequency: 2
+Word: caus  - Frequency: 1
+Word: mort  - Frequency: 2
+Word: 15  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 200  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: já  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: israelens  - Frequency: 2
+Word: mat  - Frequency: 1
+Word: três  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: libanes  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: tir  - Frequency: 1
+Word: destruír  - Frequency: 1
+Word: set  - Frequency: 1
+Word: plataform  - Frequency: 1
+Word: lançament  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: font  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_foguet_hezbollah_mort_israelens
+
+Keyword: 2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso_deix_200_fer_já_exércit_israel_provoc_30_milit_comand_mat_três_guerrilheir_libanes_cidad_tir_destruír_set_plataform_lançament_inform_font
+
+
+------------------------------------------------------------
+Topic: 3
+Word: aviaçã  - Frequency: 1
+Word: israelens  - Frequency: 2
+Word: atac  - Frequency: 1
+Word: 150  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: hoj  - Frequency: 3
+Word: líban  - Frequency: 2
+Word: sold  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: jud  - Frequency: 1
+Word: mat  - Frequency: 2
+Word: 10  - Frequency: 1
+Word: milician  - Frequency: 2
+Word: hisbol  - Frequency: 1
+Word: alde  - Frequency: 1
+Word: libanes  - Frequency: 1
+Word: bint  - Frequency: 1
+Word: djebeil  - Frequency: 1
+Word: kafr  - Frequency: 1
+Word: hul  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: font  - Frequency: 1
+Word: milit  - Frequency: 3
+Word: combat  - Frequency: 1
+Word: intensific  - Frequency: 1
+Word: sangrent  - Frequency: 1
+Word: batalh  - Frequency: 1
+Word: doming  - Frequency: 2
+Word: guerrilh  - Frequency: 1
+Word: xiit  - Frequency: 1
+Word: hezbol  - Frequency: 2
+Word: 15  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: 200  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: civ  - Frequency: 1
+Word: part  - Frequency: 1
+Word: forc  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: também  - Frequency: 1
+Word: for  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: ole  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_hoj_milit
+
+Keyword: 3_hoj_milit_israelens_líban_sold_mat_milician_inform_doming_hezbol_fer
+
+
+------------------------------------------------------------
+Topic: 4
+Word: comand  - Frequency: 1
+Word: israelens  - Frequency: 2
+Word: mat  - Frequency: 1
+Word: três  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: libanes  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: tir  - Frequency: 1
+Word: destruír  - Frequency: 1
+Word: set  - Frequency: 1
+Word: plataform  - Frequency: 1
+Word: lançament  - Frequency: 1
+Word: foguet  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: font  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_israelens
+
+Keyword: 4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir_destruír_set_plataform_lançament_foguet_inform_font
+
+
+------------------------------------------------------------
+Topic: 5
+Word: primeir  - Frequency: 1
+Word: israel  - Frequency: 2
+Word: ehud  - Frequency: 1
+Word: olmert  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: consult  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: shimon  - Frequency: 1
+Word: per  - Frequency: 1
+Word: titul  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: amir  - Frequency: 1
+Word: peretz  - Frequency: 1
+Word: exterior  - Frequency: 1
+Word: tzip  - Frequency: 1
+Word: livn  - Frequency: 1
+Word: fim  - Frequency: 2
+Word: analis  - Frequency: 1
+Word: agrav  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: possibilit  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: hezbol  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_israel_fim
+
+Keyword: 5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult_vic_shimon_per_titul_defes_amir_peretz_exterior_tzip_livn_analis_agrav_situaçã_conflit_nã_possibilit_ataqu_hezbol
+
+
+------------------------------------------------------------
+Topic: 6
+Word: segund  - Frequency: 1
+Word: font  - Frequency: 2
+Word: milit  - Frequency: 2
+Word: polic  - Frequency: 1
+Word: milician  - Frequency: 1
+Word: hisbol  - Frequency: 1
+Word: já  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: mil  - Frequency: 2
+Word: foguet  - Frequency: 2
+Word: katyush  - Frequency: 1
+Word: míss  - Frequency: 2
+Word: diferent  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: israelens  - Frequency: 2
+Word: iníci  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: 27  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: port  - Frequency: 1
+Word: hezbol  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: hostil  - Frequency: 1
+Word: além  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: quis  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: ident  - Frequency: 1
+Word: assinal  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: estend  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: litan  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_font_milit_mil_foguet_míss_israelens
+
+Keyword: 6_font_milit_mil_foguet_míss_israelens_segund_polic_milician_hisbol_já_dispar_aproxim_2_katyush_diferent_alcanc_territóri_iníci_conflit_cheg_hoj_27_dia_acord_port_hezbol_cont_pel_11_israel_comec_hostil_além_rádi_públic_inform_govern_nã_quis_revel_ident_assinal_oper_pod_estend_rio_litan_30_quil�_fronteir_dois_país
+
+
+------------------------------------------------------------
+Topic: 7
+Word: oper  - Frequency: 1
+Word: terr  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: efet  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: com  - Frequency: 1
+Word: missã  - Frequency: 1
+Word: cri  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: long  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: país  - Frequency: 1
+Word: 110  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: afast  - Frequency: 1
+Word: milician  - Frequency: 1
+Word: islâm  - Frequency: 1
+Word: hisbol  - Frequency: 1
+Word: israel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_oper_terr_cont_particip_aproxim_dez_mil_efet_têm_com_missã_cri_milit_especial_long_fronteir_dois_país_110_quil�_afast_milician_islâm_hisbol_israel
+
+
+------------------------------------------------------------
+Topic: 8
+Word: intençã  - Frequency: 1
+Word: declar  - Frequency: 2
+Word: govern  - Frequency: 1
+Word: israelens  - Frequency: 1
+Word: ced  - Frequency: 1
+Word: zon  - Frequency: 1
+Word: seguranc  - Frequency: 2
+Word: forc  - Frequency: 3
+Word: multinacional  - Frequency: 2
+Word: garant  - Frequency: 1
+Word: control  - Frequency: 1
+Word: apói  - Frequency: 1
+Word: às  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: libanês  - Frequency: 2
+Word: propósit  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: conselh  - Frequency: 1
+Word: onu  - Frequency: 1
+Word: debat  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: amanhã  - Frequency: 1
+Word: propost  - Frequency: 2
+Word: resoluçã  - Frequency: 2
+Word: apresent  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: franc  - Frequency: 1
+Word: contempl  - Frequency: 1
+Word: cess  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: também  - Frequency: 1
+Word: posicion  - Frequency: 1
+Word: líban  - Frequency: 1
+Word: aparent  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: dispost  - Frequency: 1
+Word: aceit  - Frequency: 1
+Word: president  - Frequency: 1
+Word: parlament  - Frequency: 1
+Word: nabih  - Frequency: 1
+Word: berr  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: país  - Frequency: 1
+Word: rejeit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_forc
+
+Keyword: 8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel
+
+Keyword: 8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel_intençã_govern_israelens_ced_zon_garant_control_apói_às_exércit_propósit_respeit_conselh_onu_debat_hoj_amanhã_apresent_estad_unid_franc_contempl_cess_inclu_também_posicion_líban_aparent_israel_estar_dispost_aceit_president_parlament_nabih_berr_doming_país_rejeit
+
+
+------------------------------------------------------------
+Topic: 9
+Word: líban  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: minut  - Frequency: 2
+Word: resoluçã  - Frequency: 2
+Word: exig  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: reconsider  - Frequency: 1
+Word: haj  - Frequency: 1
+Word: harmon  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: set  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: aprov  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: libanês  - Frequency: 1
+Word: comun  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: berr  - Frequency: 1
+Word: entrev  - Frequency: 1
+Word: colet  - Frequency: 1
+Word: beirut  - Frequency: 1
+Word: signific  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: israelens  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: ocup  - Frequency: 2
+Word: zon  - Frequency: 1
+Word: já  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: conclu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_minut_resoluçã_ocup
+
+Keyword: 9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider_haj_harmon_plan_set_pont_aprov_pel_govern_libanês_comun_afirm_berr_entrev_colet_beirut_signific_trop_israelens_pod_segu_zon_já_agor_conclu
+
+
+------------------------------------------------------------
+Topic: 10
+Word: forc  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: israelens  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: bombardei  - Frequency: 1
+Word: líban  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: for  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: país  - Frequency: 1
+Word: redut  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: baalbek  - Frequency: 1
+Word: val  - Frequency: 1
+Word: beka  - Frequency: 1
+Word: subúrbi  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: beirut  - Frequency: 1
+Word: cidad  - Frequency: 2
+Word: portuár  - Frequency: 1
+Word: tir  - Frequency: 2
+Word: autor  - Frequency: 1
+Word: libanes  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: correspondent  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: john  - Frequency: 1
+Word: simpson  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: cerc  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: isol  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: israel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_cidad_tir_fic
+
+Keyword: 10_cidad_tir_fic_forc_aér_israelens_lanc_séri_bombardei_líban_segund_for_ating_alvos_lest_país_redut_hezbollah_baalbek_val_beka_subúrbi_lad_sul_beirut_portuár_autor_libanes_estim_númer_mort_11_civ_seis_integr_famíl_acord_correspondent_bbc_john_simpson_cerc_3_mil_pesso_complet_isol_depo_últim_ataqu_israel
+
+
+------------------------------------------------------------
+Topic: 11
+Word: milit  - Frequency: 2
+Word: isralens  - Frequency: 1
+Word: justific  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: míss  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: israel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_milit
+
+Keyword: 11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu_grup_hezbollah_continu_lanc_míss_civ_israel
+
+
+------------------------------------------------------------
+Topic: 12
+Word: trop  - Frequency: 1
+Word: infant  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: também  - Frequency: 1
+Word: entrar  - Frequency: 1
+Word: combat  - Frequency: 1
+Word: homens  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: povo  - Frequency: 1
+Word: houl  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: líban  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_trop_infant_israel_também_entrar_combat_homens_hezbollah_segund_povo_houl_sul_líban
+
+
+------------------------------------------------------------
+Topic: 13
+Word: ofens  - Frequency: 1
+Word: israelens  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: seqüênc  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: hezbollah  - Frequency: 2
+Word: doming  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: baix  - Frequency: 1
+Word: israel  - Frequency: 2
+Word: quatr  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: quinz  - Frequency: 1
+Word: sold  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: doz  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: kfar  - Frequency: 1
+Word: gilad  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: míssil  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_israelens_hezbollah_israel
+
+Keyword: 13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc_ataqu_doming_caus_maior_baix_quatr_seman_conflit_pel_quinz_sold_morr_doz_reserv_nort_cidad_kfar_gilad_ser_ating_míssil_nov_fic_fer
+
+
+------------------------------------------------------------
+Topic: 14
+Word: míssil  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: líban  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: recém  - Frequency: 1
+Word: ativ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir_líban_encontr_reserv_recém_ativ
+
+
+------------------------------------------------------------
+Topic: 15
+Word: cidad  - Frequency: 1
+Word: haif  - Frequency: 1
+Word: míss  - Frequency: 2
+Word: hezbollah  - Frequency: 2
+Word: mat  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: três  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: franc  - Frequency: 1
+Word: press  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: morador  - Frequency: 1
+Word: kibbutz  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: testemunh  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: dur  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: minut  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_míss_hezbollah_pel
+
+Keyword: 15_míss_hezbollah_pel_cidad_haif_mat_três_civ_segund_agênc_notíc_franc_press_mort_eram_morador_kibbutz_nort_israel_testemunh_diss_dispar_feit_dur_cerc_15_minut
+
+
+------------------------------------------------------------
+Topic: 16
+Word: líban  - Frequency: 3
+Word: apresent  - Frequency: 2
+Word: ped  - Frequency: 3
+Word: formal  - Frequency: 1
+Word: conselh  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: naçõ  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: revisã  - Frequency: 1
+Word: propost  - Frequency: 2
+Word: resoluçã  - Frequency: 2
+Word: fim  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: orient  - Frequency: 1
+Word: médi  - Frequency: 1
+Word: representat  - Frequency: 1
+Word: onu  - Frequency: 3
+Word: nouhad  - Frequency: 1
+Word: mahmoud  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: submet  - Frequency: 1
+Word: emend  - Frequency: 1
+Word: esboc  - Frequency: 1
+Word: franc  - Frequency: 1
+Word: forc  - Frequency: 1
+Word: israelens  - Frequency: 1
+Word: ret  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: libanês  - Frequency: 2
+Word: também  - Frequency: 1
+Word: objeçõ  - Frequency: 1
+Word: form  - Frequency: 1
+Word: com  - Frequency: 1
+Word: text  - Frequency: 2
+Word: lid  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: territori  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: prisioneir  - Frequency: 1
+Word: mant  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: embaix  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: vitaly  - Frequency: 1
+Word: churkin  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: está  - Frequency: 1
+Word: distant  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: reconhec  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: atend  - Frequency: 1
+Word: implicit  - Frequency: 1
+Word: discussõ  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: prossegu  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: sed  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: york  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_líban_ped_onu
+
+Keyword: 16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês_text
+
+NUM: 19
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 30
+
+
+NUM: 11
+
+
+NUM: 15
+
+
+NUM: 26
+
+
+NUM: 53
+
+
+NUM: 25
+
+
+NUM: 47
+
+
+NUM: 32
+
+
+NUM: 51
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+NUM: 32
+
+
+NUM: 13
+
+
+NUM: 27
+
+
+NUM: 9
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 19
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 30
+
+
+NUM: 11
+
+
+NUM: 15
+
+
+NUM: 26
+
+
+NUM: 53
+
+
+NUM: 25
+
+
+NUM: 47
+
+
+NUM: 32
+
+
+NUM: 51
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+NUM: 32
+
+
+NUM: 13
+
+
+NUM: 27
+
+
+NUM: 9
+
+
+---------------BEFORE!-------------
+
+VEC: 0_aviaçã_israel_realiz_durant_madrug_segund_dia_7_ataqu_150_alvos_líban_sold_israelens_mat_10_integr_milíc_hezbollah
+VEC: 1_durant_doming_dia_6_for_trav_lug_sangrent
+VEC: 2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso_deix_200_fer_já_exércit_israel_provoc_30_milit_comand_mat_três_guerrilheir_libanes_cidad_tir_destruír_set_plataform_lançament_inform_font
+VEC: 3_hoj_milit_israelens_líban_sold_mat_milician_inform_doming_hezbol_fer
+VEC: 4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir_destruír_set_plataform_lançament_foguet_inform_font
+VEC: 5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult_vic_shimon_per_titul_defes_amir_peretz_exterior_tzip_livn_analis_agrav_situaçã_conflit_nã_possibilit_ataqu_hezbol
+VEC: 6_font_milit_mil_foguet_míss_israelens_segund_polic_milician_hisbol_já_dispar_aproxim_2_katyush_diferent_alcanc_territóri_iníci_conflit_cheg_hoj_27_dia_acord_port_hezbol_cont_pel_11_israel_comec_hostil_além_rádi_públic_inform_govern_nã_quis_revel_ident_assinal_oper_pod_estend_rio_litan_30_quil�_fronteir_dois_país
+VEC: 7_oper_terr_cont_particip_aproxim_dez_mil_efet_têm_com_missã_cri_milit_especial_long_fronteir_dois_país_110_quil�_afast_milician_islâm_hisbol_israel
+VEC: 8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel_intençã_govern_israelens_ced_zon_garant_control_apói_às_exércit_propósit_respeit_conselh_onu_debat_hoj_amanhã_apresent_estad_unid_franc_contempl_cess_inclu_também_posicion_líban_aparent_israel_estar_dispost_aceit_president_parlament_nabih_berr_doming_país_rejeit
+VEC: 9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider_haj_harmon_plan_set_pont_aprov_pel_govern_libanês_comun_afirm_berr_entrev_colet_beirut_signific_trop_israelens_pod_segu_zon_já_agor_conclu
+VEC: 10_cidad_tir_fic_forc_aér_israelens_lanc_séri_bombardei_líban_segund_for_ating_alvos_lest_país_redut_hezbollah_baalbek_val_beka_subúrbi_lad_sul_beirut_portuár_autor_libanes_estim_númer_mort_11_civ_seis_integr_famíl_acord_correspondent_bbc_john_simpson_cerc_3_mil_pesso_complet_isol_depo_últim_ataqu_israel
+VEC: 11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu_grup_hezbollah_continu_lanc_míss_civ_israel
+VEC: 12_trop_infant_israel_também_entrar_combat_homens_hezbollah_segund_povo_houl_sul_líban
+VEC: 13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc_ataqu_doming_caus_maior_baix_quatr_seman_conflit_pel_quinz_sold_morr_doz_reserv_nort_cidad_kfar_gilad_ser_ating_míssil_nov_fic_fer
+VEC: 14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir_líban_encontr_reserv_recém_ativ
+VEC: 15_míss_hezbollah_pel_cidad_haif_mat_três_civ_segund_agênc_notíc_franc_press_mort_eram_morador_kibbutz_nort_israel_testemunh_diss_dispar_feit_dur_cerc_15_minut
+VEC: 16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês_text
+
+---------------AFTER!-------------
+
+VEC: 0_aviaçã_israel_realiz_durant_madrug_segund_dia_7
+VEC: 1_durant_doming_dia_6_for_trav_lug_sangrent
+VEC: 2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso
+VEC: 3_hoj_milit_israelens_líban_sold_mat_milician_inform
+VEC: 4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir
+VEC: 5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult
+VEC: 6_font_milit_mil_foguet_míss_israelens_segund_polic
+VEC: 7_oper_terr_cont_particip_aproxim_dez_mil_efet
+VEC: 8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel
+VEC: 9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider
+VEC: 10_cidad_tir_fic_forc_aér_israelens_lanc_séri
+VEC: 11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu
+VEC: 12_trop_infant_israel_também_entrar_combat_homens_hezbollah
+VEC: 13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc
+VEC: 14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir
+VEC: 15_míss_hezbollah_pel_cidad_haif_mat_três_civ
+VEC: 16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+TRESHOLD: 0.0720997
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" is "0.111111"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" is "0.222222"
+
+CHANGE! -- From: 17 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0.333333"
+
+CHANGE! -- From: 17 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_líban_ped_onu_apresent_propost_resoluçã_diss_libanês" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+Topic: 17
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 8 -- Abs: 8
+
+
+Topic change from "16" to "8"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 8 -- Abs: 8
+
+
+Topic change from "16" to "8"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 8 -- Abs: 8
+
+
+Topic change from "16" to "8"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 8 -- Abs: 8
+
+
+Topic change from "16" to "8"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 8 -- Abs: 8
+
+
+Topic change from "16" to "8"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" is "0.333333"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0.333333"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_míss_hezbollah_pel_cidad_haif_mat_três_civ" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" is "0.222222"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" is "0.222222"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" is "0.333333"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" is "0.333333"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0.111111"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" is "0.111111"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_trop_infant_israel_também_entrar_combat_homens_hezbollah" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" is "0.111111"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0.111111"
+
+CHANGE! -- From: 11 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0.333333"
+
+CHANGE! -- From: 11 -> TO: 5
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.111111"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cidad_tir_fic_forc_aér_israelens_lanc_séri" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" is "0.125"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.125"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "7_oper_terr_cont_particip_aproxim_dez_mil_efet" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_forc_declar_seguranc_multinacional_libanês_propost_resoluçã_pel" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_oper_terr_cont_particip_aproxim_dez_mil_efet" and "6_font_milit_mil_foguet_míss_israelens_segund_polic" is "0.125"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oper_terr_cont_particip_aproxim_dez_mil_efet" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oper_terr_cont_particip_aproxim_dez_mil_efet" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oper_terr_cont_particip_aproxim_dez_mil_efet" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oper_terr_cont_particip_aproxim_dez_mil_efet" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oper_terr_cont_particip_aproxim_dez_mil_efet" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oper_terr_cont_particip_aproxim_dez_mil_efet" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_font_milit_mil_foguet_míss_israelens_segund_polic" and "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_font_milit_mil_foguet_míss_israelens_segund_polic" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0.125"
+
+CHANGE! -- From: 7 -> TO: 5
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "6_font_milit_mil_foguet_míss_israelens_segund_polic" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.25"
+
+CHANGE! -- From: 7 -> TO: 4
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "6_font_milit_mil_foguet_míss_israelens_segund_polic" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.25"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_font_milit_mil_foguet_míss_israelens_segund_polic" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_font_milit_mil_foguet_míss_israelens_segund_polic" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 6 -- Topic s_aux: 3 -- Abs: 3
+
+
+Topic change from "6" to "3"
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" and "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.125"
+
+CHANGE! -- From: 6 -> TO: 4
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "5_israel_fim_primeir_ehud_olmert_realiz_hoj_consult" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0.25"
+
+CHANGE! -- From: 6 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 0 -- Abs: 5
+
+
+Topic change from "5" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" and "3_hoj_milit_israelens_líban_sold_mat_milician_inform" is "0.25"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.125"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_israelens_comand_mat_três_guerrilheir_libanes_cidad_tir" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_hoj_milit_israelens_líban_sold_mat_milician_inform" and "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" is "0.125"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_hoj_milit_israelens_líban_sold_mat_milician_inform" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_hoj_milit_israelens_líban_sold_mat_milician_inform" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 4 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" and "1_durant_doming_dia_6_for_trav_lug_sangrent" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_foguet_hezbollah_mort_israelens_ataqu_caus_15_pesso" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+Topic: 8 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "1_durant_doming_dia_6_for_trav_lug_sangrent" and "0_aviaçã_israel_realiz_durant_madrug_segund_dia_7" is "0.25"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 5
+Topic: 1
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 16
+Topic: 16
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 9
+NUM_TOPICS: 15
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: aviaçã  - Frequency: 1
+Word: israel  - Frequency: 3
+Word: realiz  - Frequency: 2
+Word: durant  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 7  - Frequency: 1
+Word: ataqu  - Frequency: 2
+Word: 150  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: líban  - Frequency: 1
+Word: sold  - Frequency: 1
+Word: israelens  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: milíc  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: ehud  - Frequency: 1
+Word: olmert  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: consult  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: shimon  - Frequency: 1
+Word: per  - Frequency: 1
+Word: titul  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: amir  - Frequency: 1
+Word: peretz  - Frequency: 1
+Word: exterior  - Frequency: 1
+Word: tzip  - Frequency: 1
+Word: livn  - Frequency: 1
+Word: fim  - Frequency: 2
+Word: analis  - Frequency: 1
+Word: agrav  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: possibilit  - Frequency: 1
+Word: hezbol  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_israel
+
+Keyword: 0_israel_realiz_ataqu_fim
+
+Keyword: 0_israel_realiz_ataqu_fim_aviaçã_durant_madrug_segund_dia_7_150_alvos_líban_sold_israelens_mat_10_integr_milíc_hezbollah_primeir_ehud_olmert_hoj_consult_vic_shimon_per_titul_defes_amir_peretz_exterior_tzip_livn_analis_agrav_situaçã_conflit_nã_possibilit_hezbol
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: durant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: for  - Frequency: 1
+Word: trav  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: sangrent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_durant_doming_dia_6_for_trav_lug_sangrent
+
+Keyword: 1_durant_doming_dia_6_for_trav_lug_sangrent
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: foguet  - Frequency: 4
+Word: ataqu  - Frequency: 1
+Word: hezbollah  - Frequency: 2
+Word: caus  - Frequency: 1
+Word: mort  - Frequency: 3
+Word: 15  - Frequency: 2
+Word: pesso  - Frequency: 2
+Word: deix  - Frequency: 2
+Word: 200  - Frequency: 2
+Word: fer  - Frequency: 3
+Word: já  - Frequency: 2
+Word: exércit  - Frequency: 1
+Word: israel  - Frequency: 3
+Word: provoc  - Frequency: 1
+Word: 30  - Frequency: 3
+Word: milit  - Frequency: 6
+Word: comand  - Frequency: 1
+Word: israelens  - Frequency: 6
+Word: mat  - Frequency: 3
+Word: três  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: libanes  - Frequency: 2
+Word: cidad  - Frequency: 1
+Word: tir  - Frequency: 1
+Word: destruír  - Frequency: 1
+Word: set  - Frequency: 1
+Word: plataform  - Frequency: 1
+Word: lançament  - Frequency: 1
+Word: inform  - Frequency: 4
+Word: font  - Frequency: 4
+Word: aviaçã  - Frequency: 1
+Word: atac  - Frequency: 1
+Word: 150  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: madrug  - Frequency: 1
+Word: hoj  - Frequency: 4
+Word: líban  - Frequency: 2
+Word: sold  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: jud  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: milician  - Frequency: 3
+Word: hisbol  - Frequency: 2
+Word: alde  - Frequency: 1
+Word: bint  - Frequency: 1
+Word: djebeil  - Frequency: 1
+Word: kafr  - Frequency: 1
+Word: hul  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: combat  - Frequency: 1
+Word: intensific  - Frequency: 1
+Word: sangrent  - Frequency: 1
+Word: batalh  - Frequency: 1
+Word: doming  - Frequency: 2
+Word: guerrilh  - Frequency: 1
+Word: xiit  - Frequency: 1
+Word: hezbol  - Frequency: 3
+Word: civ  - Frequency: 1
+Word: part  - Frequency: 1
+Word: forc  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: também  - Frequency: 1
+Word: for  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: dois  - Frequency: 2
+Word: fic  - Frequency: 1
+Word: ole  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: mil  - Frequency: 2
+Word: katyush  - Frequency: 1
+Word: míss  - Frequency: 2
+Word: diferent  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 27  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: port  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: hostil  - Frequency: 1
+Word: além  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: quis  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: ident  - Frequency: 1
+Word: assinal  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: estend  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: litan  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_milit_israelens
+
+Keyword: 2_milit_israelens
+
+Keyword: 2_milit_israelens_foguet_inform_font_hoj
+
+Keyword: 2_milit_israelens_foguet_inform_font_hoj_mort_fer_israel_30_mat_milician_hezbol
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: comand  - Frequency: 1
+Word: israelens  - Frequency: 3
+Word: mat  - Frequency: 1
+Word: três  - Frequency: 1
+Word: guerrilheir  - Frequency: 1
+Word: libanes  - Frequency: 2
+Word: cidad  - Frequency: 3
+Word: tir  - Frequency: 3
+Word: destruír  - Frequency: 1
+Word: set  - Frequency: 1
+Word: plataform  - Frequency: 1
+Word: lançament  - Frequency: 1
+Word: foguet  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: font  - Frequency: 1
+Word: forc  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: séri  - Frequency: 1
+Word: bombardei  - Frequency: 1
+Word: líban  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: for  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: alvos  - Frequency: 1
+Word: lest  - Frequency: 1
+Word: país  - Frequency: 1
+Word: redut  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: baalbek  - Frequency: 1
+Word: val  - Frequency: 1
+Word: beka  - Frequency: 1
+Word: subúrbi  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: beirut  - Frequency: 1
+Word: portuár  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: 11  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: correspondent  - Frequency: 1
+Word: bbc  - Frequency: 1
+Word: john  - Frequency: 1
+Word: simpson  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: cerc  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: isol  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: israel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_israelens_cidad_tir
+
+Keyword: 4_israelens_cidad_tir_libanes_fic
+
+Keyword: 4_israelens_cidad_tir_libanes_fic_comand_mat_três_guerrilheir_destruír_set_plataform_lançament_foguet_inform_font_forc_aér_lanc_séri_bombardei_líban_segund_for_ating_alvos_lest_país_redut_hezbollah_baalbek_val_beka_subúrbi_lad_sul_beirut_portuár_autor_estim_númer_mort_11_civ_seis_integr_famíl_acord_correspondent_bbc_john_simpson_cerc_3_mil_pesso_complet_isol_depo_últim_ataqu_israel
+
+Cur_topic: 7
+
+
+
+------------------------------------------------------------
+Topic: 7
+Word: oper  - Frequency: 1
+Word: terr  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: dez  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: efet  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: com  - Frequency: 1
+Word: missã  - Frequency: 1
+Word: cri  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: long  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: país  - Frequency: 1
+Word: 110  - Frequency: 1
+Word: quil�  - Frequency: 1
+Word: afast  - Frequency: 1
+Word: milician  - Frequency: 1
+Word: islâm  - Frequency: 1
+Word: hisbol  - Frequency: 1
+Word: israel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_oper_terr_cont_particip_aproxim_dez_mil_efet_têm_com_missã_cri_milit_especial_long_fronteir_dois_país_110_quil�_afast_milician_islâm_hisbol_israel
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: intençã  - Frequency: 1
+Word: declar  - Frequency: 2
+Word: govern  - Frequency: 2
+Word: israelens  - Frequency: 2
+Word: ced  - Frequency: 1
+Word: zon  - Frequency: 1
+Word: seguranc  - Frequency: 3
+Word: forc  - Frequency: 4
+Word: multinacional  - Frequency: 2
+Word: garant  - Frequency: 1
+Word: control  - Frequency: 1
+Word: apói  - Frequency: 1
+Word: às  - Frequency: 1
+Word: exércit  - Frequency: 1
+Word: libanês  - Frequency: 4
+Word: propósit  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: conselh  - Frequency: 2
+Word: onu  - Frequency: 4
+Word: debat  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: amanhã  - Frequency: 1
+Word: propost  - Frequency: 4
+Word: resoluçã  - Frequency: 4
+Word: apresent  - Frequency: 3
+Word: pel  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 2
+Word: franc  - Frequency: 2
+Word: contempl  - Frequency: 1
+Word: cess  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: também  - Frequency: 2
+Word: posicion  - Frequency: 1
+Word: líban  - Frequency: 4
+Word: aparent  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: dispost  - Frequency: 1
+Word: aceit  - Frequency: 1
+Word: president  - Frequency: 1
+Word: parlament  - Frequency: 1
+Word: nabih  - Frequency: 1
+Word: berr  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: país  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: ped  - Frequency: 3
+Word: formal  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: naçõ  - Frequency: 1
+Word: revisã  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: orient  - Frequency: 1
+Word: médi  - Frequency: 1
+Word: representat  - Frequency: 1
+Word: nouhad  - Frequency: 1
+Word: mahmoud  - Frequency: 1
+Word: diss  - Frequency: 2
+Word: submet  - Frequency: 1
+Word: emend  - Frequency: 1
+Word: esboc  - Frequency: 1
+Word: ret  - Frequency: 1
+Word: territóri  - Frequency: 1
+Word: objeçõ  - Frequency: 1
+Word: form  - Frequency: 1
+Word: com  - Frequency: 1
+Word: text  - Frequency: 2
+Word: lid  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: territori  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: prisioneir  - Frequency: 1
+Word: mant  - Frequency: 1
+Word: lad  - Frequency: 1
+Word: embaix  - Frequency: 1
+Word: rúss  - Frequency: 1
+Word: vitaly  - Frequency: 1
+Word: churkin  - Frequency: 1
+Word: acord  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: está  - Frequency: 1
+Word: distant  - Frequency: 1
+Word: reconhec  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: send  - Frequency: 1
+Word: atend  - Frequency: 1
+Word: implicit  - Frequency: 1
+Word: discussõ  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: prossegu  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: sed  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: york  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_forc_libanês_onu_propost_resoluçã_líban
+
+Keyword: 8_forc_libanês_onu_propost_resoluçã_líban_seguranc_apresent_ped
+
+Cur_topic: 9
+
+
+
+------------------------------------------------------------
+Topic: 9
+Word: líban  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: minut  - Frequency: 2
+Word: resoluçã  - Frequency: 2
+Word: exig  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: reconsider  - Frequency: 1
+Word: haj  - Frequency: 1
+Word: harmon  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: set  - Frequency: 1
+Word: pont  - Frequency: 1
+Word: aprov  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: libanês  - Frequency: 1
+Word: comun  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: berr  - Frequency: 1
+Word: entrev  - Frequency: 1
+Word: colet  - Frequency: 1
+Word: beirut  - Frequency: 1
+Word: signific  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: israelens  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: ocup  - Frequency: 2
+Word: zon  - Frequency: 1
+Word: já  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: conclu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_minut_resoluçã_ocup
+
+Keyword: 9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider_haj_harmon_plan_set_pont_aprov_pel_govern_libanês_comun_afirm_berr_entrev_colet_beirut_signific_trop_israelens_pod_segu_zon_já_agor_conclu
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: milit  - Frequency: 2
+Word: isralens  - Frequency: 1
+Word: justific  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: necessári  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: míss  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: israel  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_milit
+
+Keyword: 11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu_grup_hezbollah_continu_lanc_míss_civ_israel
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: trop  - Frequency: 1
+Word: infant  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: também  - Frequency: 1
+Word: entrar  - Frequency: 1
+Word: combat  - Frequency: 1
+Word: homens  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: povo  - Frequency: 1
+Word: houl  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: líban  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_trop_infant_israel_também_entrar_combat_homens_hezbollah_segund_povo_houl_sul_líban
+
+Cur_topic: 13
+
+
+
+------------------------------------------------------------
+Topic: 13
+Word: ofens  - Frequency: 1
+Word: israelens  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: lanc  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: seqüênc  - Frequency: 1
+Word: ataqu  - Frequency: 1
+Word: hezbollah  - Frequency: 2
+Word: doming  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: baix  - Frequency: 1
+Word: israel  - Frequency: 2
+Word: quatr  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: conflit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: quinz  - Frequency: 1
+Word: sold  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: doz  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: kfar  - Frequency: 1
+Word: gilad  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: míssil  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_israelens_hezbollah_israel
+
+Keyword: 13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc_ataqu_doming_caus_maior_baix_quatr_seman_conflit_pel_quinz_sold_morr_doz_reserv_nort_cidad_kfar_gilad_ser_ating_míssil_nov_fic_fer
+
+Cur_topic: 14
+
+
+
+------------------------------------------------------------
+Topic: 14
+Word: míssil  - Frequency: 1
+Word: hezbollah  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: prédi  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: pert  - Frequency: 1
+Word: fronteir  - Frequency: 1
+Word: líban  - Frequency: 1
+Word: encontr  - Frequency: 1
+Word: reserv  - Frequency: 1
+Word: recém  - Frequency: 1
+Word: ativ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir_líban_encontr_reserv_recém_ativ
+
+Cur_topic: 15
+
+
+
+------------------------------------------------------------
+Topic: 15
+Word: cidad  - Frequency: 1
+Word: haif  - Frequency: 1
+Word: míss  - Frequency: 2
+Word: hezbollah  - Frequency: 2
+Word: mat  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: três  - Frequency: 1
+Word: civ  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: franc  - Frequency: 1
+Word: press  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: eram  - Frequency: 1
+Word: morador  - Frequency: 1
+Word: kibbutz  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: israel  - Frequency: 1
+Word: testemunh  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: dur  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: minut  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_míss_hezbollah_pel
+
+Keyword: 15_míss_hezbollah_pel_cidad_haif_mat_três_civ_segund_agênc_notíc_franc_press_mort_eram_morador_kibbutz_nort_israel_testemunh_diss_dispar_feit_dur_cerc_15_minut
+
+NUM: 42
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 13
+
+
+NUM: 62
+
+
+NUM: 25
+
+
+NUM: 9
+
+
+NUM: 32
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+NUM: 32
+
+
+NUM: 13
+
+
+NUM: 27
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 42
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 13
+
+
+NUM: 62
+
+
+NUM: 25
+
+
+NUM: 9
+
+
+NUM: 32
+
+
+NUM: 15
+
+
+NUM: 13
+
+
+NUM: 32
+
+
+NUM: 13
+
+
+NUM: 27
+
+
+---------------BEFORE!-------------
+
+VEC: 0_israel_realiz_ataqu_fim_aviaçã_durant_madrug_segund_dia_7_150_alvos_líban_sold_israelens_mat_10_integr_milíc_hezbollah_primeir_ehud_olmert_hoj_consult_vic_shimon_per_titul_defes_amir_peretz_exterior_tzip_livn_analis_agrav_situaçã_conflit_nã_possibilit_hezbol
+VEC: 1_durant_doming_dia_6_for_trav_lug_sangrent
+VEC: 2_milit_israelens_foguet_inform_font_hoj_mort_fer_israel_30_mat_milician_hezbol
+VEC: 4_israelens_cidad_tir_libanes_fic_comand_mat_três_guerrilheir_destruír_set_plataform_lançament_foguet_inform_font_forc_aér_lanc_séri_bombardei_líban_segund_for_ating_alvos_lest_país_redut_hezbollah_baalbek_val_beka_subúrbi_lad_sul_beirut_portuár_autor_estim_númer_mort_11_civ_seis_integr_famíl_acord_correspondent_bbc_john_simpson_cerc_3_mil_pesso_complet_isol_depo_últim_ataqu_israel
+VEC: 7_oper_terr_cont_particip_aproxim_dez_mil_efet_têm_com_missã_cri_milit_especial_long_fronteir_dois_país_110_quil�_afast_milician_islâm_hisbol_israel
+VEC: 8_forc_libanês_onu_propost_resoluçã_líban_seguranc_apresent_ped
+VEC: 9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider_haj_harmon_plan_set_pont_aprov_pel_govern_libanês_comun_afirm_berr_entrev_colet_beirut_signific_trop_israelens_pod_segu_zon_já_agor_conclu
+VEC: 11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu_grup_hezbollah_continu_lanc_míss_civ_israel
+VEC: 12_trop_infant_israel_também_entrar_combat_homens_hezbollah_segund_povo_houl_sul_líban
+VEC: 13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc_ataqu_doming_caus_maior_baix_quatr_seman_conflit_pel_quinz_sold_morr_doz_reserv_nort_cidad_kfar_gilad_ser_ating_míssil_nov_fic_fer
+VEC: 14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir_líban_encontr_reserv_recém_ativ
+VEC: 15_míss_hezbollah_pel_cidad_haif_mat_três_civ_segund_agênc_notíc_franc_press_mort_eram_morador_kibbutz_nort_israel_testemunh_diss_dispar_feit_dur_cerc_15_minut
+
+---------------AFTER!-------------
+
+VEC: 0_israel_realiz_ataqu_fim_aviaçã_durant_madrug_segund
+VEC: 1_durant_doming_dia_6_for_trav_lug_sangrent
+VEC: 2_milit_israelens_foguet_inform_font_hoj_mort_fer
+VEC: 4_israelens_cidad_tir_libanes_fic_comand_mat_três
+VEC: 7_oper_terr_cont_particip_aproxim_dez_mil_efet
+VEC: 8_forc_libanês_onu_propost_resoluçã_líban_seguranc_apresent
+VEC: 9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider
+VEC: 11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu
+VEC: 12_trop_infant_israel_também_entrar_combat_homens_hezbollah
+VEC: 13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc
+VEC: 14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir
+VEC: 15_míss_hezbollah_pel_cidad_haif_mat_três_civ
+Keyword: 0_israel_realiz_ataqu_fim_aviaçã_durant_madrug_segund
+Keyword: 1_durant_doming_dia_6_for_trav_lug_sangrent
+Keyword: 2_milit_israelens_foguet_inform_font_hoj_mort_fer
+Keyword: 4_israelens_cidad_tir_libanes_fic_comand_mat_três
+Keyword: 7_oper_terr_cont_particip_aproxim_dez_mil_efet
+Keyword: 8_forc_libanês_onu_propost_resoluçã_líban_seguranc_apresent
+Keyword: 9_minut_resoluçã_ocup_líban_rejeit_exig_sej_reconsider
+Keyword: 11_milit_isralens_justific_ataqu_afirm_eram_necessári_porqu
+Keyword: 12_trop_infant_israel_também_entrar_combat_homens_hezbollah
+Keyword: 13_israelens_hezbollah_israel_ofens_foi_lanc_depo_seqüênc
+Keyword: 14_míssil_hezbollah_ter_ating_prédi_cidad_pert_fronteir
+Keyword: 15_míss_hezbollah_pel_cidad_haif_mat_três_civ

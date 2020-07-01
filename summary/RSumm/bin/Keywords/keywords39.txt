@@ -1,0 +1,6963 @@
+Sentenca(topic=0): O Ministério Público Federal apreendeu nesta terça-feira, 7, os registros dos últimos cinco anos do livro de ocorrências da torre de controle do Aeroporto de Congonhas, zona sul de São Paulo, durante um mandado de busca e apreensão.
+Sentenca(topic=0): A busca faz parte de uma operação, realizada em conjunto com PF, para apreender registros de ocorrências que contêm informações sobre as falhas no controle de tráfego aéreo.
+Sentenca(topic=0): Com os documentos, os procuradores querem mover uma ação civil pública para ajudar a resolver os problemas do setor aéreo.
+Sentenca(topic=0): Segundo procuradores, a ação permitirá avaliar os riscos aos quais estão expostos os passageiros e tripulantes de aeronaves.
+Sentenca(topic=1): A operação é realizada simultaneamente no Centro Integrados de Defesa Aérea e Controle de Tráfego Aéreo (Cindacta-1), de Brasília, e também no departamento de controle de tráfego aéreo de Guarulhos (Cumbica).
+Sentenca(topic=1): No total, cerca de 30 caixas de documentos e uma CPU foram apreendidos nos locais.
+Sentenca(topic=1): Destas, cinco são de fitas de transcrição de ocorrências de tráfego aéreo,  segundo o MP.
+Sentenca(topic=2): Por volta das 14 horas o procurador Matheus Baraldi Magnani deve chegar em Congonhas, na zona sul de são Paulo, para dar continuidade às apreensões.
+Sentenca(topic=2): Segundo ele, em uma reclamação feita na manhã desta terça, a Aeronáutica estaria dificultando o trabalho de apreensão em Congonhas, onde a guarda de documentos é feita por militares.
+Sentenca(topic=2): O Comando da Aeronáutica informou que vai cumprir a determinação da Justiça Federal e que está preparando toda a documentação para ser entregue à PF.
+Sentenca(topic=3): Vários especialistas já foram ouvidos pelos procuradores, que concluíram que os equipamentos estão sucateados, como conseqüência da falta de investimentos durante longo período.
+Sentenca(topic=4): Após a apreensão, o MPF requisitará peritos e começará a análise do material apreendido.
+Sentenca(topic=5): Os mandados de busca e apreensão foram expedidos pela juíza federal Maria Isabel do Prado, da 2ª Vara Federal de Guarulhos.
+Sentenca(topic=6): A Polícia Federal e o Ministério Público realizam nesta terça-feira operações simultâneas de busca e apreensão nos departamentos de controle de tráfego aéreo de Cumbica, em Guarulhos, de Congonhas, na capital paulista, e no Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo (Cindacta I), em Brasília, para recolher registros de ocorrência dos últimos cinco anos envolvendo falhas e acidentes aéreos.
+Sentenca(topic=7): Um oficial da Aeronáutica minimizou o desconforto de uma operação policial dentro de bases militares.
+Sentenca(topic=7): - Não estão revirando o Cindacta 1.
+Sentenca(topic=7): Eles pediram documentos e as cópias estão sendo providenciadas com acompanhamento da nossa área jurídica - disse o oficial.
+Sentenca(topic=8): As buscas foram pedidas pelo procurador da República Matheus Baraldi a partir de uma ação civil pública e autorizadas pela juíza federal Maria Isabel do Prado, da 2ª Vara Federal de Guarulhos.
+Sentenca(topic=8): O procurador espera obter dados sobre o sistema de controle de tráfego aéreo no país.
+Sentenca(topic=9): As investigações estão sob segredo de Justiça.
+Sentenca(topic=10): Os aeroportos de Brasília de Guarulhos são dois dos aeroportos mais movimentados do país.
+Sentenca(topic=11): O material apreendido será analisado por peritos.
+Sentenca(topic=12): Os mandados de busca e apreensão foram expedidos pela juíza federal Maria Isabel do Prado, da 2ª Vara Federal de Guarulhos.
+Sentenca(topic=13): O MPF,  após ouvir vários especialistas, constatou que o sistema de controle de tráfego aéreo passa hoje por um sucateamento decorrente da falta de investimentos a longo prazo.
+Sentenca(topic=13): - Hoje não é possível saber qual a gravidade, a freqüência das falhas.
+Sentenca(topic=13): Somente com essas informações será possível avaliar e melhorar o sistema de tráfego aéreo - afirmou Magnani.
+Sentenca(topic=13): O MPF e a Justiça federal disseram que o sigilo não pode se sobrepor aos direitos à vida e à segurança e que quando os órgãos de defesa retêm essas informações se opõem ao Estado democrático de Direito.
+Sentenca(topic=14): O Ministério Público Federal (MPF) e a Superintendência da Polícia Federal, em Brasília, iniciaram nesta terça-feira uma operação de busca e apreensão simultânea no Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo (Cindacta I), de Brasília, e nos departamentos de controle de tráfego aéreo de Guarulhos (Cumbica) e São Paulo (Congonhas).
+Sentenca(topic=14): Segundo a assessoria de imprensa do ministério, o objetivo das buscas é garantir a apreensão dos registros de ocorrências que contêm informações sobre as falhas no controle de tráfego aéreo.
+Sentenca(topic=14): Esse trabalho permitirá avaliar os riscos aos quais estão expostos os passageiros e tripulantes de aeronaves, diz o Ministério Público.
+Sentenca(topic=14): As informações são necessárias para instruir procedimento administrativo, presidido pelo procurador da República em Guarulhos Matheus Baraldi Magnani, que apura a segurança do sistema de controle de tráfego aéreo no país.
+Sentenca(topic=15): A investigação visa, futuramente, ao ajuizamento de uma ação civil pública destinada a corrigir as falhas do sistema.
+Sentenca(topic=16): No curso do procedimento, o MPF ouviu vários especialistas e apurou que, embora o sistema de controle de tráfego aéreo tenha sido bem implantado no Brasil, ele passa hoje por um sucateamento decorrente da falta de investimentos durante longo período, diz nota do ministério.
+Sentenca(topic=17): Os mandados de busca e apreensão foram expedidos pela juíza Federal Maria Isabel do Prado, da 2ª Vara Federal de Guarulhos.
+Sentenca(topic=17): Segundo a decisão, o direito à vida e à segurança são direitos fundamentais e o sigilo sobre as informações de acidentes não podem se sobrepor a esses direitos.
+Sentenca(topic=17): - À luz dos elementos probatórios colhidos e, considerando-se que o processo é um instrumento para a realização dos direitos, não se pode deixar ao desabrigo, ante a catástrofe que assomou o Brasil, o direito à vida e à segurança, notadamente no que pertine aos familiares das vítimas que merecem o mais profundo respeito da sociedade - afirmou a juíza na decisão.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ministéri  - Frequency: 1
+Word: públic  - Frequency: 2
+Word: federal  - Frequency: 1
+Word: apreend  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: 7  - Frequency: 1
+Word: registr  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: ocorrent  - Frequency: 2
+Word: torr  - Frequency: 1
+Word: control  - Frequency: 2
+Word: aeroport  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: zon  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: busc  - Frequency: 2
+Word: apreensã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: conjunt  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: contêm  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: tráfeg  - Frequency: 1
+Word: aér  - Frequency: 2
+Word: document  - Frequency: 1
+Word: procur  - Frequency: 2
+Word: quer  - Frequency: 1
+Word: mov  - Frequency: 1
+Word: açã  - Frequency: 2
+Word: civil  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: resolv  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: avali  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: expost  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: aeronav  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_públic_apreend_registr_ocorrent_control_busc_aér_procur_açã
+
+Keyword: 0_públic_apreend_registr_ocorrent_control_busc_aér_procur_açã_ministéri_federal_terc_7_últim_cinc_anos_livr_torr_aeroport_congonh_zon_sul_sã_paul_durant_mand_apreensã_faz_part_oper_realiz_conjunt_pf_contêm_inform_falh_tráfeg_document_quer_mov_civil_ajud_resolv_problem_setor_segund_permit_avali_risc_estã_expost_passageir_tripul_aeronav
+
+
+------------------------------------------------------------
+Topic: 1
+Word: oper  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: simultan  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: aér  - Frequency: 4
+Word: control  - Frequency: 2
+Word: tráfeg  - Frequency: 3
+Word: brasíl  - Frequency: 1
+Word: também  - Frequency: 1
+Word: depart  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: total  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: caix  - Frequency: 1
+Word: document  - Frequency: 1
+Word: cpu  - Frequency: 1
+Word: for  - Frequency: 1
+Word: apreend  - Frequency: 1
+Word: loc  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: fit  - Frequency: 1
+Word: transcriçã  - Frequency: 1
+Word: ocorrent  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: mp  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_aér
+
+Keyword: 1_aér_tráfeg
+
+Keyword: 1_aér_tráfeg_control
+
+Keyword: 1_aér_tráfeg_control_oper_realiz_simultan_centr_integr_defes_brasíl_também_depart_guarulh_total_cerc_30_caix_document_cpu_for_apreend_loc_cinc_sã_fit_transcriçã_ocorrent_segund_mp
+
+
+------------------------------------------------------------
+Topic: 2
+Word: volt  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: matheus  - Frequency: 1
+Word: barald  - Frequency: 1
+Word: magnan  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: congonh  - Frequency: 2
+Word: zon  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: às  - Frequency: 1
+Word: apreensõ  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: reclam  - Frequency: 1
+Word: feit  - Frequency: 2
+Word: manhã  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: aeronáut  - Frequency: 2
+Word: estar  - Frequency: 1
+Word: dificult  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: apreensã  - Frequency: 1
+Word: guard  - Frequency: 1
+Word: document  - Frequency: 2
+Word: milit  - Frequency: 1
+Word: com  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: cumpr  - Frequency: 1
+Word: determin  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: está  - Frequency: 1
+Word: prepar  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: pf  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_congonh_feit_aeronáut_document
+
+Keyword: 2_congonh_feit_aeronáut_document_volt_14_hor_procur_matheus_barald_magnan_dev_cheg_zon_sul_sã_paul_dar_continu_às_apreensõ_segund_reclam_manhã_terc_estar_dificult_trabalh_apreensã_guard_milit_com_inform_vai_cumpr_determin_justic_federal_está_prepar_ser_entreg_pf
+
+
+------------------------------------------------------------
+Topic: 3
+Word: vári  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: já  - Frequency: 1
+Word: for  - Frequency: 1
+Word: ouv  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: concluír  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: sucat  - Frequency: 1
+Word: com  - Frequency: 1
+Word: conseqüent  - Frequency: 1
+Word: falt  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: long  - Frequency: 1
+Word: períod  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_vári_especial_já_for_ouv_pel_procur_concluír_equip_estã_sucat_com_conseqüent_falt_invest_durant_long_períod
+
+
+------------------------------------------------------------
+Topic: 4
+Word: apreensã  - Frequency: 1
+Word: mpf  - Frequency: 1
+Word: requisit  - Frequency: 1
+Word: perit  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: anális  - Frequency: 1
+Word: material  - Frequency: 1
+Word: apreend  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_apreensã_mpf_requisit_perit_comec_anális_material_apreend
+
+Keyword: 4_apreensã_mpf_requisit_perit_comec_anális_material_apreend
+
+
+------------------------------------------------------------
+Topic: 5
+Word: mand  - Frequency: 1
+Word: busc  - Frequency: 1
+Word: apreensã  - Frequency: 1
+Word: for  - Frequency: 1
+Word: exped  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: juíz  - Frequency: 1
+Word: federal  - Frequency: 2
+Word: mar  - Frequency: 1
+Word: isabel  - Frequency: 1
+Word: prad  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: var  - Frequency: 1
+Word: guarulh  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_federal
+
+Keyword: 5_federal_mand_busc_apreensã_for_exped_pel_juíz_mar_isabel_prad_2_var_guarulh
+
+
+------------------------------------------------------------
+Topic: 6
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: ministéri  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: simultân  - Frequency: 1
+Word: busc  - Frequency: 1
+Word: apreensã  - Frequency: 1
+Word: depart  - Frequency: 1
+Word: control  - Frequency: 2
+Word: tráfeg  - Frequency: 2
+Word: aér  - Frequency: 4
+Word: cumbic  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: paulist  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: brasíl  - Frequency: 1
+Word: recolh  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: ocorrent  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: acident  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_aér
+
+Keyword: 6_aér
+
+Keyword: 6_aér_control_tráfeg
+
+Keyword: 6_aér_control_tráfeg_políc_federal_ministéri_públic_realiz_terc_oper_simultân_busc_apreensã_depart_cumbic_guarulh_congonh_capital_paulist_centr_integr_defes_brasíl_recolh_registr_ocorrent_últim_cinc_anos_envolv_falh_acident
+
+
+------------------------------------------------------------
+Topic: 7
+Word: oficial  - Frequency: 2
+Word: aeronáut  - Frequency: 1
+Word: minimiz  - Frequency: 1
+Word: desconfort  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: policial  - Frequency: 1
+Word: dentr  - Frequency: 1
+Word: bas  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: estã  - Frequency: 2
+Word: revir  - Frequency: 1
+Word: cindact  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: document  - Frequency: 1
+Word: cóp  - Frequency: 1
+Word: send  - Frequency: 1
+Word: providenc  - Frequency: 1
+Word: acompanh  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: juríd  - Frequency: 1
+Word: diss  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_oficial_estã
+
+Keyword: 7_oficial_estã_aeronáut_minimiz_desconfort_oper_policial_dentr_bas_milit_nã_revir_cindact_1_ped_document_cóp_send_providenc_acompanh_noss_áre_juríd_diss
+
+
+------------------------------------------------------------
+Topic: 8
+Word: busc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: procur  - Frequency: 2
+Word: repúbl  - Frequency: 1
+Word: matheus  - Frequency: 1
+Word: barald  - Frequency: 1
+Word: part  - Frequency: 1
+Word: açã  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: juíz  - Frequency: 1
+Word: federal  - Frequency: 2
+Word: mar  - Frequency: 1
+Word: isabel  - Frequency: 1
+Word: prad  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: var  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: esper  - Frequency: 1
+Word: obter  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: control  - Frequency: 1
+Word: tráfeg  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_pel_procur_federal
+
+Keyword: 8_pel_procur_federal_busc_for_ped_repúbl_matheus_barald_part_açã_civil_públic_autoriz_juíz_mar_isabel_prad_2_var_guarulh_esper_obter_dad_sistem_control_tráfeg_aér_país
+
+
+------------------------------------------------------------
+Topic: 9
+Word: investig  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: segred  - Frequency: 1
+Word: justic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_investig_estã_segred_justic
+
+Keyword: 9_investig_estã_segred_justic
+
+Keyword: 9_investig_estã_segred_justic
+
+Keyword: 9_investig_estã_segred_justic
+
+
+------------------------------------------------------------
+Topic: 10
+Word: aeroport  - Frequency: 2
+Word: brasíl  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: moviment  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_aeroport
+
+Keyword: 10_aeroport_brasíl_guarulh_sã_dois_moviment_país
+
+Keyword: 10_aeroport_brasíl_guarulh_sã_dois_moviment_país
+
+
+------------------------------------------------------------
+Topic: 11
+Word: material  - Frequency: 1
+Word: apreend  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: analis  - Frequency: 1
+Word: perit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_material_apreend_ser_analis_perit
+
+Keyword: 11_material_apreend_ser_analis_perit
+
+Keyword: 11_material_apreend_ser_analis_perit
+
+
+------------------------------------------------------------
+Topic: 12
+Word: mand  - Frequency: 1
+Word: busc  - Frequency: 1
+Word: apreensã  - Frequency: 1
+Word: for  - Frequency: 1
+Word: exped  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: juíz  - Frequency: 1
+Word: federal  - Frequency: 2
+Word: mar  - Frequency: 1
+Word: isabel  - Frequency: 1
+Word: prad  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: var  - Frequency: 1
+Word: guarulh  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_federal
+
+Keyword: 12_federal_mand_busc_apreensã_for_exped_pel_juíz_mar_isabel_prad_2_var_guarulh
+
+
+------------------------------------------------------------
+Topic: 13
+Word: mpf  - Frequency: 2
+Word: ouv  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: constat  - Frequency: 1
+Word: sistem  - Frequency: 2
+Word: control  - Frequency: 1
+Word: tráfeg  - Frequency: 2
+Word: aér  - Frequency: 2
+Word: pass  - Frequency: 1
+Word: hoj  - Frequency: 2
+Word: sucat  - Frequency: 1
+Word: decorrent  - Frequency: 1
+Word: falt  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: long  - Frequency: 1
+Word: praz  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: possível  - Frequency: 2
+Word: sab  - Frequency: 1
+Word: gravidad  - Frequency: 1
+Word: freqüênc  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: soment  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: ser  - Frequency: 1
+Word: avali  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: magnan  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: sigil  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: sobrepor  - Frequency: 1
+Word: direit  - Frequency: 2
+Word: vid  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: órgã  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: retêm  - Frequency: 1
+Word: opõ  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: democrát  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_mpf_sistem_tráfeg_aér_hoj_nã_possível_inform_direit
+
+Keyword: 13_mpf_sistem_tráfeg_aér_hoj_nã_possível_inform_direit_ouv_vári_especial_constat_control_pass_sucat_decorrent_falt_invest_long_praz_sab_gravidad_freqüênc_falh_soment_ser_avali_melhor_afirm_magnan_justic_federal_diss_sigil_pod_sobrepor_vid_seguranc_órgã_defes_retêm_opõ_estad_democrát
+
+
+------------------------------------------------------------
+Topic: 14
+Word: ministéri  - Frequency: 3
+Word: públic  - Frequency: 2
+Word: federal  - Frequency: 2
+Word: superintendent  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: brasíl  - Frequency: 2
+Word: inic  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: busc  - Frequency: 2
+Word: apreensã  - Frequency: 2
+Word: simultân  - Frequency: 1
+Word: centr  - Frequency: 1
+Word: integr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: aér  - Frequency: 5
+Word: control  - Frequency: 4
+Word: tráfeg  - Frequency: 4
+Word: depart  - Frequency: 1
+Word: guarulh  - Frequency: 2
+Word: sã  - Frequency: 2
+Word: paul  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: registr  - Frequency: 1
+Word: ocorrent  - Frequency: 1
+Word: contêm  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: falh  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: avali  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: expost  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: necessár  - Frequency: 1
+Word: instru  - Frequency: 1
+Word: proced  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: presid  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: matheus  - Frequency: 1
+Word: barald  - Frequency: 1
+Word: magnan  - Frequency: 1
+Word: apur  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_aér
+
+Keyword: 14_aér_control_tráfeg
+
+Keyword: 14_aér_control_tráfeg_ministéri
+
+Keyword: 14_aér_control_tráfeg_ministéri_públic_federal_brasíl_busc_apreensã_guarulh_sã_inform
+
+
+------------------------------------------------------------
+Topic: 15
+Word: investig  - Frequency: 1
+Word: vis  - Frequency: 1
+Word: futur  - Frequency: 1
+Word: ajuiz  - Frequency: 1
+Word: açã  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: corrig  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: sistem  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_investig_vis_futur_ajuiz_açã_civil_públic_destin_corrig_falh_sistem
+
+
+------------------------------------------------------------
+Topic: 16
+Word: curs  - Frequency: 1
+Word: proced  - Frequency: 1
+Word: mpf  - Frequency: 1
+Word: ouv  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: apur  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: control  - Frequency: 1
+Word: tráfeg  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: implant  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: sucat  - Frequency: 1
+Word: decorrent  - Frequency: 1
+Word: falt  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: long  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: not  - Frequency: 1
+Word: ministéri  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_curs_proced_mpf_ouv_vári_especial_apur_sistem_control_tráfeg_aér_tenh_sid_bem_implant_brasil_pass_hoj_sucat_decorrent_falt_invest_durant_long_períod_diz_not_ministéri
+
+
+------------------------------------------------------------
+Topic: 17
+Word: mand  - Frequency: 1
+Word: busc  - Frequency: 1
+Word: apreensã  - Frequency: 1
+Word: for  - Frequency: 1
+Word: exped  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: juíz  - Frequency: 2
+Word: federal  - Frequency: 2
+Word: mar  - Frequency: 1
+Word: isabel  - Frequency: 1
+Word: prad  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: var  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: decisã  - Frequency: 2
+Word: direit  - Frequency: 5
+Word: vid  - Frequency: 2
+Word: seguranc  - Frequency: 2
+Word: sã  - Frequency: 1
+Word: fundament  - Frequency: 1
+Word: sigil  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: pod  - Frequency: 2
+Word: sobrepor  - Frequency: 1
+Word: �  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: element  - Frequency: 1
+Word: probatóri  - Frequency: 1
+Word: colh  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: process  - Frequency: 1
+Word: instrument  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: desabrig  - Frequency: 1
+Word: catástrof  - Frequency: 1
+Word: assom  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: notad  - Frequency: 1
+Word: pertin  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: merec  - Frequency: 1
+Word: profund  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: sociedad  - Frequency: 1
+Word: afirm  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_direit
+
+Keyword: 17_direit
+
+Keyword: 17_direit
+
+Keyword: 17_direit_juíz_federal_decisã_vid_seguranc_nã_pod
+
+Keyword: 17_direit_juíz_federal_decisã_vid_seguranc_nã_pod_mand_busc_apreensã_for_exped_pel_mar_isabel_prad_2_var_guarulh_segund_sã_fundament_sigil_inform_acident_sobrepor_�_luz_element_probatóri_colh_consider_process_instrument_realiz_deix_desabrig_catástrof_assom_brasil_notad_pertin_famili_vítim_merec_profund_respeit_sociedad_afirm
+
+NUM: 54
+
+
+NUM: 29
+
+
+NUM: 43
+
+
+NUM: 18
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 14
+
+
+NUM: 32
+
+
+NUM: 24
+
+
+NUM: 29
+
+
+NUM: 4
+
+
+LESSER: 4
+
+NUM: 7
+
+
+NUM: 5
+
+
+NUM: 14
+
+
+NUM: 45
+
+
+NUM: 12
+
+
+NUM: 11
+
+
+NUM: 28
+
+
+NUM: 50
+
+
+(FINAL) AVERAGE: 4
+
+NUM: 54
+
+
+NUM: 29
+
+
+NUM: 43
+
+
+NUM: 18
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 14
+
+
+NUM: 32
+
+
+NUM: 24
+
+
+NUM: 29
+
+
+NUM: 4
+
+
+LESSER: 4
+
+NUM: 7
+
+
+NUM: 5
+
+
+NUM: 14
+
+
+NUM: 45
+
+
+NUM: 12
+
+
+NUM: 11
+
+
+NUM: 28
+
+
+NUM: 50
+
+
+---------------BEFORE!-------------
+
+VEC: 0_públic_apreend_registr_ocorrent_control_busc_aér_procur_açã_ministéri_federal_terc_7_últim_cinc_anos_livr_torr_aeroport_congonh_zon_sul_sã_paul_durant_mand_apreensã_faz_part_oper_realiz_conjunt_pf_contêm_inform_falh_tráfeg_document_quer_mov_civil_ajud_resolv_problem_setor_segund_permit_avali_risc_estã_expost_passageir_tripul_aeronav
+VEC: 1_aér_tráfeg_control_oper_realiz_simultan_centr_integr_defes_brasíl_também_depart_guarulh_total_cerc_30_caix_document_cpu_for_apreend_loc_cinc_sã_fit_transcriçã_ocorrent_segund_mp
+VEC: 2_congonh_feit_aeronáut_document_volt_14_hor_procur_matheus_barald_magnan_dev_cheg_zon_sul_sã_paul_dar_continu_às_apreensõ_segund_reclam_manhã_terc_estar_dificult_trabalh_apreensã_guard_milit_com_inform_vai_cumpr_determin_justic_federal_está_prepar_ser_entreg_pf
+VEC: 3_vári_especial_já_for_ouv_pel_procur_concluír_equip_estã_sucat_com_conseqüent_falt_invest_durant_long_períod
+VEC: 4_apreensã_mpf_requisit_perit_comec_anális_material_apreend
+VEC: 5_federal_mand_busc_apreensã_for_exped_pel_juíz_mar_isabel_prad_2_var_guarulh
+VEC: 6_aér_control_tráfeg_políc_federal_ministéri_públic_realiz_terc_oper_simultân_busc_apreensã_depart_cumbic_guarulh_congonh_capital_paulist_centr_integr_defes_brasíl_recolh_registr_ocorrent_últim_cinc_anos_envolv_falh_acident
+VEC: 7_oficial_estã_aeronáut_minimiz_desconfort_oper_policial_dentr_bas_milit_nã_revir_cindact_1_ped_document_cóp_send_providenc_acompanh_noss_áre_juríd_diss
+VEC: 8_pel_procur_federal_busc_for_ped_repúbl_matheus_barald_part_açã_civil_públic_autoriz_juíz_mar_isabel_prad_2_var_guarulh_esper_obter_dad_sistem_control_tráfeg_aér_país
+VEC: 9_investig_estã_segred_justic
+VEC: 10_aeroport_brasíl_guarulh_sã_dois_moviment_país
+VEC: 11_material_apreend_ser_analis_perit
+VEC: 12_federal_mand_busc_apreensã_for_exped_pel_juíz_mar_isabel_prad_2_var_guarulh
+VEC: 13_mpf_sistem_tráfeg_aér_hoj_nã_possível_inform_direit_ouv_vári_especial_constat_control_pass_sucat_decorrent_falt_invest_long_praz_sab_gravidad_freqüênc_falh_soment_ser_avali_melhor_afirm_magnan_justic_federal_diss_sigil_pod_sobrepor_vid_seguranc_órgã_defes_retêm_opõ_estad_democrát
+VEC: 14_aér_control_tráfeg_ministéri_públic_federal_brasíl_busc_apreensã_guarulh_sã_inform
+VEC: 15_investig_vis_futur_ajuiz_açã_civil_públic_destin_corrig_falh_sistem
+VEC: 16_curs_proced_mpf_ouv_vári_especial_apur_sistem_control_tráfeg_aér_tenh_sid_bem_implant_brasil_pass_hoj_sucat_decorrent_falt_invest_durant_long_períod_diz_not_ministéri
+VEC: 17_direit_juíz_federal_decisã_vid_seguranc_nã_pod_mand_busc_apreensã_for_exped_pel_mar_isabel_prad_2_var_guarulh_segund_sã_fundament_sigil_inform_acident_sobrepor_�_luz_element_probatóri_colh_consider_process_instrument_realiz_deix_desabrig_catástrof_assom_brasil_notad_pertin_famili_vítim_merec_profund_respeit_sociedad_afirm
+
+---------------AFTER!-------------
+
+VEC: 0_públic_apreend_registr_ocorrent
+VEC: 1_aér_tráfeg_control_oper
+VEC: 2_congonh_feit_aeronáut_document
+VEC: 3_vári_especial_já_for
+VEC: 4_apreensã_mpf_requisit_perit
+VEC: 5_federal_mand_busc_apreensã
+VEC: 6_aér_control_tráfeg_políc
+VEC: 7_oficial_estã_aeronáut_minimiz
+VEC: 8_pel_procur_federal_busc
+VEC: 9_investig_estã_segred_justic
+VEC: 10_aeroport_brasíl_guarulh_sã
+VEC: 11_material_apreend_ser_analis
+VEC: 12_federal_mand_busc_apreensã
+VEC: 13_mpf_sistem_tráfeg_aér
+VEC: 14_aér_control_tráfeg_ministéri
+VEC: 15_investig_vis_futur_ajuiz
+VEC: 16_curs_proced_mpf_ouv
+VEC: 17_direit_juíz_federal_decisã
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.8
+
+
+SIM: 0.8
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.75
+
+
+SIM: 0.75
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0849673
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "16_curs_proced_mpf_ouv" is "0.2"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "15_investig_vis_futur_ajuiz" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "14_aér_control_tráfeg_ministéri" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "13_mpf_sistem_tráfeg_aér" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "12_federal_mand_busc_apreensã" is "0.4"
+
+CHANGE! -- From: 18 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "11_material_apreend_ser_analis" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "10_aeroport_brasíl_guarulh_sã" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "9_investig_estã_segred_justic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "8_pel_procur_federal_busc" is "0.2"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "5_federal_mand_busc_apreensã" is "0.2"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_direit_juíz_federal_decisã" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 18
+Topic: 18
+Topic: 18
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 12 -- Abs: 5
+
+
+Topic change from "17" to "12"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 12 -- Abs: 5
+
+
+Topic change from "17" to "12"
+
+Topic: 17 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 17 -- Topic s_aux: 12 -- Abs: 5
+
+
+Topic change from "17" to "12"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "15_investig_vis_futur_ajuiz" is "0.2"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "14_aér_control_tráfeg_ministéri" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "13_mpf_sistem_tráfeg_aér" is "0.4"
+
+CHANGE! -- From: 17 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "12_federal_mand_busc_apreensã" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "11_material_apreend_ser_analis" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "10_aeroport_brasíl_guarulh_sã" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "9_investig_estã_segred_justic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "8_pel_procur_federal_busc" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "4_apreensã_mpf_requisit_perit" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_curs_proced_mpf_ouv" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 16 -- Topic s_aux: 13 -- Abs: 3
+
+
+Topic change from "16" to "13"
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "14_aér_control_tráfeg_ministéri" is "0.2"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "13_mpf_sistem_tráfeg_aér" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "12_federal_mand_busc_apreensã" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "11_material_apreend_ser_analis" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "10_aeroport_brasíl_guarulh_sã" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "9_investig_estã_segred_justic" is "0.2"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "8_pel_procur_federal_busc" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_vis_futur_ajuiz" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 14 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "13_mpf_sistem_tráfeg_aér" is "0.6"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "12_federal_mand_busc_apreensã" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "11_material_apreend_ser_analis" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "10_aeroport_brasíl_guarulh_sã" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "9_investig_estã_segred_justic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "8_pel_procur_federal_busc" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "6_aér_control_tráfeg_políc" is "0.6"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "1_aér_tráfeg_control_oper" is "0.6"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_aér_control_tráfeg_ministéri" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 15
+Topic: 16
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 13 -- Abs: 1
+
+
+Topic change from "14" to "13"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 13 -- Abs: 1
+
+
+Topic change from "14" to "13"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 13 -- Abs: 1
+
+
+Topic change from "14" to "13"
+
+Topic: 14 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 14 -- Topic s_aux: 13 -- Abs: 1
+
+
+Topic change from "14" to "13"
+
+Topic: 15 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 16
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "12_federal_mand_busc_apreensã" is "0.2"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "11_material_apreend_ser_analis" is "0.2"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "10_aeroport_brasíl_guarulh_sã" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "9_investig_estã_segred_justic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "8_pel_procur_federal_busc" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "6_aér_control_tráfeg_políc" is "0.4"
+
+CHANGE! -- From: 14 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "4_apreensã_mpf_requisit_perit" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "1_aér_tráfeg_control_oper" is "0.4"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_mpf_sistem_tráfeg_aér" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 14
+Topic: 16
+Topic: 14
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 15 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 13 -- Topic s_aux: 6 -- Abs: 7
+
+
+Topic change from "13" to "6"
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 13
+Topic: 13
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "11_material_apreend_ser_analis" is "0.2"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "10_aeroport_brasíl_guarulh_sã" is "0.2"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "9_investig_estã_segred_justic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "8_pel_procur_federal_busc" is "0.4"
+
+CHANGE! -- From: 13 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.8
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "5_federal_mand_busc_apreensã" is "0.8"
+
+CHANGE! -- From: 13 -> TO: 6
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "4_apreensã_mpf_requisit_perit" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_federal_mand_busc_apreensã" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 13
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 5 -- Abs: 7
+
+
+Topic change from "12" to "5"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_material_apreend_ser_analis" and "10_aeroport_brasíl_guarulh_sã" is "0.2"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "9_investig_estã_segred_justic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "8_pel_procur_federal_busc" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_material_apreend_ser_analis" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_material_apreend_ser_analis" and "0_públic_apreend_registr_ocorrent" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 9: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "9_investig_estã_segred_justic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "8_pel_procur_federal_busc" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_aeroport_brasíl_guarulh_sã" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 8: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "8_pel_procur_federal_busc" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.25
+
+
+Similarity between "9_investig_estã_segred_justic" and "7_oficial_estã_aeronáut_minimiz" is "0.25"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_investig_estã_segred_justic" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 7: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_procur_federal_busc" and "7_oficial_estã_aeronáut_minimiz" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_procur_federal_busc" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.5
+
+
+Similarity between "8_pel_procur_federal_busc" and "5_federal_mand_busc_apreensã" is "0.5"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_procur_federal_busc" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_procur_federal_busc" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_procur_federal_busc" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_procur_federal_busc" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_pel_procur_federal_busc" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 8
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 5 -- Abs: 3
+
+
+Topic change from "8" to "5"
+
+Topic: 7 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 8
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 6: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oficial_estã_aeronáut_minimiz" and "6_aér_control_tráfeg_políc" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oficial_estã_aeronáut_minimiz" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oficial_estã_aeronáut_minimiz" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oficial_estã_aeronáut_minimiz" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.25
+
+
+Similarity between "7_oficial_estã_aeronáut_minimiz" and "2_congonh_feit_aeronáut_document" is "0.25"
+
+CHANGE! -- From: 8 -> TO: 3
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oficial_estã_aeronáut_minimiz" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_oficial_estã_aeronáut_minimiz" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 6
+Topic: 6
+Topic: 8
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 2 -- Abs: 5
+
+
+Topic change from "7" to "2"
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 5: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_aér_control_tráfeg_políc" and "5_federal_mand_busc_apreensã" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_aér_control_tráfeg_políc" and "4_apreensã_mpf_requisit_perit" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_aér_control_tráfeg_políc" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_aér_control_tráfeg_políc" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.75
+
+
+Similarity between "6_aér_control_tráfeg_políc" and "1_aér_tráfeg_control_oper" is "0.75"
+
+CHANGE! -- From: 7 -> TO: 2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_aér_control_tráfeg_políc" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 16
+Topic: 7
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 15 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 4: 4
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.25
+
+
+Similarity between "5_federal_mand_busc_apreensã" and "4_apreensã_mpf_requisit_perit" is "0.25"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_federal_mand_busc_apreensã" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_federal_mand_busc_apreensã" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_federal_mand_busc_apreensã" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_federal_mand_busc_apreensã" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 3: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_apreensã_mpf_requisit_perit" and "3_vári_especial_já_for" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_apreensã_mpf_requisit_perit" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_apreensã_mpf_requisit_perit" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_apreensã_mpf_requisit_perit" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 4
+Numero de palavras do tópico 2: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_vári_especial_já_for" and "2_congonh_feit_aeronáut_document" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_vári_especial_já_for" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_vári_especial_já_for" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 4
+Numero de palavras do tópico 1: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_congonh_feit_aeronáut_document" and "1_aér_tráfeg_control_oper" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_congonh_feit_aeronáut_document" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 4
+Numero de palavras do tópico 0: 4
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_aér_tráfeg_control_oper" and "0_públic_apreend_registr_ocorrent" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 15 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 11
+Topic: 12
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 16
+Topic: 2
+Topic: 6
+Topic: 6
+Topic: 6
+NUM_TOPICS: 16
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: ministéri  - Frequency: 1
+Word: públic  - Frequency: 2
+Word: federal  - Frequency: 1
+Word: apreend  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: 7  - Frequency: 1
+Word: registr  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: ocorrent  - Frequency: 2
+Word: torr  - Frequency: 1
+Word: control  - Frequency: 2
+Word: aeroport  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: zon  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: busc  - Frequency: 2
+Word: apreensã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: conjunt  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: contêm  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: tráfeg  - Frequency: 1
+Word: aér  - Frequency: 2
+Word: document  - Frequency: 1
+Word: procur  - Frequency: 2
+Word: quer  - Frequency: 1
+Word: mov  - Frequency: 1
+Word: açã  - Frequency: 2
+Word: civil  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: resolv  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: avali  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: expost  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: aeronav  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_públic_apreend_registr_ocorrent_control_busc_aér_procur_açã
+
+Keyword: 0_públic_apreend_registr_ocorrent_control_busc_aér_procur_açã_ministéri_federal_terc_7_últim_cinc_anos_livr_torr_aeroport_congonh_zon_sul_sã_paul_durant_mand_apreensã_faz_part_oper_realiz_conjunt_pf_contêm_inform_falh_tráfeg_document_quer_mov_civil_ajud_resolv_problem_setor_segund_permit_avali_risc_estã_expost_passageir_tripul_aeronav
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: oper  - Frequency: 3
+Word: realiz  - Frequency: 2
+Word: simultan  - Frequency: 1
+Word: centr  - Frequency: 3
+Word: integr  - Frequency: 3
+Word: defes  - Frequency: 4
+Word: aér  - Frequency: 16
+Word: control  - Frequency: 10
+Word: tráfeg  - Frequency: 12
+Word: brasíl  - Frequency: 4
+Word: também  - Frequency: 1
+Word: depart  - Frequency: 3
+Word: guarulh  - Frequency: 4
+Word: total  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: caix  - Frequency: 1
+Word: document  - Frequency: 1
+Word: cpu  - Frequency: 1
+Word: for  - Frequency: 1
+Word: apreend  - Frequency: 1
+Word: loc  - Frequency: 1
+Word: cinc  - Frequency: 2
+Word: sã  - Frequency: 3
+Word: fit  - Frequency: 1
+Word: transcriçã  - Frequency: 1
+Word: ocorrent  - Frequency: 3
+Word: segund  - Frequency: 2
+Word: mp  - Frequency: 1
+Word: políc  - Frequency: 2
+Word: federal  - Frequency: 4
+Word: ministéri  - Frequency: 5
+Word: públic  - Frequency: 3
+Word: terc  - Frequency: 2
+Word: simultân  - Frequency: 2
+Word: busc  - Frequency: 3
+Word: apreensã  - Frequency: 3
+Word: cumbic  - Frequency: 1
+Word: congonh  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: paulist  - Frequency: 1
+Word: recolh  - Frequency: 1
+Word: registr  - Frequency: 2
+Word: últim  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: falh  - Frequency: 3
+Word: acident  - Frequency: 1
+Word: mpf  - Frequency: 3
+Word: ouv  - Frequency: 2
+Word: vári  - Frequency: 2
+Word: especial  - Frequency: 2
+Word: constat  - Frequency: 1
+Word: sistem  - Frequency: 4
+Word: pass  - Frequency: 2
+Word: hoj  - Frequency: 3
+Word: sucat  - Frequency: 2
+Word: decorrent  - Frequency: 2
+Word: falt  - Frequency: 2
+Word: invest  - Frequency: 2
+Word: long  - Frequency: 2
+Word: praz  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: possível  - Frequency: 2
+Word: sab  - Frequency: 1
+Word: gravidad  - Frequency: 1
+Word: freqüênc  - Frequency: 1
+Word: soment  - Frequency: 1
+Word: inform  - Frequency: 4
+Word: ser  - Frequency: 1
+Word: avali  - Frequency: 2
+Word: melhor  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: magnan  - Frequency: 2
+Word: justic  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: sigil  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: sobrepor  - Frequency: 1
+Word: direit  - Frequency: 2
+Word: vid  - Frequency: 1
+Word: seguranc  - Frequency: 2
+Word: órgã  - Frequency: 1
+Word: retêm  - Frequency: 1
+Word: opõ  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: democrát  - Frequency: 1
+Word: superintendent  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: imprens  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: contêm  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: permit  - Frequency: 1
+Word: risc  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: expost  - Frequency: 1
+Word: passageir  - Frequency: 1
+Word: tripul  - Frequency: 1
+Word: aeronav  - Frequency: 1
+Word: diz  - Frequency: 2
+Word: necessár  - Frequency: 1
+Word: instru  - Frequency: 1
+Word: proced  - Frequency: 2
+Word: administr  - Frequency: 1
+Word: presid  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: matheus  - Frequency: 1
+Word: barald  - Frequency: 1
+Word: apur  - Frequency: 2
+Word: país  - Frequency: 1
+Word: curs  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: bem  - Frequency: 1
+Word: implant  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: períod  - Frequency: 1
+Word: not  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_aér
+
+Keyword: 1_aér
+
+Keyword: 1_aér
+
+Keyword: 1_aér
+
+Keyword: 1_aér_tráfeg
+
+Keyword: 1_aér_tráfeg
+
+Keyword: 1_aér_tráfeg_control
+
+Keyword: 1_aér_tráfeg_control
+
+Keyword: 1_aér_tráfeg_control
+
+Keyword: 1_aér_tráfeg_control
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: volt  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: matheus  - Frequency: 1
+Word: barald  - Frequency: 1
+Word: magnan  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: congonh  - Frequency: 2
+Word: zon  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: às  - Frequency: 1
+Word: apreensõ  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: reclam  - Frequency: 1
+Word: feit  - Frequency: 2
+Word: manhã  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: aeronáut  - Frequency: 3
+Word: estar  - Frequency: 1
+Word: dificult  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: apreensã  - Frequency: 1
+Word: guard  - Frequency: 1
+Word: document  - Frequency: 3
+Word: milit  - Frequency: 2
+Word: com  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: cumpr  - Frequency: 1
+Word: determin  - Frequency: 1
+Word: justic  - Frequency: 2
+Word: federal  - Frequency: 1
+Word: está  - Frequency: 1
+Word: prepar  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: oficial  - Frequency: 2
+Word: minimiz  - Frequency: 1
+Word: desconfort  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: policial  - Frequency: 1
+Word: dentr  - Frequency: 1
+Word: bas  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: estã  - Frequency: 3
+Word: revir  - Frequency: 1
+Word: cindact  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: cóp  - Frequency: 1
+Word: send  - Frequency: 1
+Word: providenc  - Frequency: 1
+Word: acompanh  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: áre  - Frequency: 1
+Word: juríd  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: segred  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_aeronáut_document_estã
+
+Keyword: 2_aeronáut_document_estã_congonh_feit_milit_justic_oficial
+
+Keyword: 2_aeronáut_document_estã_congonh_feit_milit_justic_oficial_volt_14_hor_procur_matheus_barald_magnan_dev_cheg_zon_sul_sã_paul_dar_continu_às_apreensõ_segund_reclam_manhã_terc_estar_dificult_trabalh_apreensã_guard_com_inform_vai_cumpr_determin_federal_está_prepar_ser_entreg_pf_minimiz_desconfort_oper_policial_dentr_bas_nã_revir_cindact_1_ped_cóp_send_providenc_acompanh_noss_áre_juríd_diss_investig_segred
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: vári  - Frequency: 1
+Word: especial  - Frequency: 1
+Word: já  - Frequency: 1
+Word: for  - Frequency: 1
+Word: ouv  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: concluír  - Frequency: 1
+Word: equip  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: sucat  - Frequency: 1
+Word: com  - Frequency: 1
+Word: conseqüent  - Frequency: 1
+Word: falt  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: long  - Frequency: 1
+Word: períod  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_vári_especial_já_for_ouv_pel_procur_concluír_equip_estã_sucat_com_conseqüent_falt_invest_durant_long_períod
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: apreensã  - Frequency: 1
+Word: mpf  - Frequency: 1
+Word: requisit  - Frequency: 1
+Word: perit  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: anális  - Frequency: 1
+Word: material  - Frequency: 1
+Word: apreend  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_apreensã_mpf_requisit_perit_comec_anális_material_apreend
+
+Keyword: 4_apreensã_mpf_requisit_perit_comec_anális_material_apreend
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: mand  - Frequency: 3
+Word: busc  - Frequency: 4
+Word: apreensã  - Frequency: 3
+Word: for  - Frequency: 4
+Word: exped  - Frequency: 3
+Word: pel  - Frequency: 5
+Word: juíz  - Frequency: 5
+Word: federal  - Frequency: 8
+Word: mar  - Frequency: 4
+Word: isabel  - Frequency: 4
+Word: prad  - Frequency: 4
+Word: 2  - Frequency: 4
+Word: var  - Frequency: 4
+Word: guarulh  - Frequency: 4
+Word: ped  - Frequency: 1
+Word: procur  - Frequency: 2
+Word: repúbl  - Frequency: 1
+Word: matheus  - Frequency: 1
+Word: barald  - Frequency: 1
+Word: part  - Frequency: 1
+Word: açã  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: autoriz  - Frequency: 1
+Word: esper  - Frequency: 1
+Word: obter  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: control  - Frequency: 1
+Word: tráfeg  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: país  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: decisã  - Frequency: 2
+Word: direit  - Frequency: 5
+Word: vid  - Frequency: 2
+Word: seguranc  - Frequency: 2
+Word: sã  - Frequency: 1
+Word: fundament  - Frequency: 1
+Word: sigil  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: pod  - Frequency: 2
+Word: sobrepor  - Frequency: 1
+Word: �  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: element  - Frequency: 1
+Word: probatóri  - Frequency: 1
+Word: colh  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: process  - Frequency: 1
+Word: instrument  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: deix  - Frequency: 1
+Word: desabrig  - Frequency: 1
+Word: catástrof  - Frequency: 1
+Word: assom  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: notad  - Frequency: 1
+Word: pertin  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: vítim  - Frequency: 1
+Word: merec  - Frequency: 1
+Word: profund  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: sociedad  - Frequency: 1
+Word: afirm  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_federal
+
+Keyword: 5_federal
+
+Keyword: 5_federal
+
+Keyword: 5_federal_pel_juíz_direit
+
+Keyword: 5_federal_pel_juíz_direit_busc_for_mar_isabel_prad_2_var_guarulh
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: aeroport  - Frequency: 2
+Word: brasíl  - Frequency: 1
+Word: guarulh  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: moviment  - Frequency: 1
+Word: país  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_aeroport
+
+Keyword: 10_aeroport_brasíl_guarulh_sã_dois_moviment_país
+
+Keyword: 10_aeroport_brasíl_guarulh_sã_dois_moviment_país
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: material  - Frequency: 1
+Word: apreend  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: analis  - Frequency: 1
+Word: perit  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_material_apreend_ser_analis_perit
+
+Keyword: 11_material_apreend_ser_analis_perit
+
+Keyword: 11_material_apreend_ser_analis_perit
+
+Cur_topic: 15
+
+
+
+------------------------------------------------------------
+Topic: 15
+Word: investig  - Frequency: 1
+Word: vis  - Frequency: 1
+Word: futur  - Frequency: 1
+Word: ajuiz  - Frequency: 1
+Word: açã  - Frequency: 1
+Word: civil  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: corrig  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: sistem  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_investig_vis_futur_ajuiz_açã_civil_públic_destin_corrig_falh_sistem
+
+NUM: 54
+
+
+NUM: 3
+
+
+LESSER: 3
+
+NUM: 66
+
+
+NUM: 18
+
+
+NUM: 8
+
+
+NUM: 12
+
+
+NUM: 7
+
+
+NUM: 5
+
+
+NUM: 11
+
+
+(FINAL) AVERAGE: 3
+
+NUM: 54
+
+
+NUM: 3
+
+
+LESSER: 3
+
+NUM: 66
+
+
+NUM: 18
+
+
+NUM: 8
+
+
+NUM: 12
+
+
+NUM: 7
+
+
+NUM: 5
+
+
+NUM: 11
+
+
+---------------BEFORE!-------------
+
+VEC: 0_públic_apreend_registr_ocorrent_control_busc_aér_procur_açã_ministéri_federal_terc_7_últim_cinc_anos_livr_torr_aeroport_congonh_zon_sul_sã_paul_durant_mand_apreensã_faz_part_oper_realiz_conjunt_pf_contêm_inform_falh_tráfeg_document_quer_mov_civil_ajud_resolv_problem_setor_segund_permit_avali_risc_estã_expost_passageir_tripul_aeronav
+VEC: 1_aér_tráfeg_control
+VEC: 2_aeronáut_document_estã_congonh_feit_milit_justic_oficial_volt_14_hor_procur_matheus_barald_magnan_dev_cheg_zon_sul_sã_paul_dar_continu_às_apreensõ_segund_reclam_manhã_terc_estar_dificult_trabalh_apreensã_guard_com_inform_vai_cumpr_determin_federal_está_prepar_ser_entreg_pf_minimiz_desconfort_oper_policial_dentr_bas_nã_revir_cindact_1_ped_cóp_send_providenc_acompanh_noss_áre_juríd_diss_investig_segred
+VEC: 3_vári_especial_já_for_ouv_pel_procur_concluír_equip_estã_sucat_com_conseqüent_falt_invest_durant_long_períod
+VEC: 4_apreensã_mpf_requisit_perit_comec_anális_material_apreend
+VEC: 5_federal_pel_juíz_direit_busc_for_mar_isabel_prad_2_var_guarulh
+VEC: 10_aeroport_brasíl_guarulh_sã_dois_moviment_país
+VEC: 11_material_apreend_ser_analis_perit
+VEC: 15_investig_vis_futur_ajuiz_açã_civil_públic_destin_corrig_falh_sistem
+
+---------------AFTER!-------------
+
+VEC: 0_públic_apreend_registr
+VEC: 1_aér_tráfeg_control
+VEC: 2_aeronáut_document_estã
+VEC: 3_vári_especial_já
+VEC: 4_apreensã_mpf_requisit
+VEC: 5_federal_pel_juíz
+VEC: 10_aeroport_brasíl_guarulh
+VEC: 11_material_apreend_ser
+VEC: 15_investig_vis_futur
+Keyword: 0_públic_apreend_registr
+Keyword: 1_aér_tráfeg_control
+Keyword: 2_aeronáut_document_estã
+Keyword: 3_vári_especial_já
+Keyword: 4_apreensã_mpf_requisit
+Keyword: 5_federal_pel_juíz
+Keyword: 10_aeroport_brasíl_guarulh
+Keyword: 11_material_apreend_ser
+Keyword: 15_investig_vis_futur

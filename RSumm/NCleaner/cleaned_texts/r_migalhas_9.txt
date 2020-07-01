@@ -1,0 +1,15 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P align=justify><FONT face=Arial><FONT size=2>Nesta quinta-feira, o plenário do STF elegeu o ministro Gilmar Mendes como ministro efetivo do TSE, em vaga decorrente da saída da ministra Cármen Lúcia. Mendes recebeu 9 votos. </FONT></FONT><FONT face=Arial><FONT size=2>Ao fim da votação, o ministro, que </FONT></FONT><FONT face=Arial><FONT size=2>já integra o Tribunal Eleitoral como substituto desde outubro do ano passado, agradeceu a confiança da Corte. </FONT></FONT></P>
+<P align=center><FONT size=2 face=Arial><IMG border=0 src="http://www.globalframe.com.br/gf_base/empresas/MIGA/imagens/5B418CA497062F113A2C9049B634074FFC34_gilmarmendes.gif"></FONT></P><FONT face=Arial><FONT size=2>
+<P align=justify>É a segunda vez que o ministro irá ocupar o cargo de ministro efetivo do Tribunal. A primeira vez foi entre junho de 2004 e abril de 2006, tendo sido vice-presidente entre março de 2005 e fevereiro de 2006 e presidente do TSE no período de fevereiro a abril de 2006. </P>
+<P align=justify>O STF também elegeu os nomes da lista tríplice que será enviada a presidente da República Dilma Rousseff, para que ela nomeie quem irá ocupar uma suplência no TSE vaga na classe dos advogados. A lista tríplice traz os nomes dos advogados Joelson Costa Dias, Alberto Pavie Ribeiro e Tarcísio Vieira de Carvalho Neto.</P>
+<P align=justify>O TSE é composto por sete ministros, sendo três ministros do STF, um deles sempre a presidir a Corte Eleitoral, dois ministros do STJ, sendo um deles o corregedor-geral eleitoral, e dois representantes da categoria dos advogados.</P>
+<P align=justify>Os ministros do STF que integram atualmente o TSE são Marco Aurélio (presidente) e o ministro Dias Toffoli (vice-presidente). Após sua posse, o ministro Gilmar Mendes ocupará a terceira cadeira de ministro efetivo no TSE destinada a ministro do Supremo. </P>
+<P align=justify>Os ministros do STF Luiz Fux e Rosa Weber são os designados para substituir os ministros do Supremo titulares no TSE em caso de eventual ausência de um deles. Com a eleição do ministro Gilmar Mendes como ministro efetivo do TSE, o Supremo terá de escolher mais um ministro do Tribunal para preencher a vaga de ministro substituto aberta na Corte Eleitoral.</FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></P>
+</div>

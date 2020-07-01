@@ -1,0 +1,4259 @@
+Sentenca(topic=0): O presidente Luiz Inácio Lula da Silva afirmou nesta segunda-feira, durante o programa de rádio "Café com o Presidente", que ficou triste com as vaias que recebeu durante a abertura oficial da 15ª edição dos Jogos Pan-Americanos, realizada no estádio do Maracanã, no Rio de Janeiro.
+Sentenca(topic=0): "A vaia e o aplauso são dois momentos de reação do ser humano. A única coisa que eu, particularmente, fico triste é que eu fui preparado para uma festa. É como se eu fosse convidado para o aniversário de um amigo meu, chegasse lá  e encontrasse um grupo de pessoas que não queria a minha presença lá. Eu tenho certeza de que não é esse o pensamento do Rio de Janeiro. Depois que terminou o evento, várias pessoas vieram dizer que tinha sido organizado, que gente tinha recebido o convite. A mim, não me interessa o que aconteceu, já aconteceu. O importante é que foi uma abertura extraordinária dos Jogos Pan-Americanos", afirmou.
+Sentenca(topic=1): Lula ainda comentou a importância do Pan para o Rio.
+Sentenca(topic=1): "Eu tenho consciência do que representa o Rio para o Brasil. Eu tenho consciência de que o povo do Rio de Janeiro tem sua auto-estima nesse momento muito melhor do que tinha três, quatro anos atrás. Nós vamos trabalhar, nós temos muitos projetos para trabalhar no Rio de Janeiro e vamos trabalhar no Rio de Janeiro. Isso [as vaias] não muda um milímetro do meu comportamento com o Rio de Janeiro. O Rio de Janeiro a gente poderia dizer continua lindo e merece que o governo federal faça o que for possível para o Rio de Janeiro."
+Sentenca(topic=2): E reiterou: "A festa foi uma coisa extraordinária. Antes da festa, eu tive a oportunidade de visitar a Vila Olímpica e conversar com atletas de vários países do mundo que estavam lá. Era unânime dizer que ninguém nunca tinha visto nada com a qualidade que o Brasil estava oferecendo na Vila Olímpica. Os atletas dizendo sobre as quadras que eles iriam participar".
+Sentenca(topic=3): O presidente também falou sobre os investimentos do governo federal para os centros esportivos.
+Sentenca(topic=3): "Eu acredito que é preciso que todos nós brasileiros tenhamos consciência de que o Rio de Janeiro merecia um evento dessa magnitude. Merecia os investimentos que o governo federal colocou lá, R$ 2 bilhões Colocamos porque nós temos consciência de que o Rio de Janeiro é um Estado importante para o Brasil, que é importante a gente mostrar uma qualidade extraordinária dos serviços  que nós estamos oferecendo, sobretudo para o local dos eventos em que os atletas vão participar, para a questão da segurança pública."
+Sentenca(topic=4): O presidente Luiz Inácio Lula da Silva classificou de reação do ser humano as vaias que recebeu, na última sexta-feira, durante a abertura dos Jogos Pan-Americanos do Rio, no Maracanã.
+Sentenca(topic=5): Lula admitiu que ficou chateado com a atitude do público,  mas garantiu que sua relação com o povo do Rio de Janeiro não será alterada.
+Sentenca(topic=5): Depois das vaias, Lula desistiu de declarar aberto os jogos, como estava planejado.
+Sentenca(topic=5): A declaração foi feita pelo presidente do Comitê Olímpico Brasileiro (COB), Carlos Nuzman.
+Sentenca(topic=6): "
+Sentenca(topic=6): Na minha vida política, a vaia e o aplauso são dois momentos de reação do ser humano.
+Sentenca(topic=6): A única coisa que eu, particularmente, fico triste é que eu fui preparado para uma festa.
+Sentenca(topic=6): É como se eu fosse convidado para o aniversário de um amigo meu, chegasse lá e encontrasse um grupo de pessoas que não queria a minha presença lá.
+Sentenca(topic=6): Eu tenho certeza de que não é esse o pensamento do Rio de Janeiro", disse Lula, no programa de rádio Café com o Presidente.
+Sentenca(topic=6): "
+Sentenca(topic=6): Depois que terminou o evento, várias pessoas vieram dizer que tinha sido organizado, que gente tinha recebido o convite.
+Sentenca(topic=6): A mim, não me interessa o que aconteceu, já aconteceu.
+Sentenca(topic=6): O importante é que foi uma abertura extraordinária dos Jogos Pan-Americanos".
+Sentenca(topic=7): O presidente afirmou que não haverá mudanças nos planos de investimento do governo federal para o Rio por conta do episódio.
+Sentenca(topic=7): "Nós vamos trabalhar, nós temos muitos projetos para trabalhar no Rio de Janeiro e vamos trabalhar no Rio de Janeiro. Isso não muda um milímetro do meu comportamento com o Rio de Janeiro. O Rio de Janeiro a gente poderia dizer continua lindo e merece que o governo federal faça o que for possível para o Rio de Janeiro."
+Sentenca(topic=8): O presidente Luiz Inácio Lula da Silva classificou de reação do ser humano as vaias que recebeu, na última sexta-feira, dia 13, durante a abertura dos Jogos Pan-Americanos do Rio, no Maracanã.
+Sentenca(topic=9): Lula admitiu que ficou chateado com a atitude do público, mas garantiu que sua relação com o povo do Rio não será alterada.
+Sentenca(topic=9): Depois das vaias, Lula desistiu de declarar aberto os jogos, como estava planejado.
+Sentenca(topic=9): A declaração foi feita pelo presidente do Comitê Olímpico Brasileiro (COB), Carlos Nuzman.
+Sentenca(topic=10): - Na minha vida política, a vaia e o aplauso são dois momentos de reação do ser humano.
+Sentenca(topic=10): A única coisa que eu, particularmente, fico triste é que eu fui preparado para uma festa.
+Sentenca(topic=10): É como se eu fosse convidado para o aniversário de um amigo meu, chegasse lá e encontrasse um grupo de pessoas que não queria a minha presença lá.
+Sentenca(topic=10): Eu tenho certeza de que não é esse o pensamento do Rio de Janeiro - disse Lula, no programa de rádio Café com o Presidente.
+Sentenca(topic=10): - Depois que terminou o evento, várias pessoas vieram dizer que tinha sido organizado, que gente tinha recebido o convite.
+Sentenca(topic=10): A mim, não me interessa o que aconteceu.
+Sentenca(topic=10): O importante é que foi uma abertura extraordinária dos Jogos Pan-Americanos.
+Sentenca(topic=11): O presidente afirmou que não haverá mudanças nos planos de investimento do governo federal para o Rio por conta do episódio.
+Sentenca(topic=11): Nós vamos trabalhar, nós temos muitos projetos para trabalhar no Rio de Janeiro e vamos trabalhar no Rio.
+Sentenca(topic=11): Isso não muda um milímetro do meu comportamento com o Rio de Janeiro.
+Sentenca(topic=11): O Rio de Janeiro a gente poderia dizer continua lindo e merece que o governo federal faça o que for possível para o Rio de Janeiro.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: president  - Frequency: 2
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: afirm  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: durant  - Frequency: 2
+Word: program  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: trist  - Frequency: 2
+Word: vai  - Frequency: 2
+Word: receb  - Frequency: 2
+Word: abertur  - Frequency: 2
+Word: oficial  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: jog  - Frequency: 2
+Word: pan  - Frequency: 2
+Word: realiz  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: maracanã  - Frequency: 1
+Word: rio  - Frequency: 2
+Word: janeir  - Frequency: 2
+Word: aplaus  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: human  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: cois  - Frequency: 1
+Word: particular  - Frequency: 1
+Word: fui  - Frequency: 1
+Word: prepar  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: com  - Frequency: 1
+Word: foss  - Frequency: 1
+Word: convid  - Frequency: 1
+Word: aniversári  - Frequency: 1
+Word: amig  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: lá  - Frequency: 2
+Word: encontr  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: nã  - Frequency: 3
+Word: quer  - Frequency: 1
+Word: presenc  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: certez  - Frequency: 1
+Word: pensament  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: event  - Frequency: 1
+Word: vár  - Frequency: 1
+Word: vier  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: tinh  - Frequency: 2
+Word: sid  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: convit  - Frequency: 1
+Word: interess  - Frequency: 1
+Word: acontec  - Frequency: 2
+Word: já  - Frequency: 1
+Word: import  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: extraordinár  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_nã
+
+Keyword: 0_nã_president_afirm_durant_fic_trist_vai_receb_abertur_jog_pan_rio_janeir_lá_pesso_tinh_acontec
+
+
+------------------------------------------------------------
+Topic: 1
+Word: lul  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: coment  - Frequency: 1
+Word: import  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 8
+Word: tenh  - Frequency: 2
+Word: consciênc  - Frequency: 2
+Word: represent  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: pov  - Frequency: 1
+Word: janeir  - Frequency: 6
+Word: tem  - Frequency: 2
+Word: aut  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: três  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: atrás  - Frequency: 1
+Word: nós  - Frequency: 2
+Word: vam  - Frequency: 2
+Word: trabalh  - Frequency: 3
+Word: projet  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: mud  - Frequency: 1
+Word: milímetr  - Frequency: 1
+Word: comport  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: lind  - Frequency: 1
+Word: merec  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: fac  - Frequency: 1
+Word: for  - Frequency: 1
+Word: possível  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_rio
+
+Keyword: 1_rio
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir_trabalh
+
+Keyword: 1_rio_janeir_trabalh_tenh_consciênc_tem_nós_vam
+
+
+------------------------------------------------------------
+Topic: 2
+Word: reiter  - Frequency: 1
+Word: fest  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: cois  - Frequency: 1
+Word: extraordinár  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: oportun  - Frequency: 1
+Word: visit  - Frequency: 1
+Word: vil  - Frequency: 2
+Word: olímp  - Frequency: 2
+Word: convers  - Frequency: 1
+Word: atlet  - Frequency: 2
+Word: vári  - Frequency: 1
+Word: país  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: estav  - Frequency: 2
+Word: lá  - Frequency: 1
+Word: era  - Frequency: 1
+Word: unânim  - Frequency: 1
+Word: diz  - Frequency: 2
+Word: nunc  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: vist  - Frequency: 1
+Word: qualidad  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: quadr  - Frequency: 1
+Word: iri  - Frequency: 1
+Word: particip  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_fest_vil_olímp_atlet_estav_diz
+
+Keyword: 2_fest_vil_olímp_atlet_estav_diz_reiter_foi_cois_extraordinár_antes_tiv_oportun_visit_convers_vári_país_mund_lá_era_unânim_nunc_tinh_vist_qualidad_brasil_oferec_quadr_iri_particip
+
+
+------------------------------------------------------------
+Topic: 3
+Word: president  - Frequency: 1
+Word: também  - Frequency: 1
+Word: fal  - Frequency: 1
+Word: invest  - Frequency: 2
+Word: govern  - Frequency: 2
+Word: federal  - Frequency: 2
+Word: centr  - Frequency: 1
+Word: esport  - Frequency: 1
+Word: acredit  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: nós  - Frequency: 3
+Word: brasileir  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: consciênc  - Frequency: 2
+Word: rio  - Frequency: 2
+Word: janeir  - Frequency: 2
+Word: merec  - Frequency: 2
+Word: event  - Frequency: 2
+Word: magnitud  - Frequency: 1
+Word: coloc  - Frequency: 2
+Word: lá  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: import  - Frequency: 2
+Word: brasil  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: qualidad  - Frequency: 1
+Word: extraordinár  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: estam  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: sobretud  - Frequency: 1
+Word: local  - Frequency: 1
+Word: atlet  - Frequency: 1
+Word: vã  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: públic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_nós
+
+Keyword: 3_nós_invest_govern_federal_consciênc_rio_janeir_merec_event_coloc_import
+
+
+------------------------------------------------------------
+Topic: 4
+Word: president  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: human  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: abertur  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: maracanã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_president_luiz_ináci_lul_silv_classific_ser_human_vai_receb_últim_sext_durant_abertur_jog_pan_rio_maracanã
+
+
+------------------------------------------------------------
+Topic: 5
+Word: lul  - Frequency: 2
+Word: admit  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: chat  - Frequency: 1
+Word: atitud  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: pov  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: alter  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: desist  - Frequency: 1
+Word: declar  - Frequency: 2
+Word: abert  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: com  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: planej  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: president  - Frequency: 1
+Word: comit  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: nuzman  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_lul_declar
+
+Keyword: 5_lul_declar_admit_fic_chat_atitud_públic_garant_relaçã_pov_rio_janeir_nã_ser_alter_depo_vai_desist_abert_jog_com_estav_planej_foi_feit_pel_president_comit_olímp_brasileir_carl_nuzman
+
+
+------------------------------------------------------------
+Topic: 6
+Word: vid  - Frequency: 1
+Word: polít  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: aplaus  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: human  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: cois  - Frequency: 1
+Word: particular  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: trist  - Frequency: 1
+Word: fui  - Frequency: 1
+Word: prepar  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: com  - Frequency: 1
+Word: foss  - Frequency: 1
+Word: convid  - Frequency: 1
+Word: aniversári  - Frequency: 1
+Word: amig  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: lá  - Frequency: 2
+Word: encontr  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: nã  - Frequency: 3
+Word: quer  - Frequency: 1
+Word: presenc  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: certez  - Frequency: 1
+Word: pensament  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: program  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: caf  - Frequency: 1
+Word: president  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: event  - Frequency: 1
+Word: vár  - Frequency: 1
+Word: vier  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: tinh  - Frequency: 2
+Word: sid  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: convit  - Frequency: 1
+Word: interess  - Frequency: 1
+Word: acontec  - Frequency: 2
+Word: já  - Frequency: 1
+Word: import  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: abertur  - Frequency: 1
+Word: extraordinár  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_nã
+
+Keyword: 6_nã_lá_pesso_tinh_acontec
+
+Keyword: 6_nã_lá_pesso_tinh_acontec_vid_polít_vai_aplaus_sã_dois_moment_reaçã_ser_human_únic_cois_particular_fic_trist_fui_prepar_fest_com_foss_convid_aniversári_amig_cheg_encontr_grup_quer_presenc_tenh_certez_pensament_rio_janeir_diss_lul_program_rádi_caf_president_depo_termin_event_vár_vier_diz_sid_organiz_gent_receb_convit_interess_já_import_foi_abertur_extraordinár_jog_pan
+
+
+------------------------------------------------------------
+Topic: 7
+Word: president  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: mudanc  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: federal  - Frequency: 2
+Word: rio  - Frequency: 6
+Word: cont  - Frequency: 1
+Word: episódi  - Frequency: 1
+Word: vam  - Frequency: 2
+Word: trabalh  - Frequency: 3
+Word: nós  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: projet  - Frequency: 1
+Word: janeir  - Frequency: 5
+Word: mud  - Frequency: 1
+Word: milímetr  - Frequency: 1
+Word: comport  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: lind  - Frequency: 1
+Word: merec  - Frequency: 1
+Word: fac  - Frequency: 1
+Word: for  - Frequency: 1
+Word: possível  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_rio
+
+Keyword: 7_rio_janeir
+
+Keyword: 7_rio_janeir
+
+Keyword: 7_rio_janeir_trabalh
+
+Keyword: 7_rio_janeir_trabalh_nã_govern_federal_vam
+
+
+------------------------------------------------------------
+Topic: 8
+Word: president  - Frequency: 1
+Word: luiz  - Frequency: 1
+Word: ináci  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: classific  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: human  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: 13  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: abertur  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: maracanã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_president_luiz_ináci_lul_silv_classific_reaçã_ser_human_vai_receb_últim_sext_dia_13_durant_abertur_jog_pan_rio_maracanã
+
+
+------------------------------------------------------------
+Topic: 9
+Word: lul  - Frequency: 2
+Word: admit  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: chat  - Frequency: 1
+Word: atitud  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: pov  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: alter  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: desist  - Frequency: 1
+Word: declar  - Frequency: 2
+Word: abert  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: com  - Frequency: 1
+Word: estav  - Frequency: 1
+Word: planej  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: president  - Frequency: 1
+Word: comit  - Frequency: 1
+Word: olímp  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: nuzman  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_lul_declar
+
+Keyword: 9_lul_declar_admit_fic_chat_atitud_públic_garant_relaçã_pov_rio_nã_ser_alter_depo_vai_desist_abert_jog_com_estav_planej_foi_feit_pel_president_comit_olímp_brasileir_carl_nuzman
+
+
+------------------------------------------------------------
+Topic: 10
+Word: vid  - Frequency: 1
+Word: polít  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: aplaus  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: human  - Frequency: 1
+Word: únic  - Frequency: 1
+Word: cois  - Frequency: 1
+Word: particular  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: trist  - Frequency: 1
+Word: fui  - Frequency: 1
+Word: prepar  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: com  - Frequency: 1
+Word: foss  - Frequency: 1
+Word: convid  - Frequency: 1
+Word: aniversári  - Frequency: 1
+Word: amig  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: lá  - Frequency: 2
+Word: encontr  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: nã  - Frequency: 3
+Word: quer  - Frequency: 1
+Word: presenc  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: certez  - Frequency: 1
+Word: pensament  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: janeir  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: lul  - Frequency: 1
+Word: program  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: caf  - Frequency: 1
+Word: president  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: event  - Frequency: 1
+Word: vár  - Frequency: 1
+Word: vier  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: tinh  - Frequency: 2
+Word: sid  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: convit  - Frequency: 1
+Word: interess  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: import  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: abertur  - Frequency: 1
+Word: extraordinár  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_nã
+
+Keyword: 10_nã_lá_pesso_tinh
+
+Keyword: 10_nã_lá_pesso_tinh_vid_polít_vai_aplaus_sã_dois_moment_reaçã_ser_human_únic_cois_particular_fic_trist_fui_prepar_fest_com_foss_convid_aniversári_amig_cheg_encontr_grup_quer_presenc_tenh_certez_pensament_rio_janeir_diss_lul_program_rádi_caf_president_depo_termin_event_vár_vier_diz_sid_organiz_gent_receb_convit_interess_acontec_import_foi_abertur_extraordinár_jog_pan
+
+
+------------------------------------------------------------
+Topic: 11
+Word: president  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: mudanc  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: govern  - Frequency: 2
+Word: federal  - Frequency: 2
+Word: rio  - Frequency: 6
+Word: cont  - Frequency: 1
+Word: episódi  - Frequency: 1
+Word: nós  - Frequency: 2
+Word: vam  - Frequency: 2
+Word: trabalh  - Frequency: 3
+Word: tem  - Frequency: 1
+Word: projet  - Frequency: 1
+Word: janeir  - Frequency: 4
+Word: mud  - Frequency: 1
+Word: milímetr  - Frequency: 1
+Word: comport  - Frequency: 1
+Word: gent  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: diz  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: lind  - Frequency: 1
+Word: merec  - Frequency: 1
+Word: fac  - Frequency: 1
+Word: for  - Frequency: 1
+Word: possível  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_rio
+
+Keyword: 11_rio
+
+Keyword: 11_rio_janeir
+
+Keyword: 11_rio_janeir_trabalh
+
+Keyword: 11_rio_janeir_trabalh_nã_govern_federal_nós_vam
+
+NUM: 17
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 30
+
+
+NUM: 11
+
+
+NUM: 18
+
+
+NUM: 32
+
+
+NUM: 63
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 21
+
+
+NUM: 31
+
+
+NUM: 62
+
+
+NUM: 8
+
+
+(FINAL) AVERAGE: 7
+
+NUM: 17
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 30
+
+
+NUM: 11
+
+
+NUM: 18
+
+
+NUM: 32
+
+
+NUM: 63
+
+
+NUM: 7
+
+
+LESSER: 7
+
+NUM: 21
+
+
+NUM: 31
+
+
+NUM: 62
+
+
+NUM: 8
+
+
+---------------BEFORE!-------------
+
+VEC: 0_nã_president_afirm_durant_fic_trist_vai_receb_abertur_jog_pan_rio_janeir_lá_pesso_tinh_acontec
+VEC: 1_rio_janeir_trabalh_tenh_consciênc_tem_nós_vam
+VEC: 2_fest_vil_olímp_atlet_estav_diz_reiter_foi_cois_extraordinár_antes_tiv_oportun_visit_convers_vári_país_mund_lá_era_unânim_nunc_tinh_vist_qualidad_brasil_oferec_quadr_iri_particip
+VEC: 3_nós_invest_govern_federal_consciênc_rio_janeir_merec_event_coloc_import
+VEC: 4_president_luiz_ináci_lul_silv_classific_ser_human_vai_receb_últim_sext_durant_abertur_jog_pan_rio_maracanã
+VEC: 5_lul_declar_admit_fic_chat_atitud_públic_garant_relaçã_pov_rio_janeir_nã_ser_alter_depo_vai_desist_abert_jog_com_estav_planej_foi_feit_pel_president_comit_olímp_brasileir_carl_nuzman
+VEC: 6_nã_lá_pesso_tinh_acontec_vid_polít_vai_aplaus_sã_dois_moment_reaçã_ser_human_únic_cois_particular_fic_trist_fui_prepar_fest_com_foss_convid_aniversári_amig_cheg_encontr_grup_quer_presenc_tenh_certez_pensament_rio_janeir_diss_lul_program_rádi_caf_president_depo_termin_event_vár_vier_diz_sid_organiz_gent_receb_convit_interess_já_import_foi_abertur_extraordinár_jog_pan
+VEC: 7_rio_janeir_trabalh_nã_govern_federal_vam
+VEC: 8_president_luiz_ináci_lul_silv_classific_reaçã_ser_human_vai_receb_últim_sext_dia_13_durant_abertur_jog_pan_rio_maracanã
+VEC: 9_lul_declar_admit_fic_chat_atitud_públic_garant_relaçã_pov_rio_nã_ser_alter_depo_vai_desist_abert_jog_com_estav_planej_foi_feit_pel_president_comit_olímp_brasileir_carl_nuzman
+VEC: 10_nã_lá_pesso_tinh_vid_polít_vai_aplaus_sã_dois_moment_reaçã_ser_human_únic_cois_particular_fic_trist_fui_prepar_fest_com_foss_convid_aniversári_amig_cheg_encontr_grup_quer_presenc_tenh_certez_pensament_rio_janeir_diss_lul_program_rádi_caf_president_depo_termin_event_vár_vier_diz_sid_organiz_gent_receb_convit_interess_acontec_import_foi_abertur_extraordinár_jog_pan
+VEC: 11_rio_janeir_trabalh_nã_govern_federal_nós_vam
+
+---------------AFTER!-------------
+
+VEC: 0_nã_president_afirm_durant_fic_trist_vai
+VEC: 1_rio_janeir_trabalh_tenh_consciênc_tem_nós
+VEC: 2_fest_vil_olímp_atlet_estav_diz_reiter
+VEC: 3_nós_invest_govern_federal_consciênc_rio_janeir
+VEC: 4_president_luiz_ináci_lul_silv_classific_ser
+VEC: 5_lul_declar_admit_fic_chat_atitud_públic
+VEC: 6_nã_lá_pesso_tinh_acontec_vid_polít
+VEC: 7_rio_janeir_trabalh_nã_govern_federal_vam
+VEC: 8_president_luiz_ináci_lul_silv_classific_reaçã
+VEC: 9_lul_declar_admit_fic_chat_atitud_públic
+VEC: 10_nã_lá_pesso_tinh_vid_polít_vai
+VEC: 11_rio_janeir_trabalh_nã_govern_federal_nós
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+SIM: 0.75
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.625
+
+
+SIM: 0.625
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+SIM: 0.75
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 1
+
+
+SIM: 1
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.857143
+
+
+SIM: 0.857143
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.571429
+
+
+SIM: 0.571429
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.571429
+
+
+SIM: 0.571429
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.128788
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "10_nã_lá_pesso_tinh_vid_polít_vai" is "0.25"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "9_lul_declar_admit_fic_chat_atitud_públic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "8_president_luiz_ináci_lul_silv_classific_reaçã" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "7_rio_janeir_trabalh_nã_govern_federal_vam" is "0.75"
+
+CHANGE! -- From: 12 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "6_nã_lá_pesso_tinh_acontec_vid_polít" is "0.125"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "5_lul_declar_admit_fic_chat_atitud_públic" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "4_president_luiz_ináci_lul_silv_classific_ser" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.625
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0.625"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.5
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0.5"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "11_rio_janeir_trabalh_nã_govern_federal_nós" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 7 -- Abs: 4
+
+
+Topic change from "11" to "7"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 7 -- Abs: 4
+
+
+Topic change from "11" to "7"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 7 -- Abs: 4
+
+
+Topic change from "11" to "7"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 7 -- Abs: 4
+
+
+Topic change from "11" to "7"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 9: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "9_lul_declar_admit_fic_chat_atitud_públic" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "8_president_luiz_ináci_lul_silv_classific_reaçã" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "7_rio_janeir_trabalh_nã_govern_federal_vam" is "0.125"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.75
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "6_nã_lá_pesso_tinh_acontec_vid_polít" is "0.75"
+
+CHANGE! -- From: 11 -> TO: 7
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "5_lul_declar_admit_fic_chat_atitud_públic" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "4_president_luiz_ináci_lul_silv_classific_ser" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "10_nã_lá_pesso_tinh_vid_polít_vai" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 6 -- Abs: 4
+
+
+Topic change from "10" to "6"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 6 -- Abs: 4
+
+
+Topic change from "10" to "6"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 6 -- Abs: 4
+
+
+Topic change from "10" to "6"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 6 -- Abs: 4
+
+
+Topic change from "10" to "6"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 6 -- Abs: 4
+
+
+Topic change from "10" to "6"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 6 -- Abs: 4
+
+
+Topic change from "10" to "6"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 6 -- Abs: 4
+
+
+Topic change from "10" to "6"
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 8: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "8_president_luiz_ináci_lul_silv_classific_reaçã" is "0.142857"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "7_rio_janeir_trabalh_nã_govern_federal_vam" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "6_nã_lá_pesso_tinh_acontec_vid_polít" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 7
+Similaridade entre eles: 1
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "5_lul_declar_admit_fic_chat_atitud_públic" is "1"
+
+CHANGE! -- From: 10 -> TO: 6
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "4_president_luiz_ináci_lul_silv_classific_ser" is "0.142857"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "9_lul_declar_admit_fic_chat_atitud_públic" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 7: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "7_rio_janeir_trabalh_nã_govern_federal_vam" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "6_nã_lá_pesso_tinh_acontec_vid_polít" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "5_lul_declar_admit_fic_chat_atitud_públic" is "0.142857"
+
+CHANGE! -- From: 9 -> TO: 6
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.857143
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "4_president_luiz_ináci_lul_silv_classific_ser" is "0.857143"
+
+CHANGE! -- From: 9 -> TO: 5
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "8_president_luiz_ináci_lul_silv_classific_reaçã" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 8 -- Topic s_aux: 4 -- Abs: 4
+
+
+Topic change from "8" to "4"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 6: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_rio_janeir_trabalh_nã_govern_federal_vam" and "6_nã_lá_pesso_tinh_acontec_vid_polít" is "0.142857"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_janeir_trabalh_nã_govern_federal_vam" and "5_lul_declar_admit_fic_chat_atitud_públic" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_janeir_trabalh_nã_govern_federal_vam" and "4_president_luiz_ináci_lul_silv_classific_ser" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.571429
+
+
+Similarity between "7_rio_janeir_trabalh_nã_govern_federal_vam" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0.571429"
+
+CHANGE! -- From: 8 -> TO: 4
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_rio_janeir_trabalh_nã_govern_federal_vam" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "7_rio_janeir_trabalh_nã_govern_federal_vam" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0.428571"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "7_rio_janeir_trabalh_nã_govern_federal_vam" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 4 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 5: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_nã_lá_pesso_tinh_acontec_vid_polít" and "5_lul_declar_admit_fic_chat_atitud_públic" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_nã_lá_pesso_tinh_acontec_vid_polít" and "4_president_luiz_ináci_lul_silv_classific_ser" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_nã_lá_pesso_tinh_acontec_vid_polít" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_nã_lá_pesso_tinh_acontec_vid_polít" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_nã_lá_pesso_tinh_acontec_vid_polít" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "6_nã_lá_pesso_tinh_acontec_vid_polít" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.142857"
+
+CHANGE! -- From: 7 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 4: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "5_lul_declar_admit_fic_chat_atitud_públic" and "4_president_luiz_ináci_lul_silv_classific_ser" is "0.142857"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_lul_declar_admit_fic_chat_atitud_públic" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_lul_declar_admit_fic_chat_atitud_públic" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_lul_declar_admit_fic_chat_atitud_públic" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "5_lul_declar_admit_fic_chat_atitud_públic" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.142857"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 3: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_president_luiz_ináci_lul_silv_classific_ser" and "3_nós_invest_govern_federal_consciênc_rio_janeir" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_president_luiz_ináci_lul_silv_classific_ser" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_president_luiz_ináci_lul_silv_classific_ser" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "4_president_luiz_ináci_lul_silv_classific_ser" and "0_nã_president_afirm_durant_fic_trist_vai" is "0.142857"
+
+CHANGE! -- From: 5 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 2: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_nós_invest_govern_federal_consciênc_rio_janeir" and "2_fest_vil_olímp_atlet_estav_diz_reiter" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.571429
+
+
+Similarity between "3_nós_invest_govern_federal_consciênc_rio_janeir" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0.571429"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_nós_invest_govern_federal_consciênc_rio_janeir" and "0_nã_president_afirm_durant_fic_trist_vai" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 0 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 0 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_fest_vil_olímp_atlet_estav_diz_reiter" and "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_fest_vil_olímp_atlet_estav_diz_reiter" and "0_nã_president_afirm_durant_fic_trist_vai" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 7
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_rio_janeir_trabalh_tenh_consciênc_tem_nós" and "0_nã_president_afirm_durant_fic_trist_vai" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+NUM_TOPICS: 11
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: president  - Frequency: 6
+Word: luiz  - Frequency: 3
+Word: ináci  - Frequency: 3
+Word: lul  - Frequency: 5
+Word: silv  - Frequency: 3
+Word: afirm  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: durant  - Frequency: 4
+Word: program  - Frequency: 3
+Word: rádi  - Frequency: 3
+Word: fic  - Frequency: 4
+Word: trist  - Frequency: 4
+Word: vai  - Frequency: 6
+Word: receb  - Frequency: 6
+Word: abertur  - Frequency: 6
+Word: oficial  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: jog  - Frequency: 6
+Word: pan  - Frequency: 6
+Word: realiz  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: maracanã  - Frequency: 3
+Word: rio  - Frequency: 6
+Word: janeir  - Frequency: 4
+Word: aplaus  - Frequency: 3
+Word: sã  - Frequency: 3
+Word: dois  - Frequency: 3
+Word: moment  - Frequency: 3
+Word: reaçã  - Frequency: 4
+Word: ser  - Frequency: 5
+Word: human  - Frequency: 5
+Word: únic  - Frequency: 3
+Word: cois  - Frequency: 3
+Word: particular  - Frequency: 3
+Word: fui  - Frequency: 3
+Word: prepar  - Frequency: 3
+Word: fest  - Frequency: 3
+Word: com  - Frequency: 3
+Word: foss  - Frequency: 3
+Word: convid  - Frequency: 3
+Word: aniversári  - Frequency: 3
+Word: amig  - Frequency: 3
+Word: cheg  - Frequency: 3
+Word: lá  - Frequency: 6
+Word: encontr  - Frequency: 3
+Word: grup  - Frequency: 3
+Word: pesso  - Frequency: 6
+Word: nã  - Frequency: 9
+Word: quer  - Frequency: 3
+Word: presenc  - Frequency: 3
+Word: tenh  - Frequency: 3
+Word: certez  - Frequency: 3
+Word: pensament  - Frequency: 3
+Word: depo  - Frequency: 3
+Word: termin  - Frequency: 3
+Word: event  - Frequency: 3
+Word: vár  - Frequency: 3
+Word: vier  - Frequency: 3
+Word: diz  - Frequency: 3
+Word: tinh  - Frequency: 6
+Word: sid  - Frequency: 3
+Word: organiz  - Frequency: 3
+Word: gent  - Frequency: 3
+Word: convit  - Frequency: 3
+Word: interess  - Frequency: 3
+Word: acontec  - Frequency: 5
+Word: já  - Frequency: 2
+Word: import  - Frequency: 3
+Word: foi  - Frequency: 3
+Word: extraordinár  - Frequency: 3
+Word: classific  - Frequency: 2
+Word: últim  - Frequency: 2
+Word: sext  - Frequency: 2
+Word: vid  - Frequency: 2
+Word: polít  - Frequency: 2
+Word: diss  - Frequency: 2
+Word: caf  - Frequency: 2
+Word: dia  - Frequency: 1
+Word: 13  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_nã
+
+Keyword: 0_nã
+
+Keyword: 0_nã
+
+Keyword: 0_nã_president_vai_receb_abertur_jog_pan_rio_lá_pesso_tinh
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: lul  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: coment  - Frequency: 1
+Word: import  - Frequency: 3
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 22
+Word: tenh  - Frequency: 3
+Word: consciênc  - Frequency: 4
+Word: represent  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: pov  - Frequency: 1
+Word: janeir  - Frequency: 17
+Word: tem  - Frequency: 5
+Word: aut  - Frequency: 1
+Word: moment  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: três  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: atrás  - Frequency: 1
+Word: nós  - Frequency: 8
+Word: vam  - Frequency: 6
+Word: trabalh  - Frequency: 9
+Word: projet  - Frequency: 3
+Word: vai  - Frequency: 1
+Word: nã  - Frequency: 5
+Word: mud  - Frequency: 3
+Word: milímetr  - Frequency: 3
+Word: comport  - Frequency: 3
+Word: gent  - Frequency: 4
+Word: pod  - Frequency: 3
+Word: diz  - Frequency: 3
+Word: continu  - Frequency: 3
+Word: lind  - Frequency: 3
+Word: merec  - Frequency: 5
+Word: govern  - Frequency: 7
+Word: federal  - Frequency: 7
+Word: fac  - Frequency: 3
+Word: for  - Frequency: 3
+Word: possível  - Frequency: 3
+Word: president  - Frequency: 3
+Word: também  - Frequency: 1
+Word: fal  - Frequency: 1
+Word: invest  - Frequency: 4
+Word: centr  - Frequency: 1
+Word: esport  - Frequency: 1
+Word: acredit  - Frequency: 1
+Word: precis  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: event  - Frequency: 2
+Word: magnitud  - Frequency: 1
+Word: coloc  - Frequency: 2
+Word: lá  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: bilhõ  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: mostr  - Frequency: 1
+Word: qualidad  - Frequency: 1
+Word: extraordinár  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: estam  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: sobretud  - Frequency: 1
+Word: local  - Frequency: 1
+Word: atlet  - Frequency: 1
+Word: vã  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: afirm  - Frequency: 2
+Word: hav  - Frequency: 2
+Word: mudanc  - Frequency: 2
+Word: plan  - Frequency: 2
+Word: cont  - Frequency: 2
+Word: episódi  - Frequency: 2
+
+
+------------------------------------------------------------
+
+Keyword: 1_rio
+
+Keyword: 1_rio
+
+Keyword: 1_rio
+
+Keyword: 1_rio
+
+Keyword: 1_rio
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir
+
+Keyword: 1_rio_janeir_trabalh
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: reiter  - Frequency: 1
+Word: fest  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: cois  - Frequency: 1
+Word: extraordinár  - Frequency: 1
+Word: antes  - Frequency: 1
+Word: tiv  - Frequency: 1
+Word: oportun  - Frequency: 1
+Word: visit  - Frequency: 1
+Word: vil  - Frequency: 2
+Word: olímp  - Frequency: 2
+Word: convers  - Frequency: 1
+Word: atlet  - Frequency: 2
+Word: vári  - Frequency: 1
+Word: país  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: estav  - Frequency: 2
+Word: lá  - Frequency: 1
+Word: era  - Frequency: 1
+Word: unânim  - Frequency: 1
+Word: diz  - Frequency: 2
+Word: nunc  - Frequency: 1
+Word: tinh  - Frequency: 1
+Word: vist  - Frequency: 1
+Word: qualidad  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: quadr  - Frequency: 1
+Word: iri  - Frequency: 1
+Word: particip  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_fest_vil_olímp_atlet_estav_diz
+
+Keyword: 2_fest_vil_olímp_atlet_estav_diz_reiter_foi_cois_extraordinár_antes_tiv_oportun_visit_convers_vári_país_mund_lá_era_unânim_nunc_tinh_vist_qualidad_brasil_oferec_quadr_iri_particip
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: lul  - Frequency: 4
+Word: admit  - Frequency: 2
+Word: fic  - Frequency: 2
+Word: chat  - Frequency: 2
+Word: atitud  - Frequency: 2
+Word: públic  - Frequency: 2
+Word: garant  - Frequency: 2
+Word: relaçã  - Frequency: 2
+Word: pov  - Frequency: 2
+Word: rio  - Frequency: 2
+Word: janeir  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: ser  - Frequency: 2
+Word: alter  - Frequency: 2
+Word: depo  - Frequency: 2
+Word: vai  - Frequency: 2
+Word: desist  - Frequency: 2
+Word: declar  - Frequency: 4
+Word: abert  - Frequency: 2
+Word: jog  - Frequency: 2
+Word: com  - Frequency: 2
+Word: estav  - Frequency: 2
+Word: planej  - Frequency: 2
+Word: foi  - Frequency: 2
+Word: feit  - Frequency: 2
+Word: pel  - Frequency: 2
+Word: president  - Frequency: 2
+Word: comit  - Frequency: 2
+Word: olímp  - Frequency: 2
+Word: brasileir  - Frequency: 2
+Word: carl  - Frequency: 2
+Word: nuzman  - Frequency: 2
+
+
+------------------------------------------------------------
+
+Keyword: 5_lul_declar
+
+Keyword: 5_lul_declar
+
+Keyword: 5_lul_declar_admit_fic_chat_atitud_públic_garant_relaçã_pov_rio_nã_ser_alter_depo_vai_desist_abert_jog_com_estav_planej_foi_feit_pel_president_comit_olímp_brasileir_carl_nuzman
+
+NUM: 11
+
+
+NUM: 3
+
+
+LESSER: 3
+
+NUM: 30
+
+
+NUM: 31
+
+
+(FINAL) AVERAGE: 3
+
+NUM: 11
+
+
+NUM: 3
+
+
+LESSER: 3
+
+NUM: 30
+
+
+NUM: 31
+
+
+---------------BEFORE!-------------
+
+VEC: 0_nã_president_vai_receb_abertur_jog_pan_rio_lá_pesso_tinh
+VEC: 1_rio_janeir_trabalh
+VEC: 2_fest_vil_olímp_atlet_estav_diz_reiter_foi_cois_extraordinár_antes_tiv_oportun_visit_convers_vári_país_mund_lá_era_unânim_nunc_tinh_vist_qualidad_brasil_oferec_quadr_iri_particip
+VEC: 5_lul_declar_admit_fic_chat_atitud_públic_garant_relaçã_pov_rio_nã_ser_alter_depo_vai_desist_abert_jog_com_estav_planej_foi_feit_pel_president_comit_olímp_brasileir_carl_nuzman
+
+---------------AFTER!-------------
+
+VEC: 0_nã_president_vai
+VEC: 1_rio_janeir_trabalh
+VEC: 2_fest_vil_olímp
+VEC: 5_lul_declar_admit
+Keyword: 0_nã_president_vai
+Keyword: 1_rio_janeir_trabalh
+Keyword: 2_fest_vil_olímp
+Keyword: 5_lul_declar_admit

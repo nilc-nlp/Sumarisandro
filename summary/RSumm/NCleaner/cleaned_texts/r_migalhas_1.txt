@@ -1,0 +1,63 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P align=justify><FONT face=Arial><FONT size=2>Utilizado como via de exame preliminar de repercussão geral, o plenário virtual do STF é um sistema informatizado instituído em 2007 e permite que os ministros realizem virtualmente votação das questões submetidas à análise.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Apesar de se tratar de uma ferramenta capaz de otimizar o processo de deliberação, garantindo maior agilidade no julgamento de processos que mudam o ordenamento jurídico do país, o cenário utópico é diferente da realidade: de um total de 492 processos com repercussão geral reconhecida até 3/12, estão pendentes ainda 330 temas.</FONT></FONT></P><FONT face=Arial><FONT size=2>
+<P align=center><IMG border=0 src="http://www.globalframe.com.br/gf_base/empresas/MIGA/imagens/87B8EC1FF1E5A23F7F2B62327798BF847D71_2.jpg"></P></FONT></FONT>
+
+<P align=justify><FONT face=Arial><FONT size=2>Analisando os 100 últimos processos submetidos ao exame de reconhecimento de repercussão geral com votação concluída, nota-se que em apenas três houve manifestação de todos os ministros. Em alguns casos apenas cinco ou seis ministros chegam a se manifestar. Outro recurso aguarda votação no sistema há dois anos em razão de pedido de vista do ministro Fux.</FONT></FONT></P>
+
+<P align=justify><B><FONT face=Arial><FONT size=2>Exame</FONT></FONT></B></P>
+<P align=justify><FONT face=Arial><FONT size=2>A preliminar de repercussão geral é analisada pelo plenário do STF, por meio do sistema informatizado, com votação eletrônica. Quando descartada a hipótese de inadmissibilidade do recurso, o relator ou presidente apresenta uma manifestação acerca do reconhecimento da repercussão geral, ao passo que os demais ministros também se manifestam, no prazo de 20 dias, sobre a questão. As abstenções nessa votação são consideradas como favoráveis à ocorrência de repercussão geral na matéria.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Caso definida sua existência, os processos relacionados ao tema são distribuídos ou redistribuídos ao relator do recurso paradigma, por prevenção, e o plenário físico julga o mérito ou pede dia para seu julgamento.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Os ministros podem se manifestar também se há reafirmação de jurisprudência dominante na Corte. Nesses casos, o julgamento de mérito de questões com repercussão geral também poderá ser realizado por meio eletrônico.</FONT></FONT></P>
+
+<P align=justify><B><FONT face=Arial><FONT size=2>700 processos submetidos a exame</FONT></FONT></B></P>
+<P align=justify><FONT face=Arial><FONT size=2>O primeiro processo submetido ao exame de repercussão geral foi o RExt <A onclick="jan = window.open('http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=2549049', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=2549049' } return false; " href="" target=_self>559.937</A>, de relatoria da ministra Ellen Gracie. A questão discutida versava sobre a base de cálculo do PIS e da COFINS sobre importação. </FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Os ministros decidiram pelo reconhecimento da repercussão geral e, em julgamento posterior, negaram provimento ao recurso para reconhecer a inconstitucionalidade da expressão “acrescido do valor do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS incidente no desembaraço aduaneiro e do valor das próprias contribuições”, contida no inciso I do artigo 7º da lei <A onclick="jan = window.open('http://www.receita.fazenda.gov.br/Legislacao/leis/2004/lei10865.htm', 'popup1', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www.receita.fazenda.gov.br/Legislacao/leis/2004/lei10865.htm' } return false; " href="" target=_self>10.865/04</A>.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Desde então, de acordo com dados disponibilizados pelo STF, 200 temas tiveram repercussão geral negada e 492 questões tiveram repercussão geral reconhecida. Ao todo, contando os RExts pendentes de inclusão no balanço, 700 processos foram direcionados à análise dos ministros da Corte, sendo Lewandowski o que mais apresentou questões para exame de repercussão geral: 98 ao todo. Em seguida, respectivamente, estão o ministro Marco Aurélio, 91 processos, e o ministro Gilmar Mendes, 90 processos.</FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2>Até o momento, em 2013, 71 questões foram submetidas à análise.</FONT></FONT></P>
+<P align=center><IMG border=0 src="http://www.globalframe.com.br/gf_base/empresas/MIGA/imagens/09D53E8F5EE3822D79AF03DDED9CEF3BE4AD_repercussao2.jpg"></P>
+
+<P align=justify><B><FONT face=Arial><FONT size=2>Plenário virtual</FONT></FONT></B></P>
+<P align=justify><FONT face=Arial><FONT size=2>Até novembro de 2008 o acesso ao plenário virtual era restrito aos ministros e aos tribunais cadastrados, mas após decisão tomada em sessão administrativa os julgamentos no sistema passaram a ser públicos.</FONT></FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>Atualmente estão pautados três recursos extraordinários. Confira abaixo as questões em análise e as manifestações dos respectivos relatores.</FONT></FONT></P>
+<BLOCKQUOTE>
+<P align=justify><FONT face=Arial><FONT size=2>1 - RExt <A onclick="jan = window.open('http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4237089', 'popup2', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4237089' } return false; " href="" target=_self>684.612</A>. Relatora: Cármen Lúcia </FONT></FONT></P>
+<P align=justify><FONT size=2 face=Arial>Discute os limites do princípio da independência entre Poderes quanto à adoção de providências relativas a políticas públicas para implementação de direitos e garantias previstos na CF. </FONT></P>
+<P align=justify><FONT face=Arial>Manifestação: “<EM>A matéria tem repercussão geral, pois a controvérsia refere-se aos limites do Poder Judiciário para determinar obrigações de fazer ao Estado, consistentes na realização de concursos públicos, contratação de servidores e execução de obras que atendam o direito social da saúde, ao qual a Constituição da República garante especial proteção</EM>”.</FONT></P>
+
+<P align=justify><FONT size=2 face=Arial>2 - RExt <A onclick="jan = window.open('http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=3869939', 'popup3', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=3869939' } return false; " href="" target=_self>612.686</A>. Relator : Fux</FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2>Debate sobre a natureza da entidade de previdência complementar, a implicar a incidência dos tributos de IRPJ e CSLL, que pressupõe a ocorrência do fato gerador lucro ou faturamento pela PJ.</FONT></FONT></P>
+<P align=justify><FONT face=Arial>Manifestação: “<EM>Manifesto-me pela existência de repercussão geral, nos termos do artigo 543-A, Código de Processo Civil</EM>”.</FONT></P>
+
+<P align=justify><FONT face=Arial><FONT size=2>3 - RExt <A onclick="jan = window.open('http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4019006', 'popup4', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://stf.jus.br/portal/processo/verProcessoAndamento.asp?incidente=4019006' } return false; " href="" target=_self>634.764</A>. Relator: Gilmar Mendes</FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2>Definir se é constitucional a incidência de ISS sobre exploração da atividade de apostas, tais como a venda de bilhetes, pules ou cupons de apostas, e se, estando a atividade de exploração do jogo compreendida no conceito de serviço, a base de cálculo do tributo pode incluir o valor integral da aposta ou deve recair apenas sobre o valor dos ingressos ou das entradas.</FONT></FONT></P>
+<P align=justify><FONT face=Arial>Manifestação: “Entendo, assim, que a discussão é relevante do ponto de vista econômico e jurídico e ultrapassa os interesses subjetivos dos litigantes, na medida em que diz respeito aos limites do conceito constitucional de serviço, para fins de incidência do imposto previsto no art. 156, III, da Constituição Federal”.</FONT></P></BLOCKQUOTE>
+<P class=MsoNormal align=justify><FONT face=Arial><FONT size=2>O acompanhamento dos processos submetidos à análise pode ser realizado em tempo real e os resultados são disponibilizados no próprio site da Corte.</FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></P></FONT>
+</FONT>
+</FONT>
+</FONT>
+</FONT>
+</FONT>
+</FONT>
+
+</div>

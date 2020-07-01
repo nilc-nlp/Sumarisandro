@@ -1,0 +1,8487 @@
+Sentenca(topic=0): O colombiano Juan Carlos Ramirez Abadia, o Chupeta, um dos traficantes de drogas mais procurados do mundo, foi preso na manhã desta terça-feira, em um condomínio da Grande São Paulo, durante a operação Farrapos da Polícia Federal.
+Sentenca(topic=1): Com ações em seis Estados --São Paulo, Rio, Minas, Paraná, Santa Catarina e Rio Grande do Sul--, a operação havia capturado 12 suspeitos, até a tarde desta terça-feira.
+Sentenca(topic=1): O objetivo é prender 17.
+Sentenca(topic=2): Considerado herdeiro do cartel de Cáli, Abadia permanecerá preso, à disposição da Justiça, na Superintendência Regional da PF, na Lapa (zona oeste de São Paulo).
+Sentenca(topic=3): O ministro da Defesa de Colômbia, Juan Manuel Santos, disse em entrevista à rádio local "W" que Abadia deve ser extraditado do Brasil para os Estados Unidos.
+Sentenca(topic=4): O Departamento de Justiça dos Estados Unidos acusa o colombiano de comandar o cartel do Vale do Norte da Colômbia, que teria enviado toneladas de cocaína àquele país, a partir do México.
+Sentenca(topic=4): Os entorpecentes chegariam por rotas aéreas e marítimas da costa colombiana.
+Sentenca(topic=5): Em 1996, quando Abadia se entregou à polícia colombiana, os Estados Unidos pediram a extradição dele pelo "presumível envolvimento" com o cartel, mas não foram atendidos.
+Sentenca(topic=6): Na ocasião, o traficante confessou ter enviado 30 toneladas de cocaína aos Estados Unidos e atuado no cartel de Tijuana (México).
+Sentenca(topic=6): Com a confissão, o colombiano acabou beneficiado e, embora tenha sido condenado a 23 anos de prisão, foi solto em 2002.
+Sentenca(topic=7): Segundo o ministro de Defesa colombiano, a quadrilha de tráfico internacional de drogas e lavagem de dinheiro liderada por Abadia é uma das mais ricas do mundo, com um patrimônio estimado em US$ 80 milhões.
+Sentenca(topic=7): O governo dos Estados Unidos oferecia US$ 5 milhões a quem desse informações que levassem à prisão do colombiano.
+Sentenca(topic=8): De acordo com o ministro colombiano, desde que foi solto, Abadia fez quatro cirurgias plásticas para modificar a fisionomia e, assim, escapar da polícia.
+Sentenca(topic=8): Santos disse ter sido informado de que o próprio Abadia confessou sua identidade quando foi capturado.
+Sentenca(topic=9): Conforme a Polícia Nacional da Colômbia, Abadia está envolvido com o tráfico desde 1986.
+Sentenca(topic=10): "Ele criou sua própria rede distribuidora na cidade de Nova York, convertendo grande parte de seu capital fruto de negócios ilegais em bens dos quais a maioria está em nome de seus familiares e de terceiros", afirma a polícia.
+Sentenca(topic=11): O traficante, segundo a Polícia Nacional, tem "perfil violento tanto com sócios e colaboradores como com as autoridades que o perseguem".
+Sentenca(topic=11): "Informações dão conta de que ele [Abadia] é o autor intelectual de várias execuções de pessoas a serviço do narcotráfico e de familiares, sócios e colaboradores do extraditado Victor Patiño Fomeque,  em retaliação por tê-lo acusado perante as autoridades norte-americanas."
+Sentenca(topic=12): A Operação Farrapos da Polícia Federal, que tem como objetivo desarticular uma quadrilha internacional de drogas, prendeu até o final da manhã desta terça-feira 14 pessoas acusadas de envolvimento com o tráfico.
+Sentenca(topic=12): Entre elas, o maior traficante da Colômbia, Juan Carlos Ramirez-Abadia, 44 anos, um dos mais procurados pelo Departamento Antidrogas dos Estados Unidos (DEA).
+Sentenca(topic=12): Abadia foi preso em uma residência localizada em condomínio de luxo de Aldeia da Serra, na Grande São Paulo.
+Sentenca(topic=12): Quatro veículos e nove armas foram apreendidos.
+Sentenca(topic=12): Quatro cofres também foram lacrados.
+Sentenca(topic=13): Após dois anos e meio de investigações, policiais federais cumpriram os mandados com o objetivo de desbaratar um esquema criminoso em que traficantes colombianos transportavam grande quantidade de entorpecentes para a Europa e EUA , cujo lucro retornava ao Brasil, saindo da Espanha e do México, passando ainda pelo Uruguai.
+Sentenca(topic=14): O ciclo da lavagem de dinheiro era completado pela organização, aproveitando-se de investimentos nos ramos imobiliário, industrial e na aquisição de veículos.
+Sentenca(topic=15): A investigação, cujo inquérito tramita na 6ª Vara Criminal Federal de SP, especializada em lavagem de dinheiro, contou ainda com o intercâmbio de informações sigilosas entre Brasil, Estados Unidos, Espanha, Uruguai e Argentina.
+Sentenca(topic=16): Um dos traficantes internacionais de drogas mais procurados pelos Estados Unidos, o colombiano Juan Carlos Ramirez-Abadia, de 44 anos, foi preso por volta das 6h30 desta terça-feira (7), na região de Aldeia da Serra, na Grande São Paulo.
+Sentenca(topic=16): A prisão de Abadia faz parte da Operação Farrapos, iniciada nesta manhã pela Polícia Federal.
+Sentenca(topic=17): Abadia é apontado pelo governo norte-americado como um dos maiores traficantes de cocaína da Colômbia e estaria envolvido com tráfico desde 1986.
+Sentenca(topic=18): Abadia vai para a Superintendência da Polícia Federal na Lapa, Zona Oeste da Capital.
+Sentenca(topic=19): A agência norte-americana de combate ao tráfico, DEA (U.S. Drug Enforcement Administration), (quase R$ 10 milhões) oferecia US$ 5 milhões para quem fornecesse informações sobre o paradeiro de Abadia - com a ressalva de que o dinheiro era garantido pelo governo norte-americano.
+Sentenca(topic=19): A PF não soube informar se esse tipo de recompensa é paga para órgãos policiais.
+Sentenca(topic=20): De acordo com informações da agência, Abadia foi preso em março de 1996  por enviar aos Estados Unidos 30 toneladas de cocaína e mandar drogas ao país em associação com um cartel de Tijuana, no México.
+Sentenca(topic=20): Após confessar o crime, ele passou quatro anos e três meses preso na Colômbia.
+Sentenca(topic=20): A DEA informa que depois da liberação de Abadia da carceragem colombiana, a Justiça norte-americana pediu sua prisão e extradição por suspeita de envolvimento no Cartel Valle do norte da Colômbia.
+Sentenca(topic=20): Segundo a agência, o traficante usa empresas de fachada para lavar o dinheiro do narcotráfico.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: colombian  - Frequency: 1
+Word: juan  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: ramirez  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: chupet  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: drog  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: condomíni  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: farrap  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog_procur_mund_foi_pres_manhã_terc_condomíni_grand_sã_paul_durant_oper_farrap_políc_federal
+
+
+------------------------------------------------------------
+Topic: 1
+Word: açõ  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: rio  - Frequency: 2
+Word: min  - Frequency: 1
+Word: paran  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: catarin  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: captur  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: tard  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: prend  - Frequency: 1
+Word: 17  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_rio
+
+Keyword: 1_rio_açõ_seis_estad_paul_min_paran_sant_catarin_grand_sul_oper_hav_captur_12_suspeit_tard_terc_objet_prend_17
+
+
+------------------------------------------------------------
+Topic: 2
+Word: consider  - Frequency: 1
+Word: herdeir  - Frequency: 1
+Word: cartel  - Frequency: 1
+Word: cál  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: permanec  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: disposiçã  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: superintendent  - Frequency: 1
+Word: regional  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: lap  - Frequency: 1
+Word: oest  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã_justic_superintendent_regional_pf_lap_oest_sã_paul
+
+
+------------------------------------------------------------
+Topic: 3
+Word: ministr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: col�  - Frequency: 1
+Word: juan  - Frequency: 1
+Word: manuel  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: entrev  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: local  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: extradit  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_ministr_defes_col�_juan_manuel_sant_diss_entrev_rádi_local_abad_dev_ser_extradit_brasil_estad_unid
+
+
+------------------------------------------------------------
+Topic: 4
+Word: depart  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: colombian  - Frequency: 2
+Word: comand  - Frequency: 1
+Word: cartel  - Frequency: 1
+Word: val  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: col�  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: tonel  - Frequency: 1
+Word: cocaín  - Frequency: 1
+Word: àquel  - Frequency: 1
+Word: país  - Frequency: 1
+Word: part  - Frequency: 1
+Word: méxic  - Frequency: 1
+Word: entorpecent  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: rot  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: marítim  - Frequency: 1
+Word: cost  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_colombian
+
+Keyword: 4_colombian_depart_justic_estad_unid_acus_comand_cartel_val_nort_col�_ter_envi_tonel_cocaín_àquel_país_part_méxic_entorpecent_cheg_rot_aér_marítim_cost
+
+
+------------------------------------------------------------
+Topic: 5
+Word: 1996  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: extradiçã  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: cartel  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: for  - Frequency: 1
+Word: atend  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_1996_abad_entreg_políc_colombian_estad_unid_ped_extradiçã_pel_envolv_cartel_nã_for_atend
+
+
+------------------------------------------------------------
+Topic: 6
+Word: ocasiã  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: confess  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: tonel  - Frequency: 1
+Word: cocaín  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: atu  - Frequency: 1
+Word: cartel  - Frequency: 1
+Word: tijuan  - Frequency: 1
+Word: confissã  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: benefic  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: conden  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: solt  - Frequency: 1
+Word: 2002  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín_estad_unid_atu_cartel_tijuan_confissã_colombian_acab_benefic_tenh_sid_conden_23_anos_prisã_foi_solt_2002
+
+
+------------------------------------------------------------
+Topic: 7
+Word: segund  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: defes  - Frequency: 1
+Word: colombian  - Frequency: 2
+Word: quadrilh  - Frequency: 1
+Word: tráfic  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: drog  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: lider  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: ric  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: patrim�  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: us$  - Frequency: 2
+Word: 80  - Frequency: 1
+Word: milhõ  - Frequency: 2
+Word: govern  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: 5  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: prisã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_colombian_us$_milhõ
+
+Keyword: 7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic_internacional_drog_lavag_dinheir_lider_abad_ric_mund_patrim�_estim_80_govern_estad_unid_oferec_5_inform_lev_prisã
+
+
+------------------------------------------------------------
+Topic: 8
+Word: acord  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: solt  - Frequency: 1
+Word: abad  - Frequency: 2
+Word: fez  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: cirurg  - Frequency: 1
+Word: plástic  - Frequency: 1
+Word: modific  - Frequency: 1
+Word: fisionom  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: escap  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: confess  - Frequency: 1
+Word: ident  - Frequency: 1
+Word: captur  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_foi_abad
+
+Keyword: 8_foi_abad_acord_ministr_colombian_solt_fez_quatr_cirurg_plástic_modific_fisionom_assim_escap_políc_sant_diss_ter_sid_inform_própri_confess_ident_captur
+
+
+------------------------------------------------------------
+Topic: 9
+Word: políc  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: col�  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: está  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: tráfic  - Frequency: 1
+Word: 1986  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_políc_nacional_col�_abad_está_envolv_tráfic_1986
+
+Keyword: 9_políc_nacional_col�_abad_está_envolv_tráfic_1986
+
+
+------------------------------------------------------------
+Topic: 10
+Word: cri  - Frequency: 1
+Word: própr  - Frequency: 1
+Word: red  - Frequency: 1
+Word: distribuidor  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: york  - Frequency: 1
+Word: convert  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: part  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: frut  - Frequency: 1
+Word: negóci  - Frequency: 1
+Word: ileg  - Frequency: 1
+Word: bens  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: está  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: políc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_cri_própr_red_distribuidor_cidad_nov_york_convert_grand_part_capital_frut_negóci_ileg_bens_maior_está_nom_famili_terceir_afirm_políc
+
+
+------------------------------------------------------------
+Topic: 11
+Word: trafic  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: violent  - Frequency: 1
+Word: sóci  - Frequency: 2
+Word: colabor  - Frequency: 2
+Word: com  - Frequency: 1
+Word: autor  - Frequency: 3
+Word: persegu  - Frequency: 1
+Word: dã  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: intelectual  - Frequency: 1
+Word: vár  - Frequency: 1
+Word: execuçõ  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: extradit  - Frequency: 1
+Word: victor  - Frequency: 1
+Word: patiñ  - Frequency: 1
+Word: fomequ  - Frequency: 1
+Word: retali  - Frequency: 1
+Word: tê  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: nort  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_autor
+
+Keyword: 11_autor_sóci_colabor
+
+Keyword: 11_autor_sóci_colabor_trafic_segund_políc_nacional_tem_violent_com_persegu_dã_cont_intelectual_vár_execuçõ_pesso_servic_narcotráf_famili_extradit_victor_patiñ_fomequ_retali_tê_acus_nort
+
+
+------------------------------------------------------------
+Topic: 12
+Word: oper  - Frequency: 1
+Word: farrap  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: com  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: desarticul  - Frequency: 1
+Word: quadrilh  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: drog  - Frequency: 1
+Word: prend  - Frequency: 1
+Word: final  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: tráfic  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: col�  - Frequency: 1
+Word: juan  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: ramirez  - Frequency: 1
+Word: 44  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: depart  - Frequency: 1
+Word: antidrog  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: resident  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: condomíni  - Frequency: 1
+Word: lux  - Frequency: 1
+Word: alde  - Frequency: 1
+Word: serr  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: quatr  - Frequency: 2
+Word: veícul  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: armas  - Frequency: 1
+Word: for  - Frequency: 2
+Word: apreend  - Frequency: 1
+Word: cofr  - Frequency: 1
+Word: também  - Frequency: 1
+Word: lacr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_quatr_for
+
+Keyword: 12_quatr_for_oper_farrap_políc_federal_tem_com_objet_desarticul_quadrilh_internacional_drog_prend_final_manhã_terc_14_pesso_acus_envolv_tráfic_maior_trafic_col�_juan_carl_ramirez_44_anos_procur_pel_depart_antidrog_estad_unid_abad_foi_pres_resident_localiz_condomíni_lux_alde_serr_grand_sã_paul_veícul_nov_armas_apreend_cofr_também_lacr
+
+
+------------------------------------------------------------
+Topic: 13
+Word: dois  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: feder  - Frequency: 1
+Word: cumpr  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: desbarat  - Frequency: 1
+Word: esquem  - Frequency: 1
+Word: crimin  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: quantidad  - Frequency: 1
+Word: entorpecent  - Frequency: 1
+Word: europ  - Frequency: 1
+Word: eua  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: retorn  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: saind  - Frequency: 1
+Word: espanh  - Frequency: 1
+Word: méxic  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: urugua  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_dois_anos_mei_investig_polic_feder_cumpr_mand_objet_desbarat_esquem_crimin_trafic_colombian_transport_grand_quantidad_entorpecent_europ_eua_lucr_retorn_brasil_saind_espanh_méxic_pass_aind_pel_urugua
+
+
+------------------------------------------------------------
+Topic: 14
+Word: cicl  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: era  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: aproveit  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: ram  - Frequency: 1
+Word: imobiliári  - Frequency: 1
+Word: industrial  - Frequency: 1
+Word: aquisiçã  - Frequency: 1
+Word: veícul  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit_invest_ram_imobiliári_industrial_aquisiçã_veícul
+
+
+------------------------------------------------------------
+Topic: 15
+Word: investig  - Frequency: 1
+Word: inquérit  - Frequency: 1
+Word: tramit  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: var  - Frequency: 1
+Word: criminal  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: sp  - Frequency: 1
+Word: especializ  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: intercâmbi  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: sigil  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: espanh  - Frequency: 1
+Word: urugua  - Frequency: 1
+Word: argentin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 15_investig_inquérit_tramit_6_var_criminal_federal_sp_especializ_lavag_dinheir_cont_aind_intercâmbi_inform_sigil_brasil_estad_unid_espanh_urugua_argentin
+
+
+------------------------------------------------------------
+Topic: 16
+Word: trafic  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: drog  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: juan  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: ramirez  - Frequency: 1
+Word: 44  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: 6h30  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: alde  - Frequency: 1
+Word: serr  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: paul  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: farrap  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 16_pel
+
+Keyword: 16_pel_trafic_internacion_drog_procur_estad_unid_colombian_juan_carl_ramirez_44_anos_foi_pres_volt_6h30_terc_regiã_alde_serr_grand_sã_paul_prisã_abad_faz_part_oper_farrap_inic_manhã_políc_federal
+
+
+------------------------------------------------------------
+Topic: 17
+Word: abad  - Frequency: 1
+Word: apont  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: com  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: cocaín  - Frequency: 1
+Word: col�  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: tráfic  - Frequency: 1
+Word: 1986  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_abad_apont_pel_govern_nort_com_maior_trafic_cocaín_col�_estar_envolv_tráfic_1986
+
+
+------------------------------------------------------------
+Topic: 18
+Word: abad  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: superintendent  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: lap  - Frequency: 1
+Word: zon  - Frequency: 1
+Word: oest  - Frequency: 1
+Word: capital  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 18_abad_vai_superintendent_políc_federal_lap_zon_oest_capital
+
+Keyword: 18_abad_vai_superintendent_políc_federal_lap_zon_oest_capital
+
+
+------------------------------------------------------------
+Topic: 19
+Word: agênc  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: combat  - Frequency: 1
+Word: tráfic  - Frequency: 1
+Word: dea  - Frequency: 1
+Word: drug  - Frequency: 1
+Word: enforcement  - Frequency: 1
+Word: administration  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: milhõ  - Frequency: 2
+Word: oferec  - Frequency: 1
+Word: us$  - Frequency: 1
+Word: 5  - Frequency: 1
+Word: fornec  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: paradeir  - Frequency: 1
+Word: abad  - Frequency: 1
+Word: ressalv  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: era  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: soub  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: recompens  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: órgã  - Frequency: 1
+Word: polic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 19_nort_milhõ_inform
+
+Keyword: 19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug_enforcement_administration_r$_10_oferec_us$_5_fornec_paradeir_abad_ressalv_dinheir_era_garant_pel_govern_pf_nã_soub_tip_recompens_pag_órgã_polic
+
+
+------------------------------------------------------------
+Topic: 20
+Word: acord  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: agênc  - Frequency: 2
+Word: abad  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: pres  - Frequency: 2
+Word: marc  - Frequency: 1
+Word: 1996  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: tonel  - Frequency: 1
+Word: cocaín  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: drog  - Frequency: 1
+Word: país  - Frequency: 1
+Word: assoc  - Frequency: 1
+Word: cartel  - Frequency: 2
+Word: tijuan  - Frequency: 1
+Word: méxic  - Frequency: 1
+Word: confess  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: três  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: col�  - Frequency: 2
+Word: dea  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: carcerag  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: ped  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: extradiçã  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: vall  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: usa  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: fach  - Frequency: 1
+Word: lav  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 20_inform_agênc_abad_pres_cartel_col�_nort
+
+Keyword: 20_inform_agênc_abad_pres_cartel_col�_nort_acord_foi_marc_1996_envi_estad_unid_30_tonel_cocaín_mand_drog_país_assoc_tijuan_méxic_confess_crim_pass_quatr_anos_três_mes_dea_depo_liber_carcerag_colombian_justic_ped_prisã_extradiçã_suspeit_envolv_vall_segund_trafic_usa_empres_fach_lav_dinheir_narcotráf
+
+NUM: 23
+
+
+NUM: 21
+
+
+NUM: 16
+
+
+NUM: 17
+
+
+NUM: 25
+
+
+NUM: 15
+
+
+NUM: 26
+
+
+NUM: 27
+
+
+NUM: 24
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 22
+
+
+NUM: 28
+
+
+NUM: 55
+
+
+NUM: 30
+
+
+NUM: 14
+
+
+NUM: 22
+
+
+NUM: 34
+
+
+NUM: 14
+
+
+NUM: 9
+
+
+NUM: 32
+
+
+NUM: 50
+
+
+(FINAL) AVERAGE: 8
+
+NUM: 23
+
+
+NUM: 21
+
+
+NUM: 16
+
+
+NUM: 17
+
+
+NUM: 25
+
+
+NUM: 15
+
+
+NUM: 26
+
+
+NUM: 27
+
+
+NUM: 24
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 22
+
+
+NUM: 28
+
+
+NUM: 55
+
+
+NUM: 30
+
+
+NUM: 14
+
+
+NUM: 22
+
+
+NUM: 34
+
+
+NUM: 14
+
+
+NUM: 9
+
+
+NUM: 32
+
+
+NUM: 50
+
+
+---------------BEFORE!-------------
+
+VEC: 0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog_procur_mund_foi_pres_manhã_terc_condomíni_grand_sã_paul_durant_oper_farrap_políc_federal
+VEC: 1_rio_açõ_seis_estad_paul_min_paran_sant_catarin_grand_sul_oper_hav_captur_12_suspeit_tard_terc_objet_prend_17
+VEC: 2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã_justic_superintendent_regional_pf_lap_oest_sã_paul
+VEC: 3_ministr_defes_col�_juan_manuel_sant_diss_entrev_rádi_local_abad_dev_ser_extradit_brasil_estad_unid
+VEC: 4_colombian_depart_justic_estad_unid_acus_comand_cartel_val_nort_col�_ter_envi_tonel_cocaín_àquel_país_part_méxic_entorpecent_cheg_rot_aér_marítim_cost
+VEC: 5_1996_abad_entreg_políc_colombian_estad_unid_ped_extradiçã_pel_envolv_cartel_nã_for_atend
+VEC: 6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín_estad_unid_atu_cartel_tijuan_confissã_colombian_acab_benefic_tenh_sid_conden_23_anos_prisã_foi_solt_2002
+VEC: 7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic_internacional_drog_lavag_dinheir_lider_abad_ric_mund_patrim�_estim_80_govern_estad_unid_oferec_5_inform_lev_prisã
+VEC: 8_foi_abad_acord_ministr_colombian_solt_fez_quatr_cirurg_plástic_modific_fisionom_assim_escap_políc_sant_diss_ter_sid_inform_própri_confess_ident_captur
+VEC: 9_políc_nacional_col�_abad_está_envolv_tráfic_1986
+VEC: 10_cri_própr_red_distribuidor_cidad_nov_york_convert_grand_part_capital_frut_negóci_ileg_bens_maior_está_nom_famili_terceir_afirm_políc
+VEC: 11_autor_sóci_colabor_trafic_segund_políc_nacional_tem_violent_com_persegu_dã_cont_intelectual_vár_execuçõ_pesso_servic_narcotráf_famili_extradit_victor_patiñ_fomequ_retali_tê_acus_nort
+VEC: 12_quatr_for_oper_farrap_políc_federal_tem_com_objet_desarticul_quadrilh_internacional_drog_prend_final_manhã_terc_14_pesso_acus_envolv_tráfic_maior_trafic_col�_juan_carl_ramirez_44_anos_procur_pel_depart_antidrog_estad_unid_abad_foi_pres_resident_localiz_condomíni_lux_alde_serr_grand_sã_paul_veícul_nov_armas_apreend_cofr_também_lacr
+VEC: 13_dois_anos_mei_investig_polic_feder_cumpr_mand_objet_desbarat_esquem_crimin_trafic_colombian_transport_grand_quantidad_entorpecent_europ_eua_lucr_retorn_brasil_saind_espanh_méxic_pass_aind_pel_urugua
+VEC: 14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit_invest_ram_imobiliári_industrial_aquisiçã_veícul
+VEC: 15_investig_inquérit_tramit_6_var_criminal_federal_sp_especializ_lavag_dinheir_cont_aind_intercâmbi_inform_sigil_brasil_estad_unid_espanh_urugua_argentin
+VEC: 16_pel_trafic_internacion_drog_procur_estad_unid_colombian_juan_carl_ramirez_44_anos_foi_pres_volt_6h30_terc_regiã_alde_serr_grand_sã_paul_prisã_abad_faz_part_oper_farrap_inic_manhã_políc_federal
+VEC: 17_abad_apont_pel_govern_nort_com_maior_trafic_cocaín_col�_estar_envolv_tráfic_1986
+VEC: 18_abad_vai_superintendent_políc_federal_lap_zon_oest_capital
+VEC: 19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug_enforcement_administration_r$_10_oferec_us$_5_fornec_paradeir_abad_ressalv_dinheir_era_garant_pel_govern_pf_nã_soub_tip_recompens_pag_órgã_polic
+VEC: 20_inform_agênc_abad_pres_cartel_col�_nort_acord_foi_marc_1996_envi_estad_unid_30_tonel_cocaín_mand_drog_país_assoc_tijuan_méxic_confess_crim_pass_quatr_anos_três_mes_dea_depo_liber_carcerag_colombian_justic_ped_prisã_extradiçã_suspeit_envolv_vall_segund_trafic_usa_empres_fach_lav_dinheir_narcotráf
+
+---------------AFTER!-------------
+
+VEC: 0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog
+VEC: 1_rio_açõ_seis_estad_paul_min_paran_sant
+VEC: 2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã
+VEC: 3_ministr_defes_col�_juan_manuel_sant_diss_entrev
+VEC: 4_colombian_depart_justic_estad_unid_acus_comand_cartel
+VEC: 5_1996_abad_entreg_políc_colombian_estad_unid_ped
+VEC: 6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín
+VEC: 7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic
+VEC: 8_foi_abad_acord_ministr_colombian_solt_fez_quatr
+VEC: 9_políc_nacional_col�_abad_está_envolv_tráfic_1986
+VEC: 10_cri_própr_red_distribuidor_cidad_nov_york_convert
+VEC: 11_autor_sóci_colabor_trafic_segund_políc_nacional_tem
+VEC: 12_quatr_for_oper_farrap_políc_federal_tem_com
+VEC: 13_dois_anos_mei_investig_polic_feder_cumpr_mand
+VEC: 14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit
+VEC: 15_investig_inquérit_tramit_6_var_criminal_federal_sp
+VEC: 16_pel_trafic_internacion_drog_procur_estad_unid_colombian
+VEC: 17_abad_apont_pel_govern_nort_com_maior_trafic
+VEC: 18_abad_vai_superintendent_políc_federal_lap_zon_oest
+VEC: 19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug
+VEC: 20_inform_agênc_abad_pres_cartel_col�_nort_acord
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 9
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 8
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 7
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 6
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 5
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 4
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 3
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 2 e 2
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+SIM: 0.375
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+SIM: 0.25
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+SIM: 0.125
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0885581
+
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" is "0.444444"
+
+CHANGE! -- From: 21 -> TO: 20
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "18_abad_vai_superintendent_políc_federal_lap_zon_oest" is "0.222222"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "17_abad_apont_pel_govern_nort_com_maior_trafic" is "0.333333"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" is "0.111111"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "15_investig_inquérit_tramit_6_var_criminal_federal_sp" is "0.111111"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" is "0.111111"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "13_dois_anos_mei_investig_polic_feder_cumpr_mand" is "0.111111"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.111111"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.111111"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 2 e 9
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0.222222"
+
+Comparação entre os tópicos 2 e 8
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0.222222"
+
+Comparação entre os tópicos 2 e 7
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 2 e 6
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 2 e 5
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.111111"
+
+Comparação entre os tópicos 2 e 4
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0.111111"
+
+Comparação entre os tópicos 2 e 3
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0.111111"
+
+Comparação entre os tópicos 2 e 2
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0.333333"
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "20_inform_agênc_abad_pres_cartel_col�_nort_acord" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 20
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 1
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 20
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "18_abad_vai_superintendent_políc_federal_lap_zon_oest" is "0.111111"
+
+CHANGE! -- From: 20 -> TO: 19
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "17_abad_apont_pel_govern_nort_com_maior_trafic" is "0.222222"
+
+CHANGE! -- From: 20 -> TO: 18
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "15_investig_inquérit_tramit_6_var_criminal_federal_sp" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "13_dois_anos_mei_investig_polic_feder_cumpr_mand" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0.222222"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "19_nort_milhõ_inform_agênc_combat_tráfic_dea_drug" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 19
+Topic: 20
+Topic: 20
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 1
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Topic: 19 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 19 -- Topic s_aux: 17 -- Abs: 2
+
+
+Topic change from "19" to "17"
+
+Topic: 19 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 19 -- Topic s_aux: 17 -- Abs: 2
+
+
+Topic change from "19" to "17"
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 19
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "17_abad_apont_pel_govern_nort_com_maior_trafic" is "0.222222"
+
+CHANGE! -- From: 19 -> TO: 18
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "15_investig_inquérit_tramit_6_var_criminal_federal_sp" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "13_dois_anos_mei_investig_polic_feder_cumpr_mand" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.333333"
+
+CHANGE! -- From: 19 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0.222222"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.222222"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "18_abad_vai_superintendent_políc_federal_lap_zon_oest" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 19
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 1
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 18 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 18 -- Topic s_aux: 12 -- Abs: 6
+
+
+Topic change from "18" to "12"
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" is "0.333333"
+
+CHANGE! -- From: 18 -> TO: 17
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "15_investig_inquérit_tramit_6_var_criminal_federal_sp" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "13_dois_anos_mei_investig_polic_feder_cumpr_mand" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "17_abad_apont_pel_govern_nort_com_maior_trafic" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.222222"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 1
+
+Topic: 16 -- Origem: 2
+
+Topic: 16 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "15_investig_inquérit_tramit_6_var_criminal_federal_sp" is "0.111111"
+
+CHANGE! -- From: 17 -> TO: 16
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" is "0.222222"
+
+CHANGE! -- From: 17 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "13_dois_anos_mei_investig_polic_feder_cumpr_mand" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.333333"
+
+CHANGE! -- From: 17 -> TO: 6
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0.333333"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0.111111"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "16_pel_trafic_internacion_drog_procur_estad_unid_colombian" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.333333"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 17
+Topic: 17
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 1
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 16 -- Topic s_aux: 5 -- Abs: 11
+
+
+Topic change from "16" to "5"
+
+Topic: 16 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 16 -- Topic s_aux: 5 -- Abs: 11
+
+
+Topic change from "16" to "5"
+
+Topic: 17 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" is "0.111111"
+
+CHANGE! -- From: 16 -> TO: 15
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "13_dois_anos_mei_investig_polic_feder_cumpr_mand" is "0.222222"
+
+CHANGE! -- From: 16 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.222222"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "15_investig_inquérit_tramit_6_var_criminal_federal_sp" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 16
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 15 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 15 -- Topic s_aux: 13 -- Abs: 2
+
+
+Topic change from "15" to "13"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "13_dois_anos_mei_investig_polic_feder_cumpr_mand" is "0.111111"
+
+CHANGE! -- From: 15 -> TO: 14
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "12_quatr_for_oper_farrap_políc_federal_tem_com" is "0.111111"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.111111"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_dois_anos_mei_investig_polic_feder_cumpr_mand" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" is "0.333333"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0.111111"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0.111111"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_quatr_for_oper_farrap_políc_federal_tem_com" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 13
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Topic: 12 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 11 -- Abs: 1
+
+
+Topic change from "12" to "11"
+
+Topic: 12 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 11 -- Abs: 1
+
+
+Topic change from "12" to "11"
+
+Topic: 12 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 11 -- Abs: 1
+
+
+Topic change from "12" to "11"
+
+Topic: 12 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 11 -- Abs: 1
+
+
+Topic change from "12" to "11"
+
+Topic: 12 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 11 -- Abs: 1
+
+
+Topic change from "12" to "11"
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 11 -- Abs: 1
+
+
+Topic change from "12" to "11"
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 12
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "10_cri_própr_red_distribuidor_cidad_nov_york_convert" is "0.111111"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0.222222"
+
+CHANGE! -- From: 12 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0.111111"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0.111111"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.111111"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "11_autor_sóci_colabor_trafic_segund_políc_nacional_tem" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 12
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 11 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 11 -- Topic s_aux: 9 -- Abs: 2
+
+
+Topic change from "11" to "9"
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 10
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 9: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_cri_própr_red_distribuidor_cidad_nov_york_convert" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 10
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 10
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 8: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" is "0.125"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0.125"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.25"
+
+CHANGE! -- From: 10 -> TO: 6
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0.125"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0.125"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "9_políc_nacional_col�_abad_está_envolv_tráfic_1986" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 10
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 10 -- Origem: 0
+
+Topic: 9 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 5 -- Abs: 4
+
+
+Topic change from "9" to "5"
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 7: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" is "0.25"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.25"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0.125"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0.125"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0.125"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "8_foi_abad_acord_ministr_colombian_solt_fez_quatr" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 6: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" and "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0.125"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0.125"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0.25"
+
+CHANGE! -- From: 8 -> TO: 4
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "7_colombian_us$_milhõ_segund_ministr_defes_quadrilh_tráfic" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 5: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" and "5_1996_abad_entreg_políc_colombian_estad_unid_ped" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "6_ocasiã_trafic_confess_ter_envi_30_tonel_cocaín" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.125"
+
+CHANGE! -- From: 7 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 6 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 0 -- Abs: 6
+
+
+Topic change from "6" to "0"
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 4: 8
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.375
+
+
+Similarity between "5_1996_abad_entreg_políc_colombian_estad_unid_ped" and "4_colombian_depart_justic_estad_unid_acus_comand_cartel" is "0.375"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_1996_abad_entreg_políc_colombian_estad_unid_ped" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_1996_abad_entreg_políc_colombian_estad_unid_ped" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0.125"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "5_1996_abad_entreg_políc_colombian_estad_unid_ped" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0.125"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.25
+
+
+Similarity between "5_1996_abad_entreg_políc_colombian_estad_unid_ped" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.25"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 3: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_colombian_depart_justic_estad_unid_acus_comand_cartel" and "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_colombian_depart_justic_estad_unid_acus_comand_cartel" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0.125"
+
+CHANGE! -- From: 5 -> TO: 3
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_colombian_depart_justic_estad_unid_acus_comand_cartel" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0.125"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "4_colombian_depart_justic_estad_unid_acus_comand_cartel" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 5 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 2: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" and "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0.125"
+
+CHANGE! -- From: 4 -> TO: 2
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "3_ministr_defes_col�_juan_manuel_sant_diss_entrev" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.125"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 3 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 1 -- Abs: 2
+
+
+Topic change from "3" to "1"
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 1: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" and "1_rio_açõ_seis_estad_paul_min_paran_sant" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.125
+
+
+Similarity between "2_consider_herdeir_cartel_cál_abad_permanec_pres_disposiçã" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0.125"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 5 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 8
+Numero de palavras do tópico 0: 8
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_rio_açõ_seis_estad_paul_min_paran_sant" and "0_colombian_juan_carl_ramirez_abad_chupet_trafic_drog" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 8 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 10 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 14 -- Origem: 1
+
+Topic: 13 -- Origem: 1
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 17 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+Topic: 20 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 9
+Topic: 6
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 14
+Topic: 15
+Topic: 14
+Topic: 6
+Topic: 6
+Topic: 18
+Topic: 6
+Topic: 18
+Topic: 18
+Topic: 21
+Topic: 21
+Topic: 21
+Topic: 21
+NUM_TOPICS: 19
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: colombian  - Frequency: 4
+Word: juan  - Frequency: 1
+Word: carl  - Frequency: 1
+Word: ramirez  - Frequency: 1
+Word: abad  - Frequency: 2
+Word: chupet  - Frequency: 1
+Word: trafic  - Frequency: 2
+Word: drog  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: pres  - Frequency: 2
+Word: manhã  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: condomíni  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: sã  - Frequency: 2
+Word: paul  - Frequency: 2
+Word: durant  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: farrap  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: consider  - Frequency: 1
+Word: herdeir  - Frequency: 1
+Word: cartel  - Frequency: 3
+Word: cál  - Frequency: 1
+Word: permanec  - Frequency: 1
+Word: disposiçã  - Frequency: 1
+Word: justic  - Frequency: 2
+Word: superintendent  - Frequency: 1
+Word: regional  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: lap  - Frequency: 1
+Word: oest  - Frequency: 1
+Word: depart  - Frequency: 1
+Word: estad  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: acus  - Frequency: 1
+Word: comand  - Frequency: 1
+Word: val  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: col�  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: envi  - Frequency: 2
+Word: tonel  - Frequency: 2
+Word: cocaín  - Frequency: 2
+Word: àquel  - Frequency: 1
+Word: país  - Frequency: 1
+Word: part  - Frequency: 1
+Word: méxic  - Frequency: 1
+Word: entorpecent  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: rot  - Frequency: 1
+Word: aér  - Frequency: 1
+Word: marítim  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: ocasiã  - Frequency: 1
+Word: confess  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: atu  - Frequency: 1
+Word: tijuan  - Frequency: 1
+Word: confissã  - Frequency: 1
+Word: acab  - Frequency: 1
+Word: benefic  - Frequency: 1
+Word: tenh  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: conden  - Frequency: 1
+Word: 23  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: solt  - Frequency: 1
+Word: 2002  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_colombian
+
+Keyword: 0_colombian_cartel
+
+Keyword: 0_colombian_cartel_abad_trafic_foi_pres_sã_paul_justic_estad_unid_ter_envi_tonel_cocaín
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: açõ  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: estad  - Frequency: 3
+Word: paul  - Frequency: 1
+Word: rio  - Frequency: 2
+Word: min  - Frequency: 1
+Word: paran  - Frequency: 1
+Word: sant  - Frequency: 2
+Word: catarin  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: oper  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: captur  - Frequency: 1
+Word: 12  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: tard  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: prend  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: ministr  - Frequency: 2
+Word: defes  - Frequency: 2
+Word: col�  - Frequency: 1
+Word: juan  - Frequency: 1
+Word: manuel  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: entrev  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: local  - Frequency: 1
+Word: abad  - Frequency: 2
+Word: dev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: extradit  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: unid  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: colombian  - Frequency: 2
+Word: quadrilh  - Frequency: 1
+Word: tráfic  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: drog  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: lider  - Frequency: 1
+Word: ric  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: patrim�  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: us$  - Frequency: 2
+Word: 80  - Frequency: 1
+Word: milhõ  - Frequency: 2
+Word: govern  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: 5  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: prisã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_estad
+
+Keyword: 1_estad_rio_sant_ministr_defes_abad_unid_colombian_us$_milhõ
+
+Keyword: 1_estad_rio_sant_ministr_defes_abad_unid_colombian_us$_milhõ_açõ_seis_paul_min_paran_catarin_grand_sul_oper_hav_captur_12_suspeit_tard_terc_objet_prend_17_col�_juan_manuel_diss_entrev_rádi_local_dev_ser_extradit_brasil_segund_quadrilh_tráfic_internacional_drog_lavag_dinheir_lider_ric_mund_patrim�_estim_80_govern_oferec_5_inform_lev_prisã
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: 1996  - Frequency: 1
+Word: abad  - Frequency: 5
+Word: entreg  - Frequency: 1
+Word: políc  - Frequency: 6
+Word: colombian  - Frequency: 2
+Word: estad  - Frequency: 3
+Word: unid  - Frequency: 3
+Word: ped  - Frequency: 1
+Word: extradiçã  - Frequency: 1
+Word: pel  - Frequency: 4
+Word: envolv  - Frequency: 3
+Word: cartel  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: for  - Frequency: 3
+Word: atend  - Frequency: 1
+Word: nacional  - Frequency: 2
+Word: col�  - Frequency: 2
+Word: está  - Frequency: 1
+Word: tráfic  - Frequency: 2
+Word: 1986  - Frequency: 1
+Word: trafic  - Frequency: 3
+Word: segund  - Frequency: 1
+Word: tem  - Frequency: 2
+Word: violent  - Frequency: 1
+Word: sóci  - Frequency: 2
+Word: colabor  - Frequency: 2
+Word: com  - Frequency: 2
+Word: autor  - Frequency: 3
+Word: persegu  - Frequency: 1
+Word: dã  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: intelectual  - Frequency: 1
+Word: vár  - Frequency: 1
+Word: execuçõ  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: servic  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: extradit  - Frequency: 1
+Word: victor  - Frequency: 1
+Word: patiñ  - Frequency: 1
+Word: fomequ  - Frequency: 1
+Word: retali  - Frequency: 1
+Word: tê  - Frequency: 1
+Word: acus  - Frequency: 2
+Word: nort  - Frequency: 1
+Word: oper  - Frequency: 2
+Word: farrap  - Frequency: 2
+Word: federal  - Frequency: 3
+Word: objet  - Frequency: 1
+Word: desarticul  - Frequency: 1
+Word: quadrilh  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: drog  - Frequency: 2
+Word: prend  - Frequency: 1
+Word: final  - Frequency: 1
+Word: manhã  - Frequency: 2
+Word: terc  - Frequency: 2
+Word: 14  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: juan  - Frequency: 2
+Word: carl  - Frequency: 2
+Word: ramirez  - Frequency: 2
+Word: 44  - Frequency: 2
+Word: anos  - Frequency: 2
+Word: procur  - Frequency: 2
+Word: depart  - Frequency: 1
+Word: antidrog  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: pres  - Frequency: 2
+Word: resident  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: condomíni  - Frequency: 1
+Word: lux  - Frequency: 1
+Word: alde  - Frequency: 2
+Word: serr  - Frequency: 2
+Word: grand  - Frequency: 2
+Word: sã  - Frequency: 2
+Word: paul  - Frequency: 2
+Word: quatr  - Frequency: 2
+Word: veícul  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: armas  - Frequency: 1
+Word: apreend  - Frequency: 1
+Word: cofr  - Frequency: 1
+Word: também  - Frequency: 1
+Word: lacr  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: 6h30  - Frequency: 1
+Word: regiã  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: part  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: superintendent  - Frequency: 1
+Word: lap  - Frequency: 1
+Word: zon  - Frequency: 1
+Word: oest  - Frequency: 1
+Word: capital  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_políc
+
+Keyword: 5_políc_abad
+
+Keyword: 5_políc_abad_pel
+
+Keyword: 5_políc_abad_pel_estad_unid_envolv_for_trafic_autor_federal
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: acord  - Frequency: 1
+Word: ministr  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: solt  - Frequency: 1
+Word: abad  - Frequency: 2
+Word: fez  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: cirurg  - Frequency: 1
+Word: plástic  - Frequency: 1
+Word: modific  - Frequency: 1
+Word: fisionom  - Frequency: 1
+Word: assim  - Frequency: 1
+Word: escap  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: confess  - Frequency: 1
+Word: ident  - Frequency: 1
+Word: captur  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_foi_abad
+
+Keyword: 8_foi_abad_acord_ministr_colombian_solt_fez_quatr_cirurg_plástic_modific_fisionom_assim_escap_políc_sant_diss_ter_sid_inform_própri_confess_ident_captur
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: cri  - Frequency: 1
+Word: própr  - Frequency: 1
+Word: red  - Frequency: 1
+Word: distribuidor  - Frequency: 1
+Word: cidad  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: york  - Frequency: 1
+Word: convert  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: part  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: frut  - Frequency: 1
+Word: negóci  - Frequency: 1
+Word: ileg  - Frequency: 1
+Word: bens  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: está  - Frequency: 1
+Word: nom  - Frequency: 1
+Word: famili  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: políc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_cri_própr_red_distribuidor_cidad_nov_york_convert_grand_part_capital_frut_negóci_ileg_bens_maior_está_nom_famili_terceir_afirm_políc
+
+Cur_topic: 13
+
+
+
+------------------------------------------------------------
+Topic: 13
+Word: dois  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: investig  - Frequency: 2
+Word: polic  - Frequency: 1
+Word: feder  - Frequency: 1
+Word: cumpr  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: desbarat  - Frequency: 1
+Word: esquem  - Frequency: 1
+Word: crimin  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: transport  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: quantidad  - Frequency: 1
+Word: entorpecent  - Frequency: 1
+Word: europ  - Frequency: 1
+Word: eua  - Frequency: 1
+Word: lucr  - Frequency: 1
+Word: retorn  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: saind  - Frequency: 1
+Word: espanh  - Frequency: 2
+Word: méxic  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: aind  - Frequency: 2
+Word: pel  - Frequency: 1
+Word: urugua  - Frequency: 2
+Word: inquérit  - Frequency: 1
+Word: tramit  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: var  - Frequency: 1
+Word: criminal  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: sp  - Frequency: 1
+Word: especializ  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: intercâmbi  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: sigil  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: argentin  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_investig_brasil_espanh_aind_urugua
+
+Keyword: 13_investig_brasil_espanh_aind_urugua_dois_anos_mei_polic_feder_cumpr_mand_objet_desbarat_esquem_crimin_trafic_colombian_transport_grand_quantidad_entorpecent_europ_eua_lucr_retorn_saind_méxic_pass_pel_inquérit_tramit_6_var_criminal_federal_sp_especializ_lavag_dinheir_cont_intercâmbi_inform_sigil_estad_unid_argentin
+
+Cur_topic: 14
+
+
+
+------------------------------------------------------------
+Topic: 14
+Word: cicl  - Frequency: 1
+Word: lavag  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: era  - Frequency: 1
+Word: complet  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: organiz  - Frequency: 1
+Word: aproveit  - Frequency: 1
+Word: invest  - Frequency: 1
+Word: ram  - Frequency: 1
+Word: imobiliári  - Frequency: 1
+Word: industrial  - Frequency: 1
+Word: aquisiçã  - Frequency: 1
+Word: veícul  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit_invest_ram_imobiliári_industrial_aquisiçã_veícul
+
+Cur_topic: 17
+
+
+
+------------------------------------------------------------
+Topic: 17
+Word: abad  - Frequency: 2
+Word: apont  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: govern  - Frequency: 2
+Word: nort  - Frequency: 3
+Word: com  - Frequency: 1
+Word: maior  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: cocaín  - Frequency: 1
+Word: col�  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: tráfic  - Frequency: 2
+Word: 1986  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: combat  - Frequency: 1
+Word: dea  - Frequency: 1
+Word: drug  - Frequency: 1
+Word: enforcement  - Frequency: 1
+Word: administration  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: milhõ  - Frequency: 2
+Word: oferec  - Frequency: 1
+Word: us$  - Frequency: 1
+Word: 5  - Frequency: 1
+Word: fornec  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: paradeir  - Frequency: 1
+Word: ressalv  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: era  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: pf  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: soub  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: recompens  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: órgã  - Frequency: 1
+Word: polic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 17_nort
+
+Keyword: 17_nort_abad_pel_govern_tráfic_milhõ_inform
+
+Keyword: 17_nort_abad_pel_govern_tráfic_milhõ_inform_apont_com_maior_trafic_cocaín_col�_estar_envolv_1986_agênc_combat_dea_drug_enforcement_administration_r$_10_oferec_us$_5_fornec_paradeir_ressalv_dinheir_era_garant_pf_nã_soub_tip_recompens_pag_órgã_polic
+
+Cur_topic: 20
+
+
+
+------------------------------------------------------------
+Topic: 20
+Word: acord  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: agênc  - Frequency: 2
+Word: abad  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: pres  - Frequency: 2
+Word: marc  - Frequency: 1
+Word: 1996  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: unid  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: tonel  - Frequency: 1
+Word: cocaín  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: drog  - Frequency: 1
+Word: país  - Frequency: 1
+Word: assoc  - Frequency: 1
+Word: cartel  - Frequency: 2
+Word: tijuan  - Frequency: 1
+Word: méxic  - Frequency: 1
+Word: confess  - Frequency: 1
+Word: crim  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: três  - Frequency: 1
+Word: mes  - Frequency: 1
+Word: col�  - Frequency: 2
+Word: dea  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: carcerag  - Frequency: 1
+Word: colombian  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: ped  - Frequency: 1
+Word: prisã  - Frequency: 1
+Word: extradiçã  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: envolv  - Frequency: 1
+Word: vall  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: trafic  - Frequency: 1
+Word: usa  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: fach  - Frequency: 1
+Word: lav  - Frequency: 1
+Word: dinheir  - Frequency: 1
+Word: narcotráf  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 20_inform_agênc_abad_pres_cartel_col�_nort
+
+Keyword: 20_inform_agênc_abad_pres_cartel_col�_nort_acord_foi_marc_1996_envi_estad_unid_30_tonel_cocaín_mand_drog_país_assoc_tijuan_méxic_confess_crim_pass_quatr_anos_três_mes_dea_depo_liber_carcerag_colombian_justic_ped_prisã_extradiçã_suspeit_envolv_vall_segund_trafic_usa_empres_fach_lav_dinheir_narcotráf
+
+NUM: 15
+
+
+NUM: 58
+
+
+NUM: 10
+
+
+NUM: 24
+
+
+NUM: 22
+
+
+NUM: 47
+
+
+NUM: 14
+
+
+NUM: 41
+
+
+NUM: 50
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 15
+
+
+NUM: 58
+
+
+NUM: 10
+
+
+NUM: 24
+
+
+NUM: 22
+
+
+NUM: 47
+
+
+NUM: 14
+
+
+NUM: 41
+
+
+NUM: 50
+
+
+---------------BEFORE!-------------
+
+VEC: 0_colombian_cartel_abad_trafic_foi_pres_sã_paul_justic_estad_unid_ter_envi_tonel_cocaín
+VEC: 1_estad_rio_sant_ministr_defes_abad_unid_colombian_us$_milhõ_açõ_seis_paul_min_paran_catarin_grand_sul_oper_hav_captur_12_suspeit_tard_terc_objet_prend_17_col�_juan_manuel_diss_entrev_rádi_local_dev_ser_extradit_brasil_segund_quadrilh_tráfic_internacional_drog_lavag_dinheir_lider_ric_mund_patrim�_estim_80_govern_oferec_5_inform_lev_prisã
+VEC: 5_políc_abad_pel_estad_unid_envolv_for_trafic_autor_federal
+VEC: 8_foi_abad_acord_ministr_colombian_solt_fez_quatr_cirurg_plástic_modific_fisionom_assim_escap_políc_sant_diss_ter_sid_inform_própri_confess_ident_captur
+VEC: 10_cri_própr_red_distribuidor_cidad_nov_york_convert_grand_part_capital_frut_negóci_ileg_bens_maior_está_nom_famili_terceir_afirm_políc
+VEC: 13_investig_brasil_espanh_aind_urugua_dois_anos_mei_polic_feder_cumpr_mand_objet_desbarat_esquem_crimin_trafic_colombian_transport_grand_quantidad_entorpecent_europ_eua_lucr_retorn_saind_méxic_pass_pel_inquérit_tramit_6_var_criminal_federal_sp_especializ_lavag_dinheir_cont_intercâmbi_inform_sigil_estad_unid_argentin
+VEC: 14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit_invest_ram_imobiliári_industrial_aquisiçã_veícul
+VEC: 17_nort_abad_pel_govern_tráfic_milhõ_inform_apont_com_maior_trafic_cocaín_col�_estar_envolv_1986_agênc_combat_dea_drug_enforcement_administration_r$_10_oferec_us$_5_fornec_paradeir_ressalv_dinheir_era_garant_pf_nã_soub_tip_recompens_pag_órgã_polic
+VEC: 20_inform_agênc_abad_pres_cartel_col�_nort_acord_foi_marc_1996_envi_estad_unid_30_tonel_cocaín_mand_drog_país_assoc_tijuan_méxic_confess_crim_pass_quatr_anos_três_mes_dea_depo_liber_carcerag_colombian_justic_ped_prisã_extradiçã_suspeit_envolv_vall_segund_trafic_usa_empres_fach_lav_dinheir_narcotráf
+
+---------------AFTER!-------------
+
+VEC: 0_colombian_cartel_abad_trafic_foi_pres_sã_paul_justic_estad
+VEC: 1_estad_rio_sant_ministr_defes_abad_unid_colombian_us$_milhõ
+VEC: 5_políc_abad_pel_estad_unid_envolv_for_trafic_autor_federal
+VEC: 8_foi_abad_acord_ministr_colombian_solt_fez_quatr_cirurg_plástic
+VEC: 10_cri_própr_red_distribuidor_cidad_nov_york_convert_grand_part
+VEC: 13_investig_brasil_espanh_aind_urugua_dois_anos_mei_polic_feder
+VEC: 14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit_invest_ram
+VEC: 17_nort_abad_pel_govern_tráfic_milhõ_inform_apont_com_maior
+VEC: 20_inform_agênc_abad_pres_cartel_col�_nort_acord_foi_marc
+Keyword: 0_colombian_cartel_abad_trafic_foi_pres_sã_paul_justic_estad
+Keyword: 1_estad_rio_sant_ministr_defes_abad_unid_colombian_us$_milhõ
+Keyword: 5_políc_abad_pel_estad_unid_envolv_for_trafic_autor_federal
+Keyword: 8_foi_abad_acord_ministr_colombian_solt_fez_quatr_cirurg_plástic
+Keyword: 10_cri_própr_red_distribuidor_cidad_nov_york_convert_grand_part
+Keyword: 13_investig_brasil_espanh_aind_urugua_dois_anos_mei_polic_feder
+Keyword: 14_cicl_lavag_dinheir_era_complet_pel_organiz_aproveit_invest_ram
+Keyword: 17_nort_abad_pel_govern_tráfic_milhõ_inform_apont_com_maior
+Keyword: 20_inform_agênc_abad_pres_cartel_col�_nort_acord_foi_marc

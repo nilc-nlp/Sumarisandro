@@ -1,0 +1,3773 @@
+Sentenca(topic=0): Após quase 24 horas de tensão, terminou no fim da manhã desta quarta-feira a rebelião na Central de Custódia de Presos de Justiça (CCJP) no Maranhão.
+Sentenca(topic=1): Depois que os presos entregaram o revólver usado para dar início ao motim, a Tropa de Choque da Polícia Militar entrou no presídio e liberou os 30 reféns - sendo 16 crianças.
+Sentenca(topic=1): Alguns menores saíram demaiados e foram conduzidos para o atendimento médico.
+Sentenca(topic=1): Quatro pessoas teriam ficado feridas.
+Sentenca(topic=2): A Tropa de Choque entrou no presídio depois que Charlene Ribeiro da Silva, esposa do detento Bruno Monteiro da Silva - suspeito de chefiar a rebelião - conversou com o diretor da unidade.
+Sentenca(topic=2): Segundo ela, o diretor assinou um termo de compromisso onde dá garantias de que os presos não serão torturados depois do motim e que Bruno será transferido para outra unidade.
+Sentenca(topic=2): - O preso Bruno agiu de forma traiçoeira e covarde, sem dar oportunidade para os agentes que distribuíam lanches às crianças.
+Sentenca(topic=2): Ele saiu atirando, acertando a cabeça de um agente e o braço de outro - contou o secretário-adjunto de Administração Penitenciária, Sidones Cruz.
+Sentenca(topic=2): A Secretaria de Segurança deve abrir sindicância para averiguar como a arma entrou no presídio.
+Sentenca(topic=3): O motim começou durante a festa do Dia das Crianças.
+Sentenca(topic=3): As negociações foram feitas por um pequeno buraco no muro do presídio.
+Sentenca(topic=3): A água e a luz da unidade chegaram a ser cortadas.
+Sentenca(topic=4): A cadeia abriga 203 detentos, mas só tem capacidade para 80.
+Sentenca(topic=5): Neste mesmo pavilhão, no início deste mês, os presos quebraram objetos e fizeram um túnel para tentar uma fuga em massa.
+Sentenca(topic=5): Até agora as celas não foram reparadas.
+Sentenca(topic=6): Esta é a terceira rebelião em São Luís só neste mês.
+Sentenca(topic=7): Terminou a rebelião de presos no Centro de Custódia de Presos de Justiça (CCPJ), em São Luís, no começo da tarde desta quarta-feira (17).
+Sentenca(topic=7): Os presos entregaram as armas e a polícia faz uma revista dentro da unidade.
+Sentenca(topic=7): O motim começou durante a festa do Dia das Crianças, realizada na terça-feira (16).
+Sentenca(topic=7): As 16 crianças e 14 adultos foram libertados.
+Sentenca(topic=8): Segundo informações da polícia, o líder da rebelião foi transferido para o Presídio de Pedrinhas, na capital maranhense.
+Sentenca(topic=9): Os presos receberam garantias, por parte do diretor da unidade, de que não haveria represálias e novas transferências.
+Sentenca(topic=10): Os presos tentaram fugir durante a festa, mas o plano foi descoberto.
+Sentenca(topic=10): No começo da rebelião quatro pessoas ficaram feridas, entre elas uma auxiliar de enfermagem e um agente de polícia que trabalham no presídio.
+Sentenca(topic=10): A unidade ficou sem luz e água e as negociações para a libertação dos reféns foi retomada na manhã desta quarta-feira.
+Sentenca(topic=11): Segundo informações da polícia, os presos temiam uma transferência em massa depois de terem iniciado uma outra rebelião durante a greve de policiais no estado, na semana passada.
+Sentenca(topic=12): A CCPJ tem capacidade para cerca de 80 presos, mas abriga 203 homens.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: quas  - Frequency: 1
+Word: 24  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: tensã  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: central  - Frequency: 1
+Word: custód  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: maranhã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_quas_24_hor_tensã_termin_fim_manhã_quart_rebeliã_central_custód_pres_justic_maranhã
+
+
+------------------------------------------------------------
+Topic: 1
+Word: depo  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: revólv  - Frequency: 1
+Word: usad  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: motim  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: choqu  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: entrou  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: reféns  - Frequency: 1
+Word: send  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: saír  - Frequency: 1
+Word: demai  - Frequency: 1
+Word: for  - Frequency: 1
+Word: conduz  - Frequency: 1
+Word: atend  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_depo_pres_entreg_revólv_usad_dar_iníci_motim_trop_choqu_políc_milit_entrou_presídi_liber_30_reféns_send_16_crianc_menor_saír_demai_for_conduz_atend_médic_quatr_pesso_ter_fic_fer
+
+
+------------------------------------------------------------
+Topic: 2
+Word: trop  - Frequency: 1
+Word: choqu  - Frequency: 1
+Word: entrou  - Frequency: 2
+Word: presídi  - Frequency: 2
+Word: depo  - Frequency: 2
+Word: charlen  - Frequency: 1
+Word: ribeir  - Frequency: 1
+Word: silv  - Frequency: 2
+Word: espos  - Frequency: 1
+Word: detent  - Frequency: 1
+Word: brun  - Frequency: 3
+Word: monteir  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: chefi  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: convers  - Frequency: 1
+Word: diretor  - Frequency: 2
+Word: unidad  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: assin  - Frequency: 1
+Word: term  - Frequency: 1
+Word: compromiss  - Frequency: 1
+Word: dá  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: pres  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: tortur  - Frequency: 1
+Word: motim  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: agiu  - Frequency: 1
+Word: form  - Frequency: 1
+Word: traiçoeir  - Frequency: 1
+Word: covard  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: oportun  - Frequency: 1
+Word: agent  - Frequency: 2
+Word: distribuí  - Frequency: 1
+Word: lanch  - Frequency: 1
+Word: às  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: saiu  - Frequency: 1
+Word: atir  - Frequency: 1
+Word: acert  - Frequency: 1
+Word: cabec  - Frequency: 1
+Word: brac  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: secretári  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: penitenciár  - Frequency: 1
+Word: sidon  - Frequency: 1
+Word: cruz  - Frequency: 1
+Word: secret  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: sindic  - Frequency: 1
+Word: averigu  - Frequency: 1
+Word: com  - Frequency: 1
+Word: arma  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_brun
+
+Keyword: 2_brun_entrou_presídi_depo_silv_diretor_unidad_pres_agent
+
+Keyword: 2_brun_entrou_presídi_depo_silv_diretor_unidad_pres_agent_trop_choqu_charlen_ribeir_espos_detent_monteir_suspeit_chefi_rebeliã_convers_segund_assin_term_compromiss_dá_garant_nã_serã_tortur_motim_ser_transfer_agiu_form_traiçoeir_covard_dar_oportun_distribuí_lanch_às_crianc_saiu_atir_acert_cabec_brac_cont_secretári_administr_penitenciár_sidon_cruz_secret_seguranc_dev_abrir_sindic_averigu_com_arma
+
+
+------------------------------------------------------------
+Topic: 3
+Word: motim  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: negoc  - Frequency: 1
+Word: for  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: burac  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: unidad  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: cort  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_motim_comec_durant_fest_dia_crianc_negoc_for_feit_pequen_burac_mur_presídi_águ_luz_unidad_cheg_ser_cort
+
+
+------------------------------------------------------------
+Topic: 4
+Word: cad  - Frequency: 1
+Word: abrig  - Frequency: 1
+Word: 203  - Frequency: 1
+Word: detent  - Frequency: 1
+Word: só  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: capac  - Frequency: 1
+Word: 80  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_cad_abrig_203_detent_só_tem_capac_80
+
+Keyword: 4_cad_abrig_203_detent_só_tem_capac_80
+
+
+------------------------------------------------------------
+Topic: 5
+Word: pavilhã  - Frequency: 1
+Word: iníci  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: túnel  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: cel  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: for  - Frequency: 1
+Word: repar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_pavilhã_iníci_mês_pres_quebr_objet_fiz_túnel_tent_fug_mass_agor_cel_nã_for_repar
+
+
+------------------------------------------------------------
+Topic: 6
+Word: terceir  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: luís  - Frequency: 1
+Word: só  - Frequency: 1
+Word: mês  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_terceir_rebeliã_sã_luís_só_mês
+
+Keyword: 6_terceir_rebeliã_sã_luís_só_mês
+
+
+------------------------------------------------------------
+Topic: 7
+Word: termin  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: pres  - Frequency: 3
+Word: centr  - Frequency: 1
+Word: custód  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: luís  - Frequency: 1
+Word: comec  - Frequency: 2
+Word: tard  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: armas  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: dentr  - Frequency: 1
+Word: unidad  - Frequency: 1
+Word: motim  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: dia  - Frequency: 1
+Word: crianc  - Frequency: 2
+Word: realiz  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: adult  - Frequency: 1
+Word: for  - Frequency: 1
+Word: libert  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_pres
+
+Keyword: 7_pres_comec_crianc
+
+Keyword: 7_pres_comec_crianc_termin_rebeliã_centr_custód_justic_sã_luís_tard_quart_entreg_armas_políc_faz_revist_dentr_unidad_motim_durant_fest_dia_realiz_terc_16_14_adult_for_libert
+
+
+------------------------------------------------------------
+Topic: 8
+Word: segund  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: pedrinh  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: maranhens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_segund_inform_políc_líd_rebeliã_foi_transfer_presídi_pedrinh_capital_maranhens
+
+
+------------------------------------------------------------
+Topic: 9
+Word: pres  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: part  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: unidad  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: represál  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: transferent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_pres_receb_garant_part_diretor_unidad_nã_hav_represál_nov_transferent
+
+
+------------------------------------------------------------
+Topic: 10
+Word: pres  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: descobert  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: fer  - Frequency: 1
+Word: auxili  - Frequency: 1
+Word: enfermag  - Frequency: 1
+Word: agent  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: unidad  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: negoc  - Frequency: 1
+Word: libert  - Frequency: 1
+Word: reféns  - Frequency: 1
+Word: retom  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: quart  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_foi_fic
+
+Keyword: 10_foi_fic_pres_tent_fug_durant_fest_plan_descobert_comec_rebeliã_quatr_pesso_fer_auxili_enfermag_agent_políc_trabalh_presídi_unidad_luz_águ_negoc_libert_reféns_retom_manhã_quart
+
+
+------------------------------------------------------------
+Topic: 11
+Word: segund  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: transferent  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: grev  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_segund_inform_políc_pres_tem_transferent_mass_depo_ter_inic_rebeliã_durant_grev_polic_estad_seman_pass
+
+
+------------------------------------------------------------
+Topic: 12
+Word: ccpj  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: capac  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: abrig  - Frequency: 1
+Word: 203  - Frequency: 1
+Word: homens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_ccpj_tem_capac_cerc_80_pres_abrig_203_homens
+
+Keyword: 12_ccpj_tem_capac_cerc_80_pres_abrig_203_homens
+
+NUM: 14
+
+
+NUM: 32
+
+
+NUM: 61
+
+
+NUM: 19
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 16
+
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 30
+
+
+NUM: 11
+
+
+NUM: 11
+
+
+NUM: 29
+
+
+NUM: 17
+
+
+NUM: 9
+
+
+(FINAL) AVERAGE: 6
+
+NUM: 14
+
+
+NUM: 32
+
+
+NUM: 61
+
+
+NUM: 19
+
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 16
+
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 30
+
+
+NUM: 11
+
+
+NUM: 11
+
+
+NUM: 29
+
+
+NUM: 17
+
+
+NUM: 9
+
+
+---------------BEFORE!-------------
+
+VEC: 0_quas_24_hor_tensã_termin_fim_manhã_quart_rebeliã_central_custód_pres_justic_maranhã
+VEC: 1_depo_pres_entreg_revólv_usad_dar_iníci_motim_trop_choqu_políc_milit_entrou_presídi_liber_30_reféns_send_16_crianc_menor_saír_demai_for_conduz_atend_médic_quatr_pesso_ter_fic_fer
+VEC: 2_brun_entrou_presídi_depo_silv_diretor_unidad_pres_agent_trop_choqu_charlen_ribeir_espos_detent_monteir_suspeit_chefi_rebeliã_convers_segund_assin_term_compromiss_dá_garant_nã_serã_tortur_motim_ser_transfer_agiu_form_traiçoeir_covard_dar_oportun_distribuí_lanch_às_crianc_saiu_atir_acert_cabec_brac_cont_secretári_administr_penitenciár_sidon_cruz_secret_seguranc_dev_abrir_sindic_averigu_com_arma
+VEC: 3_motim_comec_durant_fest_dia_crianc_negoc_for_feit_pequen_burac_mur_presídi_águ_luz_unidad_cheg_ser_cort
+VEC: 4_cad_abrig_203_detent_só_tem_capac_80
+VEC: 5_pavilhã_iníci_mês_pres_quebr_objet_fiz_túnel_tent_fug_mass_agor_cel_nã_for_repar
+VEC: 6_terceir_rebeliã_sã_luís_só_mês
+VEC: 7_pres_comec_crianc_termin_rebeliã_centr_custód_justic_sã_luís_tard_quart_entreg_armas_políc_faz_revist_dentr_unidad_motim_durant_fest_dia_realiz_terc_16_14_adult_for_libert
+VEC: 8_segund_inform_políc_líd_rebeliã_foi_transfer_presídi_pedrinh_capital_maranhens
+VEC: 9_pres_receb_garant_part_diretor_unidad_nã_hav_represál_nov_transferent
+VEC: 10_foi_fic_pres_tent_fug_durant_fest_plan_descobert_comec_rebeliã_quatr_pesso_fer_auxili_enfermag_agent_políc_trabalh_presídi_unidad_luz_águ_negoc_libert_reféns_retom_manhã_quart
+VEC: 11_segund_inform_políc_pres_tem_transferent_mass_depo_ter_inic_rebeliã_durant_grev_polic_estad_seman_pass
+VEC: 12_ccpj_tem_capac_cerc_80_pres_abrig_203_homens
+
+---------------AFTER!-------------
+
+VEC: 0_quas_24_hor_tensã_termin_fim
+VEC: 1_depo_pres_entreg_revólv_usad_dar
+VEC: 2_brun_entrou_presídi_depo_silv_diretor
+VEC: 3_motim_comec_durant_fest_dia_crianc
+VEC: 4_cad_abrig_203_detent_só_tem
+VEC: 5_pavilhã_iníci_mês_pres_quebr_objet
+VEC: 6_terceir_rebeliã_sã_luís_só_mês
+VEC: 7_pres_comec_crianc_termin_rebeliã_centr
+VEC: 8_segund_inform_políc_líd_rebeliã_foi
+VEC: 9_pres_receb_garant_part_diretor_unidad
+VEC: 10_foi_fic_pres_tent_fug_durant
+VEC: 11_segund_inform_políc_pres_tem_transferent
+VEC: 12_ccpj_tem_capac_cerc_80_pres
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+SIM: 0.285714
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+SIM: 0.428571
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+SIM: 0.142857
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0818071
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "11_segund_inform_políc_pres_tem_transferent" is "0.428571"
+
+CHANGE! -- From: 13 -> TO: 12
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "10_foi_fic_pres_tent_fug_durant" is "0.285714"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "9_pres_receb_garant_part_diretor_unidad" is "0.142857"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "8_segund_inform_políc_líd_rebeliã_foi" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "7_pres_comec_crianc_termin_rebeliã_centr" is "0.142857"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "6_terceir_rebeliã_sã_luís_só_mês" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "5_pavilhã_iníci_mês_pres_quebr_objet" is "0.142857"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "4_cad_abrig_203_detent_só_tem" is "0.142857"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "3_motim_comec_durant_fest_dia_crianc" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "1_depo_pres_entreg_revólv_usad_dar" is "0.142857"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_ccpj_tem_capac_cerc_80_pres" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 7
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.285714
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "10_foi_fic_pres_tent_fug_durant" is "0.285714"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "9_pres_receb_garant_part_diretor_unidad" is "0.142857"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.428571
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "8_segund_inform_políc_líd_rebeliã_foi" is "0.428571"
+
+CHANGE! -- From: 12 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "7_pres_comec_crianc_termin_rebeliã_centr" is "0.142857"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "6_terceir_rebeliã_sã_luís_só_mês" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "5_pavilhã_iníci_mês_pres_quebr_objet" is "0.142857"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "4_cad_abrig_203_detent_só_tem" is "0.142857"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "3_motim_comec_durant_fest_dia_crianc" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "1_depo_pres_entreg_revólv_usad_dar" is "0.142857"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_segund_inform_políc_pres_tem_transferent" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 11 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 8 -- Abs: 3
+
+
+Topic change from "11" to "8"
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 9: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "9_pres_receb_garant_part_diretor_unidad" is "0.142857"
+
+CHANGE! -- From: 11 -> TO: 10
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "8_segund_inform_políc_líd_rebeliã_foi" is "0.142857"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "7_pres_comec_crianc_termin_rebeliã_centr" is "0.142857"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "6_terceir_rebeliã_sã_luís_só_mês" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "5_pavilhã_iníci_mês_pres_quebr_objet" is "0.142857"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "4_cad_abrig_203_detent_só_tem" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "3_motim_comec_durant_fest_dia_crianc" is "0.142857"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.142857
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "1_depo_pres_entreg_revólv_usad_dar" is "0.142857"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 7
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_foi_fic_pres_tent_fug_durant" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 8: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "8_segund_inform_políc_líd_rebeliã_foi" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "7_pres_comec_crianc_termin_rebeliã_centr" is "0.166667"
+
+CHANGE! -- From: 10 -> TO: 8
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "6_terceir_rebeliã_sã_luís_só_mês" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "5_pavilhã_iníci_mês_pres_quebr_objet" is "0.166667"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "4_cad_abrig_203_detent_só_tem" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "3_motim_comec_durant_fest_dia_crianc" is "0"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "2_brun_entrou_presídi_depo_silv_diretor" is "0.166667"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "1_depo_pres_entreg_revólv_usad_dar" is "0.166667"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_pres_receb_garant_part_diretor_unidad" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 7 -- Abs: 2
+
+
+Topic change from "9" to "7"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 8
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 7: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "7_pres_comec_crianc_termin_rebeliã_centr" is "0.166667"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "6_terceir_rebeliã_sã_luís_só_mês" is "0.166667"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "5_pavilhã_iníci_mês_pres_quebr_objet" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "4_cad_abrig_203_detent_só_tem" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "3_motim_comec_durant_fest_dia_crianc" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "1_depo_pres_entreg_revólv_usad_dar" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_segund_inform_políc_líd_rebeliã_foi" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 8
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 8
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 6: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "7_pres_comec_crianc_termin_rebeliã_centr" and "6_terceir_rebeliã_sã_luís_só_mês" is "0.166667"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "7_pres_comec_crianc_termin_rebeliã_centr" and "5_pavilhã_iníci_mês_pres_quebr_objet" is "0.166667"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_pres_comec_crianc_termin_rebeliã_centr" and "4_cad_abrig_203_detent_só_tem" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "7_pres_comec_crianc_termin_rebeliã_centr" and "3_motim_comec_durant_fest_dia_crianc" is "0.333333"
+
+CHANGE! -- From: 8 -> TO: 4
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_pres_comec_crianc_termin_rebeliã_centr" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "7_pres_comec_crianc_termin_rebeliã_centr" and "1_depo_pres_entreg_revólv_usad_dar" is "0.166667"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "7_pres_comec_crianc_termin_rebeliã_centr" and "0_quas_24_hor_tensã_termin_fim" is "0.166667"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 8
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 8 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 3 -- Abs: 4
+
+
+Topic change from "7" to "3"
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 5: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "6_terceir_rebeliã_sã_luís_só_mês" and "5_pavilhã_iníci_mês_pres_quebr_objet" is "0.166667"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "6_terceir_rebeliã_sã_luís_só_mês" and "4_cad_abrig_203_detent_só_tem" is "0.166667"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_terceir_rebeliã_sã_luís_só_mês" and "3_motim_comec_durant_fest_dia_crianc" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_terceir_rebeliã_sã_luís_só_mês" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_terceir_rebeliã_sã_luís_só_mês" and "1_depo_pres_entreg_revólv_usad_dar" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_terceir_rebeliã_sã_luís_só_mês" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 4: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pavilhã_iníci_mês_pres_quebr_objet" and "4_cad_abrig_203_detent_só_tem" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pavilhã_iníci_mês_pres_quebr_objet" and "3_motim_comec_durant_fest_dia_crianc" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pavilhã_iníci_mês_pres_quebr_objet" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "5_pavilhã_iníci_mês_pres_quebr_objet" and "1_depo_pres_entreg_revólv_usad_dar" is "0.166667"
+
+CHANGE! -- From: 6 -> TO: 2
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_pavilhã_iníci_mês_pres_quebr_objet" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 6 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 3: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_cad_abrig_203_detent_só_tem" and "3_motim_comec_durant_fest_dia_crianc" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_cad_abrig_203_detent_só_tem" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_cad_abrig_203_detent_só_tem" and "1_depo_pres_entreg_revólv_usad_dar" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_cad_abrig_203_detent_só_tem" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 2: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_motim_comec_durant_fest_dia_crianc" and "2_brun_entrou_presídi_depo_silv_diretor" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_motim_comec_durant_fest_dia_crianc" and "1_depo_pres_entreg_revólv_usad_dar" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_motim_comec_durant_fest_dia_crianc" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "2_brun_entrou_presídi_depo_silv_diretor" and "1_depo_pres_entreg_revólv_usad_dar" is "0.166667"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_brun_entrou_presídi_depo_silv_diretor" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 6
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_depo_pres_entreg_revólv_usad_dar" and "0_quas_24_hor_tensã_termin_fim" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 3 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 10 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 12 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 7
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 9
+Topic: 4
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 9
+Topic: 13
+NUM_TOPICS: 12
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: quas  - Frequency: 1
+Word: 24  - Frequency: 1
+Word: hor  - Frequency: 1
+Word: tensã  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: fim  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: central  - Frequency: 1
+Word: custód  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: maranhã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_quas_24_hor_tensã_termin_fim_manhã_quart_rebeliã_central_custód_pres_justic_maranhã
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: depo  - Frequency: 1
+Word: pres  - Frequency: 2
+Word: entreg  - Frequency: 1
+Word: revólv  - Frequency: 1
+Word: usad  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: iníci  - Frequency: 2
+Word: motim  - Frequency: 1
+Word: trop  - Frequency: 1
+Word: choqu  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: milit  - Frequency: 1
+Word: entrou  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: 30  - Frequency: 1
+Word: reféns  - Frequency: 1
+Word: send  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: saír  - Frequency: 1
+Word: demai  - Frequency: 1
+Word: for  - Frequency: 2
+Word: conduz  - Frequency: 1
+Word: atend  - Frequency: 1
+Word: médic  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 1
+Word: pavilhã  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: túnel  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: cel  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: repar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_pres_iníci_for
+
+Keyword: 1_pres_iníci_for_depo_entreg_revólv_usad_dar_motim_trop_choqu_políc_milit_entrou_presídi_liber_30_reféns_send_16_crianc_menor_saír_demai_conduz_atend_médic_quatr_pesso_ter_fic_fer_pavilhã_mês_quebr_objet_fiz_túnel_tent_fug_mass_agor_cel_nã_repar
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: trop  - Frequency: 1
+Word: choqu  - Frequency: 1
+Word: entrou  - Frequency: 2
+Word: presídi  - Frequency: 2
+Word: depo  - Frequency: 2
+Word: charlen  - Frequency: 1
+Word: ribeir  - Frequency: 1
+Word: silv  - Frequency: 2
+Word: espos  - Frequency: 1
+Word: detent  - Frequency: 1
+Word: brun  - Frequency: 3
+Word: monteir  - Frequency: 1
+Word: suspeit  - Frequency: 1
+Word: chefi  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: convers  - Frequency: 1
+Word: diretor  - Frequency: 2
+Word: unidad  - Frequency: 2
+Word: segund  - Frequency: 1
+Word: assin  - Frequency: 1
+Word: term  - Frequency: 1
+Word: compromiss  - Frequency: 1
+Word: dá  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: pres  - Frequency: 2
+Word: nã  - Frequency: 1
+Word: serã  - Frequency: 1
+Word: tortur  - Frequency: 1
+Word: motim  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: agiu  - Frequency: 1
+Word: form  - Frequency: 1
+Word: traiçoeir  - Frequency: 1
+Word: covard  - Frequency: 1
+Word: dar  - Frequency: 1
+Word: oportun  - Frequency: 1
+Word: agent  - Frequency: 2
+Word: distribuí  - Frequency: 1
+Word: lanch  - Frequency: 1
+Word: às  - Frequency: 1
+Word: crianc  - Frequency: 1
+Word: saiu  - Frequency: 1
+Word: atir  - Frequency: 1
+Word: acert  - Frequency: 1
+Word: cabec  - Frequency: 1
+Word: brac  - Frequency: 1
+Word: cont  - Frequency: 1
+Word: secretári  - Frequency: 1
+Word: administr  - Frequency: 1
+Word: penitenciár  - Frequency: 1
+Word: sidon  - Frequency: 1
+Word: cruz  - Frequency: 1
+Word: secret  - Frequency: 1
+Word: seguranc  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: sindic  - Frequency: 1
+Word: averigu  - Frequency: 1
+Word: com  - Frequency: 1
+Word: arma  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_brun
+
+Keyword: 2_brun_entrou_presídi_depo_silv_diretor_unidad_pres_agent
+
+Keyword: 2_brun_entrou_presídi_depo_silv_diretor_unidad_pres_agent_trop_choqu_charlen_ribeir_espos_detent_monteir_suspeit_chefi_rebeliã_convers_segund_assin_term_compromiss_dá_garant_nã_serã_tortur_motim_ser_transfer_agiu_form_traiçoeir_covard_dar_oportun_distribuí_lanch_às_crianc_saiu_atir_acert_cabec_brac_cont_secretári_administr_penitenciár_sidon_cruz_secret_seguranc_dev_abrir_sindic_averigu_com_arma
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: motim  - Frequency: 2
+Word: comec  - Frequency: 3
+Word: durant  - Frequency: 2
+Word: fest  - Frequency: 2
+Word: dia  - Frequency: 2
+Word: crianc  - Frequency: 3
+Word: negoc  - Frequency: 1
+Word: for  - Frequency: 2
+Word: feit  - Frequency: 1
+Word: pequen  - Frequency: 1
+Word: burac  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: unidad  - Frequency: 3
+Word: cheg  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: cort  - Frequency: 1
+Word: termin  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: pres  - Frequency: 4
+Word: centr  - Frequency: 1
+Word: custód  - Frequency: 1
+Word: justic  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: luís  - Frequency: 1
+Word: tard  - Frequency: 1
+Word: quart  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: armas  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: dentr  - Frequency: 1
+Word: realiz  - Frequency: 1
+Word: terc  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: 14  - Frequency: 1
+Word: adult  - Frequency: 1
+Word: libert  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: part  - Frequency: 1
+Word: diretor  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: represál  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: transferent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_pres
+
+Keyword: 3_pres_comec_crianc_unidad
+
+Keyword: 3_pres_comec_crianc_unidad_motim_durant_fest_dia_for
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: cad  - Frequency: 1
+Word: abrig  - Frequency: 1
+Word: 203  - Frequency: 1
+Word: detent  - Frequency: 1
+Word: só  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: capac  - Frequency: 1
+Word: 80  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_cad_abrig_203_detent_só_tem_capac_80
+
+Keyword: 4_cad_abrig_203_detent_só_tem_capac_80
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: terceir  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: luís  - Frequency: 1
+Word: só  - Frequency: 1
+Word: mês  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_terceir_rebeliã_sã_luís_só_mês
+
+Keyword: 6_terceir_rebeliã_sã_luís_só_mês
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: segund  - Frequency: 2
+Word: inform  - Frequency: 2
+Word: políc  - Frequency: 2
+Word: líd  - Frequency: 1
+Word: rebeliã  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: transfer  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: pedrinh  - Frequency: 1
+Word: capital  - Frequency: 1
+Word: maranhens  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: transferent  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: grev  - Frequency: 1
+Word: polic  - Frequency: 1
+Word: estad  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_segund_inform_políc_rebeliã
+
+Keyword: 8_segund_inform_políc_rebeliã_líd_foi_transfer_presídi_pedrinh_capital_maranhens_pres_tem_transferent_mass_depo_ter_inic_durant_grev_polic_estad_seman_pass
+
+Cur_topic: 10
+
+
+
+------------------------------------------------------------
+Topic: 10
+Word: pres  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: fug  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: fest  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: foi  - Frequency: 2
+Word: descobert  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: rebeliã  - Frequency: 1
+Word: quatr  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: fic  - Frequency: 2
+Word: fer  - Frequency: 1
+Word: auxili  - Frequency: 1
+Word: enfermag  - Frequency: 1
+Word: agent  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: presídi  - Frequency: 1
+Word: unidad  - Frequency: 1
+Word: luz  - Frequency: 1
+Word: águ  - Frequency: 1
+Word: negoc  - Frequency: 1
+Word: libert  - Frequency: 1
+Word: reféns  - Frequency: 1
+Word: retom  - Frequency: 1
+Word: manhã  - Frequency: 1
+Word: quart  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_foi_fic
+
+Keyword: 10_foi_fic_pres_tent_fug_durant_fest_plan_descobert_comec_rebeliã_quatr_pesso_fer_auxili_enfermag_agent_políc_trabalh_presídi_unidad_luz_águ_negoc_libert_reféns_retom_manhã_quart
+
+Cur_topic: 12
+
+
+
+------------------------------------------------------------
+Topic: 12
+Word: ccpj  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: capac  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 80  - Frequency: 1
+Word: pres  - Frequency: 1
+Word: abrig  - Frequency: 1
+Word: 203  - Frequency: 1
+Word: homens  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_ccpj_tem_capac_cerc_80_pres_abrig_203_homens
+
+Keyword: 12_ccpj_tem_capac_cerc_80_pres_abrig_203_homens
+
+NUM: 14
+
+
+NUM: 45
+
+
+NUM: 61
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 24
+
+
+NUM: 29
+
+
+NUM: 9
+
+
+(FINAL) AVERAGE: 6
+
+NUM: 14
+
+
+NUM: 45
+
+
+NUM: 61
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 8
+
+
+LESSER: 8
+
+NUM: 6
+
+
+LESSER: 6
+
+NUM: 24
+
+
+NUM: 29
+
+
+NUM: 9
+
+
+---------------BEFORE!-------------
+
+VEC: 0_quas_24_hor_tensã_termin_fim_manhã_quart_rebeliã_central_custód_pres_justic_maranhã
+VEC: 1_pres_iníci_for_depo_entreg_revólv_usad_dar_motim_trop_choqu_políc_milit_entrou_presídi_liber_30_reféns_send_16_crianc_menor_saír_demai_conduz_atend_médic_quatr_pesso_ter_fic_fer_pavilhã_mês_quebr_objet_fiz_túnel_tent_fug_mass_agor_cel_nã_repar
+VEC: 2_brun_entrou_presídi_depo_silv_diretor_unidad_pres_agent_trop_choqu_charlen_ribeir_espos_detent_monteir_suspeit_chefi_rebeliã_convers_segund_assin_term_compromiss_dá_garant_nã_serã_tortur_motim_ser_transfer_agiu_form_traiçoeir_covard_dar_oportun_distribuí_lanch_às_crianc_saiu_atir_acert_cabec_brac_cont_secretári_administr_penitenciár_sidon_cruz_secret_seguranc_dev_abrir_sindic_averigu_com_arma
+VEC: 3_pres_comec_crianc_unidad_motim_durant_fest_dia_for
+VEC: 4_cad_abrig_203_detent_só_tem_capac_80
+VEC: 6_terceir_rebeliã_sã_luís_só_mês
+VEC: 8_segund_inform_políc_rebeliã_líd_foi_transfer_presídi_pedrinh_capital_maranhens_pres_tem_transferent_mass_depo_ter_inic_durant_grev_polic_estad_seman_pass
+VEC: 10_foi_fic_pres_tent_fug_durant_fest_plan_descobert_comec_rebeliã_quatr_pesso_fer_auxili_enfermag_agent_políc_trabalh_presídi_unidad_luz_águ_negoc_libert_reféns_retom_manhã_quart
+VEC: 12_ccpj_tem_capac_cerc_80_pres_abrig_203_homens
+
+---------------AFTER!-------------
+
+VEC: 0_quas_24_hor_tensã_termin_fim
+VEC: 1_pres_iníci_for_depo_entreg_revólv
+VEC: 2_brun_entrou_presídi_depo_silv_diretor
+VEC: 3_pres_comec_crianc_unidad_motim_durant
+VEC: 4_cad_abrig_203_detent_só_tem
+VEC: 6_terceir_rebeliã_sã_luís_só_mês
+VEC: 8_segund_inform_políc_rebeliã_líd_foi
+VEC: 10_foi_fic_pres_tent_fug_durant
+VEC: 12_ccpj_tem_capac_cerc_80_pres
+Keyword: 0_quas_24_hor_tensã_termin_fim
+Keyword: 1_pres_iníci_for_depo_entreg_revólv
+Keyword: 2_brun_entrou_presídi_depo_silv_diretor
+Keyword: 3_pres_comec_crianc_unidad_motim_durant
+Keyword: 4_cad_abrig_203_detent_só_tem
+Keyword: 6_terceir_rebeliã_sã_luís_só_mês
+Keyword: 8_segund_inform_políc_rebeliã_líd_foi
+Keyword: 10_foi_fic_pres_tent_fug_durant
+Keyword: 12_ccpj_tem_capac_cerc_80_pres

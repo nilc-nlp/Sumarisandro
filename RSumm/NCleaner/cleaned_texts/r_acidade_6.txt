@@ -1,0 +1,6 @@
+<div id="noticia-corpo" class="row">
+      <div class="twelve columns" itemprop="articleBody"><p>17 Dez (Reuters) - O Facebook come&ccedil;ar&aacute; a vender propagandas em v&iacute;deo no fim desta semana e planeja fazer um an&uacute;ncio da iniciativa nesta ter&ccedil;a-feira, segundo reportagem do Wall Street Journal, citando pessoas familiarizadas com o assunto.</p>
+<p>Os v&iacute;deos ser&atilde;o reproduzidos automaticamente no feed de not&iacute;cias dos usu&aacute;rios e podem ajudar o Facebook a captar uma fatia dos 66,4 bilh&otilde;es de d&oacute;lares que se estima que anunciantes gastar&atilde;o na televis&atilde;o norte-americana neste ano, disse o jornal.</p>
+<p>Um dos primeiros an&uacute;ncios a ser veiculado ser&aacute; um curto trailer feito especificamente para o Facebook para o futuro lan&ccedil;amento de um filme, de acordo com o jornal.</p>
+<p>Representantes do Facebook n&atilde;o foram imediatamente encontrados pela Reuters para comentar o assunto.</p>
+<p>(Por Sakthi Prasad)</p></div>

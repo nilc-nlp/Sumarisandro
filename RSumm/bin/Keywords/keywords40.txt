@@ -1,0 +1,4115 @@
+Sentenca(topic=0): Ao chegar nesta segunda-feira, 6, ao Senado Federal, o presidente da Casa, Renan Calheiros, disse que a decisão do procurador geral da República, Antonio Fernando de Souza, de investigar as denúncias contra ele, atende a um pedido que fez há cerca de um mês.
+Sentenca(topic=1): "Eu pedi para o procurador me investigar. Eu me dispus a abrir meu sigilo", afirmou.
+Sentenca(topic=1): Renan disse que não entende porque a Revista Veja insiste em fazer denúncias "infundadas" contras ele.
+Sentenca(topic=1): O presidente do Senado referia-se à última reportagem da revista que afirma que Renan é dono oculto de duas emissoras de rádio de Alagoas que valem cerca de R$ 2,5 milhões.
+Sentenca(topic=2): O procurador, segundo sua assessoria, disse que pode pedir a inclusão de mais uma denúncia contra o senador, feita pela revista.
+Sentenca(topic=3): O líder do DEM, senador José Agripino (RN), afirmou que vai reunir a bancada na terça-feira para formalizar o pedido de investigação contra Renan.
+Sentenca(topic=3): "Pedi ao setor jurídico do partido a elaboração de uma representação. Acertei isso com o presidente do partido, deputado Rodrigo Maia (RJ), e agora quero ouvir a bancada para que a atitude seja do partido", explicou.
+Sentenca(topic=4): Renan já é alvo de representação no Conselho de Ética por quebra de decoro parlamentar.
+Sentenca(topic=5): Entre as denúncias contra ele, estaria a de ter despesas pessoais pagas por lobista da construtora Mendes Junior.
+Sentenca(topic=5): O pagamento seria destinado a uma filha do senador com a jornalista Monica Veloso.
+Sentenca(topic=6): O procurador-geral da República, Antonio Fernando de Souza, pediu abertura de inquérito no Supremo Tribunal Federal (STF) para investigar o presidente do Senado, Renan Calheiros.
+Sentenca(topic=6): Segundo ele, o pedido de investigação diz respeito às denúncias de que Renan teria despesas pessoais pagas por um lobista, mas pode incluir também o suposto uso de laranjas na compra de meios de comunicação em Alagoas, segundo revelou reportagem da revista Veja.
+Sentenca(topic=6): "Eu já pedi ao Supremo abertura de inquérito para apurar fatos que são objeto da representação em curso no Conselho de Ética do Senado. Esse pedido foi concluído na sexta-feira [3] e deve ter sido protocolado no Supremo", disse Antonio Fernando de Souza.
+Sentenca(topic=7): O procurador solicitou o encaminhamento de todo o material que está no Conselho de Ética e também a perícia da Polícia Federal (PF) em documentos de Renan.
+Sentenca(topic=7): Ele ressaltou que a decisão do MP não invalida a investigação em curso no Senado.
+Sentenca(topic=7): "
+Sentenca(topic=7): A iniciativa que tomei tem o objetivo de esclarecer essa questão sob a perspectiva penal sem nenhuma interferência sobre o que vai ser decidido no Senado, declarou.
+Sentenca(topic=8): O presidente do Senado, Renan Calheiros (PMDB-AL)", minimizou o pedido feito pelo procurador-geral da República, Antonio Fernando de Souza, ao Supremo Tribunal Federal (STF) para abrir inquérito para investigá-lo sobre a suposta ajuda de um lobista para pagar despesas pessoais.
+Sentenca(topic=8): Renan afirmou que ele próprio pediu essa investigação ao procurador.
+Sentenca(topic=8): "Eu pedi ao procurador-geral que fizesse a investigação há mais de 15 dias. Eu mandei uma carta a ele para que abrisse a investigação. Para que eu pudesse demonstrar a verdade", disse Renan.
+Sentenca(topic=9): O Democratas decidirá nesta terça-feira (7) que tipo de pedido entregará ao Conselho de Ética contra o presidente do Senado, Renan Calheiros (PMDB-AL): uma nova representação sobre as recentes denúncias da revista "Veja" ou apenas um aditamento ao processo que ele já responde no órgão pela acusação de receber ajuda de um lobista para pagar despesas pessoais.
+Sentenca(topic=9): O Democratas também decidirá qual postura tomará nas votações em plenário a partir de agora.
+Sentenca(topic=9): Se depender do líder do partido, os senadores do DEM deveriam abandonar qualquer sessão com Renan no comando.
+Sentenca(topic=10): O presidente do Senado, Renan Calheiros (PMDB-AL) prometeu, nesta segunda-feira, defender-se das acusações publicadas pela revista Veja desta semana, de que teria usado laranja para comprar uma emissora de rádio e TV, em Maceió.
+Sentenca(topic=10): A denúncia teria partido do ex-aliado e suposto sócio na empresa, João Lyra.
+Sentenca(topic=11): Renan já ligou para aliados hoje e reforçou que não vai renunciar à presidência da Casa.
+Sentenca(topic=11): O senador confirmou também, que vai presidir as sessões desta semana, independentemente das criticas da oposição.
+Sentenca(topic=12): O PSDB, que mantém a idéia de liberar a pauta mesmo com o Senado em crise, promete rever a posição a partir de hoje, anunciou o líder da bancada, senador Arthur Virgílio (AM).
+Sentenca(topic=12): - A situação está muito desgastada.
+Sentenca(topic=12): É uma denúncia atrás da outra.
+Sentenca(topic=12): Vamos reunir a bancada para decidir o que fazer disse o líder, sobre a possibilidade de o PSDB se unir ao DEM na obstrução da pauta, em protesto contra Renan.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: cheg  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: 6  - Frequency: 1
+Word: sen  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: president  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: renan  - Frequency: 1
+Word: calheir  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: geral  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: antoni  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: souz  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: atend  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: há  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: mês  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_cheg_segund_6_sen_federal_president_cas_renan_calheir_diss_decisã_procur_geral_repúbl_antoni_fern_souz_investig_denúnc_atend_ped_fez_há_cerc_mês
+
+
+------------------------------------------------------------
+Topic: 1
+Word: ped  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: dispus  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: sigil  - Frequency: 1
+Word: afirm  - Frequency: 2
+Word: renan  - Frequency: 2
+Word: diss  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: entend  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: revist  - Frequency: 2
+Word: vej  - Frequency: 1
+Word: insist  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: contr  - Frequency: 1
+Word: president  - Frequency: 1
+Word: sen  - Frequency: 1
+Word: ref  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: reportag  - Frequency: 1
+Word: don  - Frequency: 1
+Word: ocult  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: alago  - Frequency: 1
+Word: val  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: milhõ  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_afirm_renan_revist
+
+Keyword: 1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil_diss_nã_entend_porqu_vej_insist_faz_denúnc_contr_president_sen_ref_últim_reportag_don_ocult_duas_emissor_rádi_alago_val_cerc_r$_2_milhõ
+
+
+------------------------------------------------------------
+Topic: 2
+Word: procur  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: inclusã  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: revist  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador_feit_pel_revist
+
+
+------------------------------------------------------------
+Topic: 3
+Word: líd  - Frequency: 1
+Word: dem  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: jos  - Frequency: 1
+Word: agripin  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: banc  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: formaliz  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: renan  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: juríd  - Frequency: 1
+Word: part  - Frequency: 3
+Word: elabor  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: acert  - Frequency: 1
+Word: president  - Frequency: 1
+Word: deput  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: quer  - Frequency: 1
+Word: ouv  - Frequency: 1
+Word: atitud  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: explic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_part
+
+Keyword: 3_part_banc
+
+Keyword: 3_part_banc_líd_dem_senador_jos_agripin_afirm_vai_reun_terc_formaliz_ped_investig_renan_setor_juríd_elabor_represent_acert_president_deput_rodrig_mai_agor_quer_ouv_atitud_sej_explic
+
+
+------------------------------------------------------------
+Topic: 4
+Word: renan  - Frequency: 1
+Word: já  - Frequency: 1
+Word: alvo  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: conselh  - Frequency: 1
+Word: Étic  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: decor  - Frequency: 1
+Word: parlament  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament
+
+Keyword: 4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament
+
+
+------------------------------------------------------------
+Topic: 5
+Word: denúnc  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: despes  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: lobist  - Frequency: 1
+Word: construtor  - Frequency: 1
+Word: mend  - Frequency: 1
+Word: junior  - Frequency: 1
+Word: pagament  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: filh  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: monic  - Frequency: 1
+Word: velos  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend_junior_pagament_ser_destin_filh_senador_jornal_monic_velos
+
+
+------------------------------------------------------------
+Topic: 6
+Word: procur  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: antoni  - Frequency: 2
+Word: fern  - Frequency: 2
+Word: souz  - Frequency: 2
+Word: ped  - Frequency: 4
+Word: abertur  - Frequency: 2
+Word: inquérit  - Frequency: 2
+Word: suprem  - Frequency: 3
+Word: tribunal  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: investig  - Frequency: 2
+Word: president  - Frequency: 1
+Word: sen  - Frequency: 2
+Word: renan  - Frequency: 2
+Word: calheir  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: diz  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: às  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: despes  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: lobist  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: também  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: uso  - Frequency: 1
+Word: laranj  - Frequency: 1
+Word: compr  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: comunic  - Frequency: 1
+Word: alago  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: reportag  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: vej  - Frequency: 1
+Word: já  - Frequency: 1
+Word: apur  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: curs  - Frequency: 1
+Word: conselh  - Frequency: 1
+Word: Étic  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: protocol  - Frequency: 1
+Word: diss  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_ped
+
+Keyword: 6_ped_suprem
+
+Keyword: 6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen_renan_segund_ter
+
+
+------------------------------------------------------------
+Topic: 7
+Word: procur  - Frequency: 1
+Word: solicit  - Frequency: 1
+Word: encaminh  - Frequency: 1
+Word: material  - Frequency: 1
+Word: está  - Frequency: 1
+Word: conselh  - Frequency: 1
+Word: Étic  - Frequency: 1
+Word: também  - Frequency: 1
+Word: períc  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: document  - Frequency: 1
+Word: renan  - Frequency: 1
+Word: ressalt  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: mp  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: inval  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: curs  - Frequency: 1
+Word: sen  - Frequency: 2
+Word: inic  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: esclarec  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: perspect  - Frequency: 1
+Word: penal  - Frequency: 1
+Word: interferent  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: declar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_sen
+
+Keyword: 7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também_períc_políc_federal_document_renan_ressalt_decisã_mp_nã_inval_investig_curs_inic_tom_tem_objet_esclarec_questã_perspect_penal_interferent_vai_ser_decid_declar
+
+
+------------------------------------------------------------
+Topic: 8
+Word: president  - Frequency: 1
+Word: sen  - Frequency: 1
+Word: renan  - Frequency: 3
+Word: calheir  - Frequency: 1
+Word: minimiz  - Frequency: 1
+Word: ped  - Frequency: 3
+Word: feit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: procur  - Frequency: 3
+Word: repúbl  - Frequency: 1
+Word: antoni  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: souz  - Frequency: 1
+Word: suprem  - Frequency: 1
+Word: tribunal  - Frequency: 1
+Word: federal  - Frequency: 1
+Word: abrir  - Frequency: 1
+Word: inquérit  - Frequency: 1
+Word: investig  - Frequency: 4
+Word: supost  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: lobist  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: despes  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: há  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: cart  - Frequency: 1
+Word: abriss  - Frequency: 1
+Word: pud  - Frequency: 1
+Word: demonstr  - Frequency: 1
+Word: verdad  - Frequency: 1
+Word: diss  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_investig
+
+Keyword: 8_investig_renan_ped_procur
+
+Keyword: 8_investig_renan_ped_procur
+
+Keyword: 8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit_pel_repúbl_antoni_fern_souz_suprem_tribunal_federal_abrir_inquérit_supost_ajud_lobist_pag_despes_pesso_afirm_própri_fiz_há_15_dias_mand_cart_abriss_pud_demonstr_verdad_diss
+
+
+------------------------------------------------------------
+Topic: 9
+Word: democrat  - Frequency: 2
+Word: decid  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: conselh  - Frequency: 1
+Word: Étic  - Frequency: 1
+Word: president  - Frequency: 1
+Word: sen  - Frequency: 1
+Word: renan  - Frequency: 2
+Word: calheir  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: adit  - Frequency: 1
+Word: process  - Frequency: 1
+Word: já  - Frequency: 1
+Word: respond  - Frequency: 1
+Word: órgã  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: lobist  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: despes  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: também  - Frequency: 1
+Word: postur  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: votaçõ  - Frequency: 1
+Word: plenári  - Frequency: 1
+Word: part  - Frequency: 2
+Word: agor  - Frequency: 1
+Word: depend  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: dem  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: abandon  - Frequency: 1
+Word: sessã  - Frequency: 1
+Word: com  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_democrat_decid_renan_part
+
+Keyword: 9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh_Étic_president_sen_calheir_nov_represent_recent_denúnc_revist_adit_process_já_respond_órgã_pel_acus_receb_ajud_lobist_pag_despes_pesso_também_postur_tom_votaçõ_plenári_agor_depend_líd_senador_dem_dev_abandon_sessã_com
+
+
+------------------------------------------------------------
+Topic: 10
+Word: president  - Frequency: 1
+Word: sen  - Frequency: 1
+Word: renan  - Frequency: 1
+Word: calheir  - Frequency: 1
+Word: promet  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: defend  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: public  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: vej  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: usad  - Frequency: 1
+Word: laranj  - Frequency: 1
+Word: compr  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: macei  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: part  - Frequency: 1
+Word: ex  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: sóci  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: lyra  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_ter
+
+Keyword: 10_ter_president_sen_renan_calheir_promet_segund_defend_acus_public_pel_revist_vej_seman_usad_laranj_compr_emissor_rádi_tv_macei_denúnc_part_ex_supost_sóci_empres_joã_lyra
+
+
+------------------------------------------------------------
+Topic: 11
+Word: renan  - Frequency: 1
+Word: já  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: ali  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: reforc  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: vai  - Frequency: 2
+Word: renunc  - Frequency: 1
+Word: president  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: também  - Frequency: 1
+Word: presid  - Frequency: 1
+Word: sessõ  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: independent  - Frequency: 1
+Word: critic  - Frequency: 1
+Word: oposiçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_vai
+
+Keyword: 11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc_president_cas_senador_confirm_também_presid_sessõ_seman_independent_critic_oposiçã
+
+
+------------------------------------------------------------
+Topic: 12
+Word: psdb  - Frequency: 2
+Word: mantém  - Frequency: 1
+Word: idé  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: paut  - Frequency: 2
+Word: sen  - Frequency: 1
+Word: cris  - Frequency: 1
+Word: promet  - Frequency: 1
+Word: rev  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: part  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: líd  - Frequency: 2
+Word: banc  - Frequency: 2
+Word: senador  - Frequency: 1
+Word: arthur  - Frequency: 1
+Word: virgíli  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: está  - Frequency: 1
+Word: desgast  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: atrás  - Frequency: 1
+Word: vam  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: unir  - Frequency: 1
+Word: dem  - Frequency: 1
+Word: obstruçã  - Frequency: 1
+Word: protest  - Frequency: 1
+Word: renan  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_psdb_paut_líd_banc
+
+Keyword: 12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris_promet_rev_posiçã_part_hoj_anunc_senador_arthur_virgíli_situaçã_está_desgast_denúnc_atrás_vam_reun_decid_faz_possibil_unir_dem_obstruçã_protest_renan
+
+NUM: 25
+
+
+NUM: 34
+
+
+NUM: 12
+
+
+NUM: 30
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 18
+
+
+NUM: 12
+
+
+NUM: 34
+
+
+NUM: 38
+
+
+NUM: 45
+
+
+NUM: 29
+
+
+NUM: 20
+
+
+NUM: 33
+
+
+(FINAL) AVERAGE: 9
+
+NUM: 25
+
+
+NUM: 34
+
+
+NUM: 12
+
+
+NUM: 30
+
+
+NUM: 9
+
+
+LESSER: 9
+
+NUM: 18
+
+
+NUM: 12
+
+
+NUM: 34
+
+
+NUM: 38
+
+
+NUM: 45
+
+
+NUM: 29
+
+
+NUM: 20
+
+
+NUM: 33
+
+
+---------------BEFORE!-------------
+
+VEC: 0_cheg_segund_6_sen_federal_president_cas_renan_calheir_diss_decisã_procur_geral_repúbl_antoni_fern_souz_investig_denúnc_atend_ped_fez_há_cerc_mês
+VEC: 1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil_diss_nã_entend_porqu_vej_insist_faz_denúnc_contr_president_sen_ref_últim_reportag_don_ocult_duas_emissor_rádi_alago_val_cerc_r$_2_milhõ
+VEC: 2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador_feit_pel_revist
+VEC: 3_part_banc_líd_dem_senador_jos_agripin_afirm_vai_reun_terc_formaliz_ped_investig_renan_setor_juríd_elabor_represent_acert_president_deput_rodrig_mai_agor_quer_ouv_atitud_sej_explic
+VEC: 4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament
+VEC: 5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend_junior_pagament_ser_destin_filh_senador_jornal_monic_velos
+VEC: 6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen_renan_segund_ter
+VEC: 7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também_períc_políc_federal_document_renan_ressalt_decisã_mp_nã_inval_investig_curs_inic_tom_tem_objet_esclarec_questã_perspect_penal_interferent_vai_ser_decid_declar
+VEC: 8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit_pel_repúbl_antoni_fern_souz_suprem_tribunal_federal_abrir_inquérit_supost_ajud_lobist_pag_despes_pesso_afirm_própri_fiz_há_15_dias_mand_cart_abriss_pud_demonstr_verdad_diss
+VEC: 9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh_Étic_president_sen_calheir_nov_represent_recent_denúnc_revist_adit_process_já_respond_órgã_pel_acus_receb_ajud_lobist_pag_despes_pesso_também_postur_tom_votaçõ_plenári_agor_depend_líd_senador_dem_dev_abandon_sessã_com
+VEC: 10_ter_president_sen_renan_calheir_promet_segund_defend_acus_public_pel_revist_vej_seman_usad_laranj_compr_emissor_rádi_tv_macei_denúnc_part_ex_supost_sóci_empres_joã_lyra
+VEC: 11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc_president_cas_senador_confirm_também_presid_sessõ_seman_independent_critic_oposiçã
+VEC: 12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris_promet_rev_posiçã_part_hoj_anunc_senador_arthur_virgíli_situaçã_está_desgast_denúnc_atrás_vam_reun_decid_faz_possibil_unir_dem_obstruçã_protest_renan
+
+---------------AFTER!-------------
+
+VEC: 0_cheg_segund_6_sen_federal_president_cas_renan_calheir
+VEC: 1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil
+VEC: 2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador
+VEC: 3_part_banc_líd_dem_senador_jos_agripin_afirm_vai
+VEC: 4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament
+VEC: 5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend
+VEC: 6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen
+VEC: 7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também
+VEC: 8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit
+VEC: 9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh
+VEC: 10_ter_president_sen_renan_calheir_promet_segund_defend_acus
+VEC: 11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc
+VEC: 12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+SIM: 0.5
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+SIM: 0.444444
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+SIM: 0.222222
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+SIM: 0.111111
+
+TRESHOLD: 0.109117
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" is "0.2"
+
+CHANGE! -- From: 13 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0.2"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "12_psdb_paut_líd_banc_mantém_idé_liber_sen_cris" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 2
+Topic s: 12 -- Topic s_aux: 10 -- Abs: 2
+
+
+Topic change from "12" to "10"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" is "0.2"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" is "0.1"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" is "0.1"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0.2"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0.1"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 9: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" is "0.1"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" is "0.4"
+
+CHANGE! -- From: 11 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" is "0.1"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" is "0.1"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" is "0.1"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0.1"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0.1"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.1"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 5
+Similaridade entre eles: 0.5
+
+
+Similarity between "10_ter_president_sen_renan_calheir_promet_segund_defend_acus" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.5"
+
+CHANGE! -- From: 11 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 11
+Topic: 11
+Topic: 11
+Topic: 11
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 10 -- Topic s_aux: 0 -- Abs: 10
+
+
+Topic change from "10" to "0"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 8: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" is "0.222222"
+
+CHANGE! -- From: 10 -> TO: 9
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" is "0.111111"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" is "0.111111"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0.222222"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0.111111"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0.111111"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.222222"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 7: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" is "0.222222"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.333333
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" is "0.333333"
+
+CHANGE! -- From: 9 -> TO: 7
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0.111111"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0.222222"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.444444"
+
+CHANGE! -- From: 9 -> TO: 2
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.444444
+
+
+Similarity between "8_investig_renan_ped_procur_president_sen_calheir_minimiz_feit" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.444444"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 1 -- Abs: 7
+
+
+Topic change from "8" to "1"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 1 -- Abs: 7
+
+
+Topic change from "8" to "1"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 1 -- Abs: 7
+
+
+Topic change from "8" to "1"
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 6: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" and "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" is "0.111111"
+
+CHANGE! -- From: 8 -> TO: 7
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" and "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0.222222"
+
+CHANGE! -- From: 8 -> TO: 5
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0.111111"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.111111"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "7_sen_procur_solicit_encaminh_material_está_conselh_Étic_também" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 4 -- Abs: 3
+
+
+Topic change from "7" to "4"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 5: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" and "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0.111111"
+
+CHANGE! -- From: 7 -> TO: 3
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.222222"
+
+CHANGE! -- From: 7 -> TO: 2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "6_ped_suprem_antoni_fern_souz_abertur_inquérit_investig_sen" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 7
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 4: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" and "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0.111111"
+
+CHANGE! -- From: 6 -> TO: 3
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_denúnc_estar_ter_despes_pesso_pag_lobist_construtor_mend" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 5 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 2 -- Abs: 3
+
+
+Topic change from "5" to "2"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 3: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" and "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.111111"
+
+CHANGE! -- From: 5 -> TO: 2
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "4_renan_já_alvo_represent_conselh_Étic_quebr_decor_parlament" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 1 -- Abs: 3
+
+
+Topic change from "4" to "1"
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 9 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 2: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" and "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" is "0.111111"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.111111"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_part_banc_líd_dem_senador_jos_agripin_afirm_vai" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 1: 9
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.222222
+
+
+Similarity between "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" and "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" is "0.222222"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "2_procur_segund_assessor_diss_pod_ped_inclusã_denúnc_senador" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.111111"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 9
+Numero de palavras do tópico 0: 9
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.111111
+
+
+Similarity between "1_afirm_renan_revist_ped_procur_investig_dispus_abrir_sigil" and "0_cheg_segund_6_sen_federal_president_cas_renan_calheir" is "0.111111"
+
+CHANGE! -- From: 2 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 1
+Topic: 1
+Topic: 12
+Topic: 12
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+NUM_TOPICS: 10
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: cheg  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: 6  - Frequency: 1
+Word: sen  - Frequency: 3
+Word: federal  - Frequency: 1
+Word: president  - Frequency: 2
+Word: cas  - Frequency: 1
+Word: renan  - Frequency: 3
+Word: calheir  - Frequency: 2
+Word: diss  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: procur  - Frequency: 1
+Word: geral  - Frequency: 1
+Word: repúbl  - Frequency: 1
+Word: antoni  - Frequency: 1
+Word: fern  - Frequency: 1
+Word: souz  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: denúnc  - Frequency: 3
+Word: atend  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: fez  - Frequency: 1
+Word: há  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: promet  - Frequency: 2
+Word: defend  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: public  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: vej  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: usad  - Frequency: 1
+Word: laranj  - Frequency: 1
+Word: compr  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: macei  - Frequency: 1
+Word: part  - Frequency: 2
+Word: ex  - Frequency: 1
+Word: supost  - Frequency: 1
+Word: sóci  - Frequency: 1
+Word: empres  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: lyra  - Frequency: 1
+Word: psdb  - Frequency: 2
+Word: mantém  - Frequency: 1
+Word: idé  - Frequency: 1
+Word: liber  - Frequency: 1
+Word: paut  - Frequency: 2
+Word: cris  - Frequency: 1
+Word: rev  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: líd  - Frequency: 2
+Word: banc  - Frequency: 2
+Word: senador  - Frequency: 1
+Word: arthur  - Frequency: 1
+Word: virgíli  - Frequency: 1
+Word: situaçã  - Frequency: 1
+Word: está  - Frequency: 1
+Word: desgast  - Frequency: 1
+Word: atrás  - Frequency: 1
+Word: vam  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: possibil  - Frequency: 1
+Word: unir  - Frequency: 1
+Word: dem  - Frequency: 1
+Word: obstruçã  - Frequency: 1
+Word: protest  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_sen_renan_denúnc
+
+Keyword: 0_sen_renan_denúnc_segund_president_calheir_promet_ter_part_psdb_paut_líd_banc
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: ped  - Frequency: 8
+Word: procur  - Frequency: 6
+Word: investig  - Frequency: 8
+Word: dispus  - Frequency: 1
+Word: abrir  - Frequency: 2
+Word: sigil  - Frequency: 1
+Word: afirm  - Frequency: 3
+Word: renan  - Frequency: 9
+Word: diss  - Frequency: 3
+Word: nã  - Frequency: 2
+Word: entend  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: revist  - Frequency: 3
+Word: vej  - Frequency: 2
+Word: insist  - Frequency: 1
+Word: faz  - Frequency: 1
+Word: denúnc  - Frequency: 2
+Word: contr  - Frequency: 1
+Word: president  - Frequency: 3
+Word: sen  - Frequency: 6
+Word: ref  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: reportag  - Frequency: 2
+Word: don  - Frequency: 1
+Word: ocult  - Frequency: 1
+Word: duas  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: rádi  - Frequency: 1
+Word: alago  - Frequency: 2
+Word: val  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: r$  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: já  - Frequency: 2
+Word: alvo  - Frequency: 1
+Word: represent  - Frequency: 2
+Word: conselh  - Frequency: 3
+Word: Étic  - Frequency: 3
+Word: quebr  - Frequency: 1
+Word: decor  - Frequency: 1
+Word: parlament  - Frequency: 1
+Word: repúbl  - Frequency: 2
+Word: antoni  - Frequency: 3
+Word: fern  - Frequency: 3
+Word: souz  - Frequency: 3
+Word: abertur  - Frequency: 2
+Word: inquérit  - Frequency: 3
+Word: suprem  - Frequency: 4
+Word: tribunal  - Frequency: 2
+Word: federal  - Frequency: 3
+Word: calheir  - Frequency: 2
+Word: segund  - Frequency: 2
+Word: diz  - Frequency: 1
+Word: respeit  - Frequency: 1
+Word: às  - Frequency: 1
+Word: ter  - Frequency: 2
+Word: despes  - Frequency: 2
+Word: pesso  - Frequency: 2
+Word: pag  - Frequency: 2
+Word: lobist  - Frequency: 2
+Word: pod  - Frequency: 1
+Word: inclu  - Frequency: 1
+Word: também  - Frequency: 2
+Word: supost  - Frequency: 2
+Word: uso  - Frequency: 1
+Word: laranj  - Frequency: 1
+Word: compr  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: comunic  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: apur  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: objet  - Frequency: 2
+Word: curs  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: concluíd  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: protocol  - Frequency: 1
+Word: solicit  - Frequency: 1
+Word: encaminh  - Frequency: 1
+Word: material  - Frequency: 1
+Word: está  - Frequency: 1
+Word: períc  - Frequency: 1
+Word: políc  - Frequency: 1
+Word: document  - Frequency: 1
+Word: ressalt  - Frequency: 1
+Word: decisã  - Frequency: 1
+Word: mp  - Frequency: 1
+Word: inval  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: esclarec  - Frequency: 1
+Word: questã  - Frequency: 1
+Word: perspect  - Frequency: 1
+Word: penal  - Frequency: 1
+Word: interferent  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: decid  - Frequency: 1
+Word: declar  - Frequency: 1
+Word: minimiz  - Frequency: 1
+Word: feit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: fiz  - Frequency: 1
+Word: há  - Frequency: 1
+Word: 15  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: cart  - Frequency: 1
+Word: abriss  - Frequency: 1
+Word: pud  - Frequency: 1
+Word: demonstr  - Frequency: 1
+Word: verdad  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_renan
+
+Keyword: 1_renan_ped_investig
+
+Keyword: 1_renan_ped_investig
+
+Keyword: 1_renan_ped_investig_procur_sen
+
+Keyword: 1_renan_ped_investig_procur_sen
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: procur  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: assessor  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: inclusã  - Frequency: 1
+Word: denúnc  - Frequency: 2
+Word: senador  - Frequency: 2
+Word: feit  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: estar  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: despes  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: lobist  - Frequency: 1
+Word: construtor  - Frequency: 1
+Word: mend  - Frequency: 1
+Word: junior  - Frequency: 1
+Word: pagament  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: filh  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: monic  - Frequency: 1
+Word: velos  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_denúnc_senador
+
+Keyword: 2_denúnc_senador_procur_segund_assessor_diss_pod_ped_inclusã_feit_pel_revist_estar_ter_despes_pesso_pag_lobist_construtor_mend_junior_pagament_ser_destin_filh_jornal_monic_velos
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: líd  - Frequency: 1
+Word: dem  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: jos  - Frequency: 1
+Word: agripin  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: reun  - Frequency: 1
+Word: banc  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: formaliz  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: renan  - Frequency: 1
+Word: setor  - Frequency: 1
+Word: juríd  - Frequency: 1
+Word: part  - Frequency: 3
+Word: elabor  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: acert  - Frequency: 1
+Word: president  - Frequency: 1
+Word: deput  - Frequency: 1
+Word: rodrig  - Frequency: 1
+Word: mai  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: quer  - Frequency: 1
+Word: ouv  - Frequency: 1
+Word: atitud  - Frequency: 1
+Word: sej  - Frequency: 1
+Word: explic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_part
+
+Keyword: 3_part_banc
+
+Keyword: 3_part_banc_líd_dem_senador_jos_agripin_afirm_vai_reun_terc_formaliz_ped_investig_renan_setor_juríd_elabor_represent_acert_president_deput_rodrig_mai_agor_quer_ouv_atitud_sej_explic
+
+Cur_topic: 9
+
+
+
+------------------------------------------------------------
+Topic: 9
+Word: democrat  - Frequency: 2
+Word: decid  - Frequency: 2
+Word: terc  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: conselh  - Frequency: 1
+Word: Étic  - Frequency: 1
+Word: president  - Frequency: 1
+Word: sen  - Frequency: 1
+Word: renan  - Frequency: 2
+Word: calheir  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: represent  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: denúnc  - Frequency: 1
+Word: revist  - Frequency: 1
+Word: adit  - Frequency: 1
+Word: process  - Frequency: 1
+Word: já  - Frequency: 1
+Word: respond  - Frequency: 1
+Word: órgã  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: acus  - Frequency: 1
+Word: receb  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: lobist  - Frequency: 1
+Word: pag  - Frequency: 1
+Word: despes  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: também  - Frequency: 1
+Word: postur  - Frequency: 1
+Word: tom  - Frequency: 1
+Word: votaçõ  - Frequency: 1
+Word: plenári  - Frequency: 1
+Word: part  - Frequency: 2
+Word: agor  - Frequency: 1
+Word: depend  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: dem  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: abandon  - Frequency: 1
+Word: sessã  - Frequency: 1
+Word: com  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_democrat_decid_renan_part
+
+Keyword: 9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh_Étic_president_sen_calheir_nov_represent_recent_denúnc_revist_adit_process_já_respond_órgã_pel_acus_receb_ajud_lobist_pag_despes_pesso_também_postur_tom_votaçõ_plenári_agor_depend_líd_senador_dem_dev_abandon_sessã_com
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: renan  - Frequency: 1
+Word: já  - Frequency: 1
+Word: lig  - Frequency: 1
+Word: ali  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: reforc  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: vai  - Frequency: 2
+Word: renunc  - Frequency: 1
+Word: president  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: senador  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: também  - Frequency: 1
+Word: presid  - Frequency: 1
+Word: sessõ  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: independent  - Frequency: 1
+Word: critic  - Frequency: 1
+Word: oposiçã  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_vai
+
+Keyword: 11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc_president_cas_senador_confirm_também_presid_sessõ_seman_independent_critic_oposiçã
+
+NUM: 13
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 28
+
+
+NUM: 30
+
+
+NUM: 45
+
+
+NUM: 20
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 13
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 28
+
+
+NUM: 30
+
+
+NUM: 45
+
+
+NUM: 20
+
+
+---------------BEFORE!-------------
+
+VEC: 0_sen_renan_denúnc_segund_president_calheir_promet_ter_part_psdb_paut_líd_banc
+VEC: 1_renan_ped_investig_procur_sen
+VEC: 2_denúnc_senador_procur_segund_assessor_diss_pod_ped_inclusã_feit_pel_revist_estar_ter_despes_pesso_pag_lobist_construtor_mend_junior_pagament_ser_destin_filh_jornal_monic_velos
+VEC: 3_part_banc_líd_dem_senador_jos_agripin_afirm_vai_reun_terc_formaliz_ped_investig_renan_setor_juríd_elabor_represent_acert_president_deput_rodrig_mai_agor_quer_ouv_atitud_sej_explic
+VEC: 9_democrat_decid_renan_part_terc_tip_ped_entreg_conselh_Étic_president_sen_calheir_nov_represent_recent_denúnc_revist_adit_process_já_respond_órgã_pel_acus_receb_ajud_lobist_pag_despes_pesso_também_postur_tom_votaçõ_plenári_agor_depend_líd_senador_dem_dev_abandon_sessã_com
+VEC: 11_vai_renan_já_lig_ali_hoj_reforc_nã_renunc_president_cas_senador_confirm_também_presid_sessõ_seman_independent_critic_oposiçã
+
+---------------AFTER!-------------
+
+VEC: 0_sen_renan_denúnc_segund_president
+VEC: 1_renan_ped_investig_procur_sen
+VEC: 2_denúnc_senador_procur_segund_assessor
+VEC: 3_part_banc_líd_dem_senador
+VEC: 9_democrat_decid_renan_part_terc
+VEC: 11_vai_renan_já_lig_ali
+Keyword: 0_sen_renan_denúnc_segund_president
+Keyword: 1_renan_ped_investig_procur_sen
+Keyword: 2_denúnc_senador_procur_segund_assessor
+Keyword: 3_part_banc_líd_dem_senador
+Keyword: 9_democrat_decid_renan_part_terc
+Keyword: 11_vai_renan_já_lig_ali

@@ -1,0 +1,5047 @@
+Sentenca(topic=0): Um total de 549 pessoas morreram, 3.043 ficaram feridas e 295 estão desaparecidas em razão das enchentes que recentemente afetaram a Coréia do Norte, informou hoje um jornal pró norte-coreano publicado no Japão, que citou fontes oficiais de Pyongyang.
+Sentenca(topic=0): Segundo o jornal "Choson Sinbo", publicado pela Associação de Residentes Coreanos no Japão (próxima ao regime comunista da Coréia do Norte), as fortes chuvas que alagaram grande parte desse país na segunda metade de julho provocaram "muitos danos".
+Sentenca(topic=0): No entanto, a publicação, que cita autoridades norte-coreanas, desmentiu o número de até 10 mil mortos pelas inundações, calculado por algumas ONGs que trabalham na Coréia do Norte.
+Sentenca(topic=0): Além do número de mortos e desaparecidos, o "Choson Sinbo" acrescenta um total de 3.043 feridos.
+Sentenca(topic=1): A Federação Internacional da Cruz Vermelha afirmou na sexta-feira (4) que cerca de 17 mil famílias ficaram desabrigadas por causa das inundações.
+Sentenca(topic=1): Apesar de o governo norte-coreano ter rejeitado o envio de ajuda estrangeira para atenuar os danos causados pelas chuvas torrenciais, a emissora de TV oficial do país começou a transmitir nos últimos dias notícias sobre a iminente chegada de comida e bens de primeira necessidade do exterior.
+Sentenca(topic=1): A agência sul-coreana Yonhap disse na sexta-feira que um alto funcionário de Pyongyang pediu o envio urgente de alimentos para seu país.
+Sentenca(topic=2): As inundações destruíram grande parte dos cultivos de cereais na Coréia do Norte, que já sofre com um forte racionamento.
+Sentenca(topic=2): Analistas indicaram nos últimos dias que o país pode passar por outra crise com a falta de alimentos, que nos anos 90 matou de fome entre 1 milhão e 2,5 milhões de pessoas, segundo diferentes dados.
+Sentenca(topic=2): A Coréia do Sul interrompeu em julho o envio de alimentos ao vizinho do norte depois de o regime comunista disparar sete mísseis balísticos.
+Sentenca(topic=2): No entanto, depois de conhecer a dimensão das inundações, o governo de Seul manifestou sua predisposição em oferecer ajuda à Coréia do Norte caso aconteça uma nova crise alimentícia.
+Sentenca(topic=3): Já está em 549 mortos e 295 desaparecidas com as inundações que afetaram a Coréia do Norte, informou hoje um jornal pró norte-coreano publicado no Japão, que citou fontes oficiais de Pyongyang.
+Sentenca(topic=4): Segundo o jornal "Choson Sinbo", publicado pela Associação de Residentes Coreanos no Japão, que é próxima ao regime comunista da Coréia do Norte, as fortes chuvas que alagaram grande parte desse país na segunda metade de julho provocaram "muitos danos".
+Sentenca(topic=4): No entanto, a publicação, que cita autoridades norte-coreanas, desmentiu o número de até 10 mil mortos pelas inundações, calculado por algumas ONGs que trabalham na Coréia do Norte.
+Sentenca(topic=4): Além do número de mortos e desaparecidos, o "Choson Sinbo" acrescenta um total de 3.043 feridos.
+Sentenca(topic=5): A Federação Internacional da Cruz Vermelha indicou na sexta-feira que cerca de 17 mil famílias ficaram desabrigadas por causa das inundações.
+Sentenca(topic=6): Apesar de o Governo norte-coreano ter rejeitado o envio de ajuda estrangeira para atenuar os danos causados pelas chuvas torrenciais, a emissora de TV oficial do país começou a transmitir nos últimos dias notícias sobre a iminente chegada de comida e bens de primeira necessidade do exterior.
+Sentenca(topic=7): A agência sul-coreana "Yonhap" disse na sexta-feira que um alto funcionário de Pyongyang pediu o envio urgente de alimentos para seu país.
+Sentenca(topic=7): As inundações destruíram grande parte dos cultivos de cereais na Coréia do Norte, que já sofre com um forte racionamento.
+Sentenca(topic=7): Analistas indicaram nos últimos dias que o país pode passar por outra crise com a falta de alimentos, que nos anos 90 matou de fome entre um milhão e 2,5 milhões de pessoas, segundo diferentes dados.
+Sentenca(topic=8): A Coréia do Sul interrompeu em julho o envio de alimentos ao vizinho do norte depois de o regime comunista disparar sete mísseis balísticos em um gesto de desafio.
+Sentenca(topic=8): No entanto, depois de conhecer a dimensão das inundações, o Governo de Seul manifestou sua predisposição em oferecer ajuda à Coréia do Norte caso aconteça uma nova crise alimentícia.
+Sentenca(topic=9): Ao menos 549 pessoas morreram e outras 295 ainda estão desaparecidas em conseqüência das enchentes que atingiram a Coréia do Norte em julho, segundo um jornal japonês pró-Pyongyang.
+Sentenca(topic=10): A mídia norte-coreana já havia confirmado centenas de mortes provocadas pelas chuvas fortes que atingiram o país durante vários dias no mês passado.
+Sentenca(topic=10): Mas os números publicados pelo diário japonês Chosun Shinbo são os mais específicos já divulgados em relação à extensão do desastre.
+Sentenca(topic=11): No mês passado, a FAO (agência da ONU para alimentação) estimou que cerca de 60 mil pessoas haviam sido desabrigadas pelas chuvas na Coréia do Norte.
+Sentenca(topic=11): Mais de 7 mil casas foram destruídas ou danificadas, segundo o Chosun Shinbo, e quase 16 mil hectares de terra cultivada foram inundadas.
+Sentenca(topic=11): "Esforços de recuperação estão ocorrendo em uma velocidade rápida", disse o jornal em sua página na internet.
+Sentenca(topic=12): Na Coréia do Sul, o líder do opositor Grande Partido Nacional, Kang Jae-sup, pediu o estabelecimento de uma missão de investigação para ser enviada ao país comunista para determinar a extensão real dos estragos, segundo a agência de notícias Yonhap.
+Sentenca(topic=12): Um grupo de ativistas sugeriu que o número de mortos ou desaparecidos pode chegar a 10 mil, mas não revelou de onde obteve a informação.
+Sentenca(topic=12): O regime norte-coreano costuma manter segredo sobre detalhes de acidentes ou desastres naturais, tornando difícil a confirmação de qualquer informação desse tipo.
+Sentenca(topic=12): Mas as autoridades norte-coreanas cancelaram uma grande apresentação de ginástica, chamada Arirang, que é uma importante fonte de recursos para o país, para se concentrar nos esforços de recuperação após as enchentes.
+Sentenca(topic=13): A Coréia do Norte recusou ofertas de agências internacionais para o lançamento de campanhas de ajuda ao país, mas uma autoridade local disse na semana passada que Pyongyang aceitaria ajuda da Coréia do Sul se fosse dada sem condições.
+Sentenca(topic=13): A Coréia do Sul suspendeu o envio de alimentos ao norte por causa de suas preocupações sobre a paralisação nas negociações sobre o programa nuclear norte-coreano e os recentes testes de mísseis realizados por Pyongyang.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: total  - Frequency: 2
+Word: 549  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: 3  - Frequency: 2
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 2
+Word: 295  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: desaparec  - Frequency: 2
+Word: razã  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: afet  - Frequency: 1
+Word: cor  - Frequency: 3
+Word: nort  - Frequency: 5
+Word: inform  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: jornal  - Frequency: 2
+Word: pró  - Frequency: 1
+Word: public  - Frequency: 3
+Word: japã  - Frequency: 2
+Word: cit  - Frequency: 2
+Word: font  - Frequency: 1
+Word: ofic  - Frequency: 1
+Word: pyongyang  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: sinb  - Frequency: 2
+Word: pel  - Frequency: 2
+Word: assoc  - Frequency: 1
+Word: resident  - Frequency: 1
+Word: corean  - Frequency: 1
+Word: regim  - Frequency: 1
+Word: comun  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: alag  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: part  - Frequency: 1
+Word: país  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: desment  - Frequency: 1
+Word: númer  - Frequency: 2
+Word: 10  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: mort  - Frequency: 2
+Word: inund  - Frequency: 1
+Word: calcul  - Frequency: 1
+Word: ongs  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: além  - Frequency: 1
+Word: acrescent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_nort
+
+Keyword: 0_nort
+
+Keyword: 0_nort_cor_public
+
+Keyword: 0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit_segund_sinb_pel_númer_mort
+
+
+------------------------------------------------------------
+Topic: 1
+Word: feder  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: cruz  - Frequency: 1
+Word: vermelh  - Frequency: 1
+Word: afirm  - Frequency: 1
+Word: sext  - Frequency: 2
+Word: cerc  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: desabrig  - Frequency: 1
+Word: caus  - Frequency: 2
+Word: inund  - Frequency: 1
+Word: apes  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: envi  - Frequency: 2
+Word: ajud  - Frequency: 1
+Word: estrangeir  - Frequency: 1
+Word: atenu  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: torrenc  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: país  - Frequency: 2
+Word: comec  - Frequency: 1
+Word: transmit  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: iminent  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: com  - Frequency: 1
+Word: bens  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: necess  - Frequency: 1
+Word: exterior  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: yonhap  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: pyongyang  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: urgent  - Frequency: 1
+Word: aliment  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_sext_caus_envi_país
+
+Keyword: 1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc_17_mil_famíl_fic_desabrig_inund_apes_govern_nort_ter_rejeit_ajud_estrangeir_atenu_dan_pel_chuv_torrenc_emissor_tv_oficial_comec_transmit_últim_dias_notíc_iminent_cheg_com_bens_primeir_necess_exterior_agênc_sul_yonhap_diss_alto_funcionári_pyongyang_ped_urgent_aliment
+
+
+------------------------------------------------------------
+Topic: 2
+Word: inund  - Frequency: 2
+Word: destruír  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: part  - Frequency: 1
+Word: cultiv  - Frequency: 1
+Word: cer  - Frequency: 1
+Word: cor  - Frequency: 3
+Word: nort  - Frequency: 3
+Word: já  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: racion  - Frequency: 1
+Word: anal  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: país  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: cris  - Frequency: 2
+Word: falt  - Frequency: 1
+Word: aliment  - Frequency: 2
+Word: anos  - Frequency: 1
+Word: 90  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: fom  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: milhã  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: diferent  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: interromp  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: vizinh  - Frequency: 1
+Word: depo  - Frequency: 2
+Word: regim  - Frequency: 1
+Word: comun  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: set  - Frequency: 1
+Word: míss  - Frequency: 1
+Word: balíst  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: conhec  - Frequency: 1
+Word: dimensã  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: seul  - Frequency: 1
+Word: manifest  - Frequency: 1
+Word: predisposiçã  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: alimentíc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_cor_nort
+
+Keyword: 2_cor_nort_inund_cris_aliment_depo
+
+Keyword: 2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv_cer_já_sofr_fort_racion_anal_indic_últim_dias_país_pod_pass_falt_anos_90_mat_fom_1_milhã_2_milhõ_pesso_segund_diferent_dad_sul_interromp_julh_envi_vizinh_regim_comun_dispar_set_míss_balíst_entant_conhec_dimensã_govern_seul_manifest_predisposiçã_oferec_ajud_cas_acontec_nov_alimentíc
+
+
+------------------------------------------------------------
+Topic: 3
+Word: já  - Frequency: 1
+Word: está  - Frequency: 1
+Word: 549  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: 295  - Frequency: 1
+Word: desaparec  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: afet  - Frequency: 1
+Word: cor  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: hoj  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: pró  - Frequency: 1
+Word: public  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: font  - Frequency: 1
+Word: ofic  - Frequency: 1
+Word: pyongyang  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_nort
+
+Keyword: 3_nort_já_está_549_mort_295_desaparec_inund_afet_cor_inform_hoj_jornal_pró_public_japã_cit_font_ofic_pyongyang
+
+
+------------------------------------------------------------
+Topic: 4
+Word: segund  - Frequency: 2
+Word: jornal  - Frequency: 1
+Word: sinb  - Frequency: 2
+Word: public  - Frequency: 2
+Word: pel  - Frequency: 2
+Word: assoc  - Frequency: 1
+Word: resident  - Frequency: 1
+Word: corean  - Frequency: 1
+Word: japã  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: regim  - Frequency: 1
+Word: comun  - Frequency: 1
+Word: cor  - Frequency: 2
+Word: nort  - Frequency: 3
+Word: fort  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: alag  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: part  - Frequency: 1
+Word: país  - Frequency: 1
+Word: metad  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: cit  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: desment  - Frequency: 1
+Word: númer  - Frequency: 2
+Word: 10  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: mort  - Frequency: 2
+Word: inund  - Frequency: 1
+Word: calcul  - Frequency: 1
+Word: ongs  - Frequency: 1
+Word: trabalh  - Frequency: 1
+Word: além  - Frequency: 1
+Word: desaparec  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: total  - Frequency: 1
+Word: 3  - Frequency: 1
+Word: fer  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_nort
+
+Keyword: 4_nort_segund_sinb_public_pel_cor_númer_mort
+
+Keyword: 4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc_resident_corean_japã_próxim_regim_comun_fort_chuv_alag_grand_part_país_metad_julh_provoc_dan_entant_cit_autor_desment_10_mil_inund_calcul_ongs_trabalh_além_desaparec_acrescent_total_3_fer
+
+
+------------------------------------------------------------
+Topic: 5
+Word: feder  - Frequency: 1
+Word: internacional  - Frequency: 1
+Word: cruz  - Frequency: 1
+Word: vermelh  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 17  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: famíl  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: desabrig  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: inund  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl_fic_desabrig_caus_inund
+
+
+------------------------------------------------------------
+Topic: 6
+Word: apes  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: estrangeir  - Frequency: 1
+Word: atenu  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: torrenc  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: país  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: transmit  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: iminent  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: com  - Frequency: 1
+Word: bens  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: necess  - Frequency: 1
+Word: exterior  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan_caus_pel_chuv_torrenc_emissor_tv_oficial_país_comec_transmit_últim_dias_notíc_iminent_cheg_com_bens_primeir_necess_exterior
+
+
+------------------------------------------------------------
+Topic: 7
+Word: agênc  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: funcionári  - Frequency: 1
+Word: pyongyang  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: urgent  - Frequency: 1
+Word: aliment  - Frequency: 2
+Word: país  - Frequency: 2
+Word: inund  - Frequency: 1
+Word: destruír  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: part  - Frequency: 1
+Word: cultiv  - Frequency: 1
+Word: cer  - Frequency: 1
+Word: cor  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: já  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: racion  - Frequency: 1
+Word: anal  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: cris  - Frequency: 1
+Word: falt  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: 90  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: fom  - Frequency: 1
+Word: milhã  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: diferent  - Frequency: 1
+Word: dad  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_aliment_país
+
+Keyword: 7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped_envi_urgent_inund_destruír_grand_part_cultiv_cer_cor_nort_já_sofr_fort_racion_anal_indic_últim_dias_pod_pass_cris_falt_anos_90_mat_fom_milhã_2_milhõ_pesso_segund_diferent_dad
+
+
+------------------------------------------------------------
+Topic: 8
+Word: cor  - Frequency: 2
+Word: sul  - Frequency: 1
+Word: interromp  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: aliment  - Frequency: 1
+Word: vizinh  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: depo  - Frequency: 2
+Word: regim  - Frequency: 1
+Word: comun  - Frequency: 1
+Word: dispar  - Frequency: 1
+Word: set  - Frequency: 1
+Word: míss  - Frequency: 1
+Word: balíst  - Frequency: 1
+Word: gest  - Frequency: 1
+Word: desafi  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: conhec  - Frequency: 1
+Word: dimensã  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: seul  - Frequency: 1
+Word: manifest  - Frequency: 1
+Word: predisposiçã  - Frequency: 1
+Word: oferec  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: acontec  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: cris  - Frequency: 1
+Word: alimentíc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_cor_nort_depo
+
+Keyword: 8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim_comun_dispar_set_míss_balíst_gest_desafi_entant_conhec_dimensã_inund_govern_seul_manifest_predisposiçã_oferec_ajud_cas_acontec_nov_cris_alimentíc
+
+
+------------------------------------------------------------
+Topic: 9
+Word: 549  - Frequency: 1
+Word: pesso  - Frequency: 1
+Word: morr  - Frequency: 1
+Word: 295  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: desaparec  - Frequency: 1
+Word: conseqüent  - Frequency: 1
+Word: enchent  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: cor  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: julh  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: japonês  - Frequency: 1
+Word: pró  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating_cor_nort_julh_segund_jornal_japonês_pró
+
+
+------------------------------------------------------------
+Topic: 10
+Word: míd  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: já  - Frequency: 2
+Word: hav  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: provoc  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: chuv  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: ating  - Frequency: 1
+Word: país  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: public  - Frequency: 1
+Word: diári  - Frequency: 1
+Word: japonês  - Frequency: 1
+Word: chosun  - Frequency: 1
+Word: shinb  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: específ  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: extensã  - Frequency: 1
+Word: desastr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_já_pel
+
+Keyword: 10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort_ating_país_durant_vári_dias_mês_pass_númer_public_diári_japonês_chosun_shinb_sã_específ_divulg_relaçã_extensã_desastr
+
+
+------------------------------------------------------------
+Topic: 11
+Word: mês  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: fao  - Frequency: 1
+Word: onu  - Frequency: 1
+Word: aliment  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: mil  - Frequency: 3
+Word: pesso  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: desabrig  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: cor  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: 7  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: for  - Frequency: 2
+Word: destruíd  - Frequency: 1
+Word: danific  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: chosun  - Frequency: 1
+Word: shinb  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: hect  - Frequency: 1
+Word: terr  - Frequency: 1
+Word: cultiv  - Frequency: 1
+Word: inund  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: ráp  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: págin  - Frequency: 1
+Word: internet  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_mil
+
+Keyword: 11_mil_for
+
+Keyword: 11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60_pesso_hav_sid_desabrig_pel_chuv_cor_nort_7_cas_destruíd_danific_segund_chosun_shinb_quas_16_hect_terr_cultiv_inund_recuper_estã_ocorr_veloc_ráp_diss_jornal_págin_internet
+
+
+------------------------------------------------------------
+Topic: 12
+Word: cor  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: líd  - Frequency: 1
+Word: opositor  - Frequency: 1
+Word: grand  - Frequency: 2
+Word: part  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: kang  - Frequency: 1
+Word: jae  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: estabelec  - Frequency: 1
+Word: missã  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: país  - Frequency: 2
+Word: comun  - Frequency: 1
+Word: determin  - Frequency: 1
+Word: extensã  - Frequency: 1
+Word: real  - Frequency: 1
+Word: estrag  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: yonhap  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: ativ  - Frequency: 1
+Word: suger  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: mort  - Frequency: 1
+Word: desaparec  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: 10  - Frequency: 1
+Word: mil  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: obtev  - Frequency: 1
+Word: inform  - Frequency: 2
+Word: regim  - Frequency: 1
+Word: nort  - Frequency: 2
+Word: costum  - Frequency: 1
+Word: mant  - Frequency: 1
+Word: segred  - Frequency: 1
+Word: detalh  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: desastr  - Frequency: 1
+Word: natur  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: difícil  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: cancel  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: ginást  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: arirang  - Frequency: 1
+Word: import  - Frequency: 1
+Word: font  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: concentr  - Frequency: 1
+Word: esforc  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: enchent  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 12_grand_país_inform_nort
+
+Keyword: 12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional_kang_jae_ped_estabelec_missã_investig_ser_envi_comun_determin_extensã_real_estrag_segund_agênc_notíc_yonhap_grup_ativ_suger_númer_mort_desaparec_pod_cheg_10_mil_nã_revel_obtev_regim_costum_mant_segred_detalh_acident_desastr_natur_torn_difícil_confirm_tip_autor_cancel_apresent_ginást_cham_arirang_import_font_recurs_concentr_esforc_recuper_enchent
+
+
+------------------------------------------------------------
+Topic: 13
+Word: cor  - Frequency: 3
+Word: nort  - Frequency: 3
+Word: recus  - Frequency: 1
+Word: ofert  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: lançament  - Frequency: 1
+Word: campanh  - Frequency: 1
+Word: ajud  - Frequency: 2
+Word: país  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: local  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: pyongyang  - Frequency: 2
+Word: aceit  - Frequency: 1
+Word: sul  - Frequency: 2
+Word: foss  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: condiçõ  - Frequency: 1
+Word: suspend  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: aliment  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: paralis  - Frequency: 1
+Word: negoc  - Frequency: 1
+Word: program  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: test  - Frequency: 1
+Word: míss  - Frequency: 1
+Word: realiz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_cor_nort
+
+Keyword: 13_cor_nort_ajud_pyongyang_sul
+
+Keyword: 13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament_campanh_país_autor_local_diss_seman_pass_aceit_foss_dad_condiçõ_suspend_envi_aliment_caus_preocup_paralis_negoc_program_nucl_recent_test_míss_realiz
+
+NUM: 15
+
+
+NUM: 53
+
+
+NUM: 59
+
+
+NUM: 20
+
+
+NUM: 42
+
+
+NUM: 14
+
+
+NUM: 30
+
+
+NUM: 43
+
+
+NUM: 32
+
+
+NUM: 17
+
+
+NUM: 29
+
+
+NUM: 40
+
+
+NUM: 65
+
+
+NUM: 34
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 15
+
+
+NUM: 53
+
+
+NUM: 59
+
+
+NUM: 20
+
+
+NUM: 42
+
+
+NUM: 14
+
+
+NUM: 30
+
+
+NUM: 43
+
+
+NUM: 32
+
+
+NUM: 17
+
+
+NUM: 29
+
+
+NUM: 40
+
+
+NUM: 65
+
+
+NUM: 34
+
+
+---------------BEFORE!-------------
+
+VEC: 0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit_segund_sinb_pel_númer_mort
+VEC: 1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc_17_mil_famíl_fic_desabrig_inund_apes_govern_nort_ter_rejeit_ajud_estrangeir_atenu_dan_pel_chuv_torrenc_emissor_tv_oficial_comec_transmit_últim_dias_notíc_iminent_cheg_com_bens_primeir_necess_exterior_agênc_sul_yonhap_diss_alto_funcionári_pyongyang_ped_urgent_aliment
+VEC: 2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv_cer_já_sofr_fort_racion_anal_indic_últim_dias_país_pod_pass_falt_anos_90_mat_fom_1_milhã_2_milhõ_pesso_segund_diferent_dad_sul_interromp_julh_envi_vizinh_regim_comun_dispar_set_míss_balíst_entant_conhec_dimensã_govern_seul_manifest_predisposiçã_oferec_ajud_cas_acontec_nov_alimentíc
+VEC: 3_nort_já_está_549_mort_295_desaparec_inund_afet_cor_inform_hoj_jornal_pró_public_japã_cit_font_ofic_pyongyang
+VEC: 4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc_resident_corean_japã_próxim_regim_comun_fort_chuv_alag_grand_part_país_metad_julh_provoc_dan_entant_cit_autor_desment_10_mil_inund_calcul_ongs_trabalh_além_desaparec_acrescent_total_3_fer
+VEC: 5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl_fic_desabrig_caus_inund
+VEC: 6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan_caus_pel_chuv_torrenc_emissor_tv_oficial_país_comec_transmit_últim_dias_notíc_iminent_cheg_com_bens_primeir_necess_exterior
+VEC: 7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped_envi_urgent_inund_destruír_grand_part_cultiv_cer_cor_nort_já_sofr_fort_racion_anal_indic_últim_dias_pod_pass_cris_falt_anos_90_mat_fom_milhã_2_milhõ_pesso_segund_diferent_dad
+VEC: 8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim_comun_dispar_set_míss_balíst_gest_desafi_entant_conhec_dimensã_inund_govern_seul_manifest_predisposiçã_oferec_ajud_cas_acontec_nov_cris_alimentíc
+VEC: 9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating_cor_nort_julh_segund_jornal_japonês_pró
+VEC: 10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort_ating_país_durant_vári_dias_mês_pass_númer_public_diári_japonês_chosun_shinb_sã_específ_divulg_relaçã_extensã_desastr
+VEC: 11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60_pesso_hav_sid_desabrig_pel_chuv_cor_nort_7_cas_destruíd_danific_segund_chosun_shinb_quas_16_hect_terr_cultiv_inund_recuper_estã_ocorr_veloc_ráp_diss_jornal_págin_internet
+VEC: 12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional_kang_jae_ped_estabelec_missã_investig_ser_envi_comun_determin_extensã_real_estrag_segund_agênc_notíc_yonhap_grup_ativ_suger_númer_mort_desaparec_pod_cheg_10_mil_nã_revel_obtev_regim_costum_mant_segred_detalh_acident_desastr_natur_torn_difícil_confirm_tip_autor_cancel_apresent_ginást_cham_arirang_import_font_recurs_concentr_esforc_recuper_enchent
+VEC: 13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament_campanh_país_autor_local_diss_seman_pass_aceit_foss_dad_condiçõ_suspend_envi_aliment_caus_preocup_paralis_negoc_program_nucl_recent_test_míss_realiz
+
+---------------AFTER!-------------
+
+VEC: 0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit
+VEC: 1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc
+VEC: 2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv
+VEC: 3_nort_já_está_549_mort_295_desaparec_inund_afet_cor
+VEC: 4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc
+VEC: 5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl
+VEC: 6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan
+VEC: 7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped
+VEC: 8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim
+VEC: 9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating
+VEC: 10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort
+VEC: 11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60
+VEC: 12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional
+VEC: 13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+SIM: 0.363636
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+SIM: 0.181818
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+SIM: 0.272727
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+SIM: 0.0909091
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.115984
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" is "0.363636"
+
+CHANGE! -- From: 14 -> TO: 13
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" is "0.181818"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" is "0.272727"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" is "0.272727"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" is "0.181818"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0.181818"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0.181818"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.181818"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.181818"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" is "0.181818"
+
+CHANGE! -- From: 13 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" is "0.272727"
+
+CHANGE! -- From: 13 -> TO: 9
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" is "0.181818"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" is "0.0909091"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0.181818"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0.181818"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.363636
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.363636"
+
+CHANGE! -- From: 13 -> TO: 3
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "12_grand_país_inform_nort_cor_sul_líd_opositor_part_nacional" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.181818"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 13
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 2 -- Abs: 10
+
+
+Topic change from "12" to "2"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 2 -- Abs: 10
+
+
+Topic change from "12" to "2"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 2 -- Abs: 10
+
+
+Topic change from "12" to "2"
+
+Topic: 12 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 12 -- Topic s_aux: 2 -- Abs: 10
+
+
+Topic change from "12" to "2"
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 11
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" is "0.0909091"
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" is "0.0909091"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" is "0.0909091"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.181818
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0.181818"
+
+CHANGE! -- From: 12 -> TO: 6
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0.0909091"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_mil_for_mês_pass_fao_onu_aliment_estim_cerc_60" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 5 -- Abs: 6
+
+
+Topic change from "11" to "5"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 5 -- Abs: 6
+
+
+Topic change from "11" to "5"
+
+Topic: 11 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 11 -- Topic s_aux: 5 -- Abs: 6
+
+
+Topic change from "11" to "5"
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 9: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" is "0.0909091"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" is "0.0909091"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0.272727"
+
+CHANGE! -- From: 11 -> TO: 5
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.272727
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0.272727"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.0909091"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 11
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.0909091
+
+
+Similarity between "10_já_pel_míd_nort_hav_confirm_mort_provoc_chuv_fort" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.0909091"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 11
+Topic: 11
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 4 -- Abs: 6
+
+
+Topic change from "10" to "4"
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 8: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0"
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0"
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0.3"
+
+CHANGE! -- From: 10 -> TO: 4
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "9_549_pesso_morr_295_aind_estã_desaparec_conseqüent_enchent_ating" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 10
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 9 -- Topic s_aux: 3 -- Abs: 6
+
+
+Topic change from "9" to "3"
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" is "0.2"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" is "0.2"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0.2"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0.2"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.4"
+
+CHANGE! -- From: 9 -> TO: 3
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0.1"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "8_cor_nort_depo_sul_interromp_julh_envi_aliment_vizinh_regim" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 9
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 2 -- Abs: 6
+
+
+Topic change from "8" to "2"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 2 -- Abs: 6
+
+
+Topic change from "8" to "2"
+
+Topic: 3 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" and "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0.1"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.1"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0.2"
+
+CHANGE! -- From: 8 -> TO: 2
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_aliment_país_agênc_sul_diss_sext_alto_funcionári_pyongyang_ped" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 8
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 1 -- Abs: 6
+
+
+Topic change from "7" to "1"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 1 -- Abs: 6
+
+
+Topic change from "7" to "1"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 1 -- Abs: 6
+
+
+Topic change from "7" to "1"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" and "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" is "0"
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0.1"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0.1"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.1"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0.1"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" and "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" is "0"
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 6
+Similaridade entre eles: 0.6
+
+
+Similarity between "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0.6"
+
+CHANGE! -- From: 6 -> TO: 2
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_feder_internacional_cruz_vermelh_indic_sext_cerc_17_mil_famíl" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 6 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" and "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" is "0.3"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.2"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 4
+Similaridade entre eles: 0.4
+
+
+Similarity between "4_nort_segund_sinb_public_pel_cor_númer_mort_jornal_assoc" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.4"
+
+CHANGE! -- From: 5 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 1 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 4 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 0 -- Abs: 4
+
+
+Topic change from "4" to "0"
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" and "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" is "0.3"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "3_nort_já_está_549_mort_295_desaparec_inund_afet_cor" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.3"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 3 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 3 -- Topic s_aux: 2 -- Abs: 1
+
+
+Topic change from "3" to "2"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" and "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "2_cor_nort_inund_cris_aliment_depo_destruír_grand_part_cultiv" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0.2"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 14
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_sext_caus_envi_país_feder_internacional_cruz_vermelh_afirm_cerc" and "0_nort_cor_public_total_3_fer_desaparec_jornal_japã_cit" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 14
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+Topic: 13 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 14
+Topic: 14
+NUM_TOPICS: 9
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: total  - Frequency: 3
+Word: 549  - Frequency: 3
+Word: pesso  - Frequency: 3
+Word: morr  - Frequency: 2
+Word: 3  - Frequency: 3
+Word: fic  - Frequency: 1
+Word: fer  - Frequency: 3
+Word: 295  - Frequency: 3
+Word: estã  - Frequency: 2
+Word: desaparec  - Frequency: 6
+Word: razã  - Frequency: 1
+Word: enchent  - Frequency: 3
+Word: recent  - Frequency: 1
+Word: afet  - Frequency: 2
+Word: cor  - Frequency: 13
+Word: nort  - Frequency: 19
+Word: inform  - Frequency: 4
+Word: hoj  - Frequency: 2
+Word: jornal  - Frequency: 5
+Word: pró  - Frequency: 3
+Word: public  - Frequency: 7
+Word: japã  - Frequency: 4
+Word: cit  - Frequency: 4
+Word: font  - Frequency: 3
+Word: ofic  - Frequency: 2
+Word: pyongyang  - Frequency: 2
+Word: segund  - Frequency: 7
+Word: sinb  - Frequency: 4
+Word: pel  - Frequency: 6
+Word: assoc  - Frequency: 2
+Word: resident  - Frequency: 2
+Word: corean  - Frequency: 2
+Word: regim  - Frequency: 5
+Word: comun  - Frequency: 5
+Word: fort  - Frequency: 4
+Word: chuv  - Frequency: 3
+Word: alag  - Frequency: 2
+Word: grand  - Frequency: 5
+Word: part  - Frequency: 4
+Word: país  - Frequency: 6
+Word: metad  - Frequency: 2
+Word: julh  - Frequency: 5
+Word: provoc  - Frequency: 3
+Word: dan  - Frequency: 2
+Word: entant  - Frequency: 4
+Word: autor  - Frequency: 3
+Word: desment  - Frequency: 2
+Word: númer  - Frequency: 6
+Word: 10  - Frequency: 3
+Word: mil  - Frequency: 3
+Word: mort  - Frequency: 7
+Word: inund  - Frequency: 6
+Word: calcul  - Frequency: 2
+Word: ongs  - Frequency: 2
+Word: trabalh  - Frequency: 2
+Word: além  - Frequency: 2
+Word: acrescent  - Frequency: 2
+Word: destruír  - Frequency: 1
+Word: cultiv  - Frequency: 1
+Word: cer  - Frequency: 1
+Word: já  - Frequency: 4
+Word: sofr  - Frequency: 1
+Word: racion  - Frequency: 1
+Word: anal  - Frequency: 1
+Word: indic  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dias  - Frequency: 2
+Word: pod  - Frequency: 2
+Word: pass  - Frequency: 2
+Word: cris  - Frequency: 3
+Word: falt  - Frequency: 1
+Word: aliment  - Frequency: 3
+Word: anos  - Frequency: 1
+Word: 90  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: fom  - Frequency: 1
+Word: 1  - Frequency: 1
+Word: milhã  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: diferent  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: sul  - Frequency: 3
+Word: interromp  - Frequency: 2
+Word: envi  - Frequency: 3
+Word: vizinh  - Frequency: 2
+Word: depo  - Frequency: 4
+Word: dispar  - Frequency: 2
+Word: set  - Frequency: 2
+Word: míss  - Frequency: 2
+Word: balíst  - Frequency: 2
+Word: conhec  - Frequency: 2
+Word: dimensã  - Frequency: 2
+Word: govern  - Frequency: 2
+Word: seul  - Frequency: 2
+Word: manifest  - Frequency: 2
+Word: predisposiçã  - Frequency: 2
+Word: oferec  - Frequency: 2
+Word: ajud  - Frequency: 2
+Word: cas  - Frequency: 2
+Word: acontec  - Frequency: 2
+Word: nov  - Frequency: 2
+Word: alimentíc  - Frequency: 2
+Word: está  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: gest  - Frequency: 1
+Word: desafi  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: conseqüent  - Frequency: 1
+Word: ating  - Frequency: 2
+Word: japonês  - Frequency: 2
+Word: míd  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: confirm  - Frequency: 2
+Word: durant  - Frequency: 1
+Word: vári  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: diári  - Frequency: 1
+Word: chosun  - Frequency: 1
+Word: shinb  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: específ  - Frequency: 1
+Word: divulg  - Frequency: 1
+Word: relaçã  - Frequency: 1
+Word: extensã  - Frequency: 2
+Word: desastr  - Frequency: 2
+Word: líd  - Frequency: 1
+Word: opositor  - Frequency: 1
+Word: nacional  - Frequency: 1
+Word: kang  - Frequency: 1
+Word: jae  - Frequency: 1
+Word: ped  - Frequency: 1
+Word: estabelec  - Frequency: 1
+Word: missã  - Frequency: 1
+Word: investig  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: determin  - Frequency: 1
+Word: real  - Frequency: 1
+Word: estrag  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: yonhap  - Frequency: 1
+Word: grup  - Frequency: 1
+Word: ativ  - Frequency: 1
+Word: suger  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: revel  - Frequency: 1
+Word: obtev  - Frequency: 1
+Word: costum  - Frequency: 1
+Word: mant  - Frequency: 1
+Word: segred  - Frequency: 1
+Word: detalh  - Frequency: 1
+Word: acident  - Frequency: 1
+Word: natur  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: difícil  - Frequency: 1
+Word: tip  - Frequency: 1
+Word: cancel  - Frequency: 1
+Word: apresent  - Frequency: 1
+Word: ginást  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: arirang  - Frequency: 1
+Word: import  - Frequency: 1
+Word: recurs  - Frequency: 1
+Word: concentr  - Frequency: 1
+Word: esforc  - Frequency: 1
+Word: recuper  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_nort
+
+Keyword: 0_nort
+
+Keyword: 0_nort
+
+Keyword: 0_nort
+
+Keyword: 0_nort
+
+Keyword: 0_nort
+
+Keyword: 0_nort_cor
+
+Keyword: 0_nort_cor
+
+Keyword: 0_nort_cor
+
+Keyword: 0_nort_cor
+
+Keyword: 0_nort_cor
+
+Keyword: 0_nort_cor
+
+Keyword: 0_nort_cor_public_segund_mort
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: feder  - Frequency: 2
+Word: internacional  - Frequency: 2
+Word: cruz  - Frequency: 2
+Word: vermelh  - Frequency: 2
+Word: afirm  - Frequency: 1
+Word: sext  - Frequency: 4
+Word: cerc  - Frequency: 3
+Word: 17  - Frequency: 2
+Word: mil  - Frequency: 5
+Word: famíl  - Frequency: 2
+Word: fic  - Frequency: 2
+Word: desabrig  - Frequency: 3
+Word: caus  - Frequency: 3
+Word: inund  - Frequency: 4
+Word: apes  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: nort  - Frequency: 3
+Word: ter  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: envi  - Frequency: 3
+Word: ajud  - Frequency: 1
+Word: estrangeir  - Frequency: 1
+Word: atenu  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: chuv  - Frequency: 2
+Word: torrenc  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: país  - Frequency: 4
+Word: comec  - Frequency: 1
+Word: transmit  - Frequency: 1
+Word: últim  - Frequency: 2
+Word: dias  - Frequency: 2
+Word: notíc  - Frequency: 1
+Word: iminent  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: com  - Frequency: 1
+Word: bens  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: necess  - Frequency: 1
+Word: exterior  - Frequency: 1
+Word: agênc  - Frequency: 2
+Word: sul  - Frequency: 2
+Word: yonhap  - Frequency: 1
+Word: diss  - Frequency: 3
+Word: alto  - Frequency: 2
+Word: funcionári  - Frequency: 2
+Word: pyongyang  - Frequency: 2
+Word: ped  - Frequency: 2
+Word: urgent  - Frequency: 2
+Word: aliment  - Frequency: 4
+Word: indic  - Frequency: 2
+Word: destruír  - Frequency: 1
+Word: grand  - Frequency: 1
+Word: part  - Frequency: 1
+Word: cultiv  - Frequency: 2
+Word: cer  - Frequency: 1
+Word: cor  - Frequency: 2
+Word: já  - Frequency: 1
+Word: sofr  - Frequency: 1
+Word: fort  - Frequency: 1
+Word: racion  - Frequency: 1
+Word: anal  - Frequency: 1
+Word: pod  - Frequency: 1
+Word: pass  - Frequency: 2
+Word: cris  - Frequency: 1
+Word: falt  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: 90  - Frequency: 1
+Word: mat  - Frequency: 1
+Word: fom  - Frequency: 1
+Word: milhã  - Frequency: 1
+Word: 2  - Frequency: 1
+Word: milhõ  - Frequency: 1
+Word: pesso  - Frequency: 2
+Word: segund  - Frequency: 2
+Word: diferent  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: mês  - Frequency: 1
+Word: fao  - Frequency: 1
+Word: onu  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: 60  - Frequency: 1
+Word: hav  - Frequency: 1
+Word: sid  - Frequency: 1
+Word: 7  - Frequency: 1
+Word: cas  - Frequency: 1
+Word: for  - Frequency: 2
+Word: destruíd  - Frequency: 1
+Word: danific  - Frequency: 1
+Word: chosun  - Frequency: 1
+Word: shinb  - Frequency: 1
+Word: quas  - Frequency: 1
+Word: 16  - Frequency: 1
+Word: hect  - Frequency: 1
+Word: terr  - Frequency: 1
+Word: recuper  - Frequency: 1
+Word: estã  - Frequency: 1
+Word: ocorr  - Frequency: 1
+Word: veloc  - Frequency: 1
+Word: ráp  - Frequency: 1
+Word: jornal  - Frequency: 1
+Word: págin  - Frequency: 1
+Word: internet  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_mil
+
+Keyword: 1_mil_sext_inund_país_aliment
+
+Keyword: 1_mil_sext_inund_país_aliment_cerc_desabrig_caus_nort_envi_diss
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: apes  - Frequency: 1
+Word: govern  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: rejeit  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: ajud  - Frequency: 1
+Word: estrangeir  - Frequency: 1
+Word: atenu  - Frequency: 1
+Word: dan  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: chuv  - Frequency: 1
+Word: torrenc  - Frequency: 1
+Word: emissor  - Frequency: 1
+Word: tv  - Frequency: 1
+Word: oficial  - Frequency: 1
+Word: país  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: transmit  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: dias  - Frequency: 1
+Word: notíc  - Frequency: 1
+Word: iminent  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: com  - Frequency: 1
+Word: bens  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: necess  - Frequency: 1
+Word: exterior  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan_caus_pel_chuv_torrenc_emissor_tv_oficial_país_comec_transmit_últim_dias_notíc_iminent_cheg_com_bens_primeir_necess_exterior
+
+Cur_topic: 13
+
+
+
+------------------------------------------------------------
+Topic: 13
+Word: cor  - Frequency: 3
+Word: nort  - Frequency: 3
+Word: recus  - Frequency: 1
+Word: ofert  - Frequency: 1
+Word: agênc  - Frequency: 1
+Word: internacion  - Frequency: 1
+Word: lançament  - Frequency: 1
+Word: campanh  - Frequency: 1
+Word: ajud  - Frequency: 2
+Word: país  - Frequency: 1
+Word: autor  - Frequency: 1
+Word: local  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: seman  - Frequency: 1
+Word: pass  - Frequency: 1
+Word: pyongyang  - Frequency: 2
+Word: aceit  - Frequency: 1
+Word: sul  - Frequency: 2
+Word: foss  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: condiçõ  - Frequency: 1
+Word: suspend  - Frequency: 1
+Word: envi  - Frequency: 1
+Word: aliment  - Frequency: 1
+Word: caus  - Frequency: 1
+Word: preocup  - Frequency: 1
+Word: paralis  - Frequency: 1
+Word: negoc  - Frequency: 1
+Word: program  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: test  - Frequency: 1
+Word: míss  - Frequency: 1
+Word: realiz  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 13_cor_nort
+
+Keyword: 13_cor_nort_ajud_pyongyang_sul
+
+Keyword: 13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament_campanh_país_autor_local_diss_seman_pass_aceit_foss_dad_condiçõ_suspend_envi_aliment_caus_preocup_paralis_negoc_program_nucl_recent_test_míss_realiz
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 11
+
+
+NUM: 30
+
+
+NUM: 34
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 11
+
+
+NUM: 30
+
+
+NUM: 34
+
+
+---------------BEFORE!-------------
+
+VEC: 0_nort_cor_public_segund_mort
+VEC: 1_mil_sext_inund_país_aliment_cerc_desabrig_caus_nort_envi_diss
+VEC: 6_apes_govern_nort_ter_rejeit_envi_ajud_estrangeir_atenu_dan_caus_pel_chuv_torrenc_emissor_tv_oficial_país_comec_transmit_últim_dias_notíc_iminent_cheg_com_bens_primeir_necess_exterior
+VEC: 13_cor_nort_ajud_pyongyang_sul_recus_ofert_agênc_internacion_lançament_campanh_país_autor_local_diss_seman_pass_aceit_foss_dad_condiçõ_suspend_envi_aliment_caus_preocup_paralis_negoc_program_nucl_recent_test_míss_realiz
+
+---------------AFTER!-------------
+
+VEC: 0_nort_cor_public_segund_mort
+VEC: 1_mil_sext_inund_país_aliment
+VEC: 6_apes_govern_nort_ter_rejeit
+VEC: 13_cor_nort_ajud_pyongyang_sul
+Keyword: 0_nort_cor_public_segund_mort
+Keyword: 1_mil_sext_inund_país_aliment
+Keyword: 6_apes_govern_nort_ter_rejeit
+Keyword: 13_cor_nort_ajud_pyongyang_sul

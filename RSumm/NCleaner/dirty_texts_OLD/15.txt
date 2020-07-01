@@ -1,0 +1,629 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- Vignette V6 Mon May 07 16:14:48 2012 -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br" xml:lang="pt-br">
+<head>
+
+	<!-- VGN6#cHJvdG9uX2xpYl9tZXRhdGFncw==#seg mai 07 16:14:51 2012# -->
+ <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Ministro Mercadante admite que Enem pode dar mais problemas</title>
+	
+		<meta name="description" content="
+
+ Giuliander Carpes 
+
+ Direto do Rio de Janeiro 
+
+ 
+
+
+
+" />
+	 
+		<meta name="keywords" content="enem, mec" />
+	 
+		<meta name="expires" content="-1" />
+	  
+		<!-- VGN6#cHJvdG9uX2xpYl9yc3M=#seg mai 07 16:14:51 2012# -->
+
+	<link rel="alternate" href="http://rss.terra.com.br/0,,EI8398,00.xml" title="Terra - RSS - Enem" type="application/rss+xml" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+	
+		 <link rel="canonical" href="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5759540-EI8398,00-Ministro+Mercadante+admite+que+Enem+pode+dar+mais+problemas.html" />
+	 <!-- style_type: -->
+	
+		  
+		<!-- VGN6#cHJvdG9uX2xpYl9lc3RpbG9fbm90aWNpYXM=#seg mai 07 16:14:51 2012# -->
+ <!-- STYLES //-->
+	<link rel="stylesheet" type="text/css" href="http://s1.trrsf.com.br/atm/2/pt/_css/core.css" />
+	<link rel="stylesheet" type="text/css" href="http://s1.trrsf.com.br/atm/2/core/apps/headerfooter/_css/styles.css" />
+	<link rel="stylesheet" type="text/css" href="http://s1.trrsf.com.br/atm/2/core/apps/latestnews/_css/mainStyles.css" />
+	<link rel="stylesheet" type="text/css" href="http://s1.trrsf.com.br/atm/2/core/apps/audiencepulse_ver/_css/mainStyles.css" />
+	<link rel="stylesheet" type="text/css" href="http://s1.trrsf.com.br/atm/2/core/apps/modules-2010/_css/heritage.css" />
+	<link rel="stylesheet" type="text/css" href="http://s1.trrsf.com.br/atm/2/core/apps/modules-2010/_css/style.css" />		
+		
+	<!-- TBOX -->
+			
+	<!-- TBOX -->	
+	 		
+	<!-- BARRA TERRA -->
+	<link rel="stylesheet" type="text/css" href="http://s2.trrsf.com.br/transversais/trr_bar/_css/terra-bar.css" />
+ <!-- // BARRA TERRA -->		
+	 <link rel="stylesheet" type="text/css" href="http://s1.trrsf.com.br/atm/2/pt/articles/_css/deployment.css" />					 
+	<!--// STYLES //-->
+	
+   
+	<!-- VGN6#cHJvdG9uX2ludGVybmFfbWV0cmljcw==#seg mai 07 16:14:51 2012# -->
+	 <!-- TAGMAN //-->
+	
+	<script type="text/javascript">
+		var tgmKey="br.news_educacao.articles";
+	</script>
+	<script type="text/javascript">
+		var idItemMenu = "not-educ-enem";
+	</script>
+	 <script type="text/javascript" src="http://s1.trrsf.com.br/tagman/js/tagman_cache.js"></script>
+	<script type="text/javascript">tgm.ShowArea("default");</script>
+	 <!-- CERTIFICA 'Q'-->
+	
+		
+			   		
+		 
+			   <script language="JavaScript" type="text/javascript">
+	<!--//
+	var terra_info_service = "Pubv6",
+	terra_info_channel = "br.noticias.educacao",
+	terra_info_type = "NOT",
+	terra_info_id = "OI5759540-EI8398",
+	terra_info_channeldetail = "enem",
+	terra_info_pubdate = "07/05/2012 16h11",
+	terra_info_changedate = "07/05/2012 16h15",
+	
+	terra_info_source = "terra",
+	 
+		terra_stats_idCrtfc = 300097,
+		terra_stats_uv_c = "enem";
+	  //-->
+	</script>
+	<script type="text/javascript" charset="iso-8859-1" src="http://s1.trrsf.com.br/metrics/js/br/content.js"></script>
+	<!-- / CERTIFICA -->
+
+	<!-- VGN6#cHJvdG9uX2xpYl9hbm5vdGF0aW8=#seg mai 07 16:14:51 2012# -->
+ 
+	
+	 
+
+	<!-- ANNOTATIO //-->
+	<meta property="og:url" content="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5759540-EI8398,00-Ministro+Mercadante+admite+que+Enem+pode+dar+mais+problemas.html" />
+	<meta property="og:title" content="Ministro Mercadante admite que Enem pode dar mais problemas" /> 
+	<meta property="og:type" content="article" /> 
+	<meta property="fb:admins" content="1640032884" />
+	<meta property="og:image" content="http://s1.trrsf.com.br/atm/3/core/_img/terra-logo-white-bg-v2.jpg" />
+	<link rel="image_src" href="http://s1.trrsf.com.br/atm/3/core/_img/terra-logo-white-bg-v2.jpg" />
+	<script src="http://connect.facebook.net/pt_BR/all.js"></script>
+	<script charset="UTF-8" src="http://s1.trrsf.com.br/transversais/comments/v5.0/_js/annotatio.js" type="text/javascript"></script> 
+	<link rel="stylesheet" type="text/css" href="http://s2.trrsf.com.br/transversais/comments/v5.0/_css/annotatio.css" /> 
+	<script type="text/javascript">
+		var annotatio_objectDescription = 'Ministro Mercadante admite que Enem pode dar mais problemas',
+		annotatio_imgThumbPath = "",   // variavel redeclarada ao final do template
+		annotatio_absDescription = "", // variavel redeclarada ao final do template
+		annotatio_groupPath = "br.noticias.educacao";
+	</script>
+	<!-- // ANNOTATIO //-->
+
+	
+		 <!-- ADVERTISING //-->
+
+	<!-- // ADVERTISING //-->  
+		 <script type="text/javascript" src="http://s1.trrsf.com.br/atm/2/core/_js/jquery.js"></script>
+	<script type="text/javascript" src="http://s1.trrsf.com.br/atm/2/core/_js/jquery.checkbox.radiobutton.js"></script>
+	<script type="text/javascript" src="http://s1.trrsf.com.br/atm/2/core/apps/headerfooter/_js/modHeaderFooterStatic.js"></script>
+	
+	<script type="text/javascript" src="http://s1.trrsf.com.br/navbar/js/json_landing_1.js"></script>
+	 </head>
+
+
+<body class='LNG_pt LNG_pt-BR RGN_BR'>
+
+	<!-- VGN6#cHJvdG9uX2xpYl9hY2Nlc3NpYmlsaXR5#seg mai 07 16:14:51 2012# -->
+ <!-- ACCESSIBILITY //-->
+	<ul class="lst-accessibility">
+		<li><a href="#" accesskey="t">Ir ao topo da página</a></li>
+		<li><a href="#menu" accesskey="m">Ir ao menu</a></li>
+		<li><a href="#content" accesskey="c">Ir ao conteúdo</a></li>
+		<li><a href="#search" accesskey="s">Ir para a busca</a></li>
+		<li><a href="#footer" accesskey="f">Ir ao rodapé</a></li>
+	</ul>
+	<!-- // ACCESSIBILITY //-->
+
+	<!-- VGN6#cHJvdG9uX2xpYl9zdHJ1Y3R1cmU=#seg mai 07 16:14:51 2012# -->
+ <!-- SCTRUCTURE //-->
+	<div id="trr-ctn-general">
+
+
+	 <!-- VGN6#cHJvdG9uX2xpYl9oZWFkZXI=#seg mai 07 16:14:51 2012# -->
+ <!-- HEADER //-->
+		<a name="menu"></a><a name="search"></a>
+		
+		<div id="mod-header" class="withSubMenu header-footer-loaded"><div class="ctn-adverising-bar"><h4 class="ttl-terra"><a href="http://www.terra.com.br/portal/">Terra</a></h4><div id="tgm-top" class="ctn-advertising"><!-- --></div><div id="tgm-pagesponsor"><!-- --></div></div><div class="ctn-main-bar"><div class="ctn-date"><!-- --></div><div class="ctn-sitemap"><div class="lin-div-vertical"><!-- --></div><a href="http://www.terra.com.br/indice" target="_top" rel="102" title="Todos os canais">Todos os canais</a></div><div class="ctn-search"><div class="lin-div-vertical"><!-- --></div><a name="search"><!-- --></a><form lang="atmors" target="_top" method="post" action="http://buscador.terra.com.br/default.aspx?source=Search"><fieldset><legend>Busca</legend><div class="ctn-search-ca"><span class="rdo-replace rdo-checked">Radio</span><input type="radio" checked="checked" class="chk-rdo-replace replaced" value="s" id="rdo-web-search" name="ca"/><label for="rdo-web-search">na Web</label><span class="rdo-replace">Radio</span><input type="radio" class="chk-rdo-replace replaced" value="l" id="rdo-terra-search" name="ca"/><label for="rdo-terra-search">no Terra</label></div><label for="fld-top-search">Busca</label><input type="text" class="fld-top-search" id="fld-top-search" name="query"/><input type="image" src="http://s1.trrsf.com.br/atm/3/core/apps/headerfooter/_img/btn-search.gif" value="Buscar" title="Buscar"/></fieldset></form></div><div class="ctn-icons"><ul class="lst-icons"><li class="itm-ema"><span><a rel="140" target="_blank" href="http://mail.terra.com.br" title="Email" >Email</a></span></li><li class="itm-hor"><span><a rel="141" target="_top" href="http://www.terra.com.br/horoscopo/" title="Horóscopo" >Horóscopo</a></span></li><li class="itm-wea"><span><a rel="142" target="_top" href="http://www.climatempo.com.br/" title="Tempo" >Tempo</a></span></li></ul></div><div class="ctn-services-links"><div class="ctn-services"><a target="_top" class="lnk-services" href="#">Assinaturas e serviços</a></div></div></div><div class="ctn-navigation-bar"><div class="ctn-main-menu br BR"><div class="ctn-menu"><div class="ctn-first-menu"><ul><li class="bcr-not itm-layer"><span class="btn-menu selected"><a href="http://noticias.terra.com.br/"><span>Notícias</span><span class="spn-over">»</span></a></span></li><li class="bcr-eco itm-layer"><span class="btn-menu"><a href="http://economia.terra.com.br"><span>Economia</span><span class="spn-over">»</span></a></span></li><li class="bcr-esp itm-layer"><span class="btn-menu"><a href="http://esportes.terra.com.br/"><span>Esportes</span><span class="spn-over">»</span></a></span></li><li class="bcr-div itm-layer"><span class="btn-menu"><a href="http://diversao.terra.com.br/"><span>Diversão</span><span class="spn-over">»</span></a></span></li><li class="bcr-vida itm-layer"><span class="btn-menu"><a href="http://vidaeestilo.terra.com.br/"><span>Vida e Estilo</span><span class="spn-over">»</span></a></span></li><li class="bcr-trtv itm-layer"><span class="btn-menu"><a href="http://terratv.terra.com.br/"><span>Terra TV</span><span class="spn-over">»</span></a></span></li><li class="bcr-sutv itm-layer"><span class="btn-menu"><a href="http://sundaytv.terra.com.br/Web/"><span>Sunday Tv</span><span class="spn-over">»</span></a></span></li><li class="bcr-son itm-layer"><span class="btn-menu"><a href="http://sonora.terra.com.br/"><span>Sonora</span><span class="spn-over">»</span></a></span></li><li class="bcr-shop itm-layer"><span class="btn-menu"><a href="http://www.terraofertas.com.br/?id=id_pagina"><span>Ofertas</span><span class="spn-over">»</span></a></span></li></ul></div></div><div class="ctn-aidnavigation"><ul><li class="bcr-dia itm-layer"><span class="btn-menu"><a target="_top" href="#"><span>Dia-a-Dia</span><span class="spn-over">»</span></a></span></li><li class="bcr-chat itm-layer"><span class="btn-menu"><a target="_top" href="http://chat.terra.com.br/"><span>Chat</span><span class="spn-over">»</span></a></span></li><li class="bcr-vcr itm-layer"><span class="btn-menu"><a target="_top" href="http://noticias.terra.com.br/vcreporter"><span>VC Repórter</span><span class="spn-over">»</span></a></span></li></ul></div></div><div class="ctn-second-menu"><ul><ul><li class="bcr-not-bras itm-layer"><span><a target="_top" href="http://noticias.terra.com.br/brasil/" class="">Brasil</a></span></li><li class="bcr-not-cien itm-layer"><span><a target="_top" href="http://noticias.terra.com.br/ciencia/" class="">Ciência</a></span></li><li class="bcr-not-educ itm-layer"><span><a target="_top" href="http://noticias.terra.com.br/educacao/" class="">Educação</a></span></li><li class="bcr-not-mund itm-layer"><span><a target="_top" href="http://noticias.terra.com.br/mundo/ultimasnoticias/0,,EI294,00.html" class="">Mundo</a></span></li><li class="bcr-not-tecn itm-layer"><span><a target="_top" href="http://tecnologia.terra.com.br/" class="">Tecnologia</a></span></li><li class="bcr-not-tmag itm-layer"><span><a target="_top" href="http://terramagazine.terra.com.br/" class="">Terra Magazine</a></span></li></ul><ul class="lst-special"><li class="bcr-not-emun"><strong><a target="_top" href="http://noticias.terra.com.br/eleicoes/2012/">Eleições municipais</a></strong></li><li class="bcr-not-eeua"><strong><a target="_top" href="http://noticias.terra.com.br/mundo/eua/eleicoes/2012">Eleições nos EUA</a></strong></li></ul><ul class="lst-more"><li><span><a href="#">Mais Notícias</a></span></li></ul></ul></div></div></div>
+		 <script type="text/javascript">
+			modHeaderFooter({
+					pageLang:'br',
+					pageCountry:'BR',
+					selector:"#mod-header",
+					params: {
+						request_url: "http://stf.terra.com.br/navbar/js/json_1.js",
+						idItemMenu:"not-educ-enem",
+						format:"full",
+						selectorFooter:"#mod-footer"
+					}
+			});
+		</script>
+		<div id="tgm-top"><!-- --></div>
+		<!-- // HEADER //-->
+
+	 
+<h1 class="ttl-top"><a href="/educacao/enem/ultimasnoticias/0,,EI8398,00.html"><img height="30" alt="ENEM" src="http://sdp.terra.com.br/image/klavika?c=ph&t=ENEM"/></a></h1>
+
+<!-- VGN6#cHJvdG9uX2ludGVybmFfbWlvbG8=#seg mai 07 16:14:51 2012# -->
+<!-- VGN6#cHJvdG9uX2JveF9lbGVtZW50b3NyZWxfQkQ=#seg mai 07 16:14:51 2012# --><!-- VGN6#cHJvdG9uX2xpYl9yZXVzZV9iYXNlX2ltZw==#551525#seg mai 07 16:14:51 2012# -->
+	
+	 
+		<!-- BODY COMPOSITION //-->
+		<a name="content"></a>
+		<div id="trr-ctn-body">
+		 <!-- EP0002 --><!-- /EP0002 -->
+			<div class="ctn-zone-clean bgr-lfr">
+				<!-- CONTENT AREA //-->
+				<div class="col-left-full">
+					
+					<!-- 76 //-->
+					<div class="mod-socialize">
+					               <div class="lin-hor-dotted">&nbsp;</div>
+					               <div class="sponsored-block">
+					                               <div id="tgm-pbuttons1" class="adv-socialize first-label"><!-- tgm-pbuttons1 / PLACEHOLDER -->&nbsp;</div>
+					                               <div id="tgm-pbuttons2" class="adv-socialize second-label"><!-- tgm-pbuttons2 / PLACEHOLDER -->&nbsp;</div>
+					                               <!-- CONTENT SHARER -->
+					                               <div id="contentSharerResult" class="contentSharerResult"><!-- contentSharer / PLACEHOLDER -->&nbsp;</div>                                                               
+					                               <!-- END CONTENT SHARER -->
+					               </div>
+					               <div class="lin-hor-dotted">&nbsp;</div>
+					</div>
+					<!-- // 76 //-->
+					
+					<!-- 77 //-->
+					<a name="header"></a>
+					<div class="mod-title">
+						<h3>
+ 
+			<a href="/">Notícias</a>&nbsp;&raquo;
+		  
+			<a href="/educacao">Educação</a>&nbsp;&raquo;
+		  
+	 <a href="/educacao"><strong>Educação</strong></a>
+ </h3>
+						<h1><span>&nbsp;</span>Ministro Mercadante admite que Enem pode dar mais problemas<br />
+
+
+	  
+		    	
+		<em>07 de maio de 2012 <strong>&bull;</strong> 16h11 
+			
+				 <strong>&bull;</strong> atualizado &agrave;s 16h15   </em>
+	</h1> 
+					</div>
+					<!-- // 77 //-->
+					<div class="tabs">
+<!-- VGN6#cHJvdG9uX2xpYl9pbnRlcm5hX25hdmlnYXRpb24=#seg mai 07 16:14:51 2012# -->
+ <!-- 81 + 82 + 83 + 84 > NAVIGATION //-->
+						
+						
+						<!-- TOOLS -->
+						<div class="ctn-tools printing">
+							<ul>
+								<li>
+
+									<ol class="ctn-fontsize" title="Tamanho da letra">
+										<li class="r"><a href="#reduce">Reduzir</a></li>
+										<li class="n"><a href="#normal" class="act">Normal</a></li>
+										<li class="i"><a href="#increase">Aumentar</a></li>
+									</ol>
+								</li>
+								<li><a href="#print" class="ico-print" title="Imprimir">Imprimir</a></li>
+
+							</ul>
+							<div class="adv" id="tgm-buttontools"><!-- --></div>
+						</div>
+						<!-- //TOOLS -->
+						
+						
+
+						<div class="mod-tabs">
+							<ol type="A" class="lst-tabs tab-list">
+								<li class="selected"><a href="#article" class="itm-article anchor">Notícia</a></li>
+ </ol>
+						</div>
+						<!-- // 81 + 82 + 83 + 84 > NAVIGATION //-->
+<!-- VGN6#cHJvdG9uX2ludGVybmFfbWlvbG9fbm90aWNpYQ==#seg mai 07 16:14:51 2012# -->
+ <!-- 81 //-->
+						<a name="article"></a>
+						<div class="mod-content mod-article tab-content" id="article">
+ <!-- MIDDLE CONTENT SHARE -->
+	<div class="cshare-counter">
+		<div id="contentSharerResult3"></div>			
+			<div class="cm-count dt-total-comments-off">	
+				<div class="lin-hor-dotted"><hr /></div>						
+				<a onclick="_self.showModalForm('insert');" href="#comment" title="Comentar" class="common-ui-block common-ui-block-comment" id="contentSharer-lnk-comment-2" rel="commentBottom">Comentar</a> <span><strong class="total-comments"></strong></span>
+			</div>									
+	</div>
+	<!-- MIDDLE CONTENT SHARE -->
+				
+
+
+							<div class="page fontsize p1 printing">
+								<dl class="author">
+								</dl>
+							</div>
+
+							<div class="page fontsize p1 printing" id="SearchKey_Text1">
+								<dl class="fontsize">
+<dt>Giuliander Carpes</dt>
+<dd>Direto do Rio de Janeiro</dd>
+</dl>
+
+<p>O Exame Nacional do Ensino Médio (Enem) pode voltar a dar problemas para o Ministério da Educação, admitiu nesta segunda-feira o ministro Aloizio Mercadante, que deu uma palestra na Escola de Pós-Graduação em Economia da Fundação Getúlio Vargas (FGV), no Rio de Janeiro. O ministro justifica que o Enem ainda é um exame com pouco tempo de utilização (foi aplicado pela primeira vez em 1998) e que pode ter dificuldades principalmente porque tem uma magnitude muito grande.</p>
+
+<p><a href="http://www.terra.com.br/noticias/educacao/infograficos/enem-por-escola/" class="textolinkbold" target="_blank"><b>Até R$ 3 mil: veja quanto custa estudar nas melhores escolas do Enem</b></a>
+
+
+<p>"São 5,4 milhões de alunos, 400 mil pessoas trabalhando e 140 mil salas de aula em todo o país. E temos de manter o sigilo absoluto das questões. Precisamos checar 1,2 mil itens de segurança antes da aplicação da prova, então é claro que pode dar problema", afirmou o ministro. "Mas todos os países desenvolvidos têm uma ferramenta semelhante. O dos Estados Unidos já funciona há 85 anos e mesmo assim houve fraude no ano passado."</p>
+
+<p>O último problema ocorreu no ano passado, quando 630 alunos do Colégio Christus, em Fortaleza (CE), fizeram um simulado que contava com nove questões idênticas ao exame do Enem aplicado duas semanas mais tarde. Em 2009, uma gráfica que confeccionava as provas em São Paulo permitiu o vazamento de questões. </p>
+
+<p>Mercadante acredita que os problemas serão resolvidos no médio prazo. "São problemas que estamos trabalhando para solucionar. Tenho certeza que conseguiremos e poderemos formatar um exame que não seja aplicado apenas uma vez no ano, mas dê condições de os alunos terem uma segunda chance também." O ministro conta com o auxílio de comissões de universidades federais para elaboração de mais questões de exercícios. "Meu sonho é que a gente consiga propor 10 mil exercícios e torna-los públicos na internet. Daí o aluno que conseguir decorar todos realmente merece passar na prova", brincou.</p> 
+ </div>
+							<div class="nav">
+								<div class="cross">
+									<ol type="A">
+ </ol>
+									<span>&nbsp;</span>
+								</div>
+								<div class="channel">
+								
+									
+										<a href="/educacao/enem/ultimasnoticias/0,,EI8398-SUQ,00.html" class="next">Mais notícias de Enem &raquo;</a>
+									  </div>
+							</div>
+							<dl class="credits fontsize printing">
+
+	
+							<dd>Terra</dd>
+	 </dl>
+						</div>
+						<!-- // 81 //-->
+ </div>
+
+					<!-- 76 -->				
+							
+					<div class="mod-socialize">
+						
+						<div class="lin-hor-dotted">&nbsp;</div>
+						
+						<!-- COMMENT COUNT + PRINT -->
+						<div class="onsharebar">
+							<ul>
+								<li class="common-ui common-ui-comment dt-total-comments-off">
+									<div class="cm-count">
+										<a rel="commentBottom" id="contentSharer-lnk-comment-2" class="common-ui-block common-ui-block-comment" title="Comentar" href="#comment" onclick="_self.showModalForm('insert');">Comentar</a> <span><strong class="total-comments"></strong></span>
+									</div>
+								</li>
+								<li class="common-ui common-ui-print">
+									<div class="ctn-tools printing">
+										<ul>
+											<li><a title="Imprimir" class="ico-print" href="#print">Imprimir</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<!-- //COMMENT COUNT + PRINT -->
+						<!-- CONTENT SHARER -->
+                    	<div id="contentSharerResult2"></div>
+                   		 <!-- END CONTENT SHARER -->
+	               		<div class="lin-hor-dotted">&nbsp;</div>									   
+					</div>
+					<!-- // 76 //-->
+					
+					
+						<!-- 172 //-->
+						  
+								
+								<div class="mod-links printing">
+									<h5><span>Links relacionados</span></h5>
+									<div class="col-left-full">
+										<div class="col-left list fontsize">
+										
+											
+												 <ul class="lst-headlines lst-clean">  
+													        
+													<li><a href="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5759337-EI8398,00-MEC+correcao+de+redacao+do+Enem+tera+criterios+mais+objetivos.html">MEC: correção de redação do Enem terá critérios mais objetivos</a></li>
+												 
+												   
+													        
+													<li><a href="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5730983-EI8398,00-MPF+quer+impedir+que+universidades+usem+Enem+no+semestre.html">MPF quer impedir que universidades usem Enem no 2º semestre</a></li>
+												 
+												   
+													        
+													<li><a href="http://noticias.terra.com.br/educacao/noticias/0,,OI5676144-EI8266,00-Melhores+escolas+no+Enem+tem+carga+horaria+de+ate+horas.html">Melhores escolas no Enem têm carga horária de até 50 horas</a></li>
+												 
+												   
+													        
+													<li><a href="http://noticias.terra.com.br/educacao/noticias/0,,OI5669741-EI8266,00-Apesar+das+falhas+expresidente+do+Inep+diz+que+Enem+foi+exitoso.html">Apesar das falhas, ex-presidente do Inep diz que Enem foi exitoso</a></li>
+												 
+												   
+													        
+													<li><a href="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5656849-EI8398,00-MPF+quer+investigar+mais+escolas+do+CE+por+vazamento+no+Enem.html">MPF quer investigar mais 29 escolas do CE por vazamento no Enem</a></li>
+												 
+												   
+													        
+													<li><a href="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5654326-EI8398,00-MPF+denuncia+pessoas+pelo+vazamento+de+questoes+do+Enem.html">MPF denuncia 5 pessoas pelo vazamento de questões do Enem</a></li>
+												  </ul> 
+<div class="lin-hor-dotted lin-spacer">&nbsp;</div>
+<div class="bgr-lightgray">
+	<h5 class="ttl-reporter"><span>&#91;vc&#93; repórter</span></h5>
+	<span class="lin-ver-dotted">&nbsp;</span>
+	<a href="http://noticias.terra.com.br/vcreporter"><strong class="lnk-more">Envie sua foto, notícia ou vídeo &raquo;</strong></a>
+</div>
+ </div>
+										<div class="col-skinny">&nbsp;
+											<!-- inicio -->
+											 &nbsp; <!-- fim -->
+										</div>
+									</div>
+								</div> 
+								<div class="lin-hor-solid printing">&nbsp;</div>
+								 <!-- // 172 //-->
+					 <!-- 80 //-->
+					
+					<a name="comment"></a>
+					<div id="divAnnotatio"></div>
+					<!-- // 80 //-->
+
+					<div class="lin-hor-solid">&nbsp;</div>
+
+					<div class="adv-ppp">
+						<div id="tgm-textlinks"> <!-- --> </div>
+					</div>
+
+				</div>
+				<!-- // CONTENT AREA //-->
+				
+					<!-- VGN6#cHJvdG9uX2xpYl9yaWdodGNvbHVtbg==#seg mai 07 16:14:51 2012# -->
+ <!-- RIGHT COLUMN //-->
+				<div class="col-right">
+					<!-- 175 //-->
+					<div class="mod-latestnews tabs">
+						<h5 class="ttl-latestnews">
+							<span>Últimas »</span>
+						</h5>
+						<ul class="lst-tabs tab-list">
+						
+							<li class="lin-ver-dotted selected">
+								<a title="Notícias" href="#latestnews" class="lnk-news">Notícias</a>
+							</li>
+						   </ul>
+
+						
+							<ol id="latestnews" class="lst-latestnews tab-content" >
+							
+							<!-- "/educacao/enem/ultimasnoticias/comp/0,,EI8398-DTH-VJN-VFN-LI3-CL1-LL1-EDS,00.html" -->
+							<!-- Vignette V6 Mon May 07 16:10:42 2012 -->
+<!-- VGN6#cHJvdG9uX2xpYl9ub3RpY2lhc19saXN0YV9jb21w#seg mai 07 16:10:45 2012# -->
+
+	<!-- VGN6#cHJvdG9uX2xpYl9ub3RpY2lhc19saXN0YQ==#seg mai 07 16:10:45 2012# -->
+<!-- CODE:1 -->    
+		
+			 
+				     
+				
+					    
+				 
+				  
+				   <li ><a href="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5759540-EI8398,00-Ministro+Mercadante+admite+que+Enem+pode+dar+mais+problemas.html"  alt="Ministro Mercadante admite que Enem pode dar mais problemas. Fonte: Terra" title="Ministro Mercadante admite que Enem pode dar mais problemas. Fonte: Terra" ><em>16h11</em> <strong>Ministro Mercadante admite que Enem pode dar mais problemas</strong></a></li>
+		  
+		
+			 
+				      
+				 
+				  
+				   <li class='lin-hor-dotted'><a href="http://noticias.terra.com.br/educacao/enem/noticias/0,,OI5759337-EI8398,00-MEC+correcao+de+redacao+do+Enem+tera+criterios+mais+objetivos.html"  alt="MEC: correção de redação do Enem terá critérios mais objetivos. Fonte: Agência Brasil" title="MEC: correção de redação do Enem terá critérios mais objetivos. Fonte: Agência Brasil" ><em>14h42</em> <strong>MEC: correção de redação do Enem terá critérios mais objetivos</strong></a></li>
+		  
+		
+			 
+				     
+				
+					    
+				 
+				  
+				   <li class='lin-hor-dotted'><a href="http://noticias.terra.com.br/educacao/noticias/0,,OI5734332-EI8266,00-Dilma+programa+vai+levar+mil+estudantes+ao+exterior+neste+ano.html"  alt="Dilma: programa vai levar 20 mil estudantes ao exterior neste ano. Fonte: Agência Brasil" title="Dilma: programa vai levar 20 mil estudantes ao exterior neste ano. Fonte: Agência Brasil" ><em>08h46</em> <strong>Dilma: programa vai levar 20 mil estudantes ao exterior neste ano</strong></a></li>
+		  
+		   
+			
+				
+				<li class="lnk-more"><a href="/educacao/enem/ultimasnoticias/0,,EI8398-SUQ,00.html" target="_top">Mais notícias »</a></li>
+				   </ol>
+		  
+							    </div>
+					<!-- // 175 //-->
+					<div class="lin-hor-dotted lin-spacer">&nbsp;</div>
+					  <div class="adv-box"><div id="tgm-right"> <!-- --> </div></div>
+					<div class="lin-hor-dotted lin-spacer">&nbsp;</div>
+					 <!-- 43 + 44 //-->
+					
+					<!-- /bcg/audience_pulse_noticias_br_educacao_v2010.html -->
+					<div id="mod-audience-pulse-ver"><div class="ctn-section"><h2 class="ttl-section"><span>Mais vistos</span></h2></div><ul><li class="news clearfix"><a href="http://noticias.terra.com.br/educacao/noticias/0,,OI5761341-EI8266,00-UFJF+e+a+universidade+que+mais+aprova+em+exame+da+OAB.html"><br/></a><a href="http://noticias.terra.com.br/educacao/noticias/0,,OI5761341-EI8266,00-UFJF+e+a+universidade+que+mais+aprova+em+exame+da+OAB.html"><span class="kicker">Notícia</span><br/><strong> UFJF é a universidade que mais aprova em exame da OAB </strong><br/><span class="counter"><big>8.153</big> visitas</span></a></li><li class="photos clearfix"><a href="http://noticias.terra.com.br/ciencia/fotos/0,,OI199665-EI238,00-Formigas+dao+show+de+malabarismo+para+carregar+comida.html" onclick="if (window.validateGalleryLink) validateGalleryLink(event, this.href); else return false;"><span class="img"><img src="http://p2.trrsf.com.br/image/get?o=cf&amp;w=89&amp;h=67&amp;src=http%3A%2F%2Fp2.trrsf.com.br%2Fimage%2Ffget%2Fcf%2F300%2F300%2Fimg.terra.com.br%2Fi%2F2012%2F05%2F08%2F2328373-9041-rec.jpg" width="89" height="67" alt="Formigas dão show de malabarismo para carregar comida"/></span><br/></a><a href="http://noticias.terra.com.br/ciencia/fotos/0,,OI199665-EI238,00-Formigas+dao+show+de+malabarismo+para+carregar+comida.html" onclick="if (window.validateGalleryLink) validateGalleryLink(event, this.href); else return false;"><span class="kicker">Foto</span><br/><strong><em class="photo">Foto: </em> Formigas dão show de malabarismo para carregar comida </strong><br/><span class="counter"><big>89.892</big> visitas</span></a></li><li class="videos clearfix"><a href="http://terratv.terra.com.br/noticias/ciencia-e-tecnologia/4195-414250/super-lua-deixou-o-ceu-mais-iluminado-em-todo-o-mundo-veja.htm"><span class="img"><img src="http://p2.trrsf.com.br/image/get?o=cf&amp;w=89&amp;h=67&amp;src=http%3A%2F%2Fsdp.terra.com.br%2FThumBox%2Ffree%2Fcnt414250_h90_w120_super-lua-deixou-o-ceu-mais-iluminado-em-todo-o-mundo-veja.jpg" width="89" height="67" alt="Super Lua deixou o céu mais iluminado; veja"/><span>&nbsp;</span></span><br/></a><a href="http://terratv.terra.com.br/noticias/ciencia-e-tecnologia/4195-414250/super-lua-deixou-o-ceu-mais-iluminado-em-todo-o-mundo-veja.htm"><span class="kicker">Vídeo</span><br/><strong><em class="video">Vídeo: </em>Super Lua deixou o céu mais iluminado; veja</strong><br/><span class="counter"><big>4.552</big> visitas</span></a></li><li class="series clearfix"><a href="http://sundaytv.terra.com.br/Web/Movie/35729"><span class="img"><img src="http://p2.trrsf.com.br/image/get?o=cf&amp;w=89&amp;h=67&amp;src=http%3A%2F%2Fvideostore-medias.s3.amazonaws.com%2FIMAGES%2F00%2F00%2F14%2F146578_C1D74E5409366AE4.jpg" width="89" height="67" alt="Entrevista com o ator Reynaldo Gianecchini"/><span>&nbsp;</span></span><br/></a><a href="http://sundaytv.terra.com.br/Web/Movie/35729"><span class="kicker">Série ou Filme</span><br/><strong><em class="video">Vídeo: </em>Entrevista com o ator Reynaldo Gianecchini</strong><br/><span class="counter"><big>3.090</big> visitas</span></a></li></ul></div>				
+					 
+<div class="lin-hor-dotted lin-spacer">&nbsp;</div>
+<div id="tgm-right2" class="ctn-tgm ctn-tgm-right">&nbsp;</div> <!-- // 43 + 44 //-->
+					<!-- 41 //-->
+
+	  
+<!-- Vignette V6 Thu Jul 15 14:23:07 2010 -->
+
+	
+		 
+		 <div class="lin-hor-dotted  lin-spacer"> </div>
+<!-- MOBILE - MOD 41 //--> 
+	<div class="mod-mobile mod-mobile-aside">
+        <div class="ctn-section">
+        	<h2 class="ttl-section ttl-mobile clearfix"><a href="http://www.terra.com.br/celular"><span>Celular</span></a></h2>
+        </div>
+        <a href="http://celular.terra.com.br/noticias_sms_novo/capa.htm" class="img">
+       		<img width="74" src="http://stf.terra.com.br/portal/core/2/apps/mobile/_img/mod-mobile-sample.jpg" alt="" />
+        </a>
+		
+		        <h3>Torpedo - Notícias nacionais</h3>
+		        <p class="txt regular">Informações sobre o dia a dia das principais cidades brasileiras</p>
+			  
+		        <h3>Envie NAC para 83772</h3>
+		        <p class="txt italic">Operadoras: Claro, Vivo, TIM, OI, BRT e CTBC</p>                            
+		        <a href="http://celular.terra.com.br/noticias_sms_novo/capa.htm" class="btn-general btn-see-more">Saiba mais</a>
+			  <p class="txt acess">Acesse o terra do seu celular <strong>m.terra.com.br</strong></p>
+	</div>
+<!-- // MOBILE - MOD 41 //-->
+
+	<!--include virtual="/educacao/enem/modulos/celular/0,,HE0,00.html"-->
+						 
+<div class="lin-hor-dotted lin-spacer">&nbsp;</div>
+
+					
+<div id="fb-activity"></div>
+<div class="lin-hor-dotted lin-spacer">&nbsp;</div>
+
+<div id="tgm-ppi" class="ctn-tgm ctn-tgm-ppi">&nbsp;</div>
+ <!-- // 41 //-->
+				</div>
+				<!-- // RIGHT RAIL //-->
+  </div>
+		</div>
+		<!-- // BODY COMPOSITION //-->
+	
+<script>
+annotatio_imgThumbPath = "";
+annotatio_absDescription = "<dl class=fontsize>  <dt>Giuliander Carpes</dt>  <dd>Direto do Rio de Janeiro</dd>  </dl>    <p>O Exame Nacional do Ensino Médio (Enem) pode voltar a dar problemas para o Ministério da Educação, admitiu nesta segunda-feira o ministro Aloizio ...";
+</script>
+
+	<!-- VGN6#cHJvdG9uX2xpYl9mb290ZXI=#seg mai 07 16:14:51 2012# -->
+ <!-- FOOTER //-->
+		<a name="footer"></a>
+		<div id="tgm-bottom" class="ctn-tgm ctn-tgm-bottom">&nbsp;</div>
+		<div id="mod-footer">&copy; Terra</div>
+		<!-- // FOOTER //-->
+		<script type="text/javascript">tgm.ShowArea("default",'site=' + site ,'zone=' + zone);</script>
+	
+				
+			
+	 	
+		<!-- BARRA TERRA -->
+		
+	
+	
+		<div id="fb-root"></div>
+		
+		<script type="text/javascript" charset="UTF-8" src="http://s1.trrsf.com.br/transversais/trr_bar/_js/trr_bar.js"></script>
+		
+		<div id="trr-root"></div>
+		
+		<script type="text/javascript" charset="UTF-8">
+			// Chamado pelo dono da pagina
+			$(document).ready(function(){
+				TrrBar.init();
+			});
+		</script>
+	 <!-- // BARRA TERRA -->	
+	 </div>
+	<!-- // SCTRUCTURE //-->
+
+	<!-- VGN6#cHJvdG9uX2xpYl9zY3JpcHRz#seg mai 07 16:14:51 2012# -->
+
+	
+		<!-- VGN6#cHJvdG9uX2xpYl9ib3R0b21qc19ub3RpY2lhcw==#seg mai 07 16:14:51 2012# -->
+	<!-- SCRIPTS //-->
+	<script type="text/javascript" src="http://s1.trrsf.com.br/atm/2/core/_js/jquery.tabs.js"></script>
+	<script type="text/javascript" src="http://s1.trrsf.com.br/atm/2/core/_js/core.modMan.js"></script>
+	
+	<script type="text/javascript" src="http://s1.trrsf.com.br/atm/2/pt/articles/_js/deployment.js"></script>
+	 <!-- // SCRIPTS //-->
+	
+	<!-- EXTRA SCRIPT 2.0T -->
+	
+<script language="javascript" type="text/javascript" src="http://stf.terra.com.br/portal/core/2/apps/modules-2010/_js/context.js"></script>
+<script type="text/javascript">
+	var Feeds = {terraTV : "http://s1.trrsf.com.br/carousel/br/terratv/br_noticias_terratv.js"};
+</script>
+ <!-- // EXTRA SCRIPT 2.0T // --> 
+	
+		<!-- VGN6-#cHJvdG9uX2xpYl9hZHZlcnRfYm90dG9tX25vdGljaWFz#seg mai 07 16:14:51 2012# -->
+
+	<!-- ADVERTISING //-->
+	<script type="text/javascript"> 
+		function positionAds(selector, positioner) {
+			if(!$(positioner).length || !$(selector).length) {
+				
+				return;
+			}
+			$(selector).css("top",$(positioner).offset().top);
+		}
+	</script>
+	<div id="trr-ctn-advertising">
+	
+		<div id="ctn-tgm-top" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("top","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-top","#tgm-top")</script>
+
+	
+			
+		<div id="ctn-tgm-pbuttons1" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("pbuttons1","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-pbuttons1","#tgm-pbuttons1")</script>
+		
+		<div id="ctn-tgm-pbuttons2" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("pbuttons2","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-pbuttons2","#tgm-pbuttons2")</script>
+	 <div id="ctn-tgm-right" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("right","site=" + site ,"zone=" + zone)</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-right","#tgm-right")</script>
+
+		
+		<div id="ctn-tgm-right2" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("right2","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-right2","#tgm-right2");</script>
+		 
+		<div id="ctn-tgm-ppi" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("ppi","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-ppi","#tgm-ppi");</script> <div id="ctn-tgm-buttontools" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("buttontools","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-buttontools","#tgm-buttontools");</script>       
+		
+		<div id="ctn-tgm-pollsponsor" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("pollsponsor","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-pollsponsor","#tgm-pollsponsor")</script>
+
+		<div id="ctn-tgm-textlinks" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("textlinks","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">
+			positionAds("#ctn-tgm-textlinks","#tgm-textlinks");
+			$("#tgm-textlinks").height($("#ctn-tgm-textlinks").height());
+			$(".ctn-fontsize a, .col-left-full .tab-list li a, .mod-audience_pulse_ver .tab-list:first li a").click(function() {
+				positionAds("#ctn-tgm-textlinks","#tgm-textlinks");
+				positionAds("#ctn-tgm-bottom","#tgm-bottom");
+			});
+		</script>
+
+		<div id="ctn-tgm-pagesponsor" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("pagesponsor","site=" + site ,"zone=" + zone);</script></div>
+         <script type="text/javascript">positionAds("#ctn-tgm-pagesponsor","#tgm-pagesponsor");</script>
+
+	    <div id="ctn-tgm-sbuttons" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("sbuttons",'site=' + site ,'zone=' + zone);</script></div>
+	    <script type="text/javascript">positionAds("#ctn-tgm-sbuttons","#tgm-sbuttons")</script>
+
+		<div id="ctn-tgm-bottom" class="ctn-tgm-advertising"><script type="text/javascript">tgm.ShowArea("bottom","site=" + site ,"zone=" + zone);</script></div>
+		<script type="text/javascript">positionAds("#ctn-tgm-bottom","#tgm-bottom");</script>
+	
+	</div>
+	<!-- // ADVERTISING //-->
+
+ </body>
+</html>
+

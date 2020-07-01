@@ -1,0 +1,2288 @@
+Sentenca(topic=0): A lista dos chamados exoplanetas, mundos localizados fora do sistema solar, têm um extraordinário novo membro.
+Sentenca(topic=1): Usando telescópios do Observatório Europeu Sul (ESO),  astrônomos descobriram um planeta com sete vezes a massa de Júpiter, o mais pesado dos que giram em torno do Sol,  e outro, com o dobro desse peso.
+Sentenca(topic=1): Ambos os mundos têm massa semelhante à de outros exoplanetas já catalogados, mas não giram em torno de uma estrela - na verdade, giram em torno um do outro.
+Sentenca(topic=1): O pesquisadores Ray Jayawardhana e Valentin D. Ivanov informam a descoberta na edição de quinta-feira do serviço online Science Express,  mantido pela revista Science.
+Sentenca(topic=2): "É um par de irmãos admirável, cada um com cerca de 1% da massa do Sol",  disse Jayawardhana.
+Sentenca(topic=2): "A mera existência é uma surpresa, e a origem e o destino são um mistério".
+Sentenca(topic=3): Cerca de metade das estrelas do tamanho do Sol existem em pares.
+Sentenca(topic=3): O mesmo ocorre com um sexto das anãs marrons, corpos pesados o suficiente para gerar calor, mas não o bastante para iniciar uma reação de fusão nuclear como as estrelas "legítimas".
+Sentenca(topic=3): Nos últimos cinco anos, astrônomos identificaram algumas dezenas de objetos ainda menores que anãs marrons  que não estão presos a nenhum sistema estelar, apelidados de objetos de massa planetária, ou planemos, localizados nos arredores de regiões de formação de estrelas.
+Sentenca(topic=3): O mais recente, Oph 162225-240515, é o primeiro planemo duplo.
+Sentenca(topic=3): Comparando os dados obtidos via telescópio com modelos teóricos,  Jayawardhana e Ivanov estimaram a massa dos componentes do par e concluíram que o planemo duplo é jovem em termos cósmicos, com cerca de um milhão de anos.
+Sentenca(topic=3): Os dois estão separados por uma distância de seis vezes a que existe entre o Sol e Plutão e ficam no berçário de estrelas de Ophiuchus, a 400 anos-luz da Terra.
+Sentenca(topic=4): Acredita-se que planetas nascem das nuvens de poeira  que circulam estrelas, anãs marrons e, até, alguns planemos que flutuam livres pelo espaço.
+Sentenca(topic=4): Mas "é provável que estes planemos irmãos se formaram juntos,  que se partiu em duas, como uma estrela binária em miniatura",  a partir de uma nuvem de gás em contração disse Jayawardhana.
+Sentenca(topic=4): "Estamos resistindo à tentação de chamar o par de planeta duplo porque ele provavelmente não se formou do jeito que os planetas no nosso sistema solar apareceram", acrescenta Ivanov.
+Sentenca(topic=5): Astrônomos do Observatório Europeu Austral, localizado no Chile, anunciaram a descoberta de uma dupla de planetas errantes (sem estrela-mãe) que giram ao redor deles mesmos e que vagam livremente pelo espaço.
+Sentenca(topic=5): Esta é a primeira vez que se observam dois corpos celestes unidos pela gravidade de "planetas flutuantes livres" ("free floating planets", em inglês).
+Sentenca(topic=5): O maior corpo celeste, com uma massa sete vezes maior do que a de Júpiter, foi detectado a cerca de 400 anos-luz de nosso sistema solar.
+Sentenca(topic=5): O fato extraordinário é que ele não gira em volta de uma estrela, mas em torno de outro corpo frio com o dobro de sua massa.
+Sentenca(topic=6): Ray Jayawardhana, da Universidade de Toronto, e Valentin Ivanov, do Observatório Europeu Austral, publicarão a descoberta na "Science Express", site da revista "Science".
+Sentenca(topic=7): Durante os últimos cinco anos, os astrônomos identificaram algumas dúzias de objetos com massas inferiores, flutuando livres nas proximidades de regiões de formação estelar próximas, aos quais chamam de "planemos", mas nunca até agora unidos.
+Sentenca(topic=8): "Este é um par de gêmeos verdadeiramente de destaque, já que cada um tem uma massa de apenas 1% de nosso Sol", declarou Jayawardhana.
+Sentenca(topic=8): "Sua mera existência é uma surpresa e sua origem e seu futuro são um mistério", declarou.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: list  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: exoplanet  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: for  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: extraordinári  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: membr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári_nov_membr
+
+
+------------------------------------------------------------
+Topic: 1
+Word: usand  - Frequency: 1
+Word: telescópi  - Frequency: 1
+Word: observatóri  - Frequency: 1
+Word: europ  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: astr�  - Frequency: 1
+Word: descobr  - Frequency: 1
+Word: planet  - Frequency: 1
+Word: set  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: mass  - Frequency: 2
+Word: júpit  - Frequency: 1
+Word: pes  - Frequency: 2
+Word: gir  - Frequency: 3
+Word: torn  - Frequency: 3
+Word: sol  - Frequency: 1
+Word: dobr  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: semelh  - Frequency: 1
+Word: exoplanet  - Frequency: 1
+Word: já  - Frequency: 1
+Word: catalog  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: estrel  - Frequency: 1
+Word: verdad  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: ray  - Frequency: 1
+Word: jayawardhan  - Frequency: 1
+Word: valentin  - Frequency: 1
+Word: ivanov  - Frequency: 1
+Word: inform  - Frequency: 1
+Word: descobert  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: onlin  - Frequency: 1
+Word: scienc  - Frequency: 2
+Word: express  - Frequency: 1
+Word: mant  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: revist  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_gir_torn
+
+Keyword: 1_gir_torn_mass_pes_scienc
+
+Keyword: 1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul_astr�_descobr_planet_set_vez_júpit_sol_dobr_mund_têm_semelh_exoplanet_já_catalog_nã_estrel_verdad_pesquis_ray_jayawardhan_valentin_ivanov_inform_descobert_ediçã_quint_servic_onlin_express_mant_pel_revist
+
+
+------------------------------------------------------------
+Topic: 2
+Word: par  - Frequency: 1
+Word: irmã  - Frequency: 1
+Word: admir  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 1%  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: jayawardhan  - Frequency: 1
+Word: mer  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: surpres  - Frequency: 1
+Word: orig  - Frequency: 1
+Word: destin  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: mistéri  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer_existent_surpres_orig_destin_sã_mistéri
+
+
+------------------------------------------------------------
+Topic: 3
+Word: cerc  - Frequency: 2
+Word: metad  - Frequency: 1
+Word: estrel  - Frequency: 4
+Word: tamanh  - Frequency: 1
+Word: sol  - Frequency: 2
+Word: exist  - Frequency: 2
+Word: par  - Frequency: 2
+Word: ocorr  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: anãs  - Frequency: 2
+Word: marrons  - Frequency: 2
+Word: corp  - Frequency: 1
+Word: pes  - Frequency: 1
+Word: suficient  - Frequency: 1
+Word: ger  - Frequency: 1
+Word: calor  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: bastant  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: fusã  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: com  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: anos  - Frequency: 3
+Word: astr�  - Frequency: 1
+Word: identific  - Frequency: 1
+Word: dezen  - Frequency: 1
+Word: objet  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: estã  - Frequency: 2
+Word: pres  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: estel  - Frequency: 1
+Word: apelid  - Frequency: 1
+Word: mass  - Frequency: 2
+Word: planetár  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: arredor  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: formaçã  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: oph  - Frequency: 1
+Word: 162225  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: planem  - Frequency: 2
+Word: dupl  - Frequency: 2
+Word: compar  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: obtid  - Frequency: 1
+Word: via  - Frequency: 1
+Word: telescópi  - Frequency: 1
+Word: model  - Frequency: 1
+Word: teóric  - Frequency: 1
+Word: jayawardhan  - Frequency: 1
+Word: ivanov  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: component  - Frequency: 1
+Word: concluír  - Frequency: 1
+Word: jov  - Frequency: 1
+Word: term  - Frequency: 1
+Word: cósmic  - Frequency: 1
+Word: milhã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: separ  - Frequency: 1
+Word: distânc  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: plutã  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: berçári  - Frequency: 1
+Word: ophiuchus  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: terr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_estrel
+
+Keyword: 3_estrel_anos
+
+Keyword: 3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet_estã_mass_planem_dupl
+
+
+------------------------------------------------------------
+Topic: 4
+Word: acredit  - Frequency: 1
+Word: planet  - Frequency: 3
+Word: nasc  - Frequency: 1
+Word: nuvens  - Frequency: 1
+Word: poeir  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: estrel  - Frequency: 2
+Word: anãs  - Frequency: 1
+Word: marrons  - Frequency: 1
+Word: plan  - Frequency: 2
+Word: flutu  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: espac  - Frequency: 1
+Word: provável  - Frequency: 1
+Word: irmã  - Frequency: 1
+Word: form  - Frequency: 2
+Word: junt  - Frequency: 1
+Word: part  - Frequency: 2
+Word: duas  - Frequency: 1
+Word: com  - Frequency: 1
+Word: binár  - Frequency: 1
+Word: miniatur  - Frequency: 1
+Word: nuv  - Frequency: 1
+Word: gás  - Frequency: 1
+Word: contraçã  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: jayawardhan  - Frequency: 1
+Word: resist  - Frequency: 1
+Word: tentaçã  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: par  - Frequency: 1
+Word: dupl  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: provavel  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: jeit  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: ivanov  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_planet
+
+Keyword: 4_planet_estrel_plan_form_part
+
+Keyword: 4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul_anãs_marrons_flutu_livr_pel_espac_provável_irmã_junt_duas_com_binár_miniatur_nuv_gás_contraçã_diss_jayawardhan_resist_tentaçã_cham_par_dupl_porqu_provavel_nã_jeit_noss_sistem_sol_aparec_acrescent_ivanov
+
+
+------------------------------------------------------------
+Topic: 5
+Word: astr�  - Frequency: 1
+Word: observatóri  - Frequency: 1
+Word: europ  - Frequency: 1
+Word: austral  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: chil  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: descobert  - Frequency: 1
+Word: dupl  - Frequency: 1
+Word: planet  - Frequency: 1
+Word: errant  - Frequency: 1
+Word: estrel  - Frequency: 2
+Word: gir  - Frequency: 2
+Word: redor  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: livrement  - Frequency: 1
+Word: pel  - Frequency: 2
+Word: espac  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: vez  - Frequency: 2
+Word: observ  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: corp  - Frequency: 3
+Word: cel  - Frequency: 2
+Word: unid  - Frequency: 1
+Word: gravidad  - Frequency: 1
+Word: flutuant  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: floating  - Frequency: 1
+Word: planets  - Frequency: 1
+Word: inglês  - Frequency: 1
+Word: maior  - Frequency: 2
+Word: mass  - Frequency: 2
+Word: set  - Frequency: 1
+Word: júpit  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: detect  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: extraordinári  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: torn  - Frequency: 1
+Word: fri  - Frequency: 1
+Word: dobr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_corp
+
+Keyword: 5_corp_estrel_gir_pel_vez_cel_maior_mass
+
+Keyword: 5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri_europ_austral_localiz_chil_anunc_descobert_dupl_planet_errant_redor_vag_livrement_espac_primeir_observ_dois_unid_gravidad_flutuant_livr_floating_planets_inglês_set_júpit_foi_detect_cerc_400_anos_noss_sistem_sol_fat_extraordinári_nã_volt_torn_fri_dobr
+
+
+------------------------------------------------------------
+Topic: 6
+Word: ray  - Frequency: 1
+Word: jayawardhan  - Frequency: 1
+Word: univers  - Frequency: 1
+Word: toront  - Frequency: 1
+Word: valentin  - Frequency: 1
+Word: ivanov  - Frequency: 1
+Word: observatóri  - Frequency: 1
+Word: europ  - Frequency: 1
+Word: austral  - Frequency: 1
+Word: public  - Frequency: 1
+Word: descobert  - Frequency: 1
+Word: express  - Frequency: 1
+Word: sit  - Frequency: 1
+Word: revist  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public_descobert_express_sit_revist
+
+
+------------------------------------------------------------
+Topic: 7
+Word: durant  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: anos  - Frequency: 1
+Word: astr�  - Frequency: 1
+Word: identific  - Frequency: 1
+Word: dúz  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: inferior  - Frequency: 1
+Word: flutu  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: proxim  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: formaçã  - Frequency: 1
+Word: estel  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: nunc  - Frequency: 1
+Word: agor  - Frequency: 1
+Word: unid  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior_flutu_livr_proxim_regiõ_formaçã_estel_próxim_cham_nunc_agor_unid
+
+
+------------------------------------------------------------
+Topic: 8
+Word: par  - Frequency: 1
+Word: gêm  - Frequency: 1
+Word: verdadeir  - Frequency: 1
+Word: destaqu  - Frequency: 1
+Word: já  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: mass  - Frequency: 1
+Word: 1%  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: declar  - Frequency: 2
+Word: jayawardhan  - Frequency: 1
+Word: mer  - Frequency: 1
+Word: existent  - Frequency: 1
+Word: surpres  - Frequency: 1
+Word: orig  - Frequency: 1
+Word: futur  - Frequency: 1
+Word: sã  - Frequency: 1
+Word: mistéri  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_declar
+
+Keyword: 8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss_sol_jayawardhan_mer_existent_surpres_orig_futur_sã_mistéri
+
+NUM: 12
+
+
+NUM: 42
+
+
+NUM: 16
+
+
+NUM: 14
+
+
+NUM: 43
+
+
+NUM: 50
+
+
+NUM: 14
+
+
+NUM: 21
+
+
+NUM: 19
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 12
+
+
+NUM: 42
+
+
+NUM: 16
+
+
+NUM: 14
+
+
+NUM: 43
+
+
+NUM: 50
+
+
+NUM: 14
+
+
+NUM: 21
+
+
+NUM: 19
+
+
+---------------BEFORE!-------------
+
+VEC: 0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári_nov_membr
+VEC: 1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul_astr�_descobr_planet_set_vez_júpit_sol_dobr_mund_têm_semelh_exoplanet_já_catalog_nã_estrel_verdad_pesquis_ray_jayawardhan_valentin_ivanov_inform_descobert_ediçã_quint_servic_onlin_express_mant_pel_revist
+VEC: 2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer_existent_surpres_orig_destin_sã_mistéri
+VEC: 3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet_estã_mass_planem_dupl
+VEC: 4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul_anãs_marrons_flutu_livr_pel_espac_provável_irmã_junt_duas_com_binár_miniatur_nuv_gás_contraçã_diss_jayawardhan_resist_tentaçã_cham_par_dupl_porqu_provavel_nã_jeit_noss_sistem_sol_aparec_acrescent_ivanov
+VEC: 5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri_europ_austral_localiz_chil_anunc_descobert_dupl_planet_errant_redor_vag_livrement_espac_primeir_observ_dois_unid_gravidad_flutuant_livr_floating_planets_inglês_set_júpit_foi_detect_cerc_400_anos_noss_sistem_sol_fat_extraordinári_nã_volt_torn_fri_dobr
+VEC: 6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public_descobert_express_sit_revist
+VEC: 7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior_flutu_livr_proxim_regiõ_formaçã_estel_próxim_cham_nunc_agor_unid
+VEC: 8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss_sol_jayawardhan_mer_existent_surpres_orig_futur_sã_mistéri
+
+---------------AFTER!-------------
+
+VEC: 0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári
+VEC: 1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul
+VEC: 2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer
+VEC: 3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet
+VEC: 4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul
+VEC: 5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri
+VEC: 6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public
+VEC: 7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior
+VEC: 8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+SIM: 0.3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+SIM: 0.1
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0833333
+
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 7: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" is "0.1"
+
+CHANGE! -- From: 9 -> TO: 8
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" is "0.1"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" is "0.1"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" is "0.3"
+
+CHANGE! -- From: 9 -> TO: 3
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" is "0.1"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_declar_par_gêm_verdadeir_destaqu_já_tem_mass_1%_noss" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 9
+Topic: 9
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 2 -- Abs: 6
+
+
+Topic change from "8" to "2"
+
+Topic: 8 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 8 -- Topic s_aux: 2 -- Abs: 6
+
+
+Topic change from "8" to "2"
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 3
+Topic: 3
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 6: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" and "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" and "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" is "0.2"
+
+CHANGE! -- From: 8 -> TO: 6
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" and "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" and "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" is "0.2"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" and "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" is "0.1"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" and "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" is "0.1"
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_durant_últim_cinc_anos_astr�_identific_dúz_objet_mass_inferior" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 8
+Topic: 3
+Topic: 3
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 1
+Topic s: 7 -- Topic s_aux: 5 -- Abs: 2
+
+
+Topic change from "7" to "5"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 6
+Topic: 3
+Topic: 3
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 5: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" and "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" is "0.1"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" and "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" is "0"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" and "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" and "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" is "0.1"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" and "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" is "0.2"
+
+CHANGE! -- From: 7 -> TO: 2
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_ray_jayawardhan_univers_toront_valentin_ivanov_observatóri_europ_austral_public" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 6
+Topic: 3
+Topic: 3
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Topic: 6 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 6 -- Topic s_aux: 1 -- Abs: 5
+
+
+Topic change from "6" to "1"
+
+Topic: 5 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 6
+Topic: 3
+Topic: 3
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 4: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" and "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" is "0.1"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" and "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" is "0.1"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" and "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" is "0.1"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" and "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" is "0.3"
+
+CHANGE! -- From: 6 -> TO: 2
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_corp_estrel_gir_pel_vez_cel_maior_mass_astr�_observatóri" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 6
+Topic: 2
+Topic: 6
+Topic: 3
+Topic: 3
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 1 -- Origem: 1
+
+Topic: 5 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 5 -- Topic s_aux: 1 -- Abs: 4
+
+
+Topic change from "5" to "1"
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 3: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" and "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" is "0.1"
+
+CHANGE! -- From: 5 -> TO: 4
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" and "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" is "0"
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" and "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 2: 10
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.3
+
+
+Similarity between "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" and "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" is "0.3"
+
+CHANGE! -- From: 4 -> TO: 3
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" and "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 1: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" and "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" is "0.1"
+
+CHANGE! -- From: 3 -> TO: 2
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.1
+
+
+Similarity between "2_par_irmã_admir_cerc_1%_mass_sol_diss_jayawardhan_mer" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0.1"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 10
+Numero de palavras do tópico 0: 10
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_gir_torn_mass_pes_scienc_usand_telescópi_observatóri_europ_sul" and "0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+Topic: 2 -- Origem: 1
+
+AFTER
+
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+NUM_TOPICS: 6
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: list  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: exoplanet  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: for  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: extraordinári  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: membr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári_nov_membr
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: usand  - Frequency: 1
+Word: telescópi  - Frequency: 1
+Word: observatóri  - Frequency: 3
+Word: europ  - Frequency: 3
+Word: sul  - Frequency: 1
+Word: astr�  - Frequency: 3
+Word: descobr  - Frequency: 1
+Word: planet  - Frequency: 2
+Word: set  - Frequency: 2
+Word: vez  - Frequency: 3
+Word: mass  - Frequency: 5
+Word: júpit  - Frequency: 2
+Word: pes  - Frequency: 2
+Word: gir  - Frequency: 5
+Word: torn  - Frequency: 4
+Word: sol  - Frequency: 2
+Word: dobr  - Frequency: 2
+Word: mund  - Frequency: 1
+Word: têm  - Frequency: 1
+Word: semelh  - Frequency: 1
+Word: exoplanet  - Frequency: 1
+Word: já  - Frequency: 1
+Word: catalog  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: estrel  - Frequency: 3
+Word: verdad  - Frequency: 1
+Word: pesquis  - Frequency: 1
+Word: ray  - Frequency: 2
+Word: jayawardhan  - Frequency: 2
+Word: valentin  - Frequency: 2
+Word: ivanov  - Frequency: 2
+Word: inform  - Frequency: 1
+Word: descobert  - Frequency: 3
+Word: ediçã  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: servic  - Frequency: 1
+Word: onlin  - Frequency: 1
+Word: scienc  - Frequency: 2
+Word: express  - Frequency: 2
+Word: mant  - Frequency: 1
+Word: pel  - Frequency: 3
+Word: revist  - Frequency: 2
+Word: austral  - Frequency: 2
+Word: localiz  - Frequency: 1
+Word: chil  - Frequency: 1
+Word: anunc  - Frequency: 1
+Word: dupl  - Frequency: 1
+Word: errant  - Frequency: 1
+Word: redor  - Frequency: 1
+Word: vag  - Frequency: 1
+Word: livrement  - Frequency: 1
+Word: espac  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: observ  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: corp  - Frequency: 3
+Word: cel  - Frequency: 2
+Word: unid  - Frequency: 2
+Word: gravidad  - Frequency: 1
+Word: flutuant  - Frequency: 1
+Word: livr  - Frequency: 2
+Word: floating  - Frequency: 1
+Word: planets  - Frequency: 1
+Word: inglês  - Frequency: 1
+Word: maior  - Frequency: 2
+Word: foi  - Frequency: 1
+Word: detect  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: anos  - Frequency: 2
+Word: noss  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: fat  - Frequency: 1
+Word: extraordinári  - Frequency: 1
+Word: volt  - Frequency: 1
+Word: fri  - Frequency: 1
+Word: univers  - Frequency: 1
+Word: toront  - Frequency: 1
+Word: public  - Frequency: 1
+Word: sit  - Frequency: 1
+Word: durant  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: identific  - Frequency: 1
+Word: dúz  - Frequency: 1
+Word: objet  - Frequency: 1
+Word: inferior  - Frequency: 1
+Word: flutu  - Frequency: 1
+Word: proxim  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: formaçã  - Frequency: 1
+Word: estel  - Frequency: 1
+Word: próxim  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: nunc  - Frequency: 1
+Word: agor  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_mass_gir
+
+Keyword: 1_mass_gir_torn
+
+Keyword: 1_mass_gir_torn_observatóri_europ_astr�_vez_estrel_descobert_pel_corp
+
+Cur_topic: 2
+
+
+
+------------------------------------------------------------
+Topic: 2
+Word: par  - Frequency: 2
+Word: irmã  - Frequency: 1
+Word: admir  - Frequency: 1
+Word: cerc  - Frequency: 1
+Word: 1%  - Frequency: 2
+Word: mass  - Frequency: 2
+Word: sol  - Frequency: 2
+Word: diss  - Frequency: 1
+Word: jayawardhan  - Frequency: 2
+Word: mer  - Frequency: 2
+Word: existent  - Frequency: 2
+Word: surpres  - Frequency: 2
+Word: orig  - Frequency: 2
+Word: destin  - Frequency: 1
+Word: sã  - Frequency: 2
+Word: mistéri  - Frequency: 2
+Word: gêm  - Frequency: 1
+Word: verdadeir  - Frequency: 1
+Word: destaqu  - Frequency: 1
+Word: já  - Frequency: 1
+Word: tem  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: declar  - Frequency: 2
+Word: futur  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_par_1%_mass_sol_jayawardhan_mer_existent_surpres_orig_sã_mistéri_declar
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: cerc  - Frequency: 2
+Word: metad  - Frequency: 1
+Word: estrel  - Frequency: 4
+Word: tamanh  - Frequency: 1
+Word: sol  - Frequency: 2
+Word: exist  - Frequency: 2
+Word: par  - Frequency: 2
+Word: ocorr  - Frequency: 1
+Word: sext  - Frequency: 1
+Word: anãs  - Frequency: 2
+Word: marrons  - Frequency: 2
+Word: corp  - Frequency: 1
+Word: pes  - Frequency: 1
+Word: suficient  - Frequency: 1
+Word: ger  - Frequency: 1
+Word: calor  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: bastant  - Frequency: 1
+Word: inic  - Frequency: 1
+Word: reaçã  - Frequency: 1
+Word: fusã  - Frequency: 1
+Word: nucl  - Frequency: 1
+Word: com  - Frequency: 1
+Word: últim  - Frequency: 1
+Word: cinc  - Frequency: 1
+Word: anos  - Frequency: 3
+Word: astr�  - Frequency: 1
+Word: identific  - Frequency: 1
+Word: dezen  - Frequency: 1
+Word: objet  - Frequency: 2
+Word: aind  - Frequency: 1
+Word: menor  - Frequency: 1
+Word: estã  - Frequency: 2
+Word: pres  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: estel  - Frequency: 1
+Word: apelid  - Frequency: 1
+Word: mass  - Frequency: 2
+Word: planetár  - Frequency: 1
+Word: plan  - Frequency: 1
+Word: localiz  - Frequency: 1
+Word: arredor  - Frequency: 1
+Word: regiõ  - Frequency: 1
+Word: formaçã  - Frequency: 1
+Word: recent  - Frequency: 1
+Word: oph  - Frequency: 1
+Word: 162225  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: planem  - Frequency: 2
+Word: dupl  - Frequency: 2
+Word: compar  - Frequency: 1
+Word: dad  - Frequency: 1
+Word: obtid  - Frequency: 1
+Word: via  - Frequency: 1
+Word: telescópi  - Frequency: 1
+Word: model  - Frequency: 1
+Word: teóric  - Frequency: 1
+Word: jayawardhan  - Frequency: 1
+Word: ivanov  - Frequency: 1
+Word: estim  - Frequency: 1
+Word: component  - Frequency: 1
+Word: concluír  - Frequency: 1
+Word: jov  - Frequency: 1
+Word: term  - Frequency: 1
+Word: cósmic  - Frequency: 1
+Word: milhã  - Frequency: 1
+Word: dois  - Frequency: 1
+Word: separ  - Frequency: 1
+Word: distânc  - Frequency: 1
+Word: seis  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: plutã  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: berçári  - Frequency: 1
+Word: ophiuchus  - Frequency: 1
+Word: 400  - Frequency: 1
+Word: terr  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_estrel
+
+Keyword: 3_estrel_anos
+
+Keyword: 3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet_estã_mass_planem_dupl
+
+Cur_topic: 4
+
+
+
+------------------------------------------------------------
+Topic: 4
+Word: acredit  - Frequency: 1
+Word: planet  - Frequency: 3
+Word: nasc  - Frequency: 1
+Word: nuvens  - Frequency: 1
+Word: poeir  - Frequency: 1
+Word: circul  - Frequency: 1
+Word: estrel  - Frequency: 2
+Word: anãs  - Frequency: 1
+Word: marrons  - Frequency: 1
+Word: plan  - Frequency: 2
+Word: flutu  - Frequency: 1
+Word: livr  - Frequency: 1
+Word: pel  - Frequency: 1
+Word: espac  - Frequency: 1
+Word: provável  - Frequency: 1
+Word: irmã  - Frequency: 1
+Word: form  - Frequency: 2
+Word: junt  - Frequency: 1
+Word: part  - Frequency: 2
+Word: duas  - Frequency: 1
+Word: com  - Frequency: 1
+Word: binár  - Frequency: 1
+Word: miniatur  - Frequency: 1
+Word: nuv  - Frequency: 1
+Word: gás  - Frequency: 1
+Word: contraçã  - Frequency: 1
+Word: diss  - Frequency: 1
+Word: jayawardhan  - Frequency: 1
+Word: resist  - Frequency: 1
+Word: tentaçã  - Frequency: 1
+Word: cham  - Frequency: 1
+Word: par  - Frequency: 1
+Word: dupl  - Frequency: 1
+Word: porqu  - Frequency: 1
+Word: provavel  - Frequency: 1
+Word: nã  - Frequency: 1
+Word: jeit  - Frequency: 1
+Word: noss  - Frequency: 1
+Word: sistem  - Frequency: 1
+Word: sol  - Frequency: 1
+Word: aparec  - Frequency: 1
+Word: acrescent  - Frequency: 1
+Word: ivanov  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_planet
+
+Keyword: 4_planet_estrel_plan_form_part
+
+Keyword: 4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul_anãs_marrons_flutu_livr_pel_espac_provável_irmã_junt_duas_com_binár_miniatur_nuv_gás_contraçã_diss_jayawardhan_resist_tentaçã_cham_par_dupl_porqu_provavel_nã_jeit_noss_sistem_sol_aparec_acrescent_ivanov
+
+NUM: 12
+
+
+NUM: 11
+
+
+NUM: 12
+
+
+NUM: 14
+
+
+NUM: 43
+
+
+(FINAL) AVERAGE: 10
+
+NUM: 12
+
+
+NUM: 11
+
+
+NUM: 12
+
+
+NUM: 14
+
+
+NUM: 43
+
+
+---------------BEFORE!-------------
+
+VEC: 0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári_nov_membr
+VEC: 1_mass_gir_torn_observatóri_europ_astr�_vez_estrel_descobert_pel_corp
+VEC: 2_par_1%_mass_sol_jayawardhan_mer_existent_surpres_orig_sã_mistéri_declar
+VEC: 3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet_estã_mass_planem_dupl
+VEC: 4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul_anãs_marrons_flutu_livr_pel_espac_provável_irmã_junt_duas_com_binár_miniatur_nuv_gás_contraçã_diss_jayawardhan_resist_tentaçã_cham_par_dupl_porqu_provavel_nã_jeit_noss_sistem_sol_aparec_acrescent_ivanov
+
+---------------AFTER!-------------
+
+VEC: 0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári
+VEC: 1_mass_gir_torn_observatóri_europ_astr�_vez_estrel_descobert_pel
+VEC: 2_par_1%_mass_sol_jayawardhan_mer_existent_surpres_orig_sã
+VEC: 3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet
+VEC: 4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul
+Keyword: 0_list_cham_exoplanet_mund_localiz_for_sistem_sol_têm_extraordinári
+Keyword: 1_mass_gir_torn_observatóri_europ_astr�_vez_estrel_descobert_pel
+Keyword: 2_par_1%_mass_sol_jayawardhan_mer_existent_surpres_orig_sã
+Keyword: 3_estrel_anos_cerc_sol_exist_par_anãs_marrons_nã_objet
+Keyword: 4_planet_estrel_plan_form_part_acredit_nasc_nuvens_poeir_circul

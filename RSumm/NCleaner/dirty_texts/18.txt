@@ -1,0 +1,1289 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Language" content="pt-br" />
+<meta name="GOOGLEBOT-NEWS" content="NOSNIPPET" />
+<meta name="google-site-verification" content="uPoEEmwsmGUXmhtQSbPK1DFcI9TNUZB19rqvpshC4vw" />
+<link type="image/x-icon" rel="shortcut icon" href="http://home.img.uol.com.br/favicon.ico" />
+<link rel="apple-touch-icon" href="http://home.img.uol.com.br/icon-touch.png" />
+
+
+	<link type="text/css" rel="stylesheet" href="/v2/styles-novo.css" />
+
+
+
+ 
+<link type="text/css" rel="stylesheet" href="/coluna-direita/styles.css" />
+
+
+<link rel="stylesheet" href="http://www3.uol.com.br/interacao/comentarios/css/musica.css" /> 
+
+
+
+<meta name="description" content="O cantor Leonardo visitou ao hospital S&iacute;rio-Liban&ecirc;s, em S&atilde;o Paulo, na noite desta ter&ccedil;a (8), para se reunir com os m&eacute;dic..." />
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+	
+<meta name="robots" content="noodp,noydir" />
+
+
+ 
+
+
+ 
+
+
+<script src="http://noticias.uol.com.br/erros/enviaerro.js"></script>
+
+ 
+
+
+ 
+
+
+
+<script type="text/javascript" src="http://jsuol.com/c/jquery/jquery.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+
+<script type="text/javascript" src="http://jsuol.com/c/comentarios/comentarios.min.js"></script>
+
+ 
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+<link type="application/rss+xml" rel="alternate" title="UOL Música - RSS" href="http://musica.uol.com.br/ultnot/index.xml" />
+ 
+<script type="text/javascript" src="http://lib.uol.com.br/carrossel/carrossel.js"></script>
+<script type="text/javascript" src="http://barra.uol.com.br/b/scripts/1024/bv1.js?refbusca=musica"></script>
+
+<script type="text/javascript" src="/v2/scripts.js"></script>
+
+ 
+<!-- UOL-TPL v.4.01.20081016 -->
+
+
+		<link rel="image_src" href="http://imguol.com/2012/05/08/o-cantor-leonardo-conversa-com-jornalistas-na-porta-do-hospital-sirio-libanes-em-sao-paulo-8512-1336523277538_300x300.jpg" />
+		 
+	
+<meta name="title" content="Na porta do hospital, Leonardo diz que &#34;evolução de Pedro está dentro do esperado&#34;" />
+<meta name="date" content="21h21 08/05/2012" />
+<title>Na porta do hospital, Leonardo diz que "evolução de Pedro está dentro do esperado" - 08/05/2012 - UOL Música - Da Redação</title>
+<link href="/ultnot/styles.css" id="styles" rel="stylesheet" type="text/css" />
+<script type="text/javascript">var tagbanner="";</script>
+
+
+		<script type="text/javascript">
+			jQuery(document).ready(function(){
+				var url_uol= window.location.href;
+				var url_params={
+					"id":"Sertanejo [5115];     Leonardo [2959];    Pedro Leonardo [22399]; ",
+					"operador":"OR",
+					"num":"4",
+					"mid":"mixed",
+					"link":url_uol
+				};
+				/*
+				if ( url_params.id != '' ) {
+					var relacionadoTags = url_params.id.replace( /\;.$/, '' ).split( ';' );
+					for ( var k = 0; k < relacionadoTags.length; k++ )
+						relacionadoTags[k] = relacionadoTags[k].replace( /^.+\[/, '' ).replace( /\]/, '' );
+
+					url_params.id = relacionadoTags.toString().replace( /\,/gi, ' ' + url_params.operador + ' ' );
+				}
+				*/
+				jQuery.ajax({
+					type:"get",
+					url:"/ultimas-noticias/conteudo-relacionado.htm",
+					data:url_params,
+					success:function(html){
+						jQuery("#mais-tag").css("background","none");
+						jQuery("#mais-tag").html(html);
+						jQuery("#mais-tag li").height(jQuery("#mais-tag").height())
+					}
+				});
+			});
+		</script>		
+	
+
+</head>
+
+<body id="tag-ultimasnoticias">
+
+
+	<div id="fundo-geral"></div>
+
+<script type="text/javascript">writeUOLBar(BarraNumero,BarraCor1,BarraCor2);</script>
+
+<div id="centraliza">
+	<div id="barra-estacao">
+		<a href="http://entretenimento.uol.com.br" class="estacao" name="menu-barra" rel="menu-barra">UOL Entretenimento</a>
+		<a class="canal" href="http://musica.uol.com.br">Música</a>
+		<ul id="topoBusca">
+	<!-- form action="http://noticias.uol.com.br/busca/" method="get" target="_top">
+	<li><input type="text" name="q" id="q"/></li>
+	<li>
+		<select>
+			<option value="noticias">Notícias</option>
+			<option value="videos">Vídeos</option>
+			<option value="web">Web</option>
+		</select>
+        <input type="hidden" value="1" name="rd"/>
+        <input type="hidden" value="1" name="id"/>
+        <input type="hidden" value="on" name="ads"/>
+        <input type="hidden" value="carros" name="ref"/>
+	</li>
+	<li><input type="submit" class="sbmt" value="Buscar"></li>
+    </form //-->
+	
+	<form role="search" id="busca" action="http://entretenimento.uol.com.br/busca">
+		<li><input type="text" name="q" placeholder=""></li>
+		<li><input type="submit" value="Buscar" class="sbmt"></li>
+	</form>
+
+	
+</ul>
+
+<style>
+
+body #barra-estacao #busca input[type="text"] {
+    background: url("//img.uol.com.br/_template/v1/bgs/bg_busca.png") no-repeat scroll 2px 2px #FFFFFF;
+    border: 0 none;
+    color: #333333;
+    float: right;
+    font-size: 14px;
+    height: 16px;
+    margin-right: 1px;
+    padding: 8px 0 6px 35px;
+    width: 199px;
+}
+
+#topoBusca li .sbmt {
+	margin:0;
+}
+</style>
+		<span id="banner-130x55-area"></span>
+	</div>
+	<!--/barras-->
+	
+		<div id="mnuSuperior">
+		<ul id="m-canais">
+
+			<li class="first hover-menu" id="ultimas">
+				<a href="http://entretenimento.uol.com.br/ultnot/" title="Últimas atualizações" title="Acompanhe as últimas atualizações" id="menu-ultimas-atualizacoes">Últimas</a>
+				<div class="hover-container">
+					<div>
+						<ul>
+							<li><a name="menu-ultimas-atualizacoes" rel="menu-ultimas-atualizacoes" href="http://entretenimento.uol.com.br/ultnot/" title="Notícias">Notícias</a></li>
+							<li><a name="menu-ultimas-atualizacoes" rel="menu-ultimas-atualizacoes" href="http://entretenimento.uol.com.br/fotos/" title="Fotos">Fotos</a></li>
+							<li><a name="menu-ultimas-atualizacoes" rel="menu-ultimas-atualizacoes" href="http://entretenimento.uol.com.br/videos/" title="Vídeos">Vídeos</a></li>
+							<li><a name="menu-ultimas-atualizacoes" rel="menu-ultimas-atualizacoes" href="http://entretenimento.uol.com.br/infograficos/" title="Infográficos">Infográficos</a></li>
+							<li><a name="menu-ultimas-atualizacoes" rel="menu-ultimas-atualizacoes" href="http://entretenimento.uol.com.br/blogs/" title="Blogs">Blogs</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+		
+			<li><a href="http://entretenimento.uol.com.br/famosos/ranking-da-semana/" name="menu-barra" rel="menu-barra">Artistas de A-Z</a></li>
+
+			<li><a href="http://musica.uol.com.br/eventos/sonar-sao-paulo-2012.jhtm" name="menu-barra" rel="menu-barra">Sónar SP 2012</a></li>
+		
+			<li><a href="http://celebridades.uol.com.br" name="menu-barra" rel="menu-barra">Celebridades</a></li>
+		
+			<li><a href="http://cinema.uol.com.br" name="menu-barra" rel="menu-barra">Cinema</a></li>
+		
+			<li class="hover-menu">
+				<a href="http://guia.uol.com.br/" title="Guia Cultural" title="Guia Cultural" id="menu-guia-cultural">Guia</a>
+				<div class="hover-container">
+					<div>
+						<p>São Paulo</p>
+						<ul>
+							<li><a href="http://guia.uol.com.br/restaurantes/" title="Restaurantes" name="menu-barra" rel="menu-barra" target="_blank">Restaurantes</a></li>
+							<li><a href="http://guia.uol.com.br/cinema/" title="Cinema" name="menu-barra" rel="menu-barra" target="_blank">Cinema</a></li>
+							<li><a href="http://guia.uol.com.br/teatro/" title="Teatro" name="menu-barra" rel="menu-barra" target="_blank">Teatro</a></li>
+							<li><a href="http://guia.uol.com.br/shows/" title="Shows" name="menu-barra" rel="menu-barra" target="_blank">Shows</a></li>
+							<li><a href="http://guia.uol.com.br/noite/" title="Noite" name="menu-barra" rel="menu-barra" target="_blank">Noite</a></li>
+							<li><a href="http://guia.uol.com.br/passeios/" title="Infantil" name="menu-barra" rel="menu-barra" target="_blank">Infantil</a></li>
+						</ul>
+						<p class="mais-estados" name="menu-barra" rel="menu-barra" title="Todos estados">Todos estados</p>
+						<ul class="guias-destaque">
+							<li>
+								<a href="http://guiadasemana.uol.com.br/default.aspx" title="Guia da Semana" class="guia-da-semana">Guia da Semana</a>
+							</li>
+							<li>
+								<a href="http://guia.folha.com.br/" title="Guia Folha" class="guia-folha">Guia Folha</a>
+							</li>
+							<li>
+								<a href="http://www.obaoba.com.br/brasil" title="Oba Oba" class="oba-oba">Oba Oba</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</li>
+			
+			<li><a href="http://entretenimento.uol.com.br/humor/" name="menu-barra" rel="menu-barra">Humor</a></li>
+			
+			<li><a href="http://musica.uol.com.br" class="musicaAtivo" name="menu-barra" rel="menu-barra">Música</a></li>
+			
+			<li><a href="http://entretenimento.uol.com.br/revistas/" name="menu-barra" rel="menu-barra">Revistas</a></li>
+		
+			<li><a href="http://televisao.uol.com.br" name="menu-barra" rel="menu-barra">Televisão e Novelas</a></li>
+			
+			<li class="hover-menu last">
+				<a href="#" title="+ Canais" title="+ Canais" id="mais-canais">+ Canais</a>
+				<div class="hover-container">
+					<div>
+						<ul>
+							<li><a href="http://entretenimento.uol.com.br/antena-uol/" title="Antena" name="menu-barra" rel="menu-barra">Antena</a></li>
+							<li><a href="http://televisao.uol.com.br/bbb/" title="BBB 12" name="menu-barra" rel="menu-barra">BBB 12</a></li>
+							<li><a href="http://criancas.uol.com.br/" title="Crianças" name="menu-barra" rel="menu-barra">Crianças</a></li>
+							<li><a href="http://f5.folha.uol.com.br/" title="F5" name="menu-barra" rel="menu-barra">F5</a></li>
+							<li><a href="http://jogos.uol.com.br/" title="Jogos" name="menu-barra" rel="menu-barra">Jogos</a></li>
+							<li><a href="http://entretenimento.uol.com.br/temas/pascoa/" title="Páscoa" name="menu-barra" rel="menu-barra">Páscoa</a></li>
+							<li><a href="http://receitas.uol.com.br/" title="Receitas" name="menu-barra" rel="menu-barra">Receitas</a></li>
+							<li><a href="http://sexo.uol.com.br/" title="Sexo" name="menu-barra" rel="menu-barra">Sexo</a></li>
+							<li><a href="http://viagem.uol.com.br/" title="Viagem" name="menu-barra" rel="menu-barra">Viagem</a></li>
+						</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+	
+
+	<div id="banner-728x90-area"></div>
+
+
+
+
+
+<div id="corpo">
+		<div id="col-centro">
+			<div id="rec">&nbsp;</div> <!-- recurso usado para acertar o problema de margem dos módulos -->
+			
+
+			
+			
+
+			<!--div id="caminho">
+	<strong>Onde estou?</strong> <a href="/" class="estacao">UOL Música</a> > <a href="/ultnot" class="canal">Notícias</a> 
+</div-->
+
+
+<div class="opc-box" id="bread-crumb">
+  <p class="titulo">Onde estou?</p>
+  <h4>
+    
+      <a class="nivel-0" href="http://click.uol.com.br/?rf=musica_bread&u=http://musica.uol.com.br">UOL Música</a>
+      <span class="separador">&gt;</span>
+    
+    
+    
+    
+      
+        
+          <span class="nivel-1 last">Notícias</span>
+        
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+  </h4>
+</div>
+
+
+
+
+
+<!-- EOF -->
+
+
+			<div id="materia">
+			<div class="modMateria mod1">
+			    <ul class='config' style='display:none'>
+			        <li class='estacao'>UOL Música</li>
+			        <li class='titulo'>Na porta do hospital, Leonardo diz que "evolução de Pedro está dentro do esperado"</li>
+			        <li class='data'>08/05/2012</li>
+			        <li class='origem'>UOL Música - Da Redação</li>
+			        <li class='fbComments'>false</li>
+			        <li class="coderramos">1</li>
+<li class="twittertext">@UOLMusica #UOL</li>
+			    </ul>
+			</div> 
+  			<div id="print"><img src="http://img.uol.com.br/uol_logo_print.gif" id="logo" alt="UOL" /></div>
+    	  
+			<div id="titulo">
+				<div id="banner-180x150-area"></div>
+				<div class="div1">
+					<div class="div2">
+						<div class="div3">    			
+							<div class="conteudo">
+								
+								<h2>08/05/2012 - 21h21 - <strong>Atualizado em:</strong> 08/05/2012 - 21h56</h2>
+									
+								<h1>Na porta do hospital, Leonardo diz que "evolução de Pedro está dentro do esperado"</h1>
+								
+								<div id="credito-texto">
+									<div id="autor">Natália Engler</div>
+									<div id="local-noticia">Do UOL, em São Paulo</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><!--/titulo-->
+			
+			<!-- LIKE FB -->
+			<div id="fb-twitter" style="height:25px;margin-bottom: 15px;">
+    <div id="twitter" style="margin:2px 0 0 0; float:left;">
+        <a class="twitter-share-button partner" data-via="UOLMusica" data-related="UOLHomepage" data-text="Na porta do hospital, Leonardo diz que &quot;evolução de Pedro está dentro do esperado&quot;"></a>
+    </div>
+    <div id="modMateriaFBLike" style="float:left; width:140px !important; clear: none; margin: 0;"></div>
+	<div id="comentarios-teaser"></div>
+</div>
+<!-- lib twitter -->
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<!-- /lib twitter -->
+
+<!--eof-->
+
+			<div id="texto">
+				
+					
+						<div class="modfoto modulos right medio topo">
+							<div class="conteudo"> 
+								 
+								<ul> 
+									<li>
+									
+										<img border="0" class="imagem" src="http://imguol.com/2012/05/08/o-cantor-leonardo-conversa-com-jornalistas-na-porta-do-hospital-sirio-libanes-em-sao-paulo-8512-1336523277538_300x300.jpg" title="Natália Engler/UOL" alt="O cantor Leonardo conversa com jornalistas na porta do hospital Sírio-Libanês, em São Paulo (8/5/12)"/> 
+										<p>O cantor Leonardo conversa com jornalistas na porta do hospital Sírio-Libanês, em São Paulo (8/5/12)</p> 
+									   
+									</li>
+								</ul>
+                        
+								
+											
+												<ul class="mais">
+											
+									
+								
+										
+												<li><a class="mais" href="http://www.radio.uol.com.br/#/busca/artista/pedro%20&%20thiago"  target="">Ouça Pedro e Thiago na Rádio UOL  <img src="http://img.uol.com.br/ico_ouvir.gif"/></a></li>
+											
+									
+										
+												<li><a class="mais" href="http://musica.uol.com.br/album/pedro-leonardo-hospital_album.jhtm?abrefoto=17"  target="">Fãs, amigos e parentes visitam Pedro no hospital <img src="http://img.uol.com.br/ico_verfotos.gif"/></a></li>
+											
+									
+								
+											
+												</ul>
+											
+									
+							</div>
+						</div>
+					
+              
+
+			<p>
+	O cantor Leonardo visitou ao hospital S&iacute;rio-Liban&ecirc;s, em S&atilde;o Paulo, na noite desta ter&ccedil;a (8), para se reunir com os m&eacute;dicos que est&atilde;o cuidando de seu filho Pedro, internado na UTI desde o dia 24 de abril. &quot;Os m&eacute;dicos me disseram que a evolu&ccedil;&atilde;o do Pedro est&aacute; dentro do esperado. S&oacute; na f&eacute; em Deus&quot;, disse Leonardo. Ele acrescentou que vai conversar com os m&eacute;dicos sobre as rea&ccedil;&otilde;es que o filho est&aacute; apresentando durante o coma.</p>
+<div>
+	De acordo com a assessora de Leonardo, depois dessa conversa &eacute; que os m&eacute;dicos poder&atilde;o falar sobre o estado de sa&uacute;de do cantor e a previs&atilde;o de quando ele ir&aacute; acordar. Ela acrescentou que Pedro est&aacute; em coma natural e superficial, o que o permite abrir os olhos e fazer pequenos movimentos.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Na manh&atilde; desta ter&ccedil;a, a assessora do cantor disse que Pedro poderia passar por uma cirurgia na bacia, fraturada no acidente. &Agrave; noite, voltou atr&aacute;s, dizendo que a interven&ccedil;&atilde;o seria no f&ecirc;mur. A equipe m&eacute;dica n&atilde;o confirmou nenhuma das informa&ccedil;&otilde;es.</div>
+<div>
+	&nbsp;</div>
+<div>
+	No domingo (6), Pedro passou por uma traqueostomia, um procedimento cir&uacute;rgico em que se abre um orif&iacute;cio no pesco&ccedil;o para auxiliar a respira&ccedil;&atilde;o do paciente. De acordo com o boletim m&eacute;dico divulgado pelo hospital, a cirurgia foi realizada &quot;com sucesso, sem intercorr&ecirc;ncias&quot;.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Na segunda (7), dia do anivers&aacute;rio de um ano de Maria Sophia, filha de Pedro, a mulher do cantor, Tha&iacute;s agradeceu ao apoio dos f&atilde;s e falou sobre o caso em sua p&aacute;gina pessoal do Twitter.</div>
+<div>
+	&nbsp;</div>
+<div>
+	&quot;H&aacute; exatamente um ano, Deus me deu o dom de gerar uma vida! Nosso maior presente. Hoje foi um dia diferente do que eu podia imaginar, mas Deus mostra os caminhos como t&ecirc;m que ser. De qualquer forma, ele continua me aben&ccedil;oando. E olhar o sorriso &eacute; o que me d&aacute; for&ccedil;as para acreditar que tudo acabar&aacute; bem. Obrigada pela mensagens. Como sempre falo, leio todos&quot;, publicou.</div>
+<!-- inicio: modalbumfotos --><div class="modalbumfotos modulos">
+	<div class="conteudo">
+		<a href="http://musica.uol.com.br/album/pedro-leonardo_album.jhtm">Veja &Aacute;lbum de fotos</a></div>
+</div>
+<!-- fim: modalbumfotos -->
+
+			
+
+      		</div><!--/texto-->
+
+			<div class="mod2">
+			        <div class="modMateria"></div>
+			        <div id="modMateriaFBComments"></div>
+			</div>
+			
+			<!-- uollib.modmateria -->
+			<script src="http://www3.uol.com.br/facebook-teste/uollib.materia.js" type="text/javascript"></script>
+			<!-- /uollib.modmateria -->
+			
+			<script>
+			    UOLLib.materia.FBSocialPlugin({
+			        applyIn : document.getElementById('modMateriaFBLike'),
+			        like : true,
+			        comments : false
+			    });
+			</script> 
+			</div><!--/materia-->
+
+
+			<div id="banner-608x90-area"></div>
+
+<div class="opc-box" id="comentarios"></div> 
+<script type="text/javascript"> 
+jQuery(function(){ 
+  jQuery('#comentarios').comentarios({ 
+    id: 2762715,
+    teaser: jQuery('#comentarios-teaser'),
+    serverDate: new Date('2012/05/08 23:45:49')
+  });
+});
+</script>
+
+			
+			
+
+			<!--uol cel sem widgets-->
+<style>
+#uolcelular { clear: both; margin:1.5em 0 0 0; font-size:0.8em; }
+#uolcelular h3 { background:#efefef;color:#000;font:bold 1.1em arial;padding:3px;height:12px;display:block;margin:0;padding-left:1em;}
+#uolcelular #borda { height:3em;border:1px solid #efefef;color:000;font:normal 13px arial;background:url(http://img.uol.com.br/wap-ico.gif) 1em 0.4em no-repeat;padding:0;padding-top:1.1px; }
+#uolcelular #borda #txtCel { margin: 0.8em 0 1em 4em; *margin-bottom:1em; }
+#uolcelular #borda #txtCel a {color:#666666; text-decoration:none; }
+#uolcelular #borda #txtCel a:hover { text-decoration:underline; }
+#uolcelular #borda #txtCel a strong {color:#000000;}
+
+#uolcelular { margin:1.5em 1.9em; }
+#uolcelular h3 { display: none }
+#compartilhe { width: 594px; margin:1em 0 0 -5px; padding-top:0.5em;border-top:1px dotted #E7EAD9; clear: both; }
+#compartilhe ul li { margin: 0 0.3em 0 0; }
+#compartilhe ul li a { text-decoration: none !important; }
+#compartilhe ul li a:hover { text-decoration: underline !important; }
+#compartilhe h4 { font-size:11px; margin-right:0px; *margin-right:4px; }
+</style> 
+<div id="uolcelular">
+	<h3>UOL Celular</h3>
+	<div id="borda">
+		<div id="txtCel"><a href="http://celular.uol.com.br/">Acompanhe as notícias do UOL no seu celular. Saiba como: <strong>celular.uol.com.br</strong></a></div>
+
+	</div>
+</div>
+<!--// uol cel sem widgets-->
+
+			<!-- -->  
+  	
+			<!-- robots index="no" -->	
+
+
+
+	
+	<div id="links-patrocinados" class="rodape"></div>
+<!-- robots index="yes" -->
+
+
+	
+				<div class="col-mod-box modulos-verticais">
+
+			<div id="col-mod1">
+				<div id="modulo-cruzado-uolmusica-vertical" class="mod-cruzado-musica">
+	<div id="header-mod">
+		<h4><a href="http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br">Mais UOL Música</a></h4>
+		<div id="home-completa"><a href="http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br">Home completa</a></div>
+	</div>
+	<div id="linha1">
+		<a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/beastie-boys-sao-processados-por-uso-ilegal-de-samples-em-quatro-musicas.jhtm><img src="http://m.i.uol.com.br/musica/2009/08/01/os-integrantes-do-beastie-boys-durante-a-premiacao-webby-awards-em-nova-york-05062007-1249180191477_142x100.jpg" alt="Beastie Boys é processado por uso ilegal de samples" title="Beastie Boys é processado por uso ilegal de samples" /></a>
+		<h3><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/beastie-boys-sao-processados-por-uso-ilegal-de-samples-em-quatro-musicas.jhtm>Quatro músicas</a></h3>
+		<p><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/beastie-boys-sao-processados-por-uso-ilegal-de-samples-em-quatro-musicas.jhtm>Beastie Boys é processado por uso ilegal de samples</a></p>
+	</div>
+	<div id="linha2">
+		<a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/medicos-se-encontram-com-leonardo-na-noite-desta-terca-8-para-dar-resultado-da-ressonancia-de-pedro.jhtm><img src="http://imguol.com/2012/05/02/o-cantor-pedro-leonardo-canta-durante-show-1335987390583_142x100.jpg" alt="Médicos e Leonardo discutem resultado de exame de Pedro" title="Médicos e Leonardo discutem resultado de exame de Pedro" /></a>
+		<h3><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/medicos-se-encontram-com-leonardo-na-noite-desta-terca-8-para-dar-resultado-da-ressonancia-de-pedro.jhtm>Nesta terça</a></h3>
+		<p><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/medicos-se-encontram-com-leonardo-na-noite-desta-terca-8-para-dar-resultado-da-ressonancia-de-pedro.jhtm>Médicos e Leonardo discutem resultado de exame de Pedro</a></p>
+	</div>
+	<div id="linha3">
+		<a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/beach-boys-canta-novo-single-em-programa-de-tv-assista.jhtm class="linkthumb66"><img src="http://imguol.com/2012/05/08/o-grupo-beach-boys-se-apresenta-no-late-night-with-jimmy-fallon-7512-1336495130544_80x80.jpg" alt="Beach Boys canta novo single em programa de TV; assista ao vídeo" title="Beach Boys canta novo single em programa de TV; assista ao vídeo" /></a>
+		<h3><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/beach-boys-canta-novo-single-em-programa-de-tv-assista.jhtm>"That's Why..."</a></h3>
+		<p><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://musica.uol.com.br/ultnot/2012/05/08/beach-boys-canta-novo-single-em-programa-de-tv-assista.jhtm>Beach Boys canta novo single em programa de TV; assista ao vídeo</a></p>
+	</div>
+	<div id="linha4">
+		<a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://televisao.uol.com.br/noticias/redacao/2012/05/08/serie-de-documentarios-musicadoc-mostra-rotina-de-trabalho-de-novos-nomes-da-mpb.htm class="linkthumb66"><img src="http://tv.i.uol.com.br/album/2012/05/07/ana-canas-nas-gravacoes-do-programa-musicadoc-que-vai-ao-ar-no-dia-3-de-julho-no-vh1-1336441725315_80x80.jpg" alt="Série "Música.doc" mostra rotina dos novos nomes da MPB" title="Série "Música.doc" mostra rotina dos novos nomes da MPB" /></a>
+		<h3><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://televisao.uol.com.br/noticias/redacao/2012/05/08/serie-de-documentarios-musicadoc-mostra-rotina-de-trabalho-de-novos-nomes-da-mpb.htm>Documentários</a></h3>
+		<p><a href=http://click.uol.com.br/?rf=musica_mod-cruz&u=http://televisao.uol.com.br/noticias/redacao/2012/05/08/serie-de-documentarios-musicadoc-mostra-rotina-de-trabalho-de-novos-nomes-da-mpb.htm>Série "Música.doc" mostra rotina dos novos nomes da MPB</a></p>
+	</div>
+</div>
+
+<!-- EOF -->
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- EOF -->
+
+			</div>
+			<div id="col-mod2">
+								<!-- NOTICIAS -->
+				<div class="modulo mod-noticias">
+					<div class="topo">
+						<h3>Últimas Notícias</h3>
+						<a href="http://click.uol.com.br/?rf=musica_mod-ultnot&u=http://musica.uol.com.br/ultnot/" class="mais">Mais notícias</a>
+					</div>
+					<div class="noticias">
+						<ul>
+							
+
+		
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/sao-paulo-recebe-o-sonar-neste-fim-de-semana-saiba-como-ganhar-ingressos.jhtm><img src="http://d.i.uol.com.br/diversao/2012/02/07/a-banda-escocesa-de-post-rock-mogwai-e-uma-das-atracoes-estrangeiras-confirmadas-no-sonar-sao-sao-paulo-1328625891685_80x80.jpg"></a></div><strong>21h29</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/sao-paulo-recebe-o-sonar-neste-fim-de-semana-saiba-como-ganhar-ingressos.jhtm>São Paulo recebe o Sónar neste fim de semana; saiba como ganhar ingressos</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/na-porta-do-hospital-leonardo-diz-que-evolucao-de-pedro-esta-dentro-do-esperado.jhtm><img src="http://imguol.com/2012/05/08/o-cantor-leonardo-conversa-com-jornalistas-na-porta-do-hospital-sirio-libanes-em-sao-paulo-8512-1336523277538_80x80.jpg"></a></div><strong>21h21</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/na-porta-do-hospital-leonardo-diz-que-evolucao-de-pedro-esta-dentro-do-esperado.jhtm>Na porta do hospital, Leonardo diz que "evolução de Pedro está dentro do esperado"</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/a-dupla-bruno-e-marrone-vai-gravar-dvd-em-sao-paulo-saiba-como-ganhar-ingressos.jhtm><img src="http://tv.i.uol.com.br/televisao/especiais/bbb/2011/01/27/bruno-e-marrone-estreiam-palco-fixo-da-casa-e-empolgam-brothers-que-chegam-bem-perto-da-dupla-260111-1296162454673_80x80.jpg"></a></div><strong>20h51</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/a-dupla-bruno-e-marrone-vai-gravar-dvd-em-sao-paulo-saiba-como-ganhar-ingressos.jhtm>A dupla Bruno e Marrone vai gravar DVD em São Paulo; saiba como ganhar ingressos</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://televisao.uol.com.br/noticias/redacao/2012/05/08/serie-de-documentarios-musicadoc-mostra-rotina-de-trabalho-de-novos-nomes-da-mpb.htm><img src="http://tv.i.uol.com.br/album/2012/05/07/ana-canas-nas-gravacoes-do-programa-musicadoc-que-vai-ao-ar-no-dia-3-de-julho-no-vh1-1336441725315_80x80.jpg"></a></div><strong>17h44</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://televisao.uol.com.br/noticias/redacao/2012/05/08/serie-de-documentarios-musicadoc-mostra-rotina-de-trabalho-de-novos-nomes-da-mpb.htm>Série de documentários "Música.doc" mostra rotina de trabalho de novos nomes da MPB</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/beastie-boys-sao-processados-por-uso-ilegal-de-samples-em-quatro-musicas.jhtm><img src="http://m.i.uol.com.br/musica/2009/08/01/os-integrantes-do-beastie-boys-durante-a-premiacao-webby-awards-em-nova-york-05062007-1249180191477_80x80.jpg"></a></div><strong>16h25</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/beastie-boys-sao-processados-por-uso-ilegal-de-samples-em-quatro-musicas.jhtm>Beastie Boys são processados por uso ilegal de samples em quatro músicas</a></span></li>
+			
+							<li class="upsi"><strong>15h13</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://omelete.uol.com.br/musica/jimmy-fallon-paul-mccartney-bruce-springsteen-eddie-vedder-e-justin-timberlake-no-novo-album-do-artista/>Jimmy Fallon | Paul McCartney, Bruce Springsteen, Eddie Vedder e Justin Timberlake no novo álbum do artista</a></span></li>
+			
+							<li class="upsi"><strong>14h36</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://universosertanejo.blogosfera.uol.com.br/2012/05/08/apenas-um-brasileiro-lidera-a-lista-de-faturamento-de-seu-respectivo-esporte-sabe-quem-e/>Apenas um brasileiro lidera a lista de faturamento do esporte que pratica. Sabe quem é?</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/beach-boys-canta-novo-single-em-programa-de-tv-assista.jhtm><img src="http://imguol.com/2012/05/08/o-grupo-beach-boys-se-apresenta-no-late-night-with-jimmy-fallon-7512-1336495130544_80x80.jpg"></a></div><strong>13h34</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/beach-boys-canta-novo-single-em-programa-de-tv-assista.jhtm>Beach Boys canta novo single em programa de TV; assista ao vídeo</a></span></li>
+			
+							<li class="upsi"><strong>12h33</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://virgula.uol.com.br/ver/noticia/musica/2012/05/08/299793-nelly-furtado-lanca-novo-clipe-assista-a-big-hoops-bigger-the-better>Nelly Furtado lança novo clipe; assista a 'Big Hoops (Bigger The Better)'</a></span></li>
+			
+							<li class="upsi"><strong>12h32</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://virgula.uol.com.br/ver/noticia/musica/2012/05/08/299792-selena-gomez-promete-viver-no-limite-da-pobreza-para-ajudar-regiao-da-africa>Selena Gomez promete viver no limite da pobreza para ajudar região da África</a></span></li>
+			
+							<li class="upsi"><strong>12h19</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://omelete.uol.com.br/musica/damon-albarn-vocalista-do-blur-confirma-novo-disco-solo/>Damon Albarn | Vocalista do Blur confirma novo disco solo</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/efe/2012/05/08/radicais-islamicos-ameacam-sabotar-show-de-lady-gaga-na-indonesia.jhtm><img src="http://m.i.uol.com.br/musica/2011/11/06/lady-gaga-durante-premiacao-do-ema-mtv-europe-music-awards-em-belfast-na-irlanda-do-norte-06112011-1320618219568_80x80.jpg"></a></div><strong>11h49</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/efe/2012/05/08/radicais-islamicos-ameacam-sabotar-show-de-lady-gaga-na-indonesia.jhtm>Radicais islâmicos ameaçam sabotar show de Lady Gaga na Indonésia</a></span></li>
+			
+							<li class="upsi"><strong>11h44</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://omelete.uol.com.br/musica/premio-polar-2012-paul-simon-e-yo-yo-ma-recebem-o-nobel-da-musica/>Prêmio Polar 2012 | Paul Simon e Yo-Yo Ma recebem o &quot;Nobel da Música&quot;</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/medicos-se-encontram-com-leonardo-na-noite-desta-terca-8-para-dar-resultado-da-ressonancia-de-pedro.jhtm><img src="http://imguol.com/2012/05/02/o-cantor-pedro-leonardo-canta-durante-show-1335987390583_80x80.jpg"></a></div><strong>10h24</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/medicos-se-encontram-com-leonardo-na-noite-desta-terca-8-para-dar-resultado-da-ressonancia-de-pedro.jhtm>Médicos se encontram com Leonardo na noite desta terça (8) para dar resultado da ressonância de Pedro</a></span></li>
+			
+							<li class="foto"><div><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/nelly-furtado-anda-sobre-pernas-de-pau-em-novo-clipe-assista-big-hoops-bigger-the-better.jhtm><img src="http://imguol.com/2012/05/08/nelly-furtado-em-cena-do-clipe-big-hoops-bigger-the-better-2012-1336480123445_80x80.jpg"></a></div><strong>09h30</strong><span><a href=http://click.uol.com.br/?rf=musica_mod-noticias&u=http://musica.uol.com.br/ultnot/2012/05/08/nelly-furtado-anda-sobre-pernas-de-pau-em-novo-clipe-assista-big-hoops-bigger-the-better.jhtm>Nelly Furtado anda sobre pernas de pau em novo clipe; assista a "Big Hoops"</a></span></li>
+			
+
+						</ul>
+					</div>
+				</div>
+				<div class="receba-noticias">
+				 	<h4>Receba notícia</h4>
+				 	<ul>
+				 		<li class="twitter"><a href="http://twitter.com/UOLMusica" target="_blank">TWITTER</a></li>
+				 		<li class="clipping"><a href="http://clipping.busca.uol.com.br/">Clipping</a></li>
+				 		<li class="boletim"><a href="http://boletim.uol.com.br/">Boletim</a></li>
+				 		<!--li class="widgets"><a href="">Widgets</a></li-->
+				 		<li class="celular"><a href="http://www3.uol.com.br/celular/">Celular</a></li>
+				 	</ul>
+				 	<p class="rss"><a href="http://rss.musica.uol.com.br/ultnot/index.xml">RSS</a></p>
+				</div>
+				<!-- //NOTICIAS -->
+
+			</div>
+			
+		</div>
+
+<!-- EOF -->
+
+	
+
+
+
+
+
+
+
+  	
+		</div><!--/centro-->
+
+	<div id="col-esquerda">
+					<!-- ATENÇÃO: links comentados deve ficar ao fim da UL a qual ele pertence // bug ie6 -->
+	<div id="menu">
+		<h3>Especias</h3>
+		<ul>
+			<li><a class="destaque" href="http://musica.uol.com.br/eventos/sonar-sao-paulo-2012.jhtm" name="esq_menu">Sónar SP 2012</a></li>
+		</ul>
+		<h3>Índices de A a Z</h3>
+		<ul>
+			<li><a href="http://entretenimento.uol.com.br/famosos/" name="esq_menu">Artistas e Bandas</a></li>
+			<li><a href="http://musica.uol.com.br/estilos-musicais/" name="esq_menu">Estilos Musicais</a></li>
+			<!--li><a href="#">Estilos</a></li-->
+		</ul>
+		
+		<h3>Acompanhe</h3>
+		<ul>
+			<li><a href="http://musica.uol.com.br/ultnot/" id="ultimasnoticias" name="esq_menu">Últimas Notícias</a></li>
+			<!--li><a href="http://musica.uol.com.br/lancamentos/" id="lancamentos" name="esq_menu">Lançamentos</a></li -->
+			<li><a href="http://musica.uol.com.br/fotos/" id="fotos" name="esq_menu">Fotos</a></li>
+			<li><a href="http://musica.uol.com.br/agenda/" id="agenda" name="esq_menu">Agenda de shows</a></li>
+  				<ul id="sub-canal1">
+  					<li><a href="http://guia.uol.com.br/shows/" id="saopaulo" name="esq_menu">- São Paulo</a></li>
+  					<li><a href="http://guiadasemana.uol.com.br/Rio_de_Janeiro/Shows/Capa/Capa.aspx" name="esq_menu" id="rio">- Rio de Janeiro</a></li>
+  					<li><a href="http://guiadasemana.uol.com.br/default.asp" name="esq_menu" id="outras">- Outras Cidades</a></li>
+  					<li><a href="http://musica.uol.com.br/agenda/" id="outras" name="esq_menu">- O que vem por aí</a></li>
+  				</ul>
+		</ul>
+		
+		<h3>Ouça e cante</h3>
+		<ul>
+			<li><a href="http://www.radio.uol.com.br/" name="esq_menu" id="radiouolbeta">Rádio UOL</a></li>
+				<ul id="sub-canal1">
+  					<li><a href="http://www.radio.uol.com.br/az" name="esq_menu">- Artistas</a></li>
+					<li><a href="http://www.radio.uol.com.br/editorial" name="esq_menu">- Playlists da rádio</a></li>
+					<li><a href="http://www.radio.uol.com.br/estilo" name="esq_menu">- Estilos</a></li>
+					<li><a href="http://www.radio.uol.com.br/programa" name="esq_menu">- Programas</a></li>
+  				</ul>
+			<li><a href="http://musica.uol.com.br/mp3" name="esq_menu" id="mp3">MP3</a></li>
+			<li><a href="http://megastore.uol.com.br/" name="esq_menu" id="loja">Loja de música</a></li>
+			<li><a href="http://www.radio.uol.com.br/letras-e-musicas" name="esq_menu" id="letras">Letras e traduções</a></li>
+			<li><a href="http://musica.uol.com.br/cifras/" name="esq_menu" id="cifras">Cifras</a></li>
+			<!--li><a href="http://musica.uol.com.br/letras-traducoes/" name="esq_menu" id="letras">Letras e traduções</a></li-->
+			<li><a href="http://www2.uol.com.br/cante/" name="esq_menu" id="karaoke">Karaokê</a></li>
+			<li><a href="http://musica.uol.com.br/top-10-musicas/" name="esq_menu" id="top10">Top 10 da Rádio UOL</a></li>
+		</ul>
+		
+		<h3>Assista</h3>
+		<ul>
+			<li><a href="http://musica.uol.com.br/videos/?tagId=144,311&tagName=clipes" name="esq_menu" id="clipes">Clipes</a></li>
+			<li><a href="http://musica.uol.com.br/videos/?tagId=144,496&tagName=entrevistas" name="esq_menu" id="entrevistas">Entrevistas</a></li>
+			<li><a href="http://musica.uol.com.br/videos/?tagId=144,631&tagName=shows" name="esq_menu" id="shows">Shows</a></li>
+			<li><a href="http://musica.uol.com.br/videos/?tagId=16029&tagName=trama" name="esq_menu" id="tvtrama">TV Trama</a></li>
+			<li><a href="http://musica.uol.com.br/megashow/" name="esq_menu" id="megashow">UOL Megashow</a></li>
+  			<li><a href="http://musica.uol.com.br/videos/" name="esq_menu" id="videos">Todos os vídeos</a>
+		</ul>
+	</div><!--/menu-->
+
+		<h3 class="head-colesq">Siga UOL Música</h3>
+<div class="box-menu">
+	<ul class="icones-maiores">
+		<li><a href="http://twitter.com/UOLMusica" target="_blank" class="twitter-n">Twitter</a></li>
+		<!--li><a href="#" target="_blank" class="facebook-n">Facebook</a></li-->
+		<li><a href="http://www3.uol.com.br/celular/" class="celular-n">Celular</a></li>
+	</ul>
+    <ul class="icones-menores">
+      <!--li><a href="http://boletim.uol.com.br/" target="_blank" class="boletim-n">Boletim</a></li-->
+      <li><a href="http://clipping.busca.uol.com.br/" class="clipping-n">Clipping</a></li>
+      <li><a href="http://rss.musica.uol.com.br/ultnot/index.xml" target="_blank" class="rss-n">RSS</a></li>
+    </ul>
+</div>
+
+
+		<h3 class="head-colesq">Blogs</h3>
+<div class="box-menu2">
+	<div class="borda">
+		<ul>
+			<!--<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://bateestaca.virgula.uol.com.br/">Bate Estaca</a></li>-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://mtv.uol.com.br/bis/blog">Bis</a></li-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://blogdomaia.blog.uol.com.br/">Blog do Maia</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://programagaragem.zip.net/">Blog do Garagem</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://heavynation.blog.uol.com.br/">Heavy Nation</a></li>
+			<!--li><a name="menu_sites"  href="http://click.uol.com.br/?rf=musica_blogs&u=http://ilustradanopop.folha.blog.uol.com.br/">Ilustrada no pop</a></li-->
+			<!--li><a name="menu_sites"  href="http://click.uol.com.br/?rf=musica_blogs&u=http://mtv.uol.com.br/blogdokid/blog">Kid Vinil</a></li-->
+			<!--<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://poplink.blogosfera.uol.com.br/">Pop Link</a></li>-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://popload.blogosfera.uol.com.br/">Popload</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://ronaldoevangelista.blogosfera.uol.com.br/">Ronaldo Evangelista</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://tododjjasambou.virgula.uol.com.br/">Todo DJ já Sambou</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://universosertanejo.blogosfera.uol.com.br/">Universo Sertanejo</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_blogs&u=http://vh1brasil.blog.uol.com.br/">VH1</a></li>
+		</ul>
+	</div>
+</div>
+
+
+		<h3 class="head-colesq">Sites e Revistas</h3>
+<div class="box-menu2">
+	<div class="borda">
+		<ul>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://programaaltofalante.uol.com.br">Alto-Falante</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://bandasdegaragem.uol.com.br">Banda de Garagem</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://www.uol.com.br/cante">Cante</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://centralhiphop.uol.com.br">Central Hip Hop</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://cliquemusic.uol.com.br">Cliquemusic</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://culturahiphop.uol.com.br">Cultura Hip Hop</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://educadorafm.uol.com.br">Educadora FM</a></li>
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://fiberonline.uol.com.br">Fiber Online</a></li-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://guitarplayer.uol.com.br">Guitar Player</a></li>
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://ilustradanopop.folha.blog.uol.com.br">Ilustrada no Pop</a></li-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://mtv.uol.com.br">MTV</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://naorelha.uol.com.br">Na Orelha</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://omelete.uol.com.br/musica/">Omelete</a></li>
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://palcoprincipal.uol.com.br/">Palco Principal</a></li-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://pegacifras.uol.com.br">Pega Cifras</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://popmix.uol.com.br">Pop Mix</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://programagaragem.zip.net">Programa Garagem</a></li>
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://psyte.uol.com.br">Psyte</a></li-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://www2.uol.com.br/noise/radio/radionoise_300.htm">Rádio Noise</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://reggae.uol.com.br ">Reggae.com.br</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://showlivre.uol.com.br">Showlivre</a></li>
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://sintoniafina.uol.com.br">Sintonia Fina</a></li-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://www.uol.com.br/smartbiz">Smartbiz</a></li-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://sovacodecobra.uol.com.br/">Sovaco de Cobra</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://tocaletra.uol.com.br/">Toca Letra</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://trama.uol.com.br">Trama</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://tramavirtual.uol.com.br">Trama Virtual</a></li>
+			<!--<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://www.uol.com.br/tropicalia">Tropicália</a></li>-->
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://virgula.uol.com.br">Vírgula</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://www.uol.com.br/ziriguidum">Ziriguidum</a></li>
+			
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://www.uol.com.br/instituto">Instituto</a></li-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://www.uol.com.br/mpb">Inventores da MPB</a></li-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://radioboomshot.uol.com.br">Rádio Boomshot</a></li-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_sitesparceiros&u=http://vagalume.uol.com.br">Vaga-Lume</a></li-->
+		</ul>
+	</div>
+</div>
+
+
+		<h3 class="head-colesq">Arquivo</h3>
+<div class="box-menu2">
+	<div class="borda">
+		<ul>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://musica.uol.com.br/eventos/festival-swu-2011.jhtm">SWU 2011</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://musica.uol.com.br/eventos/rock-in-rio-2011.jhtm">Rock in Rio 2011</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://musica.uol.com.br/eventos/lollapalooza-chile-2011.jhtm">Lollapalooza Chile</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais&u=http://musica.uol.com.br/eventos/primavera-sound-2010.jhtm">Festival Primavera Sound 2010 </a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais&u=http://musica.uol.com.br/coachella/2010/">Coachella 2010</a></li>
+			<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://musica.uol.com.br/south-by-southwest/">South by Southwest 2010 </a></li>
+			<!--<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://musica.uol.com.br/eventos/festival-swu-music-and-arts.jhtm">SWU 2010</a></li>-->
+			<!--<li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://noticias.uol.com.br/festa-peao-barretos/">Barretos 2010</a></li>-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais&u=http://musica.uol.com.br/roberto-carlos/">Roberto Carlos 50 anos</a></li-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://musica.uol.com.br/bossanova/">Bossa Nova 50 Anos</a></li-->
+			<!--li><a name="menu_sites" href="http://click.uol.com.br/?rf=musica_especiais_arquivo&u=http://musica.uol.com.br/michael-jackson/">Michael Jackson 1958-2009</a></li-->
+		</ul>
+	</div>
+</div>
+
+	
+				<div id="banner-125x125-area"></div>
+		
+		<div id="shop-canhoto">
+  <h4><a href="http://click.uol.com.br/?rf=noticia_h_Shop&amp;u=http://shopping.uol.com.br/" target="_blank"><span>Shopping UOL</span></a></h4>
+  <div class="shop-chamada">
+    <p>Compare preços nas MELHORES LOJAS</p>
+    <h5><a href="http://shopping.uol.com.br/eletronicos/dvd-players/index.html" target="_blank">- DVD Player</a></h5>
+    <ul>
+      <li><a href="http://click.uol.com.br/?rf=canais_boxesquerdo&amp;u=http://shopping.uol.com.br/informatica/notebooks/index.html" target="_blank"> Notebook</a></li>
+      <li><a href="http://click.uol.com.br/?rf=canais_boxesquerdo&amp;u=http://shopping.uol.com.br/busca.html?q=smart%20phone" target="_blank"> Smartphone</a></li>
+      <li><a href="http://click.uol.com.br/?rf=canais_boxesquerdo&amp;u=http://shopping.uol.com.br/busca.html?q=camera%20digital" target="_blank"> Câmera Digital</a></li>
+      <li><a href="http://click.uol.com.br/?rf=canais_boxesquerdo&amp;u=http://shopping.uol.com.br/busca.html?q=adidas" target="_blank"> Adidas</a></li>
+    </ul>
+  </div>
+</div><!--//shop-canhoto (teste de não republicação)-->
+		
+    <div id="banner-125x125-2-area"></div>
+
+
+<!-- EOF -->
+
+	</div><!--/esquerda-->
+
+	<div id="col-direita">
+		
+
+	<div id="banner-155x260-area"></div>    
+
+<script type="text/javascript">
+	UOLLibColunaDireitaConfig = {
+		camposTagsPermitidas : ["tag1","tag2","tag4"]
+	}
+</script>
+
+		<div class="box-fanbox" style="margin-top:7px;">
+	<div class="conteudo">
+	   <fb:fan profile_id="112893205419012" stream="0" connections="6" logobar="0" width="155" height="265" locale="pt_BR" 
+	   css="http://www3.uol.com.br/interacao/facebook/like/style.css?20110609"></fb:fan>
+	   <script src="http://connect.facebook.net/pt_BR/all.js#xfbml=1"></script> 
+	   <!--script type="text/javascript">FB.init("112893205419012");</script-->
+	</div>
+</div>
+
+		<div id="novaColDireita">
+
+			<!-- BLACKLIST -->
+			<script type="text/javascript">
+				blacklist = [document.location.href]; // para notícia blacklist já remove a própria URL atual.
+				
+						
+					
+			</script>
+			<!--//BLACKLIST -->
+
+			
+
+
+
+			
+	
+			
+			<div class="modtagpagetagpage">
+				<ul class="config" style="display:none;">
+					<li title="tag1">Pedro Leonardo [22399]; Leonardo [2959]; </li>
+					<li title="tag2"></li>
+					<li title="tag3">Sertanejo [5115]; </li>
+					<li title="tag4"></li>
+					<li title="taglocal"></li>
+					<li title="tagoutras"></li>
+					<li title="tituloBloco">Tudo sobre</li>
+					<li title="clickuol">musica_mod-lat_tag-tp</li>
+					<li title="view">3</li>
+				</ul>
+				<div class="conteudo"></div>
+			</div>
+
+			<div class="modtagpagenoticias">
+				<ul class="config" style="display:none;">
+					<li title="tag1">Pedro Leonardo [22399]; Leonardo [2959]; </li>
+					<li title="tag2"></li>
+					<li title="tag3">Sertanejo [5115]; </li>
+					<li title="tag4"></li>
+					<li title="taglocal"></li>
+					<li title="tagoutras"></li>
+					<li title="tituloBloco">Leia mais</li>
+					<li title="clickuol">musica_mod-lat_tag-not</li>
+					<li title="view">4</li>
+				</ul>
+				<div class="conteudo"></div>
+			</div>
+
+			<div class="modtagpagealbum">
+				<ul class="config" style="display:none;">
+					<li title="tag1">Pedro Leonardo [22399]; Leonardo [2959]; </li>
+					<li title="tag2"></li>
+					<li title="tag3">Sertanejo [5115]; </li>
+					<li title="tag4"></li>
+					<li title="taglocal"></li>
+					<li title="tagoutras"></li>
+					<li title="tituloBloco">Veja fotos</li>
+					<li title="clickuol">musica_mod-lat_tag-fotos</li>
+					<li title="view">5</li>
+				</ul>
+				<div class="conteudo"></div>
+			</div>
+
+			<script type="text/javascript">
+			
+configVideosEstacao = {
+	listConfig: {
+		tagsIds: '144',
+		tagsNames: 'música',
+		codProfile:'92db81ral8qx',
+		qryTag: 'and' ,
+		editor: '1,3,4,5' 
+	},
+	firstDate : new Date('2007/09/19 15:43:00'),
+	lastDate : new Date(('2012/05/07 12h32:59').replace('h',':')),
+	upsiBaseURL: 'http://musica.uol.com.br/ultnot/multi/',
+	estacaoNome: 'UOL Música',
+	canalNome: 'Notícias',
+	tipoDePagina: 'MATERIA',
+	medialistURL: 'http://musica.uol.com.br/videos/',
+	defaultTime: 'week',
+	defaultDisplay: 'LIST',
+	isList: false ,
+	cabecalhosPorTag: [
+	{
+		tagId:75106,
+		simpleHTML:'<h1 class="logo-megashow"><a href="/megashow/">Megashow</a></h1>'
+	},
+      {
+	      tagId:'407991', // Festa do Peão de Barretos 2011
+	      ajaxMesmoDominioURL:'http://musica.uol.com.br/festa-do-peao-de-barretos/videos/topo.jhtm',
+	      loadTags:true
+      },
+      {
+	      tagId:'55453', // Retrospectiva 2011
+	      ajaxMesmoDominioURL:'http://musica.uol.com.br/ultimas-noticias/retrospectiva-2011-topo.jhtm',
+	      loadTags:true
+      }
+
+]
+
+};  
+			
+			</script>
+
+			<div class="modtagpagevideos">
+				<ul class="config" style="display:none;">
+					<li title="tag1">Pedro Leonardo [22399]; Leonardo [2959]; </li>
+					<li title="tag2"></li>
+					<li title="tag3">Sertanejo [5115]; </li>
+					<li title="tag4"></li>
+					<li title="taglocal"></li>
+					<li title="tagoutras"></li>
+					<li title="tituloBloco">Assista a vídeos</li>
+					<li title="clickuol">musica_mod-lat_tag-vid</li>
+					<li title="view">3</li>
+				</ul>
+				<div class="conteudo"></div>
+			</div>
+				
+		
+				
+
+			
+
+<div id="colDireitaTopsGroup">
+
+	
+	<div class="blocoColDir blocoTops topNoticias">
+		<h3 class="top10 ">
+			<a id="musica_mod-lat_top-not-ch" href="http://musica.uol.com.br/ultnot/">
+			<span class="img">Top10</span>
+			
+			Notícias
+			
+			</a>
+		</h3>
+		<ul>
+			
+			<li class="maior">
+				<a id="musica_mod-lat_top-not1" href="http://musica.uol.com.br/ultnot/2012/05/05/quero-que-as-pessoas-sintam-medo-quando-escutarem-meu-album-diz-marilyn-manson-a-site.jhtm">
+					<span class="imagem" title="Reprodução"><img src="http://m.i.uol.com.br/musica/2012/03/23/capa-do-album-born-villain-de-marilyn-manson-1332501358705_142x100.jpg" alt="Reprodução" /></span>
+					<span class="numero numero1">1</span>
+					<span class="texto">Marilyn Manson: "Quero que sintam medo quando escutarem meu disco"</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not2" href="http://musica.uol.com.br/ultnot/2012/05/06/novo-clipe-de-justin-bieber-bate-recorde-de-exibicoes-em-um-unico-dia.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero2">2</span>
+					<span class="texto">Novo clipe de Justin Bieber bate recorde de exibições em um único dia</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not3" href="http://musica.uol.com.br/ultnot/2012/05/04/thiago-diz-que-esta-ansioso-pela-melhora-de-pedro.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero3">3</span>
+					<span class="texto">Thiago diz que está ansioso pela melhora de seu parceiro Pedro</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not4" href="http://musica.uol.com.br/ultnot/2012/05/04/artistas-lamentam-a-morte-de-tinoco.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero4">4</span>
+					<span class="texto">"Nunca o vi tão animado", diz Inezita sobre despedida de Tinoco na TV</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not5" href="http://musica.uol.com.br/ultnot/2012/05/05/mca-foi-um-dos-maiores-super-herois-da-historia-do-hip-hop-diz-rodrigo-brandao.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero5">5</span>
+					<span class="texto">Rodrigo Brandão: "MCA foi um dos maiores super-heróis do hip-hop"</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not6" href="http://musica.uol.com.br/ultnot/2012/05/03/courtney-love-nao-tem-mais-os-direitos-de-imagem-de-kurt-cobain-diz-jornal.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero6">6</span>
+					<span class="texto">Courtney Love não tem mais os direitos de imagem de Kurt Cobain</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not7" href="http://musica.uol.com.br/ultnot/2012/04/09/franz-ferdinand-fara-show-gratuito-em-sao-paulo.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero7">7</span>
+					<span class="texto">Franz Ferdinand fará show gratuito em São Paulo no final de maio</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not8" href="http://musica.uol.com.br/ultnot/2012/05/01/cantor-leonardo-diz-ficar-perplexo-com-criticas-sobre-decisao-de-continuar-trabalhando.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero8">8</span>
+					<span class="texto">Leonardo se diz perplexo com críticas sobre estar trabalhando</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not9" href="http://musica.uol.com.br/ultnot/2012/04/27/elton-john-e-processado-por-plagio-em-musica-quase-30-anos-apos-seu-lancamento.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero9">9</span>
+					<span class="texto">Elton John é processado por plágio quase 30 anos depois</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-not10" href="http://musica.uol.com.br/ultnot/2012/05/04/ingressos-para-turne-de-ex-vocalista-do-a-ha-no-brasil-variam-de-r-150-a-r-280.jhtm">
+					<span class="imagem" title=""><img src="" alt="" /></span>
+					<span class="numero numero10">10</span>
+					<span class="texto">Ingressos para turnê solo do vocalista do A-Ha no Brasil chegam a R$ 280</span>
+				</a>
+			</li>
+			
+		</ul>
+		<h5 class="linkMais"><a id="musica_mod-lat_top-not-mais" href="http://musica.uol.com.br/ultnot/"><span class="seta">&#9658;</span> Mais notícias</a></h5>
+	</div>
+	
+	<div class="blocoColDir blocoTops topArtistas">
+		<h3 class="top5 ">
+			<a id="musica_mod-lat_top-art-ch" href="http://musica.uol.com.br/artistas/">
+			<span class="img">Top5</span>
+			
+			Artistas
+			
+			</a>
+		</h3>
+		<ul>
+			
+			<li class="maior">
+				<a id="musica_mod-lat_top-art1" href="http://entretenimento.uol.com.br/famosos/luan-santana/index.htm">
+					<span class="imagem" title="João Alvarez/UOL"><img src="http://m.i.uol.com.br/musica/2012/01/28/luan-santana-se-apresenta-no-festival-de-verao-de-salvador-270112-1327750276506_142x100.jpg" alt="João Alvarez/UOL" /></span>
+					<span class="numero numero1">1</span>
+					<span class="texto">Luan Santana</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-art2" href="http://entretenimento.uol.com.br/famosos/gorillaz/index.htm">
+					<span class="imagem" title="Divulgação"><img src="http://m.i.uol.com.br/musica/2010/03/10/os-integrantes-da-banda-virtual-gorillaz-murdoc-baixista-russel-baterista-2-d-vocalista-e-noodle-guitarrista-1268258039123_142x100.jpg" alt="Divulgação" /></span>
+					<span class="numero numero2">2</span>
+					<span class="texto">Gorillaz</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-art3" href="http://entretenimento.uol.com.br/famosos/madonna/index.htm">
+					<span class="imagem" title="Divulgação"><img src="http://media.imguol.com/2012/05/04/madonna-1336174376859_142x100.jpg" alt="Divulgação" /></span>
+					<span class="numero numero3">3</span>
+					<span class="texto">Madonna</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-art4" href="http://entretenimento.uol.com.br/famosos/daft-punk/index.htm">
+					<span class="imagem" title="Getty Images"><img src="http://w3.i.uol.com.br/Wap/2010/11/19/midia-indoor-wap-celular-tv-dupla-francesa-daft-punk-em-show-em-las-vegas-estados-unidos-1290203113054_142x100.jpg" alt="Getty Images" /></span>
+					<span class="numero numero4">4</span>
+					<span class="texto">Daft Punk</span>
+				</a>
+			</li>
+			
+			
+			<li class="menor">
+				<a id="musica_mod-lat_top-art5" href="http://entretenimento.uol.com.br/famosos/lana-del-rey/index.htm">
+					<span class="imagem" title="Getty Images"><img src="http://m.i.uol.com.br/musica/2012/02/15/lana-del-rey-durante-apresentacao-na-loja-de-discos-amoeba-music-em-los-angeles-07022012-1329309486962_142x100.jpg" alt="Getty Images" /></span>
+					<span class="numero numero5">5</span>
+					<span class="texto">Lana Del Rey</span>
+				</a>
+			</li>
+			
+			
+			
+			
+			
+			
+		</ul>
+		<h5 class="linkMais"><a id="musica_mod-lat_top-art-mais" href="http://musica.uol.com.br/artistas/"><span class="seta">&#9658;</span> Mais artistas</a></h5>
+	</div>
+	
+	
+</div>
+
+
+
+		</div>
+
+		<!--%INCLUDE /teste/coluna-direita/v2/especial-css-e-js.inc%-->
+<!--%INCLUDE /teste/coluna-direita/v2/css-e-js.inc%-->
+
+	</div><!--/direita-->
+
+
+	<!-- robots index="no" -->
+</div><!--/corpo-->
+
+
+	<script type="text/javascript" src="/v2/scripts-postload-novo.js"></script>
+	<script type="text/javascript" src="http://entretenimento.uol.com.br/script-menu-hover.js"></script>
+
+
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://lib.uol.com.br/uollib.colunadireita/uollib.colunadireita.js"></script>
+<script type="text/javascript" src="http://lib.uol.com.br/uollib.tagpage/uollib.tagpage.js"></script>
+<script type="text/javascript" src="http://lib.uol.com.br/uollib.encontrarmodulos/uollib.encontrarmodulos.js"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+	var LPChapeu = "Links Patrocinados";
+	var LPChapeuCalhau = "Produtos UOL";
+	var LPIdentificador = "51eed576aff54be8b1311d90735f36a6";
+	
+	var LPQtdAnuncio    = 6;
+	
+	var LPCookie    = "false";
+	var LPEqualize = "reequalize();";
+</script>
+
+<script type="text/javascript" src="http://lib.uol.com.br/liblp/liblp.js"></script>
+
+
+
+
+
+
+<!-- SiteCatalyst code version: H.19.3. Copyright 1997-2009 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://me.jsuol.com/omtr/musica.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=uol_sc.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.19.3. -->
+
+
+<!-- banners -->
+<div id="banner-180x150"><script type="text/javascript">DEshow('180x150',5,8);</script></div><!-- banner dentro de matérias -->
+<div id="banner-728x90"><script type="text/javascript">DEshow('728x90',1,5);</script></div><!-- super full -->
+<div id="banner-608x90"><script type="text/javascript">DEshow('608x90',8,5);</script></div><!-- full -->
+<div id="banner-615x250"><script type="text/javascript">DEshow('615x250',5,5);</script></div><!-- full -->
+<div id="banner-468x60"><script type="text/javascript">DEshow('468x60',1,5);</script></div><!-- full -->
+<div id="banner-120x35"><script type="text/javascript">DEshow('120x35',6,0);</script></div><!-- patrocinio -->
+<div id="banner-120x35-2"><script type="text/javascript">if (typeof tagbanner != "undefined" && tagbanner != "") {DEshow('120x35',9,0);}</script></div><!-- patrocinio -->
+<div id="banner-120x60"><script type="text/javascript">DEshow('120x60',3,5);</script></div><!-- botao -->
+<!--<div id="banner-130x55"><script type="text/javascript">if (typeof tagbanner == "undefined" || tagbanner == "") DEshow('130x55',6,5);</script></div>--><!-- patrocinio -->
+<!-- banner 130x55 p/ tags -->
+<div id="banner-130x55-2"><script type="text/javascript">DEshow('130x55',6,5,2);</script></div>
+<div id="banner-125x125"><script type="text/javascript">DEshow('125x125',7,8);</script></div>
+<div id="banner-125x125-2"><script type="text/javascript">DEshow('125x125',9,8,2);</script></div>
+<div id="banner-300x250"><script type="text/javascript">DEshow('300x250',5,7);</script></div><!-- home -->
+<div id="banner-155x260"><script type="text/javascript">DEshow('155x260',6,0);</script></div><!-- banner na coluna da direita -->
+<div id="banner-120x600"><script type="text/javascript">DEshow('120x600',6,18);</script></div><!-- vertical -->
+<!-- /banners -->
+
+
+</div>
+
+
+
+  <form method="get" action="http://www3.uol.com.br/envie/" target="_blank" name="email">
+	<input type="hidden" name="texto" value="Na porta do hospital, Leonardo diz que "evolução de Pedro está dentro do esperado"" />
+	<input type="hidden" name="origem" value="UOL Música - Da Redação" />
+	<input type="hidden" name="data" value="08/05/2012" />
+</form>
+
+
+
+
+
+
+
+<div id="uol-host"><a href="http://www.uolhost.com.br/hospedagem-de-sites.html" target="_blank">Hospedagem</a>: <a href="http://www.uolhost.com.br/" target="_blank">UOL Host</a></div>
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- tpl cache bug prevention -->
+
+

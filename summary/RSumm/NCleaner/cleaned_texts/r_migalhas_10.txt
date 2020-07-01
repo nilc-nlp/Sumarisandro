@@ -1,0 +1,37 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P align=justify><FONT face=Verdana><FONT size=2>O Plenário do TSE aprovou, nesta terça-feira, 17, seis resoluções válidas para as eleições gerais de 2014. As resoluções dispõem sobre atos preparatórios para o pleito, registro e divulgação de pesquisas eleitorais, crimes eleitorais, pedidos de direito de resposta, modelos de lacres das urnas, dentre outros. </FONT></FONT><FONT face=Verdana><FONT size=2>Os textos aprovados podem sofrer alterações, mas somente para adequar a redação. </FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2>Confira a íntegra das resoluções.</FONT></FONT></P><FONT face=Verdana><FONT size=2>
+<UL>
+<LI>
+<DIV><A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131218-10.pdf" target=_blank>Crimes eleitorais</A></DIV></LI></UL>
+
+<UL>
+<LI>
+<DIV><A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131218-11.pdf" target=_blank>Lacres e segurança</A> </DIV></LI></UL>
+
+<UL>
+<LI>
+<DIV><A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131218-12.pdf" target=_blank>Pesquisas eleitorais </A></DIV></LI></UL>
+
+<UL>
+<LI>
+<DIV><A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131218-13.pdf" target=_blank>Representações e direito de resposta</A></DIV></LI></UL>
+
+<UL>
+<LI>
+<DIV><A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131218-14.pdf" target=_blank>Atos preparatórios</A></DIV></LI></UL>
+
+<UL>
+<LI>
+<DIV><A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131218-15.pdf" target=_blank>Assinatura digital e fiscalização do sistema de votação</A></DIV></LI></UL>
+<P align=justify></FONT></FONT></P></FONT>
+</FONT>
+</FONT>
+</FONT>
+
+</div>

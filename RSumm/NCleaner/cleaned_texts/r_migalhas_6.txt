@@ -1,0 +1,24 @@
+<div id="texto">
+<P align=justify><FONT face=Verdana><FONT size=2>STJ nega suspensão de liminar concedida pelo TJ/SP para impedir o aumento do IPTU na capital paulista. Decisão é do presidente da Corte Superior, ministro Felix Fischer.</FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2>A prefeitura argumentava que a liminar causaria graves danos à economia e à ordem pública. O prejuízo aos cofres municipais chegaria a R$ 800 milhões no primeiro ano e somaria até R$ 4,2 bilhões de perdas em repasses federais, estaduais e operações de crédito. </FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2>Conforme argumentou o município, o TJ bandeirante teria contrariado a lei ao não permitir que seus procuradores fizessem sustentação oral na sessão que concedeu a liminar. A liminar impediria o município de atualizar para valores de mercado a base de cálculo do imposto, a qual, segundo a prefeitura, não poderia ficar atrelada apenas à variação da inflação ou do PIB. </FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2><STRONG>Pedido incabível</STRONG> </FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2>Fischer esclareceu, porém, que a concessão de medida cautelar contra o poder público em caso de ADIn não é regulada pela lei <A onclick="jan = window.open('http://www.planalto.gov.br/ccivil_03/leis/l8437.htm', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www.planalto.gov.br/ccivil_03/leis/l8437.htm' } return false; " href="" target=_self>8.437/92</A>, que admite o pedido de suspensão.  Conforme o presidente, essa lei só é aplicável nas hipóteses de processos que tratam de interesses individuais. Mas a ADIn contra a lei municipal, em trâmite no TJSP, visa defender o sistema constitucional. </FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2>Por isso, para o ministro, o pedido de suspensão – como o apresentado pelo município – não é o meio adequado para combater os efeitos de liminar concedida em casos de controle concentrado de constitucionalidade. </FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2>Ele ressaltou ainda que, mesmo que se considerasse cabível o pedido – o que já ocorreu em decisões isoladas e minoritárias do STF, a competência para apreciá-lo seria da Corte Constitucional. </FONT></FONT></P>
+
+<P align=justify><FONT face=Verdana><FONT size=2>Isso porque a competência para apreciar os pedidos de suspensão de liminar e de sentença é do tribunal competente para analisar eventual recurso cabível da decisão. No caso, contra a decisão do TJ/SP caberia recurso extraordinário, a ser julgado pelo STF.</FONT></FONT></P>
+
+<UL>
+<LI>
+<DIV align=justify><FONT face=Verdana><FONT size=2><STRONG><U>Processo relacionado</U></STRONG>: SLS <A onclick="jan = window.open('http://www.stj.jus.br/webstj/processo/justica/jurisprudencia.asp?tipo=num_pro&valor=SLS1836', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www.stj.jus.br/webstj/processo/justica/jurisprudencia.asp?tipo=num_pro&valor=SLS1836' } return false; " href="" target=_self>1.836</A></FONT></FONT></DIV></LI></UL>
+
+<P align=justify><FONT face=Verdana><FONT size=2>Veja a íntegra da <A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131219-02.pdf" target=_blank>decisão</A>.</FONT></FONT></P>
+
+</div>

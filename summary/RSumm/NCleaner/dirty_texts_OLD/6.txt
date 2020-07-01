@@ -1,0 +1,1293 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+	<head>
+		<title>União Europeia convoca cúpula de urgência para 23 de maio - economia -  - Estadão</title>
+		<meta name="description" content="PARIS - Uma reunião de cúpula informal e extraordinária dos chefes de Estado e de governo da União Europeia será realizada em Bruxelas, em 23 de maio, " />
+		<meta name="keywords" content="UE, cúpula de urgência" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<!--start Facebook Open Graph Protocol-->
+		<meta property="fb:app_id" content="213868385331250" />
+		<meta property="og:title" content="União Europeia convoca cúpula de urgência para 23 de maio - economia - Estadao.com.br" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://economia.estadao.com.br/noticias/economia,uniao-europeia-convoca-cupula-de-urgencia-para-23-de-maio,111572,0.htm" />
+		<meta property="og:image" content="http://economia.estadao.com.br/estadao/novo/img/estadao.gif" />
+		<meta property="og:site_name" content="Estadão" />
+		<meta property="og:description" content="PARIS - Uma reunião de cúpula informal e extraordinária dos chefes de Estado e de governo da União Europeia será realizada em Bruxelas, em 23 de maio, " />
+		<!--end Facebook Open Graph Protocol-->
+
+        <META NAME="GOOGLEBOT-NEWS" CONTENT="NOSNIPPET">
+			
+		<script type="text/javascript" src="http://economia.estadao.com.br/EN/js/jquery.js"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/Comum.js?v=1.5"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/modules/materia.js?v=2.1"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/modules/sharing.js?v=1.1"></script>
+		<script type="text/javascript" src="http://economia.estadao.com.br/EN/js/default.js"></script>
+		<script type="text/javascript" src="http://economia.estadao.com.br/EN/js/AdBanner.js"></script>
+		<!--script type="text/javascript" src="http://economia.estadao.com.br/EN/js/Reload.js"></script-->
+		<script type="text/javascript" src="/estadao/v2012/js/modules/Reload2.js"></script>
+		<script type="text/javascript" src="http://economia.estadao.com.br/EN/js/jquery.lightbox-0.5.js"></script>
+		<script type="text/javascript">
+			var editoria="";
+			var nomeEditoria="economia";
+			var subeditoria="";
+			var nomeSubEditoria="";
+			var idPagina="A240685ED41D4BB29A4597EF03D14C24";
+			var urlSEO = 'uniao-europeia-convoca-cupula-de-urgencia-para-23-de-maio';
+			var hashtag	= '';
+			var oReload = new Reload(true, 300);
+			
+			
+			var id          		= '111572';
+			var editoria    		= 'economia';
+			var subeditoria 		= '';
+			var url         		= 'economia,uniao-europeia-convoca-cupula-de-urgencia-para-23-de-maio,111572,0.htm';
+			var urlComplete 		= document.location.toString();
+			var tags        		= 'UE;cúpula de urgência';
+			var title				= 'União Europeia convoca cúpula de urgência para 23 de maio';
+			var guid        		= 'A240685ED41D4BB29A4597EF03D14C24';
+			var mostraComentarios  	= 1;
+		
+			
+			
+			OAS_sitepage="estadao/economia/geral";
+			OAS_listpos="Position1,Position2,Middle,Frame2,x08,x05,Top,x04,x06,x07,x09,x10,x11,x02,x03,x50";
+			
+			var oBanner = new Banner(false);
+			
+			
+			$(function(){
+				$("#aa1").click(function(e){
+					e.preventDefault();
+					$('#pCorpoMateria p').css("font-size", "10px");
+				})	;
+				$("#aa2").click(function(e){
+					e.preventDefault();
+					$('#pCorpoMateria p').css("font-size", "11px");
+				});
+				$("#aa3").click(function(e){
+					e.preventDefault();
+					$('#pCorpoMateria p').css("font-size", "12px");
+				});
+				$("#aa4").click(function(e){
+					e.preventDefault();
+					$('#pCorpoMateria p').css("font-size", "16px");
+				});
+				$(".lightBoxLink").lightBox();
+			});
+			
+			materiaFuncionalidades = function(){
+				var _this = this;
+				
+				this._titulo = "União Europeia convoca cúpula de urgência para 23 de maio";
+				this._editoria = "economia";
+				this._guid = "A240685ED41D4BB29A4597EF03D14C24";
+				this._urlPagina = window.location;
+				this._tags = "";
+				
+				this.guidFormatado = function(){
+					return _this._guid? _this._guid.substring(0,8) + "-" + _this._guid.substring(8,12) + "-" + _this._guid.substring(12,16) + "-" + _this._guid.substring(16,20) + "-" + _this._guid.substring(20) : false;
+				};
+				
+				this.enviarEmail = function(){
+					var url = "http://sites.estadao.com.br/envio_noticia/formularioEnviar.php?";
+					var parametros = "linkNoticia=" + _this._urlPagina + "&tituloNoticia=" + encodeURI(_this._titulo) + "&editoria=" + _this._editoria;
+					window.open(url+parametros,'envio_email','toolbars=no,status=no,width=656,height=620,location=no');
+				};
+				
+				this.comentarNoticia = function(){
+					var url = "http://cadastro.estadao.com.br/comentar?";
+					var parametros = "guid=A240685ED41D4BB29A4597EF03D14C24&editoria=economia&produto=economia&amp;titulo_pg="+ encodeURI(this._titulo) +"&url_pg=" + document.location;
+					window.open(url+parametros,"comentarios","width=500, height=600, top=30, left=300, scrollbars=yes");
+				};
+				
+				this.verTodosComentarios = function(){
+					var url = "http://cadastro.estadao.com.br/comentarios?";
+					var parametros = "guid=A240685ED41D4BB29A4597EF03D14C24&editoria=" + _this._editoria + "&produto=economia&titulo_pg=" + encodeURI(_this._titulo) + "&url_pg=" + document.location;
+					window.open(url+parametros,"comentarios","width=500, height=600, top=30, left=300, scrollbars=yes");
+				};
+				
+				this.trim = function(str){
+					var _str = "";
+					var _tmpStr = str.replace(/^\s+|\s+$/g,"");
+					for( var i=0; i<_tmpStr.length; i++){
+						var _char = _tmpStr.substring(i,i+1);
+						_str += _char;
+					}
+					return _str;
+				}
+
+				this.clearStr = function(str){
+					var _str = "";
+					var _tmpStr = str.replace(/^\s+|\s+$/g,"");
+					for( var i=0; i<_tmpStr.length; i++){
+						var _char = _tmpStr.substring(i,i+1);
+						_char = _char.replace(/[äâàáãå]/,"a");
+						_char = _char.replace(/[ëêèé]/,"e");
+						_char = _char.replace(/[ïîìí]/,"i");
+						_char = _char.replace(/[ôöòóõ]/,"o");
+						_char = _char.replace(/[üûùú]/,"u");
+						_char = _char.replace(/[ç]/,"c");
+						_char = _char.replace(/[ñ]/, "n");
+						_char = _char.replace(/[ÿý]/, "y");
+						_char = _char.replace(/[ÄÂÀÁÃÅ]/, "A");
+						_char = _char.replace(/[ËÊÈÉ]/, "E");
+						_char = _char.replace(/[ÏÎÌÍ]/, "I");
+						_char = _char.replace(/[ÖÓÔÒÕ]/, "O");
+						_char = _char.replace(/[ÜÛÙÚ]/, "U");
+						_char = _char.replace(/[Ç]/, "C");
+						_char = _char.replace(/[Ñ]/, "N");
+						_char = _char.replace(/[Ý]/, "Y");
+						_char = _char.replace(/[\s]/, "-");
+						_char = _char.replace(/[^a-zA-Z0-9\s\-]*/, "");
+						_str += _char;
+					}
+					return _str.toLowerCase();
+				}
+				
+				this.normalizaTags = function(str){
+					var _str = "";
+					var _tmpStr = str.replace(/^\s+|\s+$/g,"");
+					for( var i=0; i<_tmpStr.length; i++){
+						var _char = _tmpStr.substring(i,i+1);
+						_char = _char.replace(/[,]/,";");
+						_str += _char;
+					}
+					return _str.toLowerCase();
+				};
+				
+				this.listaTags = function(){
+					var arr = _this.normalizaTags(_this._tags);
+					var t = arr.split(";");
+					for (var i=0;i < t.length;i++){
+						t[i] = '<a class="fnt2 Color_03" href="http://economia.estadao.com.br/topicos/'+ _this.clearStr(t[i]) +'">' + _this.trim(t[i]) + '</a>';
+					}
+					return t.join("; ");
+				};
+				
+				this.breadcrumb = function(){
+					var _nomeEditoria = nomeEditoria;
+					var _nomeSubEditoria = nomeSubEditoria;
+					var p = "";
+					p = "<a href='http://economia.estadao.com.br/"+_this.clearStr(_nomeEditoria).replace("-","")+".htm' class='Color_03 fnt2'>"+_nomeEditoria+"</a> ";
+					if(_nomeSubEditoria){
+						p = p+'> <a href="http://economia.estadao.com.br/'+_this.clearStr(_nomeSubEditoria).replace("-","")+'.htm" class="Color_03 fnt2">'+_nomeSubEditoria+"</a>";
+					}
+					return p;
+				};
+				
+				this._constructor = function( guid, editoria, titulo, tags){
+					_this._guid = guid;
+					_this._editoria = editoria;
+					_this._titulo = titulo;
+					_this._tags = tags;
+					_this._urlPagina = document.location;
+				};
+				this._constructor.apply( this, arguments );
+			}
+			
+			var materia = new materiaFuncionalidades( "A240685ED41D4BB29A4597EF03D14C24", "economia", "União Europeia convoca cúpula de urgência para 23 de maio", "UE;cúpula de urgência" );
+			
+		</script>
+
+		<link rel="stylesheet" type="text/css" href="http://economia.estadao.com.br/EN/css/default.css" />
+		<link rel="stylesheet" type="text/css" href="http://economia.estadao.com.br/EN/css/jquery.lightbox-0.5.css" media="screen" />
+		
+		<!--[if IE 6]><link rel="stylesheet" type="text/css" href="http://economia.estadao.com.br/EN/css/ie6.css" /><![endif]-->
+		<style>
+		
+		
+		
+		</style>
+		<link rel="stylesheet" type="text/css" href="/estadao/novo/css/economia-materia.css" />
+		
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-166963-4']);
+	_gaq.push(['_setDomainName', '.estadao.com.br']);
+	_gaq.push(['_setLocalGifPath', 'http://urchin.estadao.com.br/imagem/urchin.gif']);
+	_gaq.push(['_setLocalRemoteServerMode']);
+	
+	_gaq.push(['_trackPageview']);
+	
+
+	(function() {
+		var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+		
+		<script src="http://connect.facebook.net/pt_BR/all.js#xfbml=1"></script>
+		<!--script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script-->
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+			{lang: 'pt-BR'}
+		</script>
+	</head>
+	<body>
+		<div id="bannerFrame2"><script type="text/javascript">OAS_AD("Frame2");</script></div>
+
+<div class="dvNovaBarra">
+    <div class="centralizaSite">
+        
+        <script type="text/javascript">
+        var data         = new Date();
+        var dia          = data.getDate();
+        var mes          = data.getMonth();
+        var ano          = data.getFullYear();
+        var hora         = data.getHours();
+        var min          = data.getMinutes() + '';
+        var meses        = new Array('Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro');
+        var ckLocation   = 'OESP_LOCATION_NAME';
+        var ckEdicao     = 'OESP_EDICAO';
+        var ckAuth       = 'PORTAL_AUTH';
+        var cidadePadrao = 'sao_paulo';
+        var edicaoPadrao = 'sao_paulo';
+        var cidade       = verCookie(ckLocation);
+        var edicao       = verCookie(ckEdicao);
+        var mesQueVem    = new Date(data.getTime() + ((60 * 60 * 24 * 30) * 1000));
+        var nomeSemanaEn = new Array('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat');
+        var nomeMesEn    = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+        var expiracaoCk  = nomeSemanaEn[mesQueVem.getDay()] + ', ' + mesQueVem.getDate() + ' ' + nomeMesEn[mesQueVem.getMonth()] + ' ' + mesQueVem.getFullYear() + ' 00:00:01 UTC';
+        function trataNome(str) {
+        str = str.toLowerCase();
+        str = str.split(' ').join('_');
+        str = str.replace(/[âãáàä]/gi, 'a');
+        str = str.replace(/[êéèë]/gi, 'e');
+        str = str.replace(/[îíìï]/gi, 'i');
+        str = str.replace(/[ôõóòö]/gi, 'o');
+        str = str.replace(/[ûúùü]/gi, 'u');
+        return str;
+        }
+        function escolherEdicao(edi) {
+        document.cookie   = ckEdicao + '=' + edi + '; expires=' + expiracaoCk + '; path=/; domain=.estadao.com.br';
+        document.location = 'http://www.estadao.com.br/';
+        }
+        function escolherCidade(cid) {
+        if($(".bb-md.bb-md-tempo").length > 0){
+        var icone_tempo = 1;
+        if(cidade == '' || cidade != cid) {
+        document.cookie = ckLocation + '=' + cid + '; expires=' + expiracaoCk + '; path=/; domain=.estadao.com.br';
+        }
+        $.get('/xml/tempo/capitais.xml', function (data) {
+        var xmlTempo = $(data).find('cidade');
+        for (var it=0; it<xmlTempo.length; it++){
+        var estadoXML = trataNome(xmlTempo.eq(it).attr('estado'));
+        if(estadoXML == cid) {
+        var tempo_min = xmlTempo.eq(it).children('dia1').attr('low');
+        var tempo_max = xmlTempo.eq(it).children('dia1').attr('high');
+        var tempo_frase = xmlTempo.eq(it).children('dia1').attr('frase');
+        var tempo_umidade = xmlTempo.eq(it).children('dia1').attr('ur');
+        icone_tempo = xmlTempo.eq(it).children('dia1').attr('ico');
+        $('#tempoIlustra').attr('src', 'http://www.estadao.com.br/estadao/novo/img/tempo/' + cid + '_' + icone_tempo + '.png');
+        $('#tempoIlustra').attr('alt', tempo_frase);
+        $('#tempoIlustra').attr('title', tempo_frase);
+        $('.temperatura dl.min dd').html(tempo_min + '&ordm;');
+        $('.temperatura dl.max dd').html(tempo_max + '&ordm;');
+        $('#bb-md-tempo-cidade').hide();
+        break;
+        }
+        }
+        }, 'xml');
+        var cidades = { "bahia":{name: "Salvador", width: 74, margin: 50},
+        "minas_gerais":{name: "Belo Horizonte", width: 113, margin: 19},
+        "distrito_federal":{name: "Brasília", width: 68, margin: 56},
+        "rio_grande_do_sul":{name: "Porto Alegre", width: 102, margin: 30},
+        "rio_de_janeiro":{name: "Rio de Janeiro", width: 102, margin: 30},
+        "sao_paulo":{name: "São Paulo", width: 79, margin: 48}};
+        $('#tempoTxt a').text(cidades[cid].name);
+        $('#tempoImg').attr("src", "http://www.estadao.com.br/estadao/novo/img/tempo/txt_" + cid + ".gif");
+        $('.bb-md-tempo').css({width: cidades[cid].width, marginLeft: cidades[cid].margin});
+        }
+        $('.mn_cidades').hide();
+        $('.mn_estado_' + cid).show();
+        }
+        function verCookie(nCookie) {
+        todosCookie = document.cookie;
+        valorCookie = '';
+        cks         = todosCookie.split(';');
+        for(ck = 0; ck < cks.length; ck++) {
+        if(cks[ck].replace(/^\s+|\s+$/g, '').indexOf(nCookie) != -1) {
+        cookieUtilInteiro = cks[ck];
+        cookieUtil        = cookieUtilInteiro.split('=');
+        valorCookie       = cookieUtil[1];
+        }
+        }
+        return valorCookie;
+        }
+        function mostrarCidades() {
+        $('#bb-md-tempo-cidade').toggle();
+        }
+        function mostrarEdicoes(){
+        $('#select-cidade-list').toggle('blind', 500);
+        }
+        function mostrarClassificados(sender){
+        $(sender).hide("blind", {direction: "right"}, "slow");
+        $(".ulZap").show("slide", {direction: "right"}, "slow");
+        }
+        function verificaLogin() {
+        var acaoAuth = 'logout';
+        if(verCookie(ckAuth) == '') {
+        acaoAuth = 'login';
+        }
+        $('#loginLogout').attr('class', acaoAuth);
+        $('#loginLogout a').attr('href', 'http://cadastro.estadao.com.br/' + acaoAuth);
+        }
+        cidade = cidade == '' ? cidadePadrao : cidade;
+        if (min.length == 1){min = '0' + min;}
+        if(edicao == ""){
+            edicao = edicaoPadrao;
+        }
+        </script>
+        
+        <div class="hd-top">
+            
+            <div class="header-top" id="fecha-login">
+                <div id="hd-fecha">
+                    <h4>12:18</h4>
+                    <div class="reset"><hr /></div>
+                    <p>15 de Abril de 2010</p>
+                </div>
+                    <script type="text/javascript">
+                        $("#hd-fecha h4").text(hora + ":" + min);
+                        $("#hd-fecha p").text(dia + " de " + meses[mes] + " de " + ano);
+                    </script>
+                <div class="logout" id="loginLogout">
+                    <a href="http://cadastro.estadao.com.br/logout">&nbsp;</a>
+                </div>
+                <script type="text/javascript"> verificaLogin(); </script>
+            </div>
+            
+            <div class="pub157x27">
+                <p>Patrocinado por</p>
+                <div class="banner">
+                    <script type="text/javascript">OAS_AD("x05");</script>
+                </div>
+            </div>
+        </div>
+        
+    <div class="reset"><hr /></div>
+    </div>
+</div>
+<div class="dvBarraEstadao2_borda">
+    <div class="dvBarraEstadao2">
+        <div class="centralizaSite">
+            
+                <a class="nbLogoEstadao" href="http://www.estadao.com.br/" title="Estadão.com.br"><img src="http://economia.estadao.com.br/EN/img/novaBarra/logoEstadao.jpg" width="121" height="26" border="0" alt="Estadão.com.br" title="Estadão.com.br" /></a>
+                <ul class="nbUl">
+                    <li><a href="http://politica.estadao.com.br/" class="nbUl_a" title="Política">Política</a></li>
+                    <li class="nbUl_selecionado"><a href="http://economia.estadao.com.br/" class="nbUl_a" title="Economia">Economia</a></li>
+                    <li><a href="http://esportes.estadao.com.br/" class="nbUl_a" title="Esportes">Esportes</a></li>
+                    <li><a href="http://blogs.estadao.com.br/link/" class="nbUl_a" title="Tecnologia">Tecnologia</a></li>
+                    <li><a href="http://divirta-se.estadao.com.br/" class="nbUl_a" title="DIVIRTA-SE">DIVIRTA-SE</a></li>
+                    <li><a href="http://pme.estadao.com.br/" class="nbUl_a" title="PME">PME</a></li>
+                    <li><a href="http://www.estadao.com.br/opiniao/" title="Opinião" class="mnOpn" >Opinião</a></li>
+                    <li><a href="http://radio.estadao.com.br/" target="_blank" title="R&aacute;dio" >R&aacute;dio</a></li>
+                    <li><a href="http://www.jt.com.br/" target="_blank" title="JT">JT</a></li>
+                    <li><a href="http://www.territorioeldorado.limao.com.br/" target="_blank" title="Eldorado">Eldorado</a></li>
+                    <li><a href="http://espn.estadao.com.br/" target="_blank" title="ESPN">ESPN</a></li>
+                    <li><a href="http://revistapiaui.estadao.com.br/" target="_blank" title="Piauí">Piauí</a></li>
+                </ul>
+                <ul class="menu-tabs">
+                    <li class="tab-01">
+                        <a href="javascript:void(0)" class="item">ZAP</a>
+                        <ul class="subTab-01">
+                            <li><span class="first">ZAP</span></li>
+                            <li><a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=232&URL=/carros&paramad">Carros</a></li>
+                            <li><a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=231&URL=/imoveis/busca-de-imoveis-simples.aspx&paramad">Imóveis</a></li>
+                            <li><a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=233&URL=/empregos/vagas/busca-de-vagas-simples.aspx&paramad">Empregos</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            <div class="reset"><hr /></div>
+        </div>
+    </div>
+</div>
+		<div class="baseSite">
+		
+			<div id="main">
+				<div class="centralizaSite">
+					<script language="javascript1.4" type="text/javascript" src="http://www.estadao.com.br/estadao/novo/js/oesp/certifica-js14.js"></script>
+<script language="javascript" type="text/javascript" src="http://www.estadao.com.br/estadao/novo/js/oesp/certifica.js"></script>
+<script type="text/javascript" src="http://www.estadao.com.br/estadao/novo/js/oesp/cert_editorial.js"></script>
+<script>
+if(typeof(urlSEO) == "undefined"){
+    seoRegEx = /.*?,([-a-zA-Z0-9]*),.*/;
+    urlSEO = seoRegEx.exec(document.location.href)[1];
+}
+var section = "Economia";
+if(nomeSubEditoria != "")
+    section = nomeSubEditoria;
+else if(nomeEditoria != "")
+    section = nomeEditoria;
+var idCertifica = 203570;
+if(nomeEditoria == "Economia" && nomeSubEditoria == ""){
+     idCertifica = 203571;
+}else if(nomeSubEditoria == "Negócios"){
+     idCertifica = 203572;
+}else if(nomeEditoria == "AE Mercados"){
+     idCertifica = 203573;
+}else if(nomeEditoria == "Suas Contas"){
+     idCertifica = 203574;
+}else if(nomeEditoria == "Sua Carreira"){
+     idCertifica = 203575;
+}else if(nomeEditoria == "Especiais"){
+     idCertifica = 203576;
+}
+hitNota(idCertifica, OAS_sitepage, urlSEO, Formatos.TEXTO, section);
+</script><div class="topo">
+    <div class="logoEN_topo left">
+        <a href="http://economia.estadao.com.br/" title="Economia & Negócios" class="left">
+            <img src="http://economia.estadao.com.br/EN/img/novoTopo/logoEN.png" width="459" height="50" border="0" alt="Economia & Negócios" title="Economia & Negócios" class="left" />
+        </a>
+       <img src="http://economia.estadao.com.br/EN/img/novoTopo/logo_complementar_economia.png" width="162" height="50" border="0" class="left" />
+    </div>                        
+    <div class="buscaTopo">
+        <div class="buscaTopo_esquerda"><hr /></div>
+            <div class="buscaTopo_bg">
+                <form id="frmBusca">
+                    <input type="text" id="cmpBuscaTopo" class="cmpBuscaTopo"/>
+                    <input type="submit" value="BUSCAR" class="btBuscarTopo"/>
+                </form>
+                <script type="text/javascript">
+                $("#frmBusca").submit(function() {
+                    $(this).attr('action','http://economia.estadao.com.br/busca/' + $("#cmpBuscaTopo").val())
+                })
+                </script>
+            </div>
+        <div class="buscaTopo_direita"><hr /></div>
+    </div>
+</div><div class="menu">
+                
+
+
+
+
+<ul>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/" class="">
+Home</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/economia.htm" class="">
+Economia</a>
+
+
+<ul>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/brasil.htm" class="">
+Brasil</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/internacional.htm" class="">
+Internacional</a>
+
+
+        </li>
+    
+</ul>
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/negocios.htm" class="">
+Neg&oacute;cios</a>
+
+
+<ul>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/agronegocio.htm" class="">
+Agroneg&oacute;cio</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/comercio.htm" class="">
+Com&eacute;rcio</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/energia.htm" class="">
+Energia</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/setorfinanceiro.htm" class="">
+Setor Financeiro</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/industria.htm" class="">
+Ind&uacute;stria</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/servicos.htm" class="">
+Servi&ccedil;os</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/tecnologia.htm" class="">
+Tecnologia</a>
+
+
+        </li>
+    
+</ul>
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/aemercados.htm" class="">
+AE Mercados</a>
+
+
+<ul>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/acoes.htm" class="">
+A&ccedil;&otilde;es</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/cambio.htm" class="">
+C&acirc;mbio</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/renda_fixa.htm" class="">
+Renda Fixa</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/fundos.htm" class="">
+Fundos</a>
+
+
+        </li>
+    
+</ul>
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/suascontas.htm" class="">
+Suas Contas</a>
+
+
+<ul>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/ferramentas.htm" class="">
+Ferramentas</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/glossario/letra_a.htm" class="">
+Gloss&aacute;rio</a>
+
+
+        </li>
+    
+</ul>
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/suacarreira.htm" class="">
+Sua Carreira</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/seu_imovel.htm" class="">
+Seu Im&oacute;vel</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/broadcast/" class="mn-destaque">
+Broadcast</a>
+
+
+<ul>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/broadcast/cotacoes.htm" class="">
+Cota&ccedil;&atilde;o</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/broadcast/graficos.htm" class="">
+Gr&aacute;ficos</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/broadcast/indices.htm" class="">
+&Iacute;ndices</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/broadcast/noticias.htm" class="">
+Not&iacute;cias</a>
+
+
+        </li>
+    
+        <li>
+            
+
+<a href="http://economia.estadao.com.br/broadcast/faq.htm" class="">
+FAQ</a>
+
+
+        </li>
+    
+</ul>
+
+        </li>
+    
+</ul>
+
+                <div class="dataTopo">
+    <ul class="mn-aux">
+        <li><a href="http://economia.estadao.com.br/especiais/blogs/">Blogs</a></li>
+        <li class="ball">&#183;</li>
+        <li><a href="http://economia.estadao.com.br/videos">Vídeos</a></li>
+        <li class="ball">&#183;</li>
+        <li><a href="http://economia.estadao.com.br/especiais/">Infográficos</a></li>
+        <li class="ball">&#183;</li>
+        <li><a href="http://economia.estadao.com.br/topicos">Tópicos</a></li>
+        <li class="ball">&#183;</li>
+        <li><a href="http://economia.estadao.com.br/ultimas/">Últimas</a></li>
+    </ul>
+    
+    <div class="compartilhe">
+        <a href="http://economia.estadao.com.br/rss.htm"><img src="http://economia.estadao.com.br/EN/img/base/ico-rss.gif" alt="RSS" /></a>
+        <a href="http://twitter.com/economia_estado" target="_blank"><img src="http://economia.estadao.com.br/EN/img/base/ico-twitter.gif" alt="Twitter" /></a>
+        <a href="http://www.facebook.com/economiaestadao" target="_blank"><img src="http://economia.estadao.com.br/EN/img/base/ico-facebook.gif" alt="Facebook" /></a>
+    </div>
+</div>
+            </div><div id="bannerTopo" class="bannerTopo">
+    <div id="superBanner">
+        <script type="text/javascript">OAS_AD("Position1");</script>        
+    </div>
+    <div id="x50">
+        <script type="text/javascript">OAS_AD("x50");</script>
+    </div>
+</div>
+				</div>
+				<div class="centralizaSite">
+					<div class="reset"><hr /></div>
+					
+
+
+
+
+<div class="bb-md-news_slider bb-sk-agora_no_estadao">
+    <div class="hd">
+        <h3>Agora no Estad&atilde;o</h3>
+    </div>
+    <div class="bd">
+        <div class="news_slider bb-wg-news_slide bb-sk-wg_slide-agora">
+            <div class="lst_items" >
+                <div class="container">
+                    <div id="83EE46E4B5C947DF8A75AAE7619A047F">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg1">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm" title="Copa do Mundo de 2014">Copa do Mundo de 2014</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm" title="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL Foto:Divulga&ccedil;&atilde;o"><img src="http://img.estadao.com.br/fotos2/p1x1/arena_amazonia_copa_pequena.jpg" alt="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL Foto:Divulga&ccedil;&atilde;o" title="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL Foto:Divulga&ccedil;&atilde;o" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm" title="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL">Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL</a></h2>
+    </div>
+</div>
+</div><div id="7995AAE6B389494881ED4A9F6A74E2C5">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg2">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/cidades,helicoptero-explode-e-mata-responsavel-por-chacina-em-goias,870351,0.htm" title="Acidente">Acidente</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/cidades,helicoptero-explode-e-mata-responsavel-por-chacina-em-goias,870351,0.htm" title="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina Foto:Benedito Braga/Jornal Hoje"><img src="http://img.estadao.com.br/fotos2/p1x1/helicopteroGoias_BeneditoBraga_JornalHoje_80x80_rdax_64x64.jpg" alt="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina Foto:Benedito Braga/Jornal Hoje" title="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina Foto:Benedito Braga/Jornal Hoje" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/cidades,helicoptero-explode-e-mata-responsavel-por-chacina-em-goias,870351,0.htm" title="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina">Helic&oacute;ptero explode e mata respons&aacute;vel por chacina</a></h2>
+    </div>
+</div>
+</div><div id="BB25D7F4935744EBAD255953BAF6ECA1">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg1">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/cidades,metro-pode-desapropriar-58-pacaembus-para-construir-linha-6,870320,0.htm" title="S&atilde;o Paulo">S&atilde;o Paulo</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/cidades,metro-pode-desapropriar-58-pacaembus-para-construir-linha-6,870320,0.htm" title="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6 Foto:Arquivo/AE"><img src="http://img.estadao.com.br/fotos2/p1x1/metro2.jpg" alt="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6 Foto:Arquivo/AE" title="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6 Foto:Arquivo/AE" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/cidades,metro-pode-desapropriar-58-pacaembus-para-construir-linha-6,870320,0.htm" title="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6">Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6</a></h2>
+    </div>
+</div>
+</div><div id="5464DC9741594AE6A6DF1F336D5109F5">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg2">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://emais.estadao.com.br/noticias/cinema,johnny-depp-encarna-vampiro-mal-humorado-em-novo-filme,475,0.htm" title="E+">E+</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://emais.estadao.com.br/noticias/cinema,johnny-depp-encarna-vampiro-mal-humorado-em-novo-filme,475,0.htm" title="Johnny Depp encarna um vampiro mal-humorado Foto:Peter Mountain/Divulga&ccedil;&atilde;o"><img src="http://img.estadao.com.br/fotos2/p1x1/JohnnyDepp_PeterMountainDivulgacao_rdax_64x64.jpg" alt="Johnny Depp encarna um vampiro mal-humorado Foto:Peter Mountain/Divulga&ccedil;&atilde;o" title="Johnny Depp encarna um vampiro mal-humorado Foto:Peter Mountain/Divulga&ccedil;&atilde;o" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://emais.estadao.com.br/noticias/cinema,johnny-depp-encarna-vampiro-mal-humorado-em-novo-filme,475,0.htm" title="Johnny Depp encarna um vampiro mal-humorado">Johnny Depp encarna um vampiro mal-humorado</a></h2>
+    </div>
+</div>
+</div><div id="B77615EDA90C4ED4877D3AE651FBA2FE">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg1">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/esportes,flamengo-ainda-negocia-com-ronaldinho-gaucho-para-quitar-divida,870384,0.htm" title="Futebol">Futebol</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/esportes,flamengo-ainda-negocia-com-ronaldinho-gaucho-para-quitar-divida,870384,0.htm" title="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho Foto:Reuters"><img src="http://img.estadao.com.br/fotos2/p1x1/ronaldinho_6464_albertgea_reuters.JPG" alt="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho Foto:Reuters" title="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho Foto:Reuters" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/esportes,flamengo-ainda-negocia-com-ronaldinho-gaucho-para-quitar-divida,870384,0.htm" title="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho">Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho</a></h2>
+    </div>
+</div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+					<div class="reset"><hr /></div>
+				</div>
+			</div>
+			<div id="content">
+				<div class="centralizaSite2">
+					<div class="colunas">
+						<div class="linhaColunas2">
+							<div class="c5">
+								<div class="bb-wg-breadcrumb">Voc&ecirc; est&aacute; em <a href="http://economia.estadao.com.br" title="OE">Economia</a>
+ </div>
+
+                                
+                                
+								<a accesskey="1" name="conteudo"><img src="/estadao/novo/img/blank.gif" alt="Início do conteúdo"/></a>
+								<h1>União Europeia convoca cúpula de urgência para 23 de maio</h1>
+								<h3>Eleição de François Hollande na França precipita encontro de líderes 
+políticos com o objetivo de acelerar acordo sobre austeridade e 
+crescimento; Espanha e Grécia preocupam os mercados</h3>
+								<div class="bb-md-noticia-fecha">08 de maio de 2012 | 12h 30</div>
+								<a name="noticia"></a>
+								<div id="bb-md-noticia-tabs">
+									<div id="barraInteratividade">
+	<ul class="bb-md-noticia-tab-main">
+		<li id="tab-materia" class="bb-active"><a href="#bb-md-noticia-tabs-1" onclick="mostrarMateria(); return false;">Not&iacute;cia</a></li>
+		<!-- mostraComentarios: 1 -->		<li class="bb-md-noticia-social">
+			<div class="bb-md-noticia-social-email">
+				<a href="#" onclick="enviarEmail(editoria, subeditoria, id, guid); return false;"><img src="http://www.estadao.com.br/estadao/novo/img/ic-email.jpg" alt="Email" />&nbsp;</a>
+			</div>
+			<div class="bb-md-noticia-social-print">
+				<a href="#" onclick="imprimir(); return false;"><img src="http://www.estadao.com.br/estadao/novo/img/ic-print.jpg" alt="Print" />&nbsp;</a>
+			</div>
+			<div class="bb-md-noticia-social-texto">
+				<a class="changetext" href="#" title="Aumentar" onclick="changeTextSize('div.corpo p',2,'px'); return false;">A+</a>
+				<a class="changetext" href="#" title="Diminuir" onclick="changeTextSize('div.corpo p',-2,'px'); return false;">A-</a>
+			</div>
+		</li>
+		<li class="tabNoFormat">
+			<a class="btn-assine-newsletter" href="http://www.estadao.com.br/newsletter/">Assine a Newsletter</a>
+		</li>
+		<!-- php 
+			/* make a URL small */
+			function make_bitly_url($url,$login,$appkey,$format = 'xml',$version = '2.0.1')
+			{
+			  //create the URL
+			  $bitly = 'http://api.bit.ly/shorten?version='.$version.'&longUrl='.urlencode($url).'&login='.$login.'&apiKey='.$appkey.'&format='.$format;
+			  
+			  //get the url
+			  //could also use cURL here
+			  $response = file_get_contents($bitly);
+			  
+			  //parse depending on desired format
+			  if(strtolower($format) == 'json')
+			  {
+				$json = @json_decode($response,true);
+				return $json['results'][$url]['shortUrl'];
+			  }
+			  else //xml
+			  {
+				$xml = simplexml_load_string($response);
+				return 'http://bit.ly/'.$xml->results->nodeKeyVal->hash;
+			  }
+			}
+
+			/* usage */
+			if (isset($_GET['u']) && $_GET['u']!='') {
+				// $urlLonga = $_GET['u'];
+				// $short = make_bitly_url($urlLonga,'grupoestado','R_58294e4bfb2c7a5eee0cdccc0fd57dd6','xml');
+				// echo 'The short URL is:  '.$short;
+				// echo 'The long URL is:  '.$urlLonga; 
+			}
+		?
+-->
+		<li class="tabNoFormat">
+			<div class="btGoogle">
+				<g:plusone size="medium" count="false"></g:plusone>
+			</div>
+		</li>
+		<li class="tabNoFormat">
+			<div class="twitter">
+				<a href="http://twitter.com/share" class="twitter-share-button" data-text="" data-count="horizontal" data-via="estadao" id="linkTweet">Tweet</a>
+				<script type="text/javascript">$('#linkTweet').attr('data-text', title); </script>
+				<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+			</div>
+		</li>
+	</ul>
+</div>
+
+<div class="box-compartilhe">
+
+	<!-- div class="facebook">
+		<a name="fb_share" type="button" href="http://www.facebook.com/sharer.php"><img src="http://www.estadao.com.br/estadao/novo/img/compartilhe/lbl_compartilhe.gif" border="0" /></a>
+		<style>
+		.FBConnectButton_Text, .FBConnectButton, .FBConnectButton_RTL{background:none!important}
+		.FBConnectButton .FBConnectButton_Text, .FBConnectButton_RTL .FBConnectButton_Text{border:0px!important; margin-left:0px!important; padding:0px!important;}
+		.FBConnectButton_Small .FBConnectButton_Text{margin-left:0px!important; padding:0px!important;}
+		.fb_share_size_Small{display:block!important; float:left}
+		.fb_share_count_right{float:right!important}
+		.FBConnectButton_Text{display:block; float:left; width:89px}
+		</style>
+	</div -->
+
+	<div class="faceConnect">
+		<div class="btSendFbk"><fb:send></fb:send></div>
+		<div class="btRecommendFbk">
+			<div id="fb-root"></div><fb:like send="false" width="540" show_faces="false" action="recommend"></fb:like>
+		</div>
+	</div>
+
+</div>
+
+									<div id="bb-md-noticia-tabs-1" class="bb-md-noticia_tab">
+										<div class="texto-noticia">
+											<div class="bb-md-noticia-autor">Andrei Netto, corresponde de O Estado de S. Paulo</div>
+											<div class="corpo">
+												<p>PARIS - Uma reunião de cúpula informal e extraordinária dos chefes de Estado e de governo da União Europeia será realizada em Bruxelas, em 23 de maio, uma semana após a posse do novo presidente da França, François Hollande. A decisão foi informada pelo presidente do Conselho Europeu, Herman Van Rompuy, ontem, e tem como objetivo acelerar um acordo entre França e Alemanha em torno da inclusão de uma política de crescimento no Pacto de Estabilidade aprovado em março.</p>
+<p>O principal ponto de preocupação dos investidores foi o impasse político na Grécia. A perspectiva ontem era de que novas eleições parlamentares tenham de ser realizadas no mês que vem para tentar reagrupar as forças políticas de forma a viabilizar um novo governo, o que o vencedor da eleição, Antonis Samaras, do Nova Democracia (centro-direita), não conseguiu. Lucas Papademos, primeiro-ministro, pediu ao país que "não desperdice" os sacrifícios já feitos pelo povo grego, "depois de ter passado por grande parte da dificuldade para reconstruir a economia".</p>
+<p>Na Espanha, o provável resgate do banco Bankia, o terceiro maior do país, também preocupa. Isso porque o governo de Mariano Rajoy terá, em tese, de injetar entre € 7 bilhões e € 10 bilhões - um dinheiro que o Estado não tem.</p>
+<p>Para responder às dúvidas dos investidores, a cúpula informal foi convocada. O evento vinha sendo evocado desde que o favoritismo de Hollande se confirmou no primeiro turno da eleição francesa, em 22 de abril. Ontem, Rompuy informou via Twitter: "Quarta-feira, 23 de maio, será a data do jantar informal de chefes de Estado e de governo". A data fixada dá a Hollande uma semana entre a posse e seu primeiro grande desafio oficial: avançar nas negociações com a chanceler da Alemanha, Angela Merkel.</p>
+<p>Na terça-feira, o porta-voz da chancelaria, Steffen Seibert, afirmou que Berlim descartava "renegociar o pacto fiscal", firmado entre líderes — entre os quais o atual presidente da França, Nicolas Sarkozy, em março. Sem evocar a expressão, Seibert também deixou clara a resistência da chancelaria à uma política de estímulo ao crescimento por meio de investimentos públicos — ao estilo "keynesiano". </p>
+<p>Ontem, Angela Merkel divulgou o teor de uma carta enviada a Hollande com tom menos enfático. Após saudá-lo por sua eleição, a chanceler afirma que cabe a ambos tomarem "decisões necessárias para a União Europeia e a zona do euro". "Você assume funções cheias de responsabilidades em um período cheio de desafios", afirma. A executiva diz estar "certa de que a cooperação será reforçada" e completa lembrando "a responsabilidade comum pela Europa" e a disposição de "trabalhar para o bem de nossos países e da Europa".</p>
+<p>Em resposta, Pierre Moscovici, diretor de campanha de Hollande e nome certo em seu ministério reiterou ontem, em entrevista à rádio RTL, sua confiança em um compromisso entre os dois países. "É preciso que haja uma conversa profunda entre os dois chefes de Estado e de governo. A intenção de Hollande é clara e não mudou: é reorientar a construção europeia em um sentido mais favorável ao crescimento". O executivo, ex-ministro de Relações Europeias, ainda se disse otimista. "Pela experiência que tenho, nós chegaremos a um compromisso. Estamos começando bem. O clima entre Hollande e seus interlocutores europeus é francamente muito bom."</p>
+<p><strong>Bruxelas</strong></p>
+<p></p>
+<p>Em Bruxelas, as autoridades europeias tentam encontrar um denominador comum entre a nova administração da França, agora nas mãos do socialista François Hollande, e da Alemanha, conduzida pela conservadora Angela Merkel. A Comissão Europeia prepara um documento a ser apresentado aos líderes políticos com propostas para relançar o crescimento sem comprometer as contas públicas.</p>
+<p>Entre as medidas, estão a criação de títulos da dívida europeia, com custo mutualizado (os eurobônus), que seriam destinados a financiar grandes programas de infraestrutura. Há ainda uma proposta de aumento de capital em € 10 bilhões do Banco Europeu de Investimentos (BEI), que hoje conta com € 50 bilhões em seus cofres. Completam as medidas um imposto sobre transações financeiras. Todas essas bandeiras constam do programa do Partido Socialista (PS) e eram defendidas em campanha por Hollande.</p>
+<p>Bruxelas prepara ainda uma agenda de crescimento, chamada de Europe 2020, que preveria investimentos em novas tecnologias e desenvolvimento sustentável. "O debate que opõe a consolidação fiscal e o crescimento é falso", disse o comissário europeu de Relações Econômicas, Olli Rehn. "Em um contexto econômico de baixo crescimento e endividamento elevado, não temos escolha: é preciso investir nos dois objetivos ao mesmo tempo."</p>
+<p></p>
+
+												<br clear="all" />
+												
+											</div>
+											
+										</div>
+                                        
+										<div id="bb-md-noticia-subcom" class="discussion" style="display:none">
+											<h4 class="bb-md-noticia-subcom-com"><a title="" href="#noticia">nenhum coment&aacute;rio para este post</a></h4>
+											<h4 class="bb-md-noticia-subcom-next">
+												<a title="" href="#" onClick="deixarComentario(editoria, subeditoria, id, guid); return false;">seja o primeiro a comentar</a>
+												<a href="http://cadastro.estadao.com.br/responsabilidade-online"><img src="http://www.estadao.com.br/estadao/img/logo_condutap.gif" align="top" /></a>
+											</h4>
+											<br clear="all">
+											<div class="bb-md-noticia-coment_comentarios"></div>
+											<div class="bb-md-noticia-subcom-end" style="display:none;">
+												<h4 class="bb-md-noticia-subcom-next"><a title="" href="#noticia">ler todos os coment&aacute;rios <img src="/estadao/novo/img/ic-next.gif"></a></h4>
+											</div>
+										</div>
+										<div class="bb-gg adsense_container">
+	<div id="AdV625"></div>
+	<script type="text/javascript">oAdSense.show625xN("AdV625", 3);</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+									</div>
+								</div>
+							</div>
+							<div class="c3">
+								
+								<div class="dvBannerAroba">
+									<script>OAS_AD("Middle");</script>
+								</div>
+								<div class="dvBannerSelo">
+									<script>OAS_AD("x08");</script>
+								</div>
+                                
+                                <!-- Begin Redes Sociais-->
+<div class="bb-gu">                         
+	<div class="box-redes">
+				<div id="box-twitter">
+			<h6>Siga o <span>@EstadaoEconomia</span> no Twitter</h6>
+			<iframe allowtransparency="true" class="btTwitter" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=EstadaoEconomia" style="width:62px; height:20px;"></iframe>
+		</div>
+				<div class="bb-md-fb">
+			<div class="fb-activity">
+				<div class="hd-fb">
+					<fb:like-box href="http://facebook.com/estadao" width="300" height="62" show_faces="false" stream="false" header="false"></fb:like-box>
+				</div>
+				<div id="box-recommendations-fb">
+					<iframe src="http://www.facebook.com/plugins/activity.php?site=estadao.com.br&amp;width=280&amp;height=600&amp;header=false&amp;colorscheme=light&amp;font&amp;border_color=%23FFF&amp;recommendations=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:600px;" allowTransparency="true"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end Redes Sociais-->
+
+                                
+                                
+								<div class="boxEspecialistaTopo">
+									<div class="boxEspecialistaTopo_01"><a class="tituloBox" title="ECONOMIA" href="http://economia.estadao.com.br/ultimas/economia.htm">+ ECONOMIA</a></div>
+									<div class="boxEspecialistaTopo_02"><script type="text/javascript">OAS_AD("x04");</script></div>
+									<div class="reset"><hr /></div>
+								</div>
+								<div class="reset"><hr /></div>
+								<div class="destaqueBox"><ul class="inner5 fnt2"><li><span class="Color_04">22:00</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia,bradesco-e-itau-vao-cortar-taxas-de-juros,111668,0.htm">&nbsp;Bradesco e Itaú vão cortar taxas de juros</a></li><li><span class="Color_04">22:00</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia,me-ajuda-a-resolver-o-problema-com-o-frances-pede-abilio-em-oracoes,111673,0.htm">&nbsp;Me ajuda a resolver o problema com o  ...</a></li><li><span class="Color_04">22:00</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia,bancos-reafirmam-apoio-a-medidas-de-credito-para-evitar-crise-com-governo,111666,0.htm">&nbsp;Bancos reafirmam apoio a medidas de  ...</a></li><li><span class="Color_04">21:37</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia+geral,exportacoes-ja-sentem-efeito-da-alta-do-dolar-ve-mdic,111676,0.htm">&nbsp;Exportações já sentem efeito da alta  ...</a></li><li><span class="Color_04">21:06</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia+negocios,brazil-pharma-fara-oferta-de-acoes-estimada-em-r600-mi,111674,0.htm">&nbsp;Brazil Pharma fará oferta de ações  ...</a></li><li><span class="Color_04">21:03</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia+geral,governo-quer-desonerar-folha-salarial-de-mais-setores,111670,0.htm">&nbsp;Governo quer desonerar folha salarial de  ...</a></li><li><span class="Color_04">20:52</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia+negocios,embraer-disputara-novo-contrato-com-forca-aerea-dos-eua,111669,0.htm">&nbsp;Embraer disputará novo contrato com  ...</a></li><li><span class="Color_04">20:01</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia+geral-economia,cosan-autoriza-proposta-de-emissao-de-debentures-de-r33-bi,111664,0.htm">&nbsp;Cosan autoriza proposta de emissão  ...</a></li><li><span class="Color_04">19:21</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia+geral,metalurgicos-e-gm-fecham-acordo-em-gravatai-rs,111660,0.htm">&nbsp;Metalúrgicos e GM fecham acordo em  ...</a></li><li><span class="Color_04">19:09</span><a class="Color_01 fnt2"  href="http://economia.estadao.com.br/noticias/economia,leasing-e-entrave-para-financiamento-automotivo-diz-barbosa,111659,0.htm">&nbsp;Leasing é entrave para  ...</a></li></ul></div>
+								
+								<div class="innerTop15"><hr /></div>
+								
+
+
+
+<div class="listas_abas innerTop15">
+    <div class="listas_abas_topo">
+        <ul class="listas_abas_ulAbas">
+            <li class="listas_abas_ulAbas_01 listas_abas_ulAbas_ativa"><a href="#" title="LIDAS">+ COMENTADAS</a></li>
+            <li class="listas_abas_ulAbas_02"><a href="#" title="LIDAS">+ LIDAS</a></li>
+        </ul>
+    </div>
+    <div class="listas_asbas_body">
+        <?xml version="1.0"?>
+<ul class="listas_asbas_body_ul"><li><script type="text/javascript">
+						var titulo = "Depois da poupança, governo aumenta pressão para bancos baixarem spread";
+						var position = "1";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://www.estadao.com.br/noticias/impresso,depois-da-poupanca-governo-aumenta-pressao-para-bancos-baixarem-spread-,868959,0.htm"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Alemanha rejeita medidas de crescimento que elevem dívida";
+						var position = "2";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia geral-economia,alemanha-rejeita-medidas-de-crescimento-que-elevem-divida,111364,0.htm"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Mudança na poupança começa a valer nessa sexta para novos depósitos";
+						var position = "3";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia,mudanca-na-poupanca-comeca-a-valer-nessa-sexta-para-novos-depositos,111170,0.htm"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Dilma diz que governo vai avaliar mudança na poupança com ‘calma’";
+						var position = "4";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia geral,dilma-diz-que-governo-vai-avaliar-mudanca-na-poupanca-com-calma,110263,0.htm"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Câmbio, impostos e juros não são resolvidos do dia para a noite, diz Dilma";
+						var position = "5";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia,cambio-impostos-e-juros-nao-sao-resolvidos-do-dia-para-a-noite-diz-dilma,111091,0.htm"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Governo aceita discutir isenção de parte de IR sobre PLR";
+						var position = "6";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia,governo-aceita-discutir-isencao-de-parte-de-ir-sobre-plr,110892,0.htm"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Trabalhadores de Belo Monte não retornaram ao trabalho";
+						var position = "7";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia,trabalhadores-de-belo-monte-nao-retornaram-ao-trabalho,110948,0.htm"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Mudança nas regras da poupança deve ser divulgada nesta 5ª feira";
+						var position = "8";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia geral,mudanca-nas-regras-da-poupanca-deve-ser-divulgada-nesta-5-feira,111070,0.htm?reload=y"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Depois da poupança, governo aumenta pressão para bancos baixarem spread";
+						var position = "9";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://www.estadao.com.br/noticias/impresso,depois-da-poupanca-governo-aumenta-pressao-para-bancos-baixarem-spread-,868959,0.htm?reload=y"><script type="text/javascript">document.write(textocurto+"...")</script></a></li><li><script type="text/javascript">
+						var titulo = "Mudança na poupança começa a valer nessa sexta para novos depósitos";
+						var position = "10";
+						if(position.length==1) position = "0"+position;
+						var arrTitulo = titulo.split(" ");
+						var textocurto = arrTitulo.slice(0,7).join(" ");
+					</script><span><script type="text/javascript">document.write(position+" ")</script></span><a href="http://economia.estadao.com.br/noticias/economia,mudanca-na-poupanca-comeca-a-valer-nessa-sexta-para-novos-depositos,111170,0.htm?reload=y"><script type="text/javascript">document.write(textocurto+"...")</script></a></li></ul>
+
+        <ul class="listas_asbas_body_ul" style="display:none">
+            
+
+
+<li><span>01</span><a href="http://economia.estadao.com.br/especiais/burocraciabr-a-cultura-do-atraso-de-vida,166132.htm">&nbsp; #BurocraciaBR: A cultura do atraso de vida</a></li>
+
+
+
+<li><span>02</span><a href="http://economia.estadao.com.br/noticias/economia,com-sobra-de-emprego-mais-brasileiros-deixam-a-empresa-para-trocar-de-patrao,108723,0.htm">&nbsp; Mais brasileiros deixam a empresa para trocar de patrão</a></li>
+
+
+
+<li><span>03</span><a href="http://economia.estadao.com.br/noticias/economia,gol-passa-a-cobrar-pelo-refrigerante-e-pela-batatinha,108953,0.htm">&nbsp; Gol passa a cobrar por refrigerante e batatinha</a></li>
+
+
+
+<li><span>04</span><a href="http://economia.estadao.com.br/noticias/economia,nos-eua-dilma-ataca-politica-protecionista-dos-paises-ricos,108787,0.htm">&nbsp; Dilma ataca política protecionista dos países ricos</a></li>
+
+
+
+<li><span>05</span><a href="http://economia.estadao.com.br/noticias/economia,bancos-vao-pedir-mais-garantias-nos-emprestimos-para-reduzir-o-spread,108824,0.htm">&nbsp; Bancos vão pedir mais garantias para cobrar menos</a></li>
+
+
+
+<li><span>06</span><a href="http://economia.estadao.com.br/noticias/economia+geral,gol-demite-31-pessoas-entre-executivos-e-gerentes,109181,0.htm">&nbsp; Gol demite 31 pessoas entre executivos e gerentes</a></li>
+
+
+
+<li><span>07</span><a href="http://economia.estadao.com.br/noticias/negocios%20geral,acionista-da-camargo-correa-morre-em-acidente-aereo,109232,0.htm">&nbsp; Acionista da Camargo Corrêa morre em acidente aéreo</a></li>
+
+
+
+<li><span>08</span><a href="http://economia.estadao.com.br/especiais/voce-pode-ser-mais-rico-do-que-imaginava,161035.htm">&nbsp; Você pode ser mais rico do que imaginava</a></li>
+
+
+
+<li><span>09</span><a href="http://economia.estadao.com.br/noticias/economia,desconfianca-dos-mercados-traz-expectativa-de-intervencao-na-espanha,108985,0.htm">&nbsp; Desconfiança traz expectativa de intervenção na Espanha</a></li>
+
+
+
+<li><span>10</span><a href="http://economia.estadao.com.br/noticias/economa%20nternaconal,crescimento-do-comercio-desabara-em-2012-diz-omc,109052,0.htm">&nbsp; OMC: Crescimento do comércio desabará em 2012</a></li>
+
+        </ul>
+    </div>
+</div>
+
+								
+							</div>
+						</div>
+						<div class="c4">
+							
+							<div class="dvBannerAdSense">
+								<script>OAS_AD("Position2");</script>
+							</div>
+							
+						</div>
+						<div class="reset"><hr /></div>
+					</div>
+				</div>
+				<div class="footerSite2"><hr /></div>
+			</div>
+
+			<div id="footer">
+				<div id="footer">
+            <div class="centralizaSite">
+            
+                <div class="rodape">
+                    
+                    <div class="dvRodape_01" style="text-align:left;">
+                        <p class="tituloRodape">Grupo Estado</p>
+                        <p>Copyright &copy; 1995-2012</p>
+                        <p>Todos os direitos reservados</p>
+                        
+                        <div class="innerTop10"><hr /></div>
+                        
+                        <ul class="ulRodape_01">
+                            <li><a href="http://vagas.com.br/grupoestado/" title="Trabalhe Conosco">Trabalhe Conosco</a></li>
+                            <li><a href="http://www.estadao.com.br/faleconosco/" title="Fale Conosco">Fale Conosco</a></li>
+                            <li><a href="http://www.estadao.com.br/mapa/" title="Mapa Site">Mapa Site</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="dvRodape_04" style="text-align:left;">
+                        <p class="tituloRodape2">Grupo Estado</p>
+                        <ul class="ulRodape_04">
+                            <li><a href="http://www.estadao.com.br/talentos/talentos2010/" title="Curso de Jornalismo">Curso de Jornalismo</a></li>
+                            <li><a href="http://www.estadao.com.br/rc2008/" title="Responsabilidade Corporativa">Responsabilidade Corporativa</a></li>
+                            <li><a href="http://www.estadao.com.br/ext/codigoetica/codigo_de_etica_miolo.pdf" title="Nosso Código de Ética">Nosso Código de Ética</a></li>
+                        </ul>
+                        <div class="reset innerTop20"><hr /></div>
+                        <p class="tituloRodape2">Publicidade</p>
+                        <ul class="ulRodape_04">
+                            <li><a href="http://www.grupoestado.com.br/midiakit/" target="_blank" title="Como anunciar">Como anunciar</a></li>
+                            <li><a href="http://www.premiomidiaestadao.com.br/" target="_blank" title="Prêmio de Mídia">Prêmio de Mídia</a></li>
+                            <li><a href="http://www.premiotopimobiliario.com.br/" target="_blank" title="Top Imobiliário">Top Imobiliário</a></li>
+                            <li><a href="http://www.estadaoemcannes.com.br/" target="_blank" title="Cannes">Cannes</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="dvRodape_03" style="text-align:left;">
+                        <p class="tituloRodape2">O Estado de S.Paulo</p>
+                        <ul class="ulRodape_02">
+                            <li><a href="http://www.assinante.estadao.com.br/" target="_blank" title="Portal do Assinante">Portal do Assinante</a></li>
+                            <li><a href="http://www.estadao.com.br/historico/index.htm" target="_blank" title="Conheça o jornal">Conheça o jornal</a></li>
+                        </ul>
+                        <div class="reset innerTop20"><hr /></div>
+                        <p class="tituloRodape2">Portais</p>
+                        <ul class="ulRodape_02">
+                            <li><a href="http://www.jt.com.br/" target="_blank" title="Jornal da Tarde">Jornal da Tarde</a></li>
+                            <li><a href="http://www.limao.com.br/" target="_blank" title="Limão">Limão</a></li>
+                            <li><a href="http://www.territorioeldorado.limao.com.br/" target="_blank" title="Território Eldorado">Território Eldorado</a></li>
+                            <li><a href="http://www.ilocal.com.br/" target="_blank" title="ILocal">ILocal</a></li>
+                            <li><a href="http://www.zap.com.br/" target="_blank" title="ZAP">ZAP</a></li>
+                            <li><a href="http://www.ibiubi.com.br/" target="_blank" title="Ibiubi">Ibiubi</a></li>
+                            <li><a href="http://www.ae.com.br/" target="_blank" title="Agência Estado">Agência Estado</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="dvRodape_02" style="text-align:left;">
+                        <a href="http://www.estadao.com.br/" class="tituloRodape2">Estadão.com.br</a>
+                        <div class="reset"><hr /></div>
+                        <ul class="ulRodape_02">
+                            <li><a href="http://www.estadao.com.br/opiniao/" title="Opinião">Opinião</a></li>
+                            <li><a href="http://www.estadao.com.br/saopaulo/" title="São Paulo">São Paulo</a></li>
+                            <li><a href="http://www.estadao.com.br/brasil/" title="Brasil">Brasil</a></li>
+                            <li><a href="http://www.estadao.com.br/politica/" title="Política">Política</a></li>
+                            <li><a href="http://www.estadao.com.br/internacional/" title="Internacional">Internacional</a></li>
+                            <li><a href="http://www.estadao.com.br/saude/" title="Saúde">Saúde</a></li>
+                            <li><a href="http://www.estadao.com.br/ciencia/" title="Ciência">Ciência</a></li>
+                            <li><a href="http://www.estadao.com.br/educacao/" title="Educação">Educação</a></li>
+                            <li><a href="http://www.estadao.com.br/planeta/" title="Planeta">Planeta</a></li>
+                            <li><a href="http://www.estadao.com.br/cultura/" title="Cultura">Cultura</a></li>
+                        </ul>
+                        <ul class="ulRodape_02">
+                            <li><a href="http://www.estadao.com.br/blogs/" title="Blogs">Blogs</a></li>
+                            <li><a href="http://digital.estadao.com.br/" title="Estadão Digital">Estadão Digital</a></li>
+                            <li><a href="http://www.estadao.com.br/widget/" title="No desktop">No desktop</a></li>
+                            <li><a href="http://www.estadao.com.br/celular/" title="No celular">No celular</a></li>
+                            <li><a href="http://topicos.estadao.com.br/" title="Tópicos">Tópicos</a></li>
+                            <li><a href="http://www.estadao.com.br/rss/" title="RSS">RSS</a></li>
+                            <li><a href="http://www.estadao.com.br/especiais/" title="Especiais">Especiais</a></li>
+                            <li><a href="http://fotos.estadao.com.br/" title="Fotos">Fotos</a></li>
+                            <li><a href="http://tv.estadao.com.br/" title="TV Estadão">TV Estadão</a></li>
+                            <li><a href="http://www.estadao.com.br/tempo/" title="Tempo">Tempo</a></li>
+                            <li><a href="http://webmail.estadao.com.br/" title="Webmail">Webmail</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="reset"><hr /></div>
+                </div>
+                
+            </div>
+        </div>
+			</div>
+
+		</div>
+	</body>
+<!-- TPL:economia -->
+</html>

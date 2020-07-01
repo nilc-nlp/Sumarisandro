@@ -1,0 +1,3370 @@
+Sentenca(topic=0): Como esperado, a atleta Fabiana Murer conquistou a medalha de ouro - a 29.
+Sentenca(topic=0): ª brasileira - no salto com vara nos Jogos Pan-Americanos do Rio, nesta segunda-feira, no Estádio João Havelange.
+Sentenca(topic=1): De quebra, esta conquista iguala o número de medalhas de ouro faturadas em Santo Domingo (2003), quando o Brasil também somou 29.
+Sentenca(topic=1): Este recorde deve ser quebrado nesta edição dos Jogos.
+Sentenca(topic=2): Murer - vice-campeã da Copa do Mundo de 2006 - conquistou o lugar mais alto do pódio com a marca de 4m60, contra 4m40 da norte-americana April Steiner, que ficou com a prata.
+Sentenca(topic=2): Já o bronze pertence à cubana Yarisley Silva, com a marca de 4,30 m.
+Sentenca(topic=3): Já a outra brasileira que participou da prova, Joana Costa, não subiu ao pódio, uma vez que não alcançou a marca da cubana.
+Sentenca(topic=4): A atleta de Campinas começou a prova na marca de 4,30 m, e seu salto foi perfeito, dando-lhe ânimo inclusive para mandar beijinhos para os torcedores.
+Sentenca(topic=4): O bom salto da brasileira colocou pressão sobre a norte-americana, que falhou em sua primeira tentativa no salto de 4,40 m.
+Sentenca(topic=4): Melhor para Fabiana Murer, que alcançou tal marcar em seu primeiro salto, levantando o público.
+Sentenca(topic=5): A atleta norte-americana provou que a disputa seria acirrada, já que bateu a marca de 4,40 m, mesmo com as vaias da torcida local.
+Sentenca(topic=5): Fabiana Murer, no entanto, não parecia incomodada, mas errou sua primeira tentativa de alcançar 4,50 m; o erro não se repetiu e a brasileira chegou a tal marca na segunda tentativa, quebrando o recorde pan-americano, garantindo o ouro.
+Sentenca(topic=6): Sem competição, Murer continuou em busca da quebra do seu próprio recorde, e, em sua terceira tentativa, conseguiu alcançar 4,60 m.
+Sentenca(topic=6): Sua melhor marca é de 4,66 m.
+Sentenca(topic=7): Depois da queda de April Steiner, a brasileira Fabiana Murer leva a medalha de ouro no salto com vara, com 4m50 - novo recorde pan-americano.
+Sentenca(topic=7): É a 29ª medalha para o Brasil no Pan.
+Sentenca(topic=8): O bronze vai para a cubana Yarisley Silva.
+Sentenca(topic=9): A brasileira Fabiana Murer conquistou o primeiro ouro do atletismo para o Brasil, nesta segunda-feira, na prova de salto com vara.
+Sentenca(topic=9): Com a marca de 4m60, Fabiana não só venceu a prova,  como também estabeleceu o novo recorde pan-americano, 20cm mais alto do que a antiga marca de 4m40.
+Sentenca(topic=9): Após confirmar a medalha de ouro, Fabiana tentou, ainda, bater o próprio recorde sul-americano de 4m66 em três tentativas de saltar 4m68, mas não conseguiu.
+Sentenca(topic=10): A medalha de prata ficou com a americana April Steiner, com a marca de 4m40 e o bronze foi para a cubana Yarisley Silva, com 4m30.
+Sentenca(topic=11): A brasileira Joana Costa ficou com a quinta posição, com 4m20 e mostrou, mais uma vez, neste Pan do Rio, que a pressão de competir em casa pode prejudicar os atletas.
+Sentenca(topic=11): Após começar muito bem, saltando com segurança até os 4m, Joana começou a ter problemas na corrida de aproximação já nos 4m10, mostrando nervosismo e até desistindo de saltos no meio do caminho.
+Sentenca(topic=11): Outros atletas brasileiros já sentiram essa pressão da torcida, como foi o caso das meninas do vôlei, que entregaram o ouro a Cuba, no tie break e dos atletas da ginástica artística, que cometeram seguidos erros, claramente, por nervosismo.
+
+
+------------------------------------------------------------
+Topic: 0
+Word: com  - Frequency: 1
+Word: esper  - Frequency: 1
+Word: atlet  - Frequency: 1
+Word: fabian  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: 29  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: var  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: estádi  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: havelang  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_com_esper_atlet_fabian_mur_conquist_medalh_our_29_brasileir_salt_var_jog_pan_rio_segund_estádi_joã_havelang
+
+
+------------------------------------------------------------
+Topic: 1
+Word: quebr  - Frequency: 2
+Word: conquist  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: our  - Frequency: 1
+Word: fatur  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: também  - Frequency: 1
+Word: som  - Frequency: 1
+Word: 29  - Frequency: 1
+Word: record  - Frequency: 1
+Word: dev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: jog  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_quebr
+
+Keyword: 1_quebr_conquist_igual_númer_medalh_our_fatur_sant_doming_brasil_também_som_29_record_dev_ser_ediçã_jog
+
+
+------------------------------------------------------------
+Topic: 2
+Word: mur  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: cop  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: marc  - Frequency: 2
+Word: 4m60  - Frequency: 1
+Word: 4m40  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: april  - Frequency: 1
+Word: stein  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: prat  - Frequency: 1
+Word: já  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: pertenc  - Frequency: 1
+Word: cuban  - Frequency: 1
+Word: yarisley  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: 4  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 2_marc
+
+Keyword: 2_marc_mur_vic_cop_mund_2006_conquist_lug_alto_pódi_4m60_4m40_nort_april_stein_fic_prat_já_bronz_pertenc_cuban_yarisley_silv_4
+
+
+------------------------------------------------------------
+Topic: 3
+Word: já  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: joan  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: sub  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: cuban  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_nã
+
+Keyword: 3_nã_já_brasileir_particip_prov_joan_cost_sub_pódi_vez_alcanc_marc_cuban
+
+
+------------------------------------------------------------
+Topic: 4
+Word: atlet  - Frequency: 1
+Word: campin  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: marc  - Frequency: 2
+Word: 4  - Frequency: 2
+Word: salt  - Frequency: 4
+Word: foi  - Frequency: 1
+Word: perfeit  - Frequency: 1
+Word: dand  - Frequency: 1
+Word: ânim  - Frequency: 1
+Word: inclusiv  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: beijinh  - Frequency: 1
+Word: torcedor  - Frequency: 1
+Word: bom  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: primeir  - Frequency: 2
+Word: tentat  - Frequency: 1
+Word: melhor  - Frequency: 1
+Word: fabian  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: tal  - Frequency: 1
+Word: levant  - Frequency: 1
+Word: públic  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 4_salt
+
+Keyword: 4_salt
+
+Keyword: 4_salt_marc_4_primeir
+
+Keyword: 4_salt_marc_4_primeir_atlet_campin_comec_prov_foi_perfeit_dand_ânim_inclusiv_mand_beijinh_torcedor_bom_brasileir_coloc_pressã_nort_falh_tentat_melhor_fabian_mur_alcanc_tal_levant_públic
+
+
+------------------------------------------------------------
+Topic: 5
+Word: atlet  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: acirr  - Frequency: 1
+Word: já  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: marc  - Frequency: 2
+Word: 4  - Frequency: 2
+Word: vai  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: local  - Frequency: 1
+Word: fabian  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: parec  - Frequency: 1
+Word: incomod  - Frequency: 1
+Word: errou  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: tentat  - Frequency: 2
+Word: alcanc  - Frequency: 1
+Word: erro  - Frequency: 1
+Word: repet  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: tal  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: our  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_marc_4_nã_tentat
+
+Keyword: 5_marc_4_nã_tentat_atlet_nort_prov_disput_ser_acirr_já_bat_vai_torc_local_fabian_mur_entant_parec_incomod_errou_primeir_alcanc_erro_repet_brasileir_cheg_tal_segund_quebr_record_pan_garant_our
+
+
+------------------------------------------------------------
+Topic: 6
+Word: competiçã  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: busc  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: record  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: tentat  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: 4  - Frequency: 2
+Word: melhor  - Frequency: 1
+Word: marc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_4
+
+Keyword: 6_4_competiçã_mur_continu_busc_quebr_própri_record_terceir_tentat_consegu_alcanc_melhor_marc
+
+
+------------------------------------------------------------
+Topic: 7
+Word: depo  - Frequency: 1
+Word: qued  - Frequency: 1
+Word: april  - Frequency: 1
+Word: stein  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: fabian  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: medalh  - Frequency: 2
+Word: our  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: var  - Frequency: 1
+Word: 4m50  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: 29  - Frequency: 1
+Word: brasil  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 7_medalh_pan
+
+Keyword: 7_medalh_pan_depo_qued_april_stein_brasileir_fabian_mur_lev_our_salt_var_4m50_nov_record_29_brasil
+
+
+------------------------------------------------------------
+Topic: 8
+Word: bronz  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: cuban  - Frequency: 1
+Word: yarisley  - Frequency: 1
+Word: silv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_bronz_vai_cuban_yarisley_silv
+
+Keyword: 8_bronz_vai_cuban_yarisley_silv
+
+Keyword: 8_bronz_vai_cuban_yarisley_silv
+
+
+------------------------------------------------------------
+Topic: 9
+Word: brasileir  - Frequency: 1
+Word: fabian  - Frequency: 3
+Word: mur  - Frequency: 1
+Word: conquist  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: our  - Frequency: 2
+Word: atlet  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: prov  - Frequency: 2
+Word: salt  - Frequency: 2
+Word: var  - Frequency: 1
+Word: marc  - Frequency: 2
+Word: 4m60  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: só  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: com  - Frequency: 1
+Word: também  - Frequency: 1
+Word: estabelec  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: record  - Frequency: 2
+Word: pan  - Frequency: 1
+Word: 20cm  - Frequency: 1
+Word: alto  - Frequency: 1
+Word: antig  - Frequency: 1
+Word: 4m40  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: medalh  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: 4m66  - Frequency: 1
+Word: três  - Frequency: 1
+Word: tentat  - Frequency: 1
+Word: 4m68  - Frequency: 1
+Word: consegu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 9_fabian
+
+Keyword: 9_fabian_our_prov_salt_marc_nã_record
+
+Keyword: 9_fabian_our_prov_salt_marc_nã_record_brasileir_mur_conquist_primeir_atlet_brasil_segund_var_4m60_só_venc_com_também_estabelec_nov_pan_20cm_alto_antig_4m40_confirm_medalh_tent_aind_bat_própri_sul_4m66_três_tentat_4m68_consegu
+
+
+------------------------------------------------------------
+Topic: 10
+Word: medalh  - Frequency: 1
+Word: prat  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: american  - Frequency: 1
+Word: april  - Frequency: 1
+Word: stein  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 4m40  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: cuban  - Frequency: 1
+Word: yarisley  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: 4m30  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 10_medalh_prat_fic_american_april_stein_marc_4m40_bronz_foi_cuban_yarisley_silv_4m30
+
+
+------------------------------------------------------------
+Topic: 11
+Word: brasileir  - Frequency: 2
+Word: joan  - Frequency: 2
+Word: cost  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: 4m20  - Frequency: 1
+Word: mostr  - Frequency: 2
+Word: vez  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: pressã  - Frequency: 2
+Word: compet  - Frequency: 1
+Word: cas  - Frequency: 2
+Word: pod  - Frequency: 1
+Word: prejudic  - Frequency: 1
+Word: atlet  - Frequency: 3
+Word: comec  - Frequency: 2
+Word: bem  - Frequency: 1
+Word: salt  - Frequency: 2
+Word: seguranc  - Frequency: 1
+Word: 4m  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: corr  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: já  - Frequency: 2
+Word: 4m10  - Frequency: 1
+Word: nervos  - Frequency: 2
+Word: desist  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: caminh  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: com  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: menin  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: our  - Frequency: 1
+Word: cub  - Frequency: 1
+Word: tie  - Frequency: 1
+Word: break  - Frequency: 1
+Word: ginást  - Frequency: 1
+Word: artíst  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: erros  - Frequency: 1
+Word: clar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_atlet
+
+Keyword: 11_atlet_brasileir_joan_mostr_pressã_cas_comec_salt_já_nervos
+
+Keyword: 11_atlet_brasileir_joan_mostr_pressã_cas_comec_salt_já_nervos_cost_fic_quint_posiçã_4m20_vez_pan_rio_compet_pod_prejudic_bem_seguranc_4m_ter_problem_corr_aproxim_4m10_desist_mei_caminh_sent_torc_com_foi_menin_v�_entreg_our_cub_tie_break_ginást_artíst_comet_segu_erros_clar
+
+NUM: 19
+
+
+NUM: 18
+
+
+NUM: 24
+
+
+NUM: 13
+
+
+NUM: 30
+
+
+NUM: 34
+
+
+NUM: 14
+
+
+NUM: 18
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 39
+
+
+NUM: 14
+
+
+NUM: 49
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 19
+
+
+NUM: 18
+
+
+NUM: 24
+
+
+NUM: 13
+
+
+NUM: 30
+
+
+NUM: 34
+
+
+NUM: 14
+
+
+NUM: 18
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 39
+
+
+NUM: 14
+
+
+NUM: 49
+
+
+---------------BEFORE!-------------
+
+VEC: 0_com_esper_atlet_fabian_mur_conquist_medalh_our_29_brasileir_salt_var_jog_pan_rio_segund_estádi_joã_havelang
+VEC: 1_quebr_conquist_igual_númer_medalh_our_fatur_sant_doming_brasil_também_som_29_record_dev_ser_ediçã_jog
+VEC: 2_marc_mur_vic_cop_mund_2006_conquist_lug_alto_pódi_4m60_4m40_nort_april_stein_fic_prat_já_bronz_pertenc_cuban_yarisley_silv_4
+VEC: 3_nã_já_brasileir_particip_prov_joan_cost_sub_pódi_vez_alcanc_marc_cuban
+VEC: 4_salt_marc_4_primeir_atlet_campin_comec_prov_foi_perfeit_dand_ânim_inclusiv_mand_beijinh_torcedor_bom_brasileir_coloc_pressã_nort_falh_tentat_melhor_fabian_mur_alcanc_tal_levant_públic
+VEC: 5_marc_4_nã_tentat_atlet_nort_prov_disput_ser_acirr_já_bat_vai_torc_local_fabian_mur_entant_parec_incomod_errou_primeir_alcanc_erro_repet_brasileir_cheg_tal_segund_quebr_record_pan_garant_our
+VEC: 6_4_competiçã_mur_continu_busc_quebr_própri_record_terceir_tentat_consegu_alcanc_melhor_marc
+VEC: 7_medalh_pan_depo_qued_april_stein_brasileir_fabian_mur_lev_our_salt_var_4m50_nov_record_29_brasil
+VEC: 8_bronz_vai_cuban_yarisley_silv
+VEC: 9_fabian_our_prov_salt_marc_nã_record_brasileir_mur_conquist_primeir_atlet_brasil_segund_var_4m60_só_venc_com_também_estabelec_nov_pan_20cm_alto_antig_4m40_confirm_medalh_tent_aind_bat_própri_sul_4m66_três_tentat_4m68_consegu
+VEC: 10_medalh_prat_fic_american_april_stein_marc_4m40_bronz_foi_cuban_yarisley_silv_4m30
+VEC: 11_atlet_brasileir_joan_mostr_pressã_cas_comec_salt_já_nervos_cost_fic_quint_posiçã_4m20_vez_pan_rio_compet_pod_prejudic_bem_seguranc_4m_ter_problem_corr_aproxim_4m10_desist_mei_caminh_sent_torc_com_foi_menin_v�_entreg_our_cub_tie_break_ginást_artíst_comet_segu_erros_clar
+
+---------------AFTER!-------------
+
+VEC: 0_com_esper_atlet_fabian_mur
+VEC: 1_quebr_conquist_igual_númer_medalh
+VEC: 2_marc_mur_vic_cop_mund
+VEC: 3_nã_já_brasileir_particip_prov
+VEC: 4_salt_marc_4_primeir_atlet
+VEC: 5_marc_4_nã_tentat_atlet
+VEC: 6_4_competiçã_mur_continu_busc
+VEC: 7_medalh_pan_depo_qued_april
+VEC: 8_bronz_vai_cuban_yarisley_silv
+VEC: 9_fabian_our_prov_salt_marc
+VEC: 10_medalh_prat_fic_american_april
+VEC: 11_atlet_brasileir_joan_mostr_pressã
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+SIM: 0.333333
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+SIM: 0.166667
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+SIM: 0.4
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+SIM: 0.6
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+SIM: 0.2
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+SIM: 0
+
+TRESHOLD: 0.0808081
+
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 6
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "10_medalh_prat_fic_american_april" is "0.166667"
+
+CHANGE! -- From: 12 -> TO: 11
+
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "9_fabian_our_prov_salt_marc" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "8_bronz_vai_cuban_yarisley_silv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "7_medalh_pan_depo_qued_april" is "0"
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "6_4_competiçã_mur_continu_busc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "5_marc_4_nã_tentat_atlet" is "0.166667"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "4_salt_marc_4_primeir_atlet" is "0.166667"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "3_nã_já_brasileir_particip_prov" is "0.166667"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "2_marc_mur_vic_cop_mund" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "11_atlet_brasileir_joan_mostr_pressã" and "0_com_esper_atlet_fabian_mur" is "0.166667"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 9
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 9: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "9_fabian_our_prov_salt_marc" is "0"
+
+Comparação entre os tópicos 1 e 8
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "8_bronz_vai_cuban_yarisley_silv" is "0"
+
+Comparação entre os tópicos 1 e 7
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.333333
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "7_medalh_pan_depo_qued_april" is "0.333333"
+
+CHANGE! -- From: 11 -> TO: 8
+
+Comparação entre os tópicos 1 e 6
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "6_4_competiçã_mur_continu_busc" is "0"
+
+Comparação entre os tópicos 1 e 5
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "5_marc_4_nã_tentat_atlet" is "0"
+
+Comparação entre os tópicos 1 e 4
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "4_salt_marc_4_primeir_atlet" is "0"
+
+Comparação entre os tópicos 1 e 3
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "3_nã_já_brasileir_particip_prov" is "0"
+
+Comparação entre os tópicos 1 e 2
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "2_marc_mur_vic_cop_mund" is "0"
+
+Comparação entre os tópicos 1 e 1
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.166667
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "1_quebr_conquist_igual_númer_medalh" is "0.166667"
+
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 6
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "10_medalh_prat_fic_american_april" and "0_com_esper_atlet_fabian_mur" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 11
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 9 -- Origem: 2
+
+Topic: 10 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 1
+Topic s: 10 -- Topic s_aux: 7 -- Abs: 3
+
+
+Topic change from "10" to "7"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 8
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 9 e 8
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 8: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "8_bronz_vai_cuban_yarisley_silv" is "0"
+
+Comparação entre os tópicos 9 e 7
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "7_medalh_pan_depo_qued_april" is "0"
+
+Comparação entre os tópicos 9 e 6
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "6_4_competiçã_mur_continu_busc" is "0"
+
+Comparação entre os tópicos 9 e 5
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "5_marc_4_nã_tentat_atlet" is "0.2"
+
+CHANGE! -- From: 10 -> TO: 6
+
+Comparação entre os tópicos 9 e 4
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 2
+Similaridade entre eles: 0.4
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "4_salt_marc_4_primeir_atlet" is "0.4"
+
+CHANGE! -- From: 10 -> TO: 5
+
+Comparação entre os tópicos 9 e 3
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "3_nã_já_brasileir_particip_prov" is "0.2"
+
+Comparação entre os tópicos 9 e 2
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "2_marc_mur_vic_cop_mund" is "0.2"
+
+Comparação entre os tópicos 9 e 1
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 9 e 0
+Numero de palavras do tópico 9: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "9_fabian_our_prov_salt_marc" and "0_com_esper_atlet_fabian_mur" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 10
+Topic: 10
+Topic: 10
+Topic: 8
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 4 -- Abs: 5
+
+
+Topic change from "9" to "4"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 4 -- Abs: 5
+
+
+Topic change from "9" to "4"
+
+Topic: 9 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 9 -- Topic s_aux: 4 -- Abs: 5
+
+
+Topic change from "9" to "4"
+
+Topic: 7 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 8
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 8 e 7
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 7: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "7_medalh_pan_depo_qued_april" is "0"
+
+Comparação entre os tópicos 8 e 6
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "6_4_competiçã_mur_continu_busc" is "0"
+
+Comparação entre os tópicos 8 e 5
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "5_marc_4_nã_tentat_atlet" is "0"
+
+Comparação entre os tópicos 8 e 4
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "4_salt_marc_4_primeir_atlet" is "0"
+
+Comparação entre os tópicos 8 e 3
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "3_nã_já_brasileir_particip_prov" is "0"
+
+Comparação entre os tópicos 8 e 2
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "2_marc_mur_vic_cop_mund" is "0"
+
+Comparação entre os tópicos 8 e 1
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 8 e 0
+Numero de palavras do tópico 8: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "8_bronz_vai_cuban_yarisley_silv" and "0_com_esper_atlet_fabian_mur" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 8
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Topic: 7 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 8
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 7 e 6
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 6: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_medalh_pan_depo_qued_april" and "6_4_competiçã_mur_continu_busc" is "0"
+
+Comparação entre os tópicos 7 e 5
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_medalh_pan_depo_qued_april" and "5_marc_4_nã_tentat_atlet" is "0"
+
+Comparação entre os tópicos 7 e 4
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_medalh_pan_depo_qued_april" and "4_salt_marc_4_primeir_atlet" is "0"
+
+Comparação entre os tópicos 7 e 3
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_medalh_pan_depo_qued_april" and "3_nã_já_brasileir_particip_prov" is "0"
+
+Comparação entre os tópicos 7 e 2
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_medalh_pan_depo_qued_april" and "2_marc_mur_vic_cop_mund" is "0"
+
+Comparação entre os tópicos 7 e 1
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "7_medalh_pan_depo_qued_april" and "1_quebr_conquist_igual_númer_medalh" is "0.2"
+
+CHANGE! -- From: 8 -> TO: 2
+
+Comparação entre os tópicos 7 e 0
+Numero de palavras do tópico 7: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "7_medalh_pan_depo_qued_april" and "0_com_esper_atlet_fabian_mur" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 8
+Topic: 8
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 8
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 1 -- Abs: 6
+
+
+Topic change from "7" to "1"
+
+Topic: 7 -- Origem: 1
+
+Origem s: 1 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 1 -- Abs: 6
+
+
+Topic change from "7" to "1"
+
+Topic: 8 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 4 -- Origem: 2
+
+Topic: 7 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 7 -- Topic s_aux: 1 -- Abs: 6
+
+
+Topic change from "7" to "1"
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 6 e 5
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 5: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_4_competiçã_mur_continu_busc" and "5_marc_4_nã_tentat_atlet" is "0.2"
+
+CHANGE! -- From: 7 -> TO: 6
+
+Comparação entre os tópicos 6 e 4
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_4_competiçã_mur_continu_busc" and "4_salt_marc_4_primeir_atlet" is "0.2"
+
+Comparação entre os tópicos 6 e 3
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_4_competiçã_mur_continu_busc" and "3_nã_já_brasileir_particip_prov" is "0"
+
+Comparação entre os tópicos 6 e 2
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_4_competiçã_mur_continu_busc" and "2_marc_mur_vic_cop_mund" is "0.2"
+
+Comparação entre os tópicos 6 e 1
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "6_4_competiçã_mur_continu_busc" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 6 e 0
+Numero de palavras do tópico 6: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "6_4_competiçã_mur_continu_busc" and "0_com_esper_atlet_fabian_mur" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 5 e 4
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 4: 5
+Numero de palavras iguais: 3
+Similaridade entre eles: 0.6
+
+
+Similarity between "5_marc_4_nã_tentat_atlet" and "4_salt_marc_4_primeir_atlet" is "0.6"
+
+CHANGE! -- From: 6 -> TO: 5
+
+Comparação entre os tópicos 5 e 3
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "5_marc_4_nã_tentat_atlet" and "3_nã_já_brasileir_particip_prov" is "0.2"
+
+Comparação entre os tópicos 5 e 2
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "5_marc_4_nã_tentat_atlet" and "2_marc_mur_vic_cop_mund" is "0.2"
+
+Comparação entre os tópicos 5 e 1
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "5_marc_4_nã_tentat_atlet" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 5 e 0
+Numero de palavras do tópico 5: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "5_marc_4_nã_tentat_atlet" and "0_com_esper_atlet_fabian_mur" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 4 e 3
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 3: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_salt_marc_4_primeir_atlet" and "3_nã_já_brasileir_particip_prov" is "0"
+
+Comparação entre os tópicos 4 e 2
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "4_salt_marc_4_primeir_atlet" and "2_marc_mur_vic_cop_mund" is "0.2"
+
+CHANGE! -- From: 5 -> TO: 3
+
+Comparação entre os tópicos 4 e 1
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "4_salt_marc_4_primeir_atlet" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 4 e 0
+Numero de palavras do tópico 4: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "4_salt_marc_4_primeir_atlet" and "0_com_esper_atlet_fabian_mur" is "0.2"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 5
+Topic: 5
+Topic: 5
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 4 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 4 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 4 -- Topic s_aux: 2 -- Abs: 2
+
+
+Topic change from "4" to "2"
+
+Topic: 1 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 3 e 2
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 2: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_nã_já_brasileir_particip_prov" and "2_marc_mur_vic_cop_mund" is "0"
+
+Comparação entre os tópicos 3 e 1
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_nã_já_brasileir_particip_prov" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 3 e 0
+Numero de palavras do tópico 3: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "3_nã_já_brasileir_particip_prov" and "0_com_esper_atlet_fabian_mur" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 2 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 2 e 1
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 1: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "2_marc_mur_vic_cop_mund" and "1_quebr_conquist_igual_númer_medalh" is "0"
+
+Comparação entre os tópicos 2 e 0
+Numero de palavras do tópico 2: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 1
+Similaridade entre eles: 0.2
+
+
+Similarity between "2_marc_mur_vic_cop_mund" and "0_com_esper_atlet_fabian_mur" is "0.2"
+
+CHANGE! -- From: 3 -> TO: 1
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 3
+Topic: 3
+Topic: 4
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 3
+Topic: 3
+Topic: 3
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 3 -- Origem: 0
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 0
+
+Origem s: 0 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 2 -- Origem: 2
+
+Origem s: 2 -- Origem s_aux: 0
+Topic s: 2 -- Topic s_aux: 0 -- Abs: 2
+
+
+Topic change from "2" to "0"
+
+Topic: 1 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+Comparação entre os tópicos 1 e 0
+Numero de palavras do tópico 1: 5
+Numero de palavras do tópico 0: 5
+Numero de palavras iguais: 0
+Similaridade entre eles: 0
+
+
+Similarity between "1_quebr_conquist_igual_númer_medalh" and "0_com_esper_atlet_fabian_mur" is "0"
+
+BEFORE
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+SSSS: 0
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 1 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 3 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 0 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 5 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 6 -- Origem: 0
+
+Topic: 1 -- Origem: 1
+
+Topic: 1 -- Origem: 1
+
+Topic: 8 -- Origem: 1
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 0 -- Origem: 2
+
+Topic: 1 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+Topic: 11 -- Origem: 2
+
+AFTER
+
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 2
+Topic: 1
+Topic: 1
+Topic: 4
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 6
+Topic: 6
+Topic: 7
+Topic: 7
+Topic: 2
+Topic: 2
+Topic: 9
+Topic: 1
+Topic: 1
+Topic: 1
+Topic: 2
+Topic: 12
+Topic: 12
+Topic: 12
+NUM_TOPICS: 11
+
+Cur_topic: 0
+
+
+
+------------------------------------------------------------
+Topic: 0
+Word: com  - Frequency: 2
+Word: esper  - Frequency: 1
+Word: atlet  - Frequency: 3
+Word: fabian  - Frequency: 5
+Word: mur  - Frequency: 4
+Word: conquist  - Frequency: 3
+Word: medalh  - Frequency: 2
+Word: our  - Frequency: 3
+Word: 29  - Frequency: 1
+Word: brasileir  - Frequency: 3
+Word: salt  - Frequency: 7
+Word: var  - Frequency: 2
+Word: jog  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: rio  - Frequency: 1
+Word: segund  - Frequency: 2
+Word: estádi  - Frequency: 1
+Word: joã  - Frequency: 1
+Word: havelang  - Frequency: 1
+Word: vic  - Frequency: 1
+Word: cop  - Frequency: 1
+Word: mund  - Frequency: 1
+Word: 2006  - Frequency: 1
+Word: lug  - Frequency: 1
+Word: alto  - Frequency: 2
+Word: pódi  - Frequency: 1
+Word: marc  - Frequency: 6
+Word: 4m60  - Frequency: 2
+Word: 4m40  - Frequency: 2
+Word: nort  - Frequency: 2
+Word: april  - Frequency: 1
+Word: stein  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: prat  - Frequency: 1
+Word: já  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: pertenc  - Frequency: 1
+Word: cuban  - Frequency: 1
+Word: yarisley  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: 4  - Frequency: 3
+Word: campin  - Frequency: 1
+Word: comec  - Frequency: 1
+Word: prov  - Frequency: 3
+Word: foi  - Frequency: 1
+Word: perfeit  - Frequency: 1
+Word: dand  - Frequency: 1
+Word: ânim  - Frequency: 1
+Word: inclusiv  - Frequency: 1
+Word: mand  - Frequency: 1
+Word: beijinh  - Frequency: 1
+Word: torcedor  - Frequency: 1
+Word: bom  - Frequency: 1
+Word: coloc  - Frequency: 1
+Word: pressã  - Frequency: 1
+Word: falh  - Frequency: 1
+Word: primeir  - Frequency: 3
+Word: tentat  - Frequency: 2
+Word: melhor  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: tal  - Frequency: 1
+Word: levant  - Frequency: 1
+Word: públic  - Frequency: 1
+Word: brasil  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: só  - Frequency: 1
+Word: venc  - Frequency: 1
+Word: também  - Frequency: 1
+Word: estabelec  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: record  - Frequency: 2
+Word: 20cm  - Frequency: 1
+Word: antig  - Frequency: 1
+Word: confirm  - Frequency: 1
+Word: tent  - Frequency: 1
+Word: aind  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: sul  - Frequency: 1
+Word: 4m66  - Frequency: 1
+Word: três  - Frequency: 1
+Word: 4m68  - Frequency: 1
+Word: consegu  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 0_salt
+
+Keyword: 0_salt_marc
+
+Keyword: 0_salt_marc_fabian
+
+Keyword: 0_salt_marc_fabian_mur
+
+Keyword: 0_salt_marc_fabian_mur_atlet_conquist_our_brasileir_4_prov_primeir
+
+Cur_topic: 1
+
+
+
+------------------------------------------------------------
+Topic: 1
+Word: quebr  - Frequency: 2
+Word: conquist  - Frequency: 1
+Word: igual  - Frequency: 1
+Word: númer  - Frequency: 1
+Word: medalh  - Frequency: 4
+Word: our  - Frequency: 2
+Word: fatur  - Frequency: 1
+Word: sant  - Frequency: 1
+Word: doming  - Frequency: 1
+Word: brasil  - Frequency: 2
+Word: também  - Frequency: 1
+Word: som  - Frequency: 1
+Word: 29  - Frequency: 2
+Word: record  - Frequency: 2
+Word: dev  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: ediçã  - Frequency: 1
+Word: jog  - Frequency: 1
+Word: depo  - Frequency: 1
+Word: qued  - Frequency: 1
+Word: april  - Frequency: 2
+Word: stein  - Frequency: 2
+Word: brasileir  - Frequency: 1
+Word: fabian  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: lev  - Frequency: 1
+Word: salt  - Frequency: 1
+Word: var  - Frequency: 1
+Word: 4m50  - Frequency: 1
+Word: nov  - Frequency: 1
+Word: pan  - Frequency: 2
+Word: prat  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: american  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: 4m40  - Frequency: 1
+Word: bronz  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: cuban  - Frequency: 1
+Word: yarisley  - Frequency: 1
+Word: silv  - Frequency: 1
+Word: 4m30  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 1_medalh
+
+Keyword: 1_medalh
+
+Keyword: 1_medalh_quebr_our_brasil_29_record_april_stein_pan
+
+Keyword: 1_medalh_quebr_our_brasil_29_record_april_stein_pan_conquist_igual_númer_fatur_sant_doming_também_som_dev_ser_ediçã_jog_depo_qued_brasileir_fabian_mur_lev_salt_var_4m50_nov_prat_fic_american_marc_4m40_bronz_foi_cuban_yarisley_silv_4m30
+
+Cur_topic: 3
+
+
+
+------------------------------------------------------------
+Topic: 3
+Word: já  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: particip  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: joan  - Frequency: 1
+Word: cost  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: sub  - Frequency: 1
+Word: pódi  - Frequency: 1
+Word: vez  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: marc  - Frequency: 1
+Word: cuban  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 3_nã
+
+Keyword: 3_nã_já_brasileir_particip_prov_joan_cost_sub_pódi_vez_alcanc_marc_cuban
+
+Cur_topic: 5
+
+
+
+------------------------------------------------------------
+Topic: 5
+Word: atlet  - Frequency: 1
+Word: nort  - Frequency: 1
+Word: prov  - Frequency: 1
+Word: disput  - Frequency: 1
+Word: ser  - Frequency: 1
+Word: acirr  - Frequency: 1
+Word: já  - Frequency: 1
+Word: bat  - Frequency: 1
+Word: marc  - Frequency: 2
+Word: 4  - Frequency: 2
+Word: vai  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: local  - Frequency: 1
+Word: fabian  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: entant  - Frequency: 1
+Word: nã  - Frequency: 2
+Word: parec  - Frequency: 1
+Word: incomod  - Frequency: 1
+Word: errou  - Frequency: 1
+Word: primeir  - Frequency: 1
+Word: tentat  - Frequency: 2
+Word: alcanc  - Frequency: 1
+Word: erro  - Frequency: 1
+Word: repet  - Frequency: 1
+Word: brasileir  - Frequency: 1
+Word: cheg  - Frequency: 1
+Word: tal  - Frequency: 1
+Word: segund  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: record  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: garant  - Frequency: 1
+Word: our  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 5_marc_4_nã_tentat
+
+Keyword: 5_marc_4_nã_tentat_atlet_nort_prov_disput_ser_acirr_já_bat_vai_torc_local_fabian_mur_entant_parec_incomod_errou_primeir_alcanc_erro_repet_brasileir_cheg_tal_segund_quebr_record_pan_garant_our
+
+Cur_topic: 6
+
+
+
+------------------------------------------------------------
+Topic: 6
+Word: competiçã  - Frequency: 1
+Word: mur  - Frequency: 1
+Word: continu  - Frequency: 1
+Word: busc  - Frequency: 1
+Word: quebr  - Frequency: 1
+Word: própri  - Frequency: 1
+Word: record  - Frequency: 1
+Word: terceir  - Frequency: 1
+Word: tentat  - Frequency: 1
+Word: consegu  - Frequency: 1
+Word: alcanc  - Frequency: 1
+Word: 4  - Frequency: 2
+Word: melhor  - Frequency: 1
+Word: marc  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 6_4
+
+Keyword: 6_4_competiçã_mur_continu_busc_quebr_própri_record_terceir_tentat_consegu_alcanc_melhor_marc
+
+Cur_topic: 8
+
+
+
+------------------------------------------------------------
+Topic: 8
+Word: bronz  - Frequency: 1
+Word: vai  - Frequency: 1
+Word: cuban  - Frequency: 1
+Word: yarisley  - Frequency: 1
+Word: silv  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 8_bronz_vai_cuban_yarisley_silv
+
+Keyword: 8_bronz_vai_cuban_yarisley_silv
+
+Keyword: 8_bronz_vai_cuban_yarisley_silv
+
+Cur_topic: 11
+
+
+
+------------------------------------------------------------
+Topic: 11
+Word: brasileir  - Frequency: 2
+Word: joan  - Frequency: 2
+Word: cost  - Frequency: 1
+Word: fic  - Frequency: 1
+Word: quint  - Frequency: 1
+Word: posiçã  - Frequency: 1
+Word: 4m20  - Frequency: 1
+Word: mostr  - Frequency: 2
+Word: vez  - Frequency: 1
+Word: pan  - Frequency: 1
+Word: rio  - Frequency: 1
+Word: pressã  - Frequency: 2
+Word: compet  - Frequency: 1
+Word: cas  - Frequency: 2
+Word: pod  - Frequency: 1
+Word: prejudic  - Frequency: 1
+Word: atlet  - Frequency: 3
+Word: comec  - Frequency: 2
+Word: bem  - Frequency: 1
+Word: salt  - Frequency: 2
+Word: seguranc  - Frequency: 1
+Word: 4m  - Frequency: 1
+Word: ter  - Frequency: 1
+Word: problem  - Frequency: 1
+Word: corr  - Frequency: 1
+Word: aproxim  - Frequency: 1
+Word: já  - Frequency: 2
+Word: 4m10  - Frequency: 1
+Word: nervos  - Frequency: 2
+Word: desist  - Frequency: 1
+Word: mei  - Frequency: 1
+Word: caminh  - Frequency: 1
+Word: sent  - Frequency: 1
+Word: torc  - Frequency: 1
+Word: com  - Frequency: 1
+Word: foi  - Frequency: 1
+Word: menin  - Frequency: 1
+Word: v�  - Frequency: 1
+Word: entreg  - Frequency: 1
+Word: our  - Frequency: 1
+Word: cub  - Frequency: 1
+Word: tie  - Frequency: 1
+Word: break  - Frequency: 1
+Word: ginást  - Frequency: 1
+Word: artíst  - Frequency: 1
+Word: comet  - Frequency: 1
+Word: segu  - Frequency: 1
+Word: erros  - Frequency: 1
+Word: clar  - Frequency: 1
+
+
+------------------------------------------------------------
+
+Keyword: 11_atlet
+
+Keyword: 11_atlet_brasileir_joan_mostr_pressã_cas_comec_salt_já_nervos
+
+Keyword: 11_atlet_brasileir_joan_mostr_pressã_cas_comec_salt_já_nervos_cost_fic_quint_posiçã_4m20_vez_pan_rio_compet_pod_prejudic_bem_seguranc_4m_ter_problem_corr_aproxim_4m10_desist_mei_caminh_sent_torc_com_foi_menin_v�_entreg_our_cub_tie_break_ginást_artíst_comet_segu_erros_clar
+
+NUM: 11
+
+
+NUM: 42
+
+
+NUM: 13
+
+
+NUM: 34
+
+
+NUM: 14
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 49
+
+
+(FINAL) AVERAGE: 5
+
+NUM: 11
+
+
+NUM: 42
+
+
+NUM: 13
+
+
+NUM: 34
+
+
+NUM: 14
+
+
+NUM: 5
+
+
+LESSER: 5
+
+NUM: 49
+
+
+---------------BEFORE!-------------
+
+VEC: 0_salt_marc_fabian_mur_atlet_conquist_our_brasileir_4_prov_primeir
+VEC: 1_medalh_quebr_our_brasil_29_record_april_stein_pan_conquist_igual_númer_fatur_sant_doming_também_som_dev_ser_ediçã_jog_depo_qued_brasileir_fabian_mur_lev_salt_var_4m50_nov_prat_fic_american_marc_4m40_bronz_foi_cuban_yarisley_silv_4m30
+VEC: 3_nã_já_brasileir_particip_prov_joan_cost_sub_pódi_vez_alcanc_marc_cuban
+VEC: 5_marc_4_nã_tentat_atlet_nort_prov_disput_ser_acirr_já_bat_vai_torc_local_fabian_mur_entant_parec_incomod_errou_primeir_alcanc_erro_repet_brasileir_cheg_tal_segund_quebr_record_pan_garant_our
+VEC: 6_4_competiçã_mur_continu_busc_quebr_própri_record_terceir_tentat_consegu_alcanc_melhor_marc
+VEC: 8_bronz_vai_cuban_yarisley_silv
+VEC: 11_atlet_brasileir_joan_mostr_pressã_cas_comec_salt_já_nervos_cost_fic_quint_posiçã_4m20_vez_pan_rio_compet_pod_prejudic_bem_seguranc_4m_ter_problem_corr_aproxim_4m10_desist_mei_caminh_sent_torc_com_foi_menin_v�_entreg_our_cub_tie_break_ginást_artíst_comet_segu_erros_clar
+
+---------------AFTER!-------------
+
+VEC: 0_salt_marc_fabian_mur_atlet
+VEC: 1_medalh_quebr_our_brasil_29
+VEC: 3_nã_já_brasileir_particip_prov
+VEC: 5_marc_4_nã_tentat_atlet
+VEC: 6_4_competiçã_mur_continu_busc
+VEC: 8_bronz_vai_cuban_yarisley_silv
+VEC: 11_atlet_brasileir_joan_mostr_pressã
+Keyword: 0_salt_marc_fabian_mur_atlet
+Keyword: 1_medalh_quebr_our_brasil_29
+Keyword: 3_nã_já_brasileir_particip_prov
+Keyword: 5_marc_4_nã_tentat_atlet
+Keyword: 6_4_competiçã_mur_continu_busc
+Keyword: 8_bronz_vai_cuban_yarisley_silv
+Keyword: 11_atlet_brasileir_joan_mostr_pressã

@@ -1,0 +1,1005 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01+RDFa 1.1//EN" "http://www.w3.org/MarkUp/DTD/html401-rdfa11-1.dtd">
+<html>
+<head>
+<title>Folha.com - Poder - Mensalão continua no STF, diz Joaquim Barbosa - 08/05/2012</title>
+<meta name="title" content="Mensalão continua no STF, diz Joaquim Barbosa">
+<meta name="description" content="O ministro Joaquim Barbosa, do STF (Supremo Tribunal Federal), negou pedido do advogado Márcio Thomaz Bastos para que o processo do mensalão fosse desmembrado.">
+<meta name="date" content="17h42 08/05/2012">
+<meta name="keywords" content="mensalão, joaquim barbosa, supremo, justiça, jornalismo, informação, economia, política, fotografia, imagem, noticiário, cultura, tecnologia, esporte, Brasil, internacional, geral, polícia, manchetes, loteria, loterias, resultados, opinião, análise, cobertura">
+
+<meta property="og:title" name="title" content="Mensalão continua no STF, diz Joaquim Barbosa">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://www1.folha.uol.com.br/poder/1087358-mensalao-continua-no-stf-diz-joaquim-barbosa.shtml">
+<meta property="og:image" content="http://f.i.uol.com.br/folha/furniture/5/images/lgo-folha_facebook-180x180.jpg">
+<meta property="og:site_name" content="Folha online">
+<meta property="og:description" name="description" content="O ministro Joaquim Barbosa, do STF (Supremo Tribunal Federal), negou pedido do advogado Márcio Thomaz Bastos para que o processo do mensalão fosse desmembrado.">
+
+<script type="text/javascript"><!--
+var page_info = {
+	section_id: decodeURIComponent("poder"),
+	section_name: decodeURIComponent("Poder"),
+	cover_date: decodeURIComponent("08%2F05%2F2012"),
+	cover_time: decodeURIComponent("17h42"),
+	title: decodeURIComponent("Mensal%C3%A3o%20continua%20no%20STF%2C%20diz%20Joaquim%20Barbosa"),
+	description: decodeURIComponent("O%20ministro%20Joaquim%20Barbosa%2C%20do%20STF%20%28Supremo%20Tribunal%20Federal%29%2C%20negou%20pedido%20do%20advogado%20M%C3%A1rcio%20Thomaz%20Bastos%20para%20que%20o%20processo%20do%20mensal%C3%A3o%20fosse%20desmembrado."),
+	tags: decodeURIComponent("mensal%C3%A3o%2C%20joaquim%20barbosa%2C%20supremo%2C%20justi%C3%A7a"),
+	images: [],
+	comment_id: decodeURIComponent("1087358"),
+	shortcut_id: decodeURIComponent("no1087358"),
+	live_url: decodeURIComponent("http%3A%2F%2Fwww1.folha.uol.com.br%2Fpoder%2F1087358-mensalao-continua-no-stf-diz-joaquim-barbosa.shtml"),
+	newstext_id: decodeURIComponent("1087358")
+};
+//--></script>
+
+<!--noindex-->
+
+
+
+
+<meta name="googlebot-news" content="nosnippet">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
+<meta http-equiv="Cache-Control" content="no-store">
+<link rel="shortcut icon" type="image/x-icon" href="http://f.i.uol.com.br/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/folha/furniture/5/common/common-5_1.css">
+<link rel="alternate" type="application/rss+xml" title='Folha.com - poder' href='http://feeds.folha.uol.com.br/poder/rss091.xml'>
+<script type="text/javascript" src="/folha/furniture/5/common/jquery.js"></script>
+<script type="text/javascript" src="/folha/furniture/5/common/common-5_1.js"></script>
+<script type="text/javascript"><!--
+folha.information.section = 'poder' ;
+folha.ads.channel = 'poder' ;
+
+folha.information.page.channel = 'poder' ;
+folha.information.page.subchannel = '(none)' ;
+folha.information.page.type = 'noticias' ;
+folha.information.page.title = 'Mensal%C3%A3o%20continua%20no%20STF%2C%20diz%20Joaquim%20Barbosa' ;
+//--></script>
+<style type="text/css"><!--
+#masthead .sprite { background-position: -399px -2px; width: 110px; }
+#main_body.poder .openBox.videos .sprite 			{ background-position: -399px -195px; }
+#main_body.poder .openBox.audios .sprite 			{ background-position: -399px -230px; }
+#main_body.poder .openBox.fotos .sprite 			{ background-position: -399px -266px; }
+#main_body.poder .openBox.especiais .sprite 	{ background-position: -399px -300px; }
+#main_body.poder .openBox.colunistas .sprite 	{ width: 188px; background-position: -396px -517px; }
+#main_body.poder .openBox.servicos .sprite 		{ background-position: -399px -371px; }
+#main_body.poder .openBox.enquetes .sprite  	{ background-position: -399px -407px; }
+#main_body.poder .openBox.interacao .sprite  	{ background-position: -399px -444px; }
+#main_body.poder .openBox.blogs .sprite  			{ background-position: -399px -482px; }
+#main_body.poder #sections  .label .sprite 		{ background-position: -399px -711px; }
+#main_body.poder #last_non_read .sprite 			{ background-position: -399px -759px; }
+#main_body.poder #most .sprite.most_read			{ background-position: -399px -889px; }
+#main_body.poder #most .sprite.most_sent			{ background-position: -399px -834px; }
+#main_body.poder #most .sprite.most_commented { background-position: -399px -861px; }
+#main_body.poder .openBox .label, #main_body.poder .openBox .about, #main_body.poder #articleEnd p, #main_body.poder #libraryArticleEnd p { border-color: #003366; color: #003366; }
+#main_body.poder #main_rotate .prev { background-position: -47px -1037px; }
+#main_body.poder #main_rotate .next { background-position: -20px -1037px; }
+#main_body.poder #follow .sprite 							{ background-position: -460px -187px; }
+#main_body.poder #articleNew table.articleGraphic .articleGraphicCaption { border-color: #003366; }
+#main_body.poder #articleNew .fo1l 						{ border-color: #003366; }
+--></style>
+
+</head>
+
+<body>
+<div id="aligner">
+<script type="text/javascript"><!--
+folha.ads.expand();
+//--></script>
+
+
+<div id="main_body" class="poder">
+
+<div id="uol_bar_container"><script type="text/javascript" src="http://barra.uol.com.br/b/scripts/1024/bv1folha.js"></script></div>
+
+<div id="top_ads">
+<div id="ad-728x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<div id="ad-220x90-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+</div>
+
+<div id="header">
+<a class="logo sprite" href="http://www.folha.uol.com.br">&nbsp;</a>
+
+<div class="services">
+<div id="weather">
+<div class="info"><span class="date"><script type="text/javascript">
+document.write(' 8 de ' + folha.information.month[parseInt('05', 10) - 1] + ' de 2012 - 23:39');
+</script></span>
+<a href="http://tempo.folha.com.br" class="moreCity">Veja o tempo em mais cidades</a>
+</div>
+<div class="temperature">
+<div><span class="sprite noite-nd">&nbsp;</span><a href="http://tempo.folha.com.br/sp/sao_paulo">SP</a><br>17ºC</div>
+<div><span class="sprite noite-nd">&nbsp;</span><a href="http://tempo.folha.com.br/rj/rio_de_janeiro">Rio</a><br>22ºC</div>
+</div>
+</div>
+
+<form action="http://search.folha.com.br" id="search" method="get"><div><input name="q" type="text" value=""> <select name="site"id="selectSite"><option value="">&nbsp;</option><option value="online">Folha.com</option><option value="jornal">Folha de S.Paulo</option><option value="online/guia">Guia Folha</option></select> <input class="submit" name="submit" type="submit" value="Buscar"></div></form></div>
+
+<ul class="classified_nav">
+<li><a href="http://classificados.folha.com.br/" class="first">Classificados</a></li>
+<li><a href="http://classificados.folha.com.br/veiculos">Veículos</a></li>
+<li><a href="http://classificados.folha.com.br/imoveis">Imóveis</a></li>
+<li><a href="http://classificados.folha.com.br/empregos">Empregos</a></li>
+<li><a href="http://classificados.folha.com.br/negocios">Negócios</a></li>
+</ul>
+
+
+<div class="flags">
+<ul class="flags_nav">
+<li><a href="http://www1.folha.uol.com.br/internacional/en/"><span class="sprite en">&nbsp;</span><span class="text_flag">NEWS IN ENGLISH</span></a></li>
+<li><a href="http://www1.folha.uol.com.br/internacional/es/"><span class="sprite es">&nbsp;</span><span class="text_flag">NOTICIAS EN ESPAÑOL</span></a></li>
+</ul>
+</div>
+
+<div id="top_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a> <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www.folha.com.br/112031">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/serafina/">Serafina</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://www1.folha.uol.com.br/cotidiano/transito/">Trânsito</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+<!--//-->
+</div>
+
+<!--//-->
+
+
+<!--/-->
+
+<script type="text/javascript"><!--
+folha.ticker.collection = [	
+	[ 'http://www1.folha.uol.com.br/cotidiano/1087580-usuarios-de-planos-de-saude-tambem-terao-cartao-do-sus.shtml' , ' Usuários de planos de saúde também terão cartão do SUS' ],	
+	[ 'http://www1.folha.uol.com.br/ilustrada/1087472-fotos-de-marilyn-monroe-nua-nao-encontram-comprador-em-leilao.shtml' , ' Fotos de Marilyn Monroe nua não encontram comprador em leilão' ],	
+	[ 'http://www1.folha.uol.com.br/mundo/1087569-romney-ganha-primarias-de-indiana-carolina-do-norte-e-virginia-ocidental.shtml' , ' Romney ganha primárias de Indiana, Carolina do Norte e Virgínia Ocidental' ],	
+	[ 'http://www1.folha.uol.com.br/ilustrada/1087559-homem-e-detido-por-perseguir-mila-kunis.shtml' , ' Homem é detido por perseguir Mila Kunis' ],	
+	[ 'http://www1.folha.uol.com.br/cotidiano/1087560-em-4-dias-5-milhoes-ja-foram-vacinados-contra-a-gripe.shtml' , ' Em 4 dias, 5 milhões já foram vacinados contra a gripe' ]
+] ;
+//--></script>
+<div id="ticker"><a class="sprite home next buttons" href="javascript: void(0)" onClick="javascript: folha.ticker.next()">&nbsp;</a> <a class="sprite home play buttons" href="javascript: void(0)" onClick="javascript: folha.ticker.pause()">&nbsp;</a> <a class="sprite home prev buttons" href="javascript: void(0)" onClick="javascript: folha.ticker.prev()">&nbsp;</a> <span><a href="http://www1.folha.uol.com.br/emcimadahora/">Em Cima da Hora</a></span> <a href="" id="el"></a> <span id="dummy"></span></div>
+<!--//-->
+
+
+</div>
+
+<div id="masthead">
+<div id="ad-168x28-1-container">
+<div id="ad-168x28-1"><p class="adLabel">PUBLICIDADE</p></div>
+</div>
+<!--//-->
+
+
+<div class="canvas"></div>
+<a href="./" class="sprite section poder"></a>
+</div>
+
+<div class="double_column">
+<div class="toolbar">
+<div><span class="sprite font">&nbsp;</span> <a href="#" id="font_controller_bigger" title="Maior">Maior</a> | <a href="#" id="font_controller_smaller" title="Menor">Menor</a></div>
+<div><span class="sprite email">&nbsp;</span> <a href="http://tools.folha.com.br/send?site=emcimadahora&amp;url=referrer" title="Enviar por e-mail">Enviar por e-mail</a></div>
+<div><span class="sprite feedback">&nbsp;</span> <a href="http://tools.folha.com.br/feedback?url=referrer" title="Comunicar Erros">Comunicar erros</a></div>
+<div><span class=""></span><a href="http://tools.folha.com.br/print?site=emcimadahora&amp;url=referrer" title="Imprimir" class="sprite print">&nbsp;</a></div>
+<div class="share_link"><label for="link_space">Link</label> <input id="link_space" type="text" title="Link encurtado da página" onfocus="this.select();" value=""></div>
+<div class="social_medias">
+<a id="share_twitter" href="http://twitter.com/home?status=Folha.com%20http://www.folha.uol.com.br%20%23folha" title="Compartilhe no Twitter"><span id="twitter_id" class="sprite twitter">&nbsp;</span></a>
+<a id="share_facebook" href="http://www.facebook.com/share.php?u=http://www.folha.uol.com.br" title="Compartilhe no Facebook"><span class="sprite facebook">&nbsp;</span></a>
+<a id="share_orkut" href="http://promote.orkut.com/preview?nt=orkut.com&amp;tt=Folha%20&amp;du=http://www.folha.uol.com.br" title="Compartilhe no Orkut"><span class="sprite orkut">&nbsp;</span></a>
+<a id="share_rss" href="http://feeds.folha.uol.com.br/poder/rss091.xml" title="RSS"><span class="sprite rss">&nbsp;</span></a>
+<a href="javascript:void(0)" id="more_bookmarklets_button"><span class="sprite more_bookmarklets">&nbsp;</span></a><div id="more_bookmarklets"><span class="spacer">&nbsp;</span><div>
+<a id="share_delicious" href="http://del.icio.us/login/?url=http://www.folha.uol.com.br&amp;title=Folha%20" title="Compartilhe no Delicious"><span class="sprite delicious">&nbsp;</span> delicious</a>
+<a id="share_live" href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=pt-br&amp;url=http://www.folha.uol.com.br&amp;title=Folha%20" title="Compartilhe no Windows Live"><span class="sprite windowslive">&nbsp;</span> Windows Live</a>
+<a id="share_myspace" href="http://www.myspace.com/index.cfm?fuseaction=postto&amp;t=Folha%20&amp;u=http://www.folha.uol.com.br" title="Compartilhe no MySpace"><span class="sprite myspace">&nbsp;</span> MySpace</a>
+<a id="share_google" href="http://www.google.com/bookmarks/mark?op=add&amp;hl=pt&amp;title=Folha%20&amp;bkmk=http://www.folha.uol.com.br&amp;labels=folha" title="Compartilhe no Google"><span class="sprite google">&nbsp;</span> Google</a>
+<a id="share_digg" href="http://digg.com/submit?phase=2&amp;url=http://www.folha.uol.com.br" title="Compartilhe no Digg"><span class="sprite digg">&nbsp;</span> digg</a>
+</div></div></div>
+</div>
+</div>
+<div class="spacer">&nbsp;</div>
+<div class="column">
+<div  class="poder" id="follow">
+<a href="http://twitter.com/folha_poder">
+<span class="sprite">&nbsp;</span> <span>Acompanhe a Folha.com no Twitter</span>
+</a>
+<script type="text/javascript">
+var section_follow_account = "folha_poder";
+</script>
+<script type="text/javascript">
+$('<a/>').attr("href", "https://twitter.com/" + (typeof section_follow_account == "undefined" ? "folha_com" :  section_follow_account) ).attr("class", "twitter-follow-button").attr("data-show-count", "false").attr("data-lang", "pt").attr("data-show-screen-name", "false").insertAfter("#follow a:eq(0)");
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+</div>
+</div>
+<div class="double_column">
+<!--//-->
+
+
+
+<!--CONTENT-->
+<div id="articleNew">
+<!--/noindex-->
+<!--NOTICIA-->
+<div id="articleDate">
+<!--DATA-->08/05/2012<!--/DATA-->
+-
+<!--HORA-->17h42<!--/HORA-->
+</div><h1>
+<!--TITULO-->Mensalão continua no STF, diz Joaquim Barbosa<!--/TITULO-->
+</h1>
+<!--noindex-->
+<!--PRINT:EXCLUDE-->
+<div id="ad-180x150-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<!--/PRINT:EXCLUDE-->
+<!--/noindex-->
+<!--/-->
+<!--TEXTO-->
+<div id="articleBy">
+<p>
+<b>MÔNICA BERGAMO</b><br>
+COLUNISTA DA <b>FOLHA</b>
+</p>
+</div>
+
+<p>
+O ministro Joaquim Barbosa, do STF (Supremo Tribunal Federal), negou pedido do advogado Márcio Thomaz Bastos para que o processo do mensalão fosse desmembrado.
+</p>
+
+<p>
+Se isso ocorresse, a maior parte dos réus, como por exemplo José Dirceu e Delúbio Soares, não seria mais julgada pelo Supremo. Seus processos seriam enviados a juízes de primeira instância, já que eles não gozam de foro privilegiado por não ocuparem cargos públicos.
+</p>
+
+<p>
+Bastos alegou que seu cliente, José Roberto Salgado, diretor do Banco Rural, está nessa situação e por isso deveria ser julgado primeiro por um juiz natural, passando depois pelas segunda (Tribunal de Justiça) e terceira (Superior Tribunal de Justiça) instâncias antes de eventualmente chegar ao STF.
+</p>
+
+<p>
+Barbosa disse que a questão já foi apreciada mais de uma vez pelo plenário do Supremo e que não foi acolhida.
+</p>
+
+<p>
+Como dois réus, os deputados João Paulo Cunha (PT-SP) e Valdemar Costa Neto (PR-SP), gozam de foro por prerrogativa de função, eles servem como &quot;gancho&quot; para segurar todos os outros réus no STF.
+</p>
+
+<p>
+Em dezembro, Joaquim Barbosa já havia analisado e negado o mesmo pedido de Thomaz Bastos. O advogado recorreu por meio de um agravo e reapresentou o pleito, agora novamente bloqueado. Bastos ainda não decidiu se vai recorrer de novo, agora ao plenário do tribunal.
+</p>
+
+<p>
+Em sua decisão, Barbosa afirma: &quot;Apesar do esforço do agravante em sustentar que o seu pleito ainda não teria sido examinado pelo Supremo Tribunal Federal, observo que a questão relativa ao desmembramento do feito em relação aos réus que não gozam de foro por prerrogativa de função --objetivo do agravante-- já foi, por várias vezes, apreciada nesta ação penal, sendo, em todas as ocasiões, rejeitada pelo Pleno desta Corte. Nesse sentido, apontam a segunda questão de ordem no inquérito 2245 (que deu origem à presente demanda), bem como o terceiro e o décimo primeiro agravos regimentais interpostos nesta ação penal. Assim, sendo o pedido manifestamente improcedente, nego seguimento ao agravo regimental, com apoio no art. 38 da Lei 8.038/1990. Publique-se e intimem-se&quot;.
+</p>
+
+<p>
+<b>JULGAMENTO</b>
+</p>
+
+<p>
+O julgamento do processo do mensalão ainda não tem uma data definida para acontecer. Depende, ainda, que o ministro Ricardo Lewandowski, que revisa o relatório feito por Barbosa, libere o processo para entrar na pauta do tribunal.
+</p>
+
+<p>
+Segundo o ministro Carlos Ayres Britto disse em <a href="http://www1.folha.uol.com.br/poder/poderepolitica/1076039-se-passar-de-junho-mensalao-pode-ficar-para-2013-diz-ayres-britto.shtml">entrevista à <b>Folha</b></a> que, se o julgamento do mensalão não for concluído até 30 de junho, ficará para o ano que vem.
+</p>
+
+<!--noindex-->
+<!--PRINT:EXCLUDE-->
+
+<div id="articleEnd">
+<p class="books">
+<b>Livraria</b>
+</p>
+
+<ul>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1022621-stf-e-um-guardiao-fragil-da-constituicao-ouca-historiador.shtml">'STF é um guardião frágil da Constituição'; ouça historiador</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1085827-ex-delegado-do-dops-da-nome-aos-bois.shtml">Ex-delegado do Dops dá nome aos bois</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1031034-brasil-deveria-ter-uma-constituicao-sucinta-ouca-analise.shtml">Brasil deveria ter uma constituição sucinta; ouça análise</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/990819-colecao-de-idiomas-15-minutos-ganha-desconto-de-30.shtml">Coleção de idiomas &quot;15 Minutos&quot; ganha desconto de 30%</a></li>
+</ul>
+</div>
+
+
+<script type="text/javascript">
+document.write( '<link rel="stylesheet" type="text/css" href="/publicidade/cyrela/cyrela.css?20120319">' ) ;
+</script>
+<script type="text/javascript" src="/publicidade/cyrela/cyrela.js?20120319"></script>
+<!-- Script que executa e monta o carrossel -->
+
+<div class="cyrela_geral">
+<!-- box geral -->
+<div class="cyrela_wrap">
+<h1>ENCONTRE SEU IM&Oacute;VEL</h1>
+<!-- campo de comboBox -->
+<div id="cyrela_busca">
+<ul>
+<li>
+<select name="Cidade" id="cyrela_Cidade">
+<option value="0">Estado/Cidade</option>
+</select>
+</li>
+<li>
+<div id="cyrela_Bairros" class="cyrela_options">
+<span>Regi&atilde;o/Bairro</span>
+<div class="cyrela_optContent">
+</div>
+</div>
+</li>
+<li>
+<select name="FaixaQuartoId" id="cyrela_FaixaQuartoId">
+<option value="0">Tipo/Quartos</option>
+</select>
+<input type="hidden" class="hidden" name="TipoId" id="cyrela_TipoId" value="0">
+</li>
+<li>
+<select name="FaixaPrecoId" id="cyrela_FaixaPrecoId">
+<option value="0">Faixa de pre&ccedil;o</option>
+</select>
+</li>
+</ul>
+<input type="submit" id="cyrela_btnBuscar" value="" title="Buscar" class="submit text-image">
+</div>
+<!-- FIM campo de comboBox -->
+<!-- Conteúdo meio -->
+<div class="cyrela_midle-content">
+<a href="http://www.cyrela.com.br/sp/?utm_campaign=Plano.Mensal.Cyrela&amp;utm_medium=Display&amp;utm_source=Folha&amp;utm_content=Ros&amp;utm_term=Box.Motor.sp" class="cyrela_logo"></a>
+<!-- carrossel -->
+<div class="cyrela_wrap-scroollable">
+<a href="javascript:;" class="cyrela_btn-pass" id="cyrela_btn-esq"></a>
+<!-- IMAGENS -->
+<div class="cyrela_mask">
+<div class="cyrela_carrossel">
+</div>
+</div>
+<!-- FIM IMAGENS -->
+<a href="javascript:;" class="cyrela_btn-pass" id="cyrela_btn-dir"></a>
+</div>
+<!-- FIM carrossel -->
+<!-- Box frase -->
+<div class="cyrela_wrap-frase">
+<a id="cyrela_linkChat" href="http://www.cyrela.com.br/sp/chat?utm_campaign=Plano.Mensal.Cyrela&amp;utm_medium=Display&amp;utm_source=Folha&amp;utm_content=Ros&amp;utm_term=Box.Motor.sp">>> CLIQUE E FALE COM UM CONSULTOR ON-LINE</a>
+</div>
+</div>
+<!-- FIM Conteúdo meio -->
+</div>
+<!--FIM box geral -->
+</div>
+<!--//-->
+
+<!--ADS_LIVRARIA_ARTICLE-->
+
+
+<div class="openBox adslibraryArticle">
+<p class="label">
+<span class="sprite"><a href="http://livraria.folha.com.br">Livraria da Folha</a></span>
+</p>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1177542?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/9/b/1177542-100x100.png" alt="Sanguessugas do Brasil" title="Sanguessugas do Brasil" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1177542?tracking_number=720">Sanguessugas do Brasil</a></p>
+<p class="author">Lucio Vaz</p>
+<p class="oldprice">De: <del>35,90</del></p><p class="realprice">Por: 28,90</p><a class="buy" href="http://www.livraria.folha.com.br/catalogo/1177542?tracking_number=720" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/0/c/1178991-100x100.png" alt="Memórias de uma Guerra Suja" title="Memórias de uma Guerra Suja" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=720">Memórias de uma Guerra Suja</a></p>
+<p class="author">Cláudio Guerra, Marcelo Netto, Rogério Medeiros</p>
+<p class="oldprice">De: <del>43,90</del></p><p class="realprice">Por: 37,50</p><a class="buy" href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=720" title="Comprar">Comprar</a>
+</div>
+<ul class="linksLibrary">
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1085827-ex-delegado-do-dops-da-nome-aos-bois.shtml">Ex-delegado do Dops dá nome aos bois</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1084779-leia-trecho-de-a-politica-nos-quarteis.shtml">Leia trecho de 'A Política nos Quartéis'</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1081597-editora-anuncia-trilogia-sobre-getulio-vargas.shtml">Companhia das Letras anuncia trilogia sobre Getúlio Vargas</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1080920-diario-da-corte-resgata-textos-de-jornalista-politicamente-incorreto.shtml">'Diário da Corte' resgata textos de jornalista 'politicamente incorreto'</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/805991-marqueteiro-revela-bastidores-das-relacoes-entre-politica-e-midia.shtml">Marqueteiro revela bastidores das relações entre política e mídia</a></li>
+<li><a href="http://www1.folha.uol.com.br/livrariadafolha/1069148-politicamente-correto-e-censura-fascista-ouca-luiz-felipe-ponde.shtml">'Politicamente correto é censura fascista'; ouça Luiz Felipe Pondé</a></li>
+</ul>
+</div>
+<!--/ADS_LIBRARY_ARTICLE-->
+
+<!--//-->
+
+
+<!--EXTRA-->
+<!---->
+<!--/EXTRA-->
+
+<!--COMENTARIOS-->
+<div id="articleComments">
+<script language="javascript" type="text/javascript" src="http://comentarios.folha.com.br/info/index.php?comment_id=1087358&amp;section=poder&amp;service=folhaonline&amp;done=http://www1.folha.uol.com.br/poder/1087358-mensalao-continua-no-stf-diz-joaquim-barbosa.shtml&amp;version=5"></script>
+<p class="header alternate"><span><a href="http://comentarios.folha.com.br/redir?id=1087358&amp;section=poder&amp;service=folhaonline&amp;type=reply&amp;done=http://www1.folha.uol.com.br/poder/1087358-mensalao-continua-no-stf-diz-joaquim-barbosa.shtml">Comentar esta reportagem</a></span></p>
+<p class="header terms"><a href="http://comentarios.folha.com.br/termos_e_condicoes">Termos e condições</a></p>
+</div>
+<!--/COMENTARIOS-->
+
+<!--CONTEXTUAL_ADS-->
+
+<div id="contextualAdsArticle"></div>
+<script type="text/javascript" src="/folha/furniture/5/ads/contextual-5.js"></script>
+<!--/CONTEXTUAL_ADS-->
+
+<!--//-->
+
+
+<!--/PRINT:EXCLUDE-->
+<!--/TEXTO-->
+<!--/NOTICIA-->
+</div>
+<!--/CONTENT-->
+
+<script type="text/javascript" language="JavaScript"><!--
+folha_set_new_as_seen( 1087358 ) ;
+//--></script>
+
+</div>
+<div class="spacer">&nbsp;</div>
+<div class="column">
+
+<!--GOOGLE_PLUS_BADGE-->
+<div class="openBox googleplusBadge">
+<a href="https://plus.google.com/106339814614280647525?prsrc=3" style="cursor:pointer;display:inline-block;text-decoration:none;color:#333;font:13px/16px arial,sans-serif;"><span style="display:inline-block;font-weight:bold;vertical-align:top;margin-right:5px;margin-top:8px;">Folha de S.Paulo</span><span style="display:inline-block;vertical-align:top;margin-right:15px;margin-top:8px;">no</span><img src="https://ssl.gstatic.com/images/icons/gplus-32.png" alt="" style="border:0;width:32px;height:32px;"></a>
+</div>
+<!--/GOOGLE_PLUS_BADGE-->
+
+<!--FACEBOOK_LIKEBOX_PAGE-->
+<div class="openBox facebookLike">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ffolhadesp&amp;width=300&amp;height=195&amp;colorscheme=light&amp;connections=5&amp;stream=false&amp;header=false&amp;&amp;locale=pt_BR&amp;" scrolling="no" frameborder="0" class="facebookFrame"></iframe>
+</div>
+<!--/FACEBOOK_LIKEBOX_PAGE-->
+
+<div id="ad-300x40-1"><p class="adLabel">Publicidade</p></div>
+<!--/-->
+
+<div class="surrounded" id="last_non_read">
+<p class="label"><span class="sprite">As Últimas que Você não Leu</span></p>
+<ol>
+<li>&nbsp;</li>
+</ol>
+<!-- <p class="button"><a href="">Quero ver todas</a></p> -->
+<!-- <div class="ads"><div id="ad-200x25-1">&nbsp;</div><p class="adLabel">Publicidade</p></div> -->
+</div>
+
+<div id="ad-300x250-2"><p class="adLabel">Publicidade</p></div>
+
+<div class="surrounded" id="most">
+ 
+<p class="label"><span class="sprite most_read">+ Lidas</span><a href="http://www1.folha.uol.com.br/maispopulares/" class="index">Índice</a></p>
+<ol>
+<li><a href="http://www1.folha.uol.com.br/poder/1087530-holding-da-jbs-acerta-compra-da-construtora-delta.shtml">Holding da JBS acerta compra da construtora Delta</a></li>
+<li><a href="http://www1.folha.uol.com.br/poder/1087540-pmdb-da-ultimato-para-que-secretarios-deixem-gestao-kassab.shtml">PMDB dá ultimato para que secretários deixem gestão Kassab</a></li>
+<li><a href="http://www1.folha.uol.com.br/poder/1087358-mensalao-continua-no-stf-diz-joaquim-barbosa.shtml">Mensalão continua no STF, diz Joaquim Barbosa</a></li>
+<li><a href="http://www1.folha.uol.com.br/poder/1087114-bancos-criticam-pressao-de-dilma-por-juros-menores.shtml">Bancos criticam pressão de Dilma por juros menores</a></li>
+<li><a href="http://www1.folha.uol.com.br/poder/1085409-donos-poem-delta-a-venda-para-evitar-fechamento.shtml">Donos põem Delta à venda para evitar fechamento</a></li>
+</ol>
+
+<p class="label"><span class="sprite most_commented">+ Comentadas</span><!--a href="http://www1.folha.uol.com.br/maispopulares" class="index">Índice</a--></p>
+<ol>
+<li><a href="http://www1.folha.uol.com.br/poder/1065083-catolicos-antiaborto-voltam-a-distribuir-panfleto-contra-pt-em-sp.shtml">Católicos antiaborto voltam a distribuir panfleto contra PT em SP</a></li>
+<li><a href="http://www1.folha.uol.com.br/poder/1071639-dilma-bate-novo-recorde-e-tem-aprovacao-de-77-diz-cniibope.shtml">Dilma bate novo recorde e tem aprovação de 77%, diz CNI/Ibope</a></li>
+</ol>
+
+<p class="label"><span class="sprite most_sent">+ Enviadas</span><a href="http://www1.folha.uol.com.br/maispopulares/" class="index">Índice</a></p>
+<ol>
+<li><a href="http://www1.folha.uol.com.br/poder/1087530-holding-da-jbs-acerta-compra-da-construtora-delta.shtml">Holding da JBS acerta compra da construtora Delta</a></li>
+<li><a href="http://www1.folha.uol.com.br/poder/1087114-bancos-criticam-pressao-de-dilma-por-juros-menores.shtml">Bancos criticam pressão de Dilma por juros menores</a></li>
+</ol>
+<!--//-->
+</div>
+
+<!--noindex-->
+<!--ADS_LIBRARY-->
+<div class="openBox adsLibrary">
+<p class="label">
+<span class="sprite"><a href="http://livraria.folha.com.br">Livraria da Folha</a></span>
+</p>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178770?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/2/1/1178770-115x150.png" alt="No Jardim das Feras" title="No Jardim das Feras" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178770?tracking_number=720">No Jardim das Feras</a></p>
+<p class="author">Erik Larson</p>
+<p class="realprice">Por: 39,90</p><a href="http://www.livraria.folha.com.br/catalogo/1178770?tracking_number=720" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178744?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/f/c/1178744-115x150.png" alt="Getúlio Vargas" title="Getúlio Vargas" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178744?tracking_number=720">Getúlio Vargas</a></p>
+<p class="author">Richard Bourne</p>
+<p class="oldprice">De: <span>39,90</span></p><p class="realprice">Por: 31,90</p><a href="http://www.livraria.folha.com.br/catalogo/1178744?tracking_number=720" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178613?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/e/8/1178613-115x150.png" alt="Getúlio (1882-1930)" title="Getúlio (1882-1930)" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178613?tracking_number=720">Getúlio (1882-1930)</a></p>
+<p class="author">Lira Neto</p>
+<p class="oldprice">De: <span>52,50</span></p><p class="realprice">Por: 42,00</p><a href="http://www.livraria.folha.com.br/catalogo/1178613?tracking_number=720" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1177609?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/c/1/1177609-115x150.png" alt="Uma Breve História do Cristianismo" title="Uma Breve História do Cristianismo" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1177609?tracking_number=720">Uma Breve História do Cristianismo</a></p>
+<p class="author">Geoffrey Blainey</p>
+<p class="oldprice">De: <span>29,50</span></p><p class="realprice">Por: 20,50</p><a href="http://www.livraria.folha.com.br/catalogo/1177609?tracking_number=720" class="buy" title="Comprar">Comprar</a>
+</div>
+<div>
+<a href="http://www.livraria.folha.com.br/catalogo/1178164?tracking_number=720"><img src="http://images1.folha.com.br/livraria/images/2/0/1178164-115x150.png" alt="Box Ciclo da Cana-de-Açucar - José Lins do Rego" title="Box Ciclo da Cana-de-Açucar - José Lins do Rego" class="left"></a>
+<p class="kicker"><a href="http://www.livraria.folha.com.br/catalogo/1178164?tracking_number=720">Box Ciclo da Cana-de-Açucar - José Lins do Rego</a></p>
+<p class="author">José Lins do Rego</p>
+<p class="oldprice">De: <span>130,00</span></p><p class="realprice">Por: 104,00</p><a href="http://www.livraria.folha.com.br/catalogo/1178164?tracking_number=720" class="buy" title="Comprar">Comprar</a>
+</div>
+</div>
+<!--/ADS_LIBRARY-->
+<!--// -->
+<!--/noindex-->
+
+</div>
+<script type="text/javascript"><!--
+folha.unread.cache = [
+	['http://www1.folha.uol.com.br/poder/1087540-pmdb-da-ultimato-para-que-secretarios-deixem-gestao-kassab.shtml', "PMDB dá ultimato para que secretários deixem gestão Kassab"],
+	['http://www1.folha.uol.com.br/cotidiano/1087541-em-protesto-manifestantes-entregam-pizzas-na-camara-de-maringa.shtml', "Em protesto, manifestantes entregam pizzas na Câmara de Maringá"],
+	['http://www1.folha.uol.com.br/poder/1087530-holding-da-jbs-acerta-compra-da-construtora-delta.shtml', "Holding da JBS acerta compra da construtora Delta"],
+	['http://www1.folha.uol.com.br/poder/1087512-secretario-da-fazenda-diz-que-mais-credito-reduzira-inadimplencia.shtml', "Secretário da Fazenda diz que mais crédito reduzirá inadimplência"],
+	['http://www1.folha.uol.com.br/poder/1087500-haddad-promete-programa-de-educacao-de-tempo-integral-em-sp.shtml', "Haddad promete programa de educação de tempo integral em SP"],
+	['http://www1.folha.uol.com.br/poder/1087501-tj-rs-derruba-mudancas-de-tarso-na-previdencia.shtml', "TJ-RS derruba mudanças de Tarso na Previdência"],
+	['http://www1.folha.uol.com.br/poder/1087479-camara-aprova-urgencia-e-lei-geral-da-copa-sera-votada-amanha.shtml', "Câmara aprova urgência e Lei Geral da Copa será votada amanhã"],
+	['http://www1.folha.uol.com.br/poder/1087462-diretorio-estadual-do-pps-decide-manter-apoio-a-agnelo.shtml', "Diretório Estadual do PPS decide manter apoio a Agnelo"],
+	['http://www1.folha.uol.com.br/poder/1087458-parlamentares-reclamam-mais-poderes-na-execucao-do-orcamento.shtml', "Parlamentares reclamam mais poderes na execução do Orçamento"],
+	['http://www1.folha.uol.com.br/poder/1087455-trabalho-perdeu-prestigio-em-decisoes-politicas-diz-brizola-neto.shtml', "Trabalho perdeu prestígio em decisões políticas, diz Brizola Neto"],
+	['http://www1.folha.uol.com.br/poder/1087448-justica-mantem-acao-contra-delta-por-faude-em-licitacao.shtml', "Justiça mantém ação contra Delta por faude em licitação"],
+	['http://www1.folha.uol.com.br/poder/1087429-votacao-da-pec-do-trabalho-escravo-e-adiada-pela-camara.shtml', "Votação da PEC do Trabalho Escravo é adiada pela Câmara"],
+	['http://www1.folha.uol.com.br/poder/1087289-procuradoria-cobra-ressarcimento-de-dinheiro-desviado-do-esporte.shtml', "Procuradoria cobra ressarcimento de dinheiro desviado do Esporte"],
+	['http://www1.folha.uol.com.br/poder/1087358-mensalao-continua-no-stf-diz-joaquim-barbosa.shtml', "Mensalão continua no STF, diz Joaquim Barbosa"],
+	['http://www1.folha.uol.com.br/poder/1087450-erramos-fernando-haddad-ganha-apoio-de-intelectuais-tucanos.shtml', "Erramos: Fernando Haddad ganha apoio de intelectuais tucanos"],
+	['http://www1.folha.uol.com.br/poder/1087303-forcas-armadas-tem-de-estar-a-altura-da-6-economia-mundial-diz-dilma.shtml', "'Forças Armadas têm de estar à altura' da 6ª economia mundial, diz Dilma"],
+	['http://www1.folha.uol.com.br/paineldoleitor/ultimasdasredessociais/1087230-tuiteiros-destacam-pec-sobre-trabalho-escravo-e-rodrigo-santoro.shtml', "Tuiteiros destacam PEC sobre trabalho escravo e Rodrigo Santoro"],
+	['http://www1.folha.uol.com.br/poder/1087243-cpi-vai-ouvir-responsavel-pela-operacao-vegas-em-sessao-reservada.shtml', "CPI vai ouvir responsável pela operação Vegas em sessão reservada"],
+	['http://www1.folha.uol.com.br/poder/1087224-para-ministra-producao-legislativa-esta-acelerada-mesmo-com-cpi.shtml', "Para ministra, produção legislativa está acelerada mesmo com CPI"],
+	['http://www1.folha.uol.com.br/poder/1087223-ex-presidente-da-camara-de-curitiba-se-desfilia-do-psdb.shtml', "Ex-presidente da Câmara de Curitiba se desfilia do PSDB"],
+	['http://www1.folha.uol.com.br/poder/1087209-executiva-nacional-do-pps-decide-deixar-base-de-agnelo.shtml', "Executiva nacional do PPS decide deixar base de Agnelo"],
+	['http://www1.folha.uol.com.br/poder/1087165-casa-da-moeda-lucra-r-503-milhoes-em-2011.shtml', "Casa da Moeda lucra R$ 503 milhões em 2011"],
+	['http://www1.folha.uol.com.br/poder/1087164-brasil-assina-acordo-para-exportar-programa-de-iluminacao-popular.shtml', "Brasil assina acordo para 'exportar' programa de iluminação popular"],
+	['http://www1.folha.uol.com.br/poder/1087160-grupo-pressiona-deputados-por-aprovacao-da-pec-do-trabalho-escravo.shtml', "Grupo pressiona deputados por aprovação da PEC do Trabalho Escravo"],
+	['http://www1.folha.uol.com.br/poder/1087153-grupo-de-indios-acampa-na-funai-em-brasilia-por-audiencia.shtml', "Grupo de índios acampa na Funai em Brasília por audiência"],
+	['http://www1.folha.uol.com.br/poder/1087143-mantega-vai-ao-senado-explicar-medida-que-altera-a-poupanca.shtml', "Mantega vai ao Senado explicar medida que altera a poupança"],
+	['http://www1.folha.uol.com.br/poder/1087138-demostenes-pode-recorrer-ao-stf-contra-decisao-de-conselho.shtml', "Demóstenes pode recorrer ao STF contra decisão de conselho"],
+	['http://www1.folha.uol.com.br/poder/1087114-bancos-criticam-pressao-de-dilma-por-juros-menores.shtml', "Bancos criticam pressão de Dilma por juros menores"],
+	['http://www1.folha.uol.com.br/poder/1087134-cabral-se-recusa-a-dizer-quem-foram-os-clientes-de-sua-consultoria.shtml', "Cabral se recusa a dizer quem foram os clientes de sua consultoria"],
+	['http://www1.folha.uol.com.br/poder/1087121-pm-condenado-por-massacre-de-eldorado-do-carajas-e-preso.shtml', "PM condenado por massacre de Eldorado do Carajás é preso"],
+	['http://www1.folha.uol.com.br/poder/1087115-conselho-de-etica-do-senado-abre-processo-contra-demostenes.shtml', "Conselho de Ética do Senado abre processo contra Demóstenes"],
+	['http://www1.folha.uol.com.br/poder/1087110-ayres-britto-diz-que-priorizara-processos-contra-juizes.shtml', "Ayres Britto diz que priorizará processos contra juízes"],
+	['http://www1.folha.uol.com.br/poder/1087108-conselho-de-etica-nega-novo-prazo-de-defesa-a-demostenes.shtml', "Conselho de Ética nega novo prazo de defesa a Demóstenes"],
+	['http://www1.folha.uol.com.br/poder/1087087-eleitor-tem-ate-esta-quarta-feira-para-transferir-titulo.shtml', "Eleitor tem até esta quarta-feira para transferir título"],
+	['http://www1.folha.uol.com.br/paineldoleitor/1087095-folha-ultrapassa-a-marca-de-900-mil-fas-no-facebook.shtml', "Folha ultrapassa a marca de 900 mil fãs no Facebook"],
+	['http://www1.folha.uol.com.br/poder/1087090-governo-autoriza-concurso-para-selecao-de-1200-funcionarios-do-dnit.shtml', "Governo autoriza concurso para seleção de 1.200 funcionários do Dnit"],
+	['http://www1.folha.uol.com.br/poder/1087076-pt-vai-usar-intelectuais-pro-haddad-como-trunfo-em-campanha.shtml', "PT vai usar intelectuais pró-Haddad como trunfo em campanha"],
+	['http://www1.folha.uol.com.br/poder/1087069-juristas-sao-cotados-para-integrar-comissao-da-verdade.shtml', "Juristas são cotados para integrar Comissão da Verdade"],
+	['http://www1.folha.uol.com.br/paineldoleitor/agendafolha/1087078-folha-promove-debate-sobre-computacao-em-nuvem-na-quinta-inscreva-se.shtml', "Folha promove debate sobre computação em nuvem na quinta; inscreva-se"],
+	['http://www1.folha.uol.com.br/poder/1087061-governo-pode-injetar-mais-r-16-bilhao-no-bolsa-familia.shtml', "Governo pode injetar mais R$ 1,6 bilhão no Bolsa Família"],
+	['http://www1.folha.uol.com.br/poder/1087058-mortes-no-campo-cairam-em-2011-diz-pastoral-da-terra.shtml', "Mortes no campo caíram em 2011, diz Pastoral da Terra"],
+	['http://www1.folha.uol.com.br/poder/1086956-demostenes-contraria-sua-proposta-em-defesa.shtml', "Demóstenes contraria sua proposta em defesa"],
+	['http://www1.folha.uol.com.br/colunas/valdocruz/1086815-da-do.shtml', "Dá dó!"],
+	['http://www1.folha.uol.com.br/poder/1087038-veja-as-manchetes-dos-jornais-desta-terca-feira.shtml', "Veja as manchetes dos jornais desta terça-feira"],
+	['http://www1.folha.uol.com.br/poder/1086974-para-haddad-apoio-de-intelectuais-ligados-ao-psdb-e-quase-natural.shtml', "Para Haddad, apoio de intelectuais ligados ao PSDB 'é quase natural'"],
+	['http://www1.folha.uol.com.br/poder/1086958-procurador-deve-pedir-abertura-de-inquerito-para-investigar-perillo.shtml', "Procurador deve pedir abertura de inquérito para investigar Perillo"],
+	['http://www1.folha.uol.com.br/poder/1086931-indios-tomam-fazendas-no-mato-grosso-do-sul.shtml', "Índios tomam fazendas no Mato Grosso do Sul"],
+	['http://www1.folha.uol.com.br/poder/1086897-haddad-promete-rever-mais-um-projeto-de-kassab.shtml', "Haddad promete rever mais um projeto de Kassab"],
+	['http://www1.folha.uol.com.br/poder/1086880-grupo-de-indios-invade-a-funai-em-brasilia.shtml', "Grupo de índios invade a Funai em Brasília"],
+	['http://www1.folha.uol.com.br/poder/1086845-partidos-indicam-integrantes-da-cpi-da-arapongagem-no-df.shtml', "Partidos indicam integrantes da CPI da Arapongagem no DF"],
+	['http://www1.folha.uol.com.br/poder/1086818-presidente-de-sindicato-de-metalurgicos-assume-a-forca-sindical.shtml', "Presidente de sindicato de metalúrgicos assume a Força Sindical"],
+	['http://www1.folha.uol.com.br/poder/1086832-demostenes-pede-novo-prazo-para-se-defender-no-conselho-de-etica.shtml', "Demóstenes pede novo prazo para se defender no Conselho de Ética"],
+	['http://www1.folha.uol.com.br/poder/1086760-dilma-decide-ate-o-dia-25-se-veta-codigo-florestal.shtml', "Dilma decide até o dia 25 se veta Código Florestal"],
+	['http://www1.folha.uol.com.br/poder/1086754-procuradoria-defende-que-cachoeira-continue-preso.shtml', "Procuradoria defende que Cachoeira continue preso"],
+	['http://www1.folha.uol.com.br/poder/1086738-presidente-lanca-pacote-social-em-pronunciamento-do-dia-das-maes.shtml', "Presidente lança pacote social em pronunciamento do Dia das Mães"],
+	['http://www1.folha.uol.com.br/poder/1086737-justica-flagra-tentativa-de-transferencia-irregular-de-titulos-de-eleitor-no-ma.shtml', "Justiça flagra tentativa de transferência irregular de títulos de eleitor no MA"],
+	['http://www1.folha.uol.com.br/paineldoleitor/ultimasdasredessociais/1085035-roberto-freire-e-carolina-dieckmann-sao-destaques-no-twitter.shtml', "Roberto Freire e Carolina Dieckmann são destaques no Twitter"],
+	['http://www1.folha.uol.com.br/saber/1086724-ministro-quer-que-camara-aprove-plano-nacional-de-educacao-neste-mes.shtml', "Ministro quer que Câmara aprove Plano Nacional de Educação neste mês"],
+	['http://www1.folha.uol.com.br/poder/1086703-chalita-e-pmdb-sao-multados-por-propaganda-eleitoral-antecipada.shtml', "Chalita e PMDB são multados por propaganda eleitoral antecipada"],
+	['http://www1.folha.uol.com.br/poder/1086684-apos-queixas-cpi-tera-mais-computadores-para-aumentar-a-seguranca.shtml', "Após queixas, CPI terá mais computadores para aumentar a segurança"],
+	['http://www1.folha.uol.com.br/poder/1086676-sete-partidos-nao-prestaram-contas-de-2011-ao-tre-sp.shtml', "Sete partidos não prestaram contas de 2011 ao TRE-SP"],
+	['http://www1.folha.uol.com.br/poder/1086679-justica-manda-prender-pms-condenados-por-eldorado-do-carajas.shtml', "Justiça manda prender PMs condenados por Eldorado do Carajás"],
+	['http://www1.folha.uol.com.br/poder/1086673-exportacoes-superam-importacoes-na-1-semana-de-maio.shtml', "Exportações superam importações na 1ª semana de maio"],
+	['http://www1.folha.uol.com.br/poder/1086670-sem-acordo-chega-ao-fim-plano-de-alianca-de-russomano-e-chalita.shtml', "Sem acordo, chega ao fim plano de aliança de Russomano e Chalita"],
+	['http://www1.folha.uol.com.br/mundo/1086659-ue-diz-que-reacao-do-brasil-ao-protecionismo-argentino-foi-muito-timida.shtml', "UE diz que reação do Brasil ao protecionismo argentino foi 'muito tímida'"],
+	['http://www1.folha.uol.com.br/poder/1086650-meu-dinheiro-vai-ficar-na-poupanca-diz-dilma.shtml', "'Meu dinheiro vai ficar na poupança', diz Dilma"],
+	['http://www1.folha.uol.com.br/multimidia/videocasts/1086301-aborto-continua-sendo-crime-diz-ministro-do-stj.shtml', "&quot;Aborto continua sendo crime&quot;, diz ministro do STJ"],
+	['http://www1.folha.uol.com.br/poder/1086631-por-reajustes-servidores-federais-prometem-fazer-paralisacoes-neste-mes.shtml', "Por reajustes, servidores federais prometem fazer paralisações neste mês"],
+	['http://www1.folha.uol.com.br/poder/1086623-parlamentares-reclamam-das-condicoes-de-acesso-a-dados-da-cpi.shtml', "Parlamentares reclamam das condições de acesso a dados da CPI"],
+	['http://www1.folha.uol.com.br/tec/1086614-ministro-da-defesa-diz-que-armas-ciberneticas-ja-sao-risco-para-redes.shtml', "Ministro da Defesa diz que armas cibernéticas já são risco para redes"],
+	['http://www1.folha.uol.com.br/tec/1086611-brasil-tera-centro-de-defesa-cibernetica-a-partir-de-junho.shtml', "Brasil terá Centro de Defesa Cibernética a partir de junho"],
+	['http://www1.folha.uol.com.br/poder/1086605-governo-libera-r-50-mi-para-defesa-civil-em-tres-estados.shtml', "Governo libera R$ 50 mi para defesa civil em três Estados"],
+	['http://www1.folha.uol.com.br/poder/1086596-feijao-e-oleo-de-soja-pressionam-preco-da-cesta-basica-em-abril.shtml', "Feijão e óleo de soja pressionam preço da cesta básica em abril"],
+	['http://www1.folha.uol.com.br/poder/1086388-estados-cortam-gasto-e-repasses-com-fim-da-guerra-dos-portos.shtml', "Estados cortam gasto e repasses com fim da 'guerra dos portos'"],
+	['http://www1.folha.uol.com.br/poder/1086574-tucanos-temem-segundo-turno-entre-serra-e-chalita-em-sp.shtml', "Tucanos temem segundo turno entre Serra e Chalita em SP"],
+	['http://www1.folha.uol.com.br/mercado/1086569-mudanca-na-poupanca-protege-pequeno-poupador-diz-dilma.shtml', "Mudança na poupança protege pequeno poupador, diz Dilma"],
+	['http://www1.folha.uol.com.br/poder/1086387-delta-acusa-cesar-maia-de-nao-ter-pago-empreiteira.shtml', "Delta acusa Cesar Maia de não ter pago empreiteira"],
+	['http://www1.folha.uol.com.br/poder/1086547-cabral-tenta-evitar-depoimento-na-cpi-do-cachoeira.shtml', "Cabral tenta evitar depoimento na CPI do Cachoeira"],
+	['http://www1.folha.uol.com.br/poder/1086543-mercado-reduz-previsao-para-selic-apos-mudanca-na-poupanca.shtml', "Mercado reduz previsão para Selic após mudança na poupança"],
+	['http://www1.folha.uol.com.br/paineldoleitor/1086448-delegado-questiona-entrevista-de-chefe-da-promotoria-de-sp.shtml', "Delegado questiona entrevista de chefe da Promotoria de SP"],
+	['http://www1.folha.uol.com.br/poder/1086537-stj-pode-julgar-amanha-pedido-de-liberdade-de-cachoeira.shtml', "STJ pode julgar amanhã pedido de liberdade de Cachoeira"],
+	['http://www1.folha.uol.com.br/bbc/1086519-para-analistas-novo-lider-pode-aproximar-franca-do-brasil.shtml', "Para analistas, novo líder pode aproximar França do Brasil"],
+	['http://www1.folha.uol.com.br/poder/1086419-novo-regime-reduz-prazo-de-licitacao-sem-obter-desconto-maior.shtml', "Novo regime reduz prazo de licitação sem obter desconto maior"],
+	['http://www1.folha.uol.com.br/poder/1086511-veja-as-manchetes-dos-jornais-desta-segunda-feira.shtml', "Veja as manchetes dos jornais desta segunda-feira"],
+	['http://www1.folha.uol.com.br/tec/1085498-general-detalha-implantacao-do-centro-de-defesa-cibernetica-novo-orgao-brasileiro.shtml', "General detalha implantação do Centro de Defesa Cibernética, novo órgão brasileiro"],
+	['http://www1.folha.uol.com.br/colunas/veramagalhaes/1086413-jogada-ensaiada.shtml', "Jogada ensaiada"],
+	['http://www1.folha.uol.com.br/multimidia/videocasts/1086126-gravacoes-revelam-que-cachoeira-sabia-da-operacao-monte-carlo.shtml', "Gravações revelam que Cachoeira sabia da Operação Monte Carlo"],
+	['http://www1.folha.uol.com.br/multimidia/videocasts/1086046-tv-folha-traz-gravacoes-ineditas-do-caso-cachoeira.shtml', "&quot;TV Folha&quot; traz gravações inéditas do caso Cachoeira"],
+	['http://www1.folha.uol.com.br/cotidiano/1086339-ex-ministro-amaral-recebe-alta-apos-se-envolver-em-acidente.shtml', "Ex-ministro Amaral recebe alta após se envolver em acidente"],
+	['http://www1.folha.uol.com.br/poder/1086294-ptb-deve-fechar-aliancas-com-pt-em-80-cidades-do-interior-de-sp.shtml', "PTB deve fechar alianças com PT em 80 cidades do interior de SP"],
+	['http://www1.folha.uol.com.br/poder/1086096-chefe-da-promotoria-de-sp-ataca-projeto-que-esvazia-orgao.shtml', "Chefe da Promotoria de SP ataca projeto que esvazia órgão"],
+	['http://www1.folha.uol.com.br/poder/1086092-fernando-haddad-ganha-apoio-de-intelectuais-tucanos.shtml', "Fernando Haddad ganha apoio de intelectuais tucanos"],
+	['http://www1.folha.uol.com.br/poder/1086087-ex-agente-que-admite-crimes-na-ditadura-tem-longa-ficha-policial.shtml', "Ex-agente que admite crimes na ditadura tem longa ficha policial"],
+	['http://www1.folha.uol.com.br/poder/1086085-escutas-sugerem-contato-com-novo-presidente-da-delta.shtml', "Escutas sugerem contato com novo presidente da Delta"],
+	['http://www1.folha.uol.com.br/paineldoleitor/semanadoleitor/1085731-stf-acertou-ao-aprovar-sistema-de-cotas-raciais-em-universidades.shtml', "STF acertou ao aprovar sistema de cotas raciais em universidades?"],
+	['http://www1.folha.uol.com.br/poder/1086264-veja-as-manchetes-dos-jornais-deste-domingo.shtml', "Veja as manchetes dos jornais deste domingo"],
+	['http://www1.folha.uol.com.br/poder/1086080-gasto-do-governo-com-varejo-politico-dispara-apos-a-crise.shtml', "Gasto do governo com varejo político dispara após a crise"],
+	['http://www1.folha.uol.com.br/colunas/suzanasinger/1086079-tema-proibido.shtml', "Tema proibido"],
+	['http://www1.folha.uol.com.br/colunas/janiodefreitas/1086077-alem-de-carlinhos-cachoeira.shtml', "Além de Carlinhos Cachoeira"],
+	['http://www1.folha.uol.com.br/colunas/eliogaspari/1086075-a-bola-de-cristal-do-morgan-stanley.shtml', "A bola de cristal do Morgan Stanley"],
+	[]
+];
+
+folha.unread.cache.pop();
+//--></script>
+
+
+<!--noindex-->
+<div id="bottom_navigation" class="navigation">
+<p class="first">
+<a href="http://www1.folha.uol.com.br/emcimadahora/" class="first">Notícias</a> <a href="http://www1.folha.uol.com.br/poder/">Poder</a> <a href="http://www1.folha.uol.com.br/mundo/">Mundo</a> <a href="http://www1.folha.uol.com.br/mercado/">Mercado</a> <a href="http://www1.folha.uol.com.br/cotidiano/">Cotidiano</a> <a href="http://www1.folha.uol.com.br/esporte/">Esporte</a> <a href="http://www1.folha.uol.com.br/ilustrada/">Ilustrada</a> <a href="http://f5.folha.uol.com.br/">F5</a> <a href="http://www1.folha.uol.com.br/ciencia/">Ciência</a> <a href="http://www1.folha.uol.com.br/tec/">Tec</a>
+<a href="http://www1.folha.uol.com.br/fsp/" class="blockedServices highlight">Folha de Hoje</a>
+<a href="http://edicaodigital.folha.com.br/" class="highlight">Folha Digital</a>
+<a href="http://assine.folha.com.br/folha/assinatura/?gid=FOL" class="highlight red">Assine a Folha</a>
+</p>
+<p class="section"><a href="http://www1.folha.uol.com.br/ambiente/">Ambiente</a>
+<a href="http://www.folha.com.br/112031">Bichos</a>
+<a href="http://www1.folha.uol.com.br/blogs/">Blogs</a>
+<a href="http://www1.folha.uol.com.br/colunas/">Colunistas</a>
+<a href="http://www1.folha.uol.com.br/comida/">Comida</a>
+<a href="http://www1.folha.uol.com.br/equilibrio/">Equilíbrio e Saúde</a>
+<a href="http://www1.folha.uol.com.br/folhateen/">Folhateen</a>
+<a href="http://www1.folha.uol.com.br/folhinha/">Folhinha</a>
+<a href="http://www1.folha.uol.com.br/ilustrissima/">Ilustríssima</a>
+<a href="http://www1.folha.uol.com.br/saopaulo/">Revista sãopaulo</a>
+<a href="http://www1.folha.uol.com.br/saber/">Saber</a>
+<a href="http://www1.folha.uol.com.br/serafina/">Serafina</a>
+<a href="http://www1.folha.uol.com.br/turismo/">Turismo</a>
+</p>
+<p class="section_last">
+<a href="http://www1.folha.uol.com.br/folha/urania/">Horóscopo</a>
+<a href="http://www1.folha.uol.com.br/cotidiano/transito/">Trânsito</a>
+<a href="http://folhainvest.folha.com.br/">Folhainvest</a>
+<a href="http://www1.folha.uol.com.br/indicadores/">Indicadores</a>
+<a href="http://guia.folha.com.br/">Guia</a>
+<a href="http://email.folha.uol.com.br/">E-Mail Folha</a>
+<a href="http://atendefolha.folha.com.br/">Assinantes</a>
+<a href="http://www1.folha.uol.com.br/erramos/">Erramos</a>
+<a class="tvfolha blockedServices" href="http://www1.folha.uol.com.br/tv/">TV Folha</a> <a class="photo" href="http://fotografia.folha.com.br/galerias/">Foto</a> <a class="radio" href="http://www1.folha.uol.com.br/radio/">Rádio Folha</a> <a class="heap blockedServices" href="http://acervo.folha.com.br/">Acervo Folha</a></p>
+<!--//-->
+</div>
+
+<p id="about_us"><a href="http://www1.folha.uol.com.br/institucional/">Sobre a Folha</a> | <a href="http://www1.folha.uol.com.br/expediente/">Expediente</a> | <a href="http://www1.folha.uol.com.br/falecomafolha/">Fale Conosco</a> | <a href="http://www1.folha.uol.com.br/folha/sobre/mapa/">Mapa do Site</a> | <a href="http://www1.folha.uol.com.br/folha/ombudsman/">Ombudsman</a> | <a href="http://www1.folha.uol.com.br/erramos/">Erramos</a> | <a href="http://atendefolha.folha.com.br/">Atendimento ao Assinante</a> <br> <a href="http://clubefolha.folha.com.br/">ClubeFolha</a> | <a href="http://publifolha.folha.com.br/">PubliFolha</a> | <a href="http://bd.folha.uol.com.br/">Banco de Dados</a> | <a href="http://datafolha.folha.uol.com.br/">Datafolha</a> | <a href="http://www.folhapress.com.br/">FolhaPress</a> | <a href="http://www1.folha.uol.com.br/folha/treinamento/">Treinamento</a> | <a href="http://www1.folha.uol.com.br/folhamemoria/">Folhamemória</a> | <a href="http://www1.folha.uol.com.br/folha/trabalhe/vagas.html">Trabalhe na Folha</a> | <a href="http://www.publicidade.folha.com.br/">Publicidade</a></p>
+
+<p id="copyright">Copyright Folha.com. Todos os direitos reservados. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicaçao, eletrônico ou impresso, sem autorização escrita da Folha.com.</p>
+
+</div>
+
+<!-- Funções -->
+<script type="text/javascript">folha.load.init();</script>
+<!-- Funções -->
+
+<div id="fourth_column">
+<div id="ad-240x400-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+<div id="ad-240x400-2"><p class="adLabel">Publicidade</p>&nbsp;</div>
+
+<div id="ad-120x600-other">
+<div id="classes" class="side_box">
+<h5>Cursos <br> On-Line</h5>
+<p><a href="http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&amp;etag=folhpc_cana_ccc_ep_ee01"><img src="http://f.i.uol.com.br/folha/furniture/ads/images/lgo-englishtown-100x30.gif" width="100" height="30" alt="Englishtown"></a>
+<a href="http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&amp;etag=folhpc_cana_ccc_ep_ee01"><img src="http://f.i.uol.com.br/folha/furniture/4/images/icn-usa_flag-34x22.gif" width="34" height="22" alt="Ingles"></a><a href="http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&amp;etag=folhpc_cana_ccc_ep_ee01">Inglês</a></p>
+<p><a href="http://www.dw-world.de/dw/0,1595,2199,00.html"><img src="http://f.i.uol.com.br/folha/furniture/ads/images/lgo-dw-100x30.gif" width="100" height="30" alt="Deutsche Welle"></a>
+<a href="http://www.dw-world.de/dw/0,1595,2199,00.html"><img src="http://f.i.uol.com.br/folha/furniture/4/images/icn-german_flag-34x22.gif" width="34" height="22" alt="Alemão"></a> <a href="http://www.dw-world.de/dw/0,1595,2199,00.html">Alemão</a></p>
+</div>
+<div id="drops" class="side_box">
+<h6><a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=711">Mem&oacute;rias de uma Guerra Suja</a></h6>
+<a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=711"><img src="http://images1.folha.com.br/livraria/images/0/c/1178991-100x100.png" width="100" height="100" alt="Memórias de uma Guerra Suja"></a>
+<p>Ex-delegado do Dops revela bastidores da tortura</p>
+<p class="price"><span>De:  <del>43,90</del></span>Por: 37,50</p>
+<a href="http://www.livraria.folha.com.br/catalogo/1178991?tracking_number=711" class="button">&nbsp;</a>
+</div>
+<!--//-->
+</div>
+<div id="ad-120x600-1"><p class="adLabel">Publicidade</p>&nbsp;</div>
+
+<hr>
+		
+<div id="shopping">
+<script type="text/javascript"><!--
+folha.shop.collection = {	
+	0: {
+		title: 	"Gafisa" ,
+		url: 		"http://ia.nspmotion.com/click/?cap=54229&c=6024&r=[timestamp]&t=true" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12026150.gif" ,
+		text: 	"Sempre tem um Gafisa para você. Confira!" ,
+		fixed: 	"1" ,
+		busy: 	""
+	} ,	
+	1: {
+		title: 	"Sorana" ,
+		url: 		"http://www.soranaofertas.com.br/8293923446079234" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11223371.gif" ,
+		text: 	"Seminovos com Preço, Qualidade e Variedade. Clique aqui." ,
+		fixed: 	"2" ,
+		busy: 	""
+	} ,	
+	2: {
+		title: 	"EF Englishtown" ,
+		url: 		"http://englishtown.folha.com.br/online/lp/EmailEnglish_apr11_pt_ee.aspx?ctr=br&etag=folhpc_shop_ccc_ep_ee01" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11333746.gif" ,
+		text: 	"RECEBA GRÁTIS! Dicas de inglês no seu e-mail todos os dias!" ,
+		fixed: 	"3" ,
+		busy: 	""
+	} ,	
+	3: {
+		title: 	"Aquitaine" ,
+		url: 		"http://www.aquitaine.com.br" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/10270255.gif" ,
+		text: 	"Peugeot 207 - 207 Passion e 207 SW com taxa de 0,49%." ,
+		fixed: 	"4" ,
+		busy: 	""
+	} ,	
+	4: {
+		title: 	"Vale Suíço Resort" ,
+		url: 		"http://www.valesuico.com.br" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11210265.jpeg" ,
+		text: 	"O mais belo resort das montanhas! Aproveite!" ,
+		fixed: 	"5" ,
+		busy: 	""
+	} ,	
+	5: {
+		title: 	"Flores Online" ,
+		url: 		"http://www.floresonline.com.br/redir.asp?id=6912" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12116105.jpeg" ,
+		text: 	"Arranjo de Tulipas pagando 10% menos! De R$94 por R$84,60" ,
+		fixed: 	"6" ,
+		busy: 	""
+	} ,	
+	6: {
+		title: 	"CMA Educacional" ,
+		url: 		"http://www.cmaeducacional.com.br/CalendaacuteriodeCursos/tabid/182/language/en-US/Default.aspx?parceiro=cli_FOLHASHOP" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/11104405.jpeg" ,
+		text: 	"Viva sua liberdade financeira! Aprenda sobre o mercado de ações." ,
+		fixed: 	"7" ,
+		busy: 	""
+	} ,	
+	7: {
+		title: 	"Tablets" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:tablet;creative:tablet-Slot_Especia&redir=http://folha.shopping.uol.com.br/tablet.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020577.gif" ,
+		text: 	"A partir de R$ 340. Confira!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	8: {
+		title: 	"Celulares" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:celulares;creative:celulares-Slot_Especial&redir=http://folha.shopping.uol.com.br/celular-e-smartphone.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020572.gif" ,
+		text: 	"A partir de R$ 69. Compre o seu!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	9: {
+		title: 	"Câmera Digital" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:camera;creative:cam-Slot_Especial&redir=http://folha.shopping.uol.com.br/camera-digital--sony.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020571.gif" ,
+		text: 	"Sony a partir de 10X R$ 31,90." ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	10: {
+		title: 	"Netbooks" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:netbooks;creative:netbooks-Slot_Especial&redir=http://folha.shopping.uol.com.br/netbook.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020575.gif" ,
+		text: 	"A partir de 12X R$ 63. Confira!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	11: {
+		title: 	"Gps" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:gps;creative:gps-Slot_Especial&redir=http://folha.shopping.uol.com.br/gps.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020573.gif" ,
+		text: 	"A partir de apenas R$ 169. Aproveite!" ,
+		fixed: 	"" ,
+		busy: 	""
+	} ,	
+	12: {
+		title: 	"Home Theater" ,
+		url: 		"http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=7&nortrk=1&grp=src:14;size:18;chn:24;thm:home_theater;creative:hometheater-Slot_Especial&redir=http://folha.shopping.uol.com.br/home-theater.html?num=50&ord=preco&dir=asc&noex=1&lout=75410,75411,79206,79332,72291,76589&vitrine=oferta" ,
+		image: 	"http://f.i.uol.com.br/folha/publicidade/images/12020574.gif" ,
+		text: 	"A partir de R$ 169 em até 12x" ,
+		fixed: 	"" ,
+		busy: 	""
+	}} ;
+folha.shop.count = 13 ;
+
+if( typeof folha.shop.fixed[1] == "undefined" ){
+	folha.shop.fixed[1] = new Array( "0" ) ;
+}
+else{
+	folha.shop.fixed[1].push( 0 ) ;
+}
+if( typeof folha.shop.fixed[2] == "undefined" ){
+	folha.shop.fixed[2] = new Array( "1" ) ;
+}
+else{
+	folha.shop.fixed[2].push( 1 ) ;
+}
+if( typeof folha.shop.fixed[3] == "undefined" ){
+	folha.shop.fixed[3] = new Array( "2" ) ;
+}
+else{
+	folha.shop.fixed[3].push( 2 ) ;
+}
+if( typeof folha.shop.fixed[4] == "undefined" ){
+	folha.shop.fixed[4] = new Array( "3" ) ;
+}
+else{
+	folha.shop.fixed[4].push( 3 ) ;
+}
+if( typeof folha.shop.fixed[5] == "undefined" ){
+	folha.shop.fixed[5] = new Array( "4" ) ;
+}
+else{
+	folha.shop.fixed[5].push( 4 ) ;
+}
+if( typeof folha.shop.fixed[6] == "undefined" ){
+	folha.shop.fixed[6] = new Array( "5" ) ;
+}
+else{
+	folha.shop.fixed[6].push( 5 ) ;
+}
+if( typeof folha.shop.fixed[7] == "undefined" ){
+	folha.shop.fixed[7] = new Array( "6" ) ;
+}
+else{
+	folha.shop.fixed[7].push( 6 ) ;
+}
+//--></script>
+	
+<p class="label"><a href="http://folha.shopping.uol.com.br/">&nbsp;</a></p>
+<form action="http://bn.uol.com.br/event.ng/Type=click&amp;FlightID=29017&amp;AdID=71845&amp;TargetID=3974&amp;Segments=23,96,138,190,238,244,247,500,1482,1664,2377,2412,2881,3070,3082,3119,3172,3216,3254,3255,3305,3311,3386,3391,3392,3402&amp;Targets=3974&amp;Values=31,51,60,85,100,110,150,204,345,356,357,371,379,384,407,2426&amp;RawValues=&amp;Redirect=http://folha.shopping.busca.uol.com.br/busca.html">
+<p><input type="hidden" name="search" value="yes"><input type="text" name="q"> <input class="submit button" type="submit" value="Compare"></p>
+</form>
+
+<div id="uolshop"><p class="first"><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:1;thm:folha_box_top_ofertas;creative:C%E2mera%20Sony&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/camera-digital--sony.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/camerasonyprata.gif" width="50" height="50" alt="Câmeras Sony">Câmeras Sony<br>Diversos modelos a partir 12x de R$ 29,08</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:2;thm:folha_box_top_ofertas;creative:Celulares%20Diversos%20-%20Parceiros&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/celular-e-smartphone.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/celular4.gif" width="50" height="50" alt="Celulares">Celulares<br>Vários modelos a partir de R$ 99. Confira!</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:3;thm:folha_box_top_ofertas;creative:GPS%20Multilaser&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/gps.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/gps3.gif" width="50" height="50" alt="GPS">GPS<br>Aproveite: a partir de 10x de R$ 18,49</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:4;thm:folha_box_top_ofertas;creative:Home%20Theater%20Brit%E2nia&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/home-theater.html?q=&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/hometheater5.gif" width="50" height="50" alt="Home Theater">Home Theater<br>A partir de R$ 99,90. Compre já o seu!</a></p><p><a href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&amp;grp=skin:folha;src:14;size:29;chn:102;pos:5;thm:folha_box_top_ofertas;creative:Ipod%20Nano&amp;msr=Cliques%20de%20Origem:1&amp;oper=11&amp;redir=http://folha.shopping.uol.com.br/mp3-player.html?q=ipod&amp;ord=preco&amp;dir=asc&amp;num=60&amp;vitrine=oferta&amp;preco=de-0-ate-99999&amp;nortrk=1"><img src="http://pubshop.img.uol.com.br/Parceiros2010/ipod2.gif" width="50" height="50" alt="iPod">iPod<br>A partir de 8x de R$ 31,54. Confira!</a></p></div>
+
+<div id="folha_shopping"></div><!--//-->
+
+</div>
+</div>
+  
+</div>
+<!--/ALIGNER-->
+<script type="text/javascript"><!--
+if( !folha.ads.expanded ) {
+	$('#fourth_column').remove();
+} 
+//--></script>
+
+<script type="text/javascript">folha.shop.mount();</script>
+
+<!--OMNITURE-->
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture.js?100921"></script>
+<script type="text/javascript">
+omniture.meta['section'] = folha.information.section;
+omniture.meta['column'] = (function() { var x = $('h2.columnName').text(); return x.match(/\w+/) ? x : $('h1.columnistName').text(); })();
+omniture.meta['title'] = $('#articleNew h1').text().replace(/\n/g, '');
+omniture.meta['coverage'] = document.title.replace(/^.+ - \d{4} - (.+)$/g, '$1').replace(' - ', '|');
+omniture.meta['year'] = document.title.replace(/^Folha.+ - (\d{4})( - .+|$)/g, '$1');
+</script>
+<script type="text/javascript" src="http://www1.folha.uol.com.br/folha/furniture/5/common/omniture-data.js?1202093"></script>
+<script type="text/javascript" src="http://me.jsuol.com/omtr/folhacom.js?100921"></script>
+<!--/OMNITURE-->
+
+<!--STATS-->
+<script type="text/javascript">
+document.write( '<img src="http://stats.folha.com.br/stats?url=' + escape( location.href ) + '&amp;ref=' + escape( document.referrer || '' ) + '&amp;rand=' + folha.random() + '" width="1" height="1" alt="">' );
+</script>
+<noscript><div><img src="http://stats.folha.com.br/stats" width="1" height="1" alt=""></div></noscript>
+<!--/STATS-->
+
+<script type="text/javascript">folha.ads.clean = $.noop;</script>
+
+<div id="ad-120x35-1-content">
+<script type="text/javascript">folha.advertising.get('120x35-1');</script>
+</div>
+
+<div id="ad-120x600-1-content">
+<script type="text/javascript">folha.advertising.get('120x600-1');</script>
+</div>
+
+<div id="ad-168x28-1-content">
+<script type="text/javascript">folha.advertising.get('168x28-1');</script>
+</div>
+
+<div id="ad-200x25-1-content">
+<script type="text/javascript">folha.advertising.get('200x25-1');</script>
+</div>
+
+<div id="ad-220x90-1-content">
+<script type="text/javascript">folha.advertising.get('220x90-1');</script>
+</div>
+
+<div id="ad-240x400-1-content">
+<script type="text/javascript">folha.advertising.get('240x400-1');</script>
+</div>
+
+<div id="ad-240x400-2-content">
+<script type="text/javascript">folha.advertising.get('240x400-2');</script>
+</div>
+
+<div id="ad-300x40-1-content">
+<script type="text/javascript">folha.advertising.get('300x40-1');</script>
+</div>
+
+<div id="ad-300x40-2-content">
+<script type="text/javascript">folha.advertising.get('300x40-2');</script>
+</div>
+
+<div id="ad-300x40-3-content">
+<script type="text/javascript">folha.advertising.get('300x40-3');</script>
+</div>
+
+<div id="ad-300x40-4-content">
+<script type="text/javascript">folha.advertising.get('300x40-4');</script>
+</div>
+
+<div id="ad-300x250-1-content">
+<script type="text/javascript">folha.advertising.get('300x250-1');</script>
+</div>
+
+<div id="ad-300x250-2-content">
+<script type="text/javascript">folha.advertising.get('300x250-2');</script>
+</div>
+
+<div id="ad-300x250-3-content">
+<script type="text/javascript">folha.advertising.get('300x250-3');</script>
+</div>
+
+<div id="ad-728x90-1-content">
+<script type="text/javascript">folha.advertising.get('728x90-1');</script>
+</div>
+
+<div id="ad-635x50-1-content">
+<script type="text/javascript">folha.advertising.get('635x50-1');</script>
+</div>
+
+
+<div id="ad-180x150-1-content">
+<script type="text/javascript">folha.advertising.get('180x150-1');</script>
+</div>
+
+
+<!--WORLDWIDIZE.COM-->
+<!--<script type="text/javascript" src="http://tts2.worldwidize.com/TTSservice/jsLaunch.aspx"></script>-->
+<!--/WORLDWIDIZE.COM-->
+
+</body>
+
+
+<!--/noindex-->
+</html>
+

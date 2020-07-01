@@ -1,0 +1,39 @@
+<div class="materia-conteudo entry-content" id="materia-letra">
+                <div><div><div class="foto componente_materia midia-largura-300">
+	<img alt="Evolu&#231;&#227;o do desemprego (Foto: Editoria de Arte/G1)" height="283" src="http://s2.glbimg.com/a4HOBnYSY4Pr6wLv3BtMZBn3-os=/s.glbimg.com/jo/g1/f/original/2013/12/19/desemprego.jpg" title="Evolu&#231;&#227;o do desemprego (Foto: Editoria de Arte/G1)" width="300"></div>
+<p>
+	A taxa de desemprego no pa&#237;s recuou no m&#234;s de novembro. Nas seis regi&#245;es metropolitanas pesquisadas pelo Instituto Brasileiro de Geografia e Estat&#237;stica (<a class="premium-tip" href="http://g1.globo.com/topico/ibge/">IBGE</a>), o &#237;ndice ficou em 4,6%, de acordo com a pesquisa divulgada nesta quinta-feira (19). Em outubro de 2013, o desemprego ficou em 5,2%.</p>
+<p>
+	A taxa de novembro &#233; a menor da s&#233;rie hist&#243;rica do estudo, que teve in&#237;cio em mar&#231;o de 2002. O mesmo &#237;ndice tinha sido atingido em dezembro de 2012.</p>
+<p>
+	Em novembro, a popula&#231;&#227;o desocupada somou 1,1 milh&#227;o de pessoas, representando queda de 10,9% em rela&#231;&#227;o ao m&#234;s anterior. Na compara&#231;&#227;o com novembro de 2012, n&#227;o houve varia&#231;&#227;o, segundo o IBGE.</p>
+<p>
+	A popula&#231;&#227;o ocupada atingiu 23,3 milh&#245;es de pessoas e tamb&#233;m mostrou estabilidade tanto na compara&#231;&#227;o mensal quanto na anual. No setor privado, o n&#250;mero de trabalhadores com carteira assinada chegou a 11,8 milh&#245;es, sem mostrar varia&#231;&#227;o em rela&#231;&#227;o a outubro. No entanto, frente a novembro de 2012, cresceu 3,1%.</p>
+<div class="saibamais componente_materia">
+	<strong>saiba mais</strong>
+	<ul><li>
+			<a href="http://g1.globo.com/economia/noticia/2013/11/desemprego-recua-para-98-em-outubro-segundo-dieese.html">Desemprego recua para 9,8% em outubro, segundo Dieese</a></li>
+		<li>
+			<a href="http://g1.globo.com/ceara/noticia/2013/11/grande-fortaleza-tem-menor-taxa-de-desemprego-afirma-dieese.html">Grande Fortaleza tem a menor taxa de desemprego, afirma Dieese</a></li>
+	</ul></div>
+<p>
+	Na an&#225;lise regional, a taxa de desemprego caiu 0,9 ponto percentual na regi&#227;o metropolitana de <a class="premium-tip" href="/sp/sao-paulo/cidade/sao-paulo.html">S&#227;o Paulo</a> - de outubro para novembro - e n&#227;o registrou altera&#231;&#227;o nas outras regi&#245;es analisadas.</p>
+<p>
+	O comportamento &#233; diferente na compara&#231;&#227;o anual. Em Salvador, a taxa aumentou de 6,5% para 8,2%, em S&#227;o Paulo caiu de 5,5% para 4,7% e em Porto Alegre recuou de 3,5% para 2,6%. Segundo o IBGE, a taxa de desocupa&#231;&#227;o atingiu recordes em Porto Alegre (2,6%), no <a class="premium-tip" href="/rj/rio-de-janeiro/cidade/rio-de-janeiro.html">Rio de Janeiro</a> (3,8%) e em S&#227;o Paulo (4,7%) - a mesma taxa registrada em dezembro de 2011.</p>
+<p>
+	A Pesquisa Mensal de Emprego do IBGE &#233; realizada nas regi&#245;es metropolitanas de Recife, Salvador, <a class="premium-tip" href="/mg/minas-gerais/cidade/belo-horizonte.html">Belo Horizonte</a>, Rio de Janeiro, S&#227;o Paulo e Porto Alegre.</p>
+<p>
+	<strong>Sal&#225;rio m&#233;dio &#233; de quase R$ 2.000</strong><br>
+	Quanto ao sal&#225;rios dos trabalhadores, o valor m&#233;dio ficou em R$ 1.965,20 - uma alta de 2% sobre outubro, quando atingiu R$ 1.927,48, e de 3,0% na compara&#231;&#227;o anual (R$ 1.908,41).</p>
+<p>
+	O rendimento dos trabalhadores subiu no Recife (4,8%), no Rio de Janeiro (4,1%), em <a class="premium-tip" href="/rs/rio-grande-do-sul/cidade/porto-alegre.html">Porto Alegre</a> (1,8%) e em S&#227;o Paulo (1,5%), em rela&#231;&#227;o a outubro, caiu em <a class="premium-tip" href="/ba/bahia/cidade/salvador.html">Salvador</a> (2,6%) e ficou est&#225;vel em Belo Horizonte.</p>
+<p>
+	Na compara&#231;&#227;o com novembro do ano anterior, as altas foram vistas em Porto Alegre (8,9%), Rio de Janeiro (6,1%) e em S&#227;o Paulo (3,1%); e as quedas, em Salvador (8,3%) e em Belo Horizonte (0,8%). No <a class="premium-tip" href="/pe/pernambuco/cidade/recife.html">Recife</a>, ficou igual.</p>
+<p>
+	<strong>Desocupa&#231;&#227;o menor em servi&#231;os dom&#233;sticos</strong><br>
+	Na compara&#231;&#227;o com novembro do ano passado, houve recuo da taxa de desemprego nos servi&#231;os dom&#233;sticos (12,2%) e na ind&#250;stria (3,9%). Nas outras atividades analisadas pelo IBGE, a taxa ficou est&#225;vel. Em rela&#231;&#227;o a novembro do ano passado, nenhum grupamento de atividades mostrou varia&#231;&#227;o de suas taxas de desocupa&#231;&#227;o.</p>
+<p>
+	&#160;</p>
+<p>
+	&#160;</p></div></div>
+            </div>

@@ -1,0 +1,1081 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+	<head>
+		<title>Governo intervém e assume os trabalhos da Copa do Mundo de 2014 - esportes - futebol - Estadão</title>
+		<meta name="description" content="ZURIQUE – Faltando apenas 13 meses para a Copa das Confederações e 25 meses para a Copa do Mundo, o governo intervém na preparação da competição " />
+		<meta name="keywords" content="Fifa, Copa 2014, Fifa" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<!--start Facebook Open Graph Protocol-->
+		<meta property="fb:app_id" content="127970263920039" />
+		<meta property="og:title" content="Governo intervém e assume os trabalhos da Copa do Mundo de 2014 - esportes - Estadao.com.br" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://www.estadao.com.br/noticias/esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm" />
+		<meta property="og:image" content="http://www.estadao.com.br/estadao/novo/img/estadao.gif" />
+		<meta property="og:site_name" content="Estadão" />
+		<meta property="og:description" content="ZURIQUE – Faltando apenas 13 meses para a Copa das Confederações e 25 meses para a Copa do Mundo, o governo intervém na preparação da competição " />
+		<!--end Facebook Open Graph Protocol-->
+
+		<META NAME="GOOGLEBOT-NEWS" CONTENT="NOSNIPPET">
+
+		<script type="text/javascript">
+			var id          		= '870318';
+			var editoria    		= 'esportes';
+			var subeditoria 		= 'futebol';
+			var titleSEO 			= 'governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014';
+			var url         		= 'esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm';
+			var urlComplete 		= document.location;
+			var tags        		= 'Fifa;Copa 2014;Fifa';
+			var title       		= 'Governo intervém e assume os trabalhos da Copa do Mundo de 2014';
+			var guid        		= '7D46ED17311442CC925A74DD4B344A9D';
+			var mostraComentarios  	= 'true';
+			var hashtag			  	= '';
+		</script>
+		<link rel="stylesheet" href="/estadao/novo/css/reset-fonts.css" type="text/css" />
+		<link rel="stylesheet" href="/estadao/novo/css/bbt.css" type="text/css" /> 
+		<link rel="stylesheet" href="/estadao/novo/css/bbt-grids.css" type="text/css" /> 
+		<link rel="stylesheet" href="/estadao/novo/css/bbt-header.css" type="text/css" /> 
+		<link rel="stylesheet" href="/estadao/novo/css/bbt-modules.css" type="text/css" />
+		<link rel="stylesheet" href="/estadao/novo/css/bbt-tabs.css" type="text/css" />  
+		<link rel="stylesheet" href="/estadao/novo/css/thickbox.css" type="text/css" />  
+		<link rel="stylesheet" href="/estadao/novo/css/bbt-noticia.css" type="text/css" />  
+		<link rel="stylesheet" href="/estadao/novo/css/materia.css" type="text/css" />
+		<link rel="stylesheet" href="/estadao/novo/css/esportes.css" type="text/css" /> 
+		<link rel="stylesheet" href="/estadao/novo/css/esportes_home.css" type="text/css" /> 
+		<!--[if IE 6]>
+			<link rel="stylesheet" href="/estadao/novo/css/ie6.css" type="text/css" />
+		<![endif]-->
+		<script type="text/javascript" src="/estadao/novo/js/jquery-1.5.2.min.js"></script>
+		<script type="text/javascript" src="/estadao/novo/jwplayer/jwplayer.js"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/jquery.ui.custom.min.js"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/jquery.backgroundPosition.js"></script>
+		<script type="text/javascript" src="/estadao/novo/js/thickbox.js"></script>	
+		<script type="text/javascript" src="/estadao/novo/js/jquery.accessible-news-slider.js"></script>	 
+		<script type="text/javascript" src="/estadao/novo/js/oesp/modules/AdBanner.js"></script>
+		<!--script type="text/javascript" src="/estadao/novo/js/oesp/modules/Reload.js"></script-->
+		<script type="text/javascript" src="/estadao/v2012/js/modules/Reload2.js"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/modules/TvEstadao.js"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/Comum.js?v=1.5"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/modules/materia.js?v=2.1"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/modules/sharing.js?v=1.1"></script>
+		<script type="text/javascript" src="/estadao/novo/js/oesp/lib/swfobject.js"></script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-166963-4']);
+			_gaq.push(['_setDomainName', '.estadao.com.br']);
+			_gaq.push(['_setLocalGifPath', 'http://urchin.estadao.com.br/imagem/urchin.gif']);
+			_gaq.push(['_setLocalRemoteServerMode']);
+			_gaq.push(['_trackPageview']);
+
+
+			(function() {
+				var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+
+		<script type="text/javascript">
+			OAS_sitepage = 'estadao/esportes/futebol';			
+			var sp = document.location.search;
+			if(sp.indexOf('sitepage')>0){
+				sp = sp.match(/sitepage=([^&]*)/)[1];
+				OAS_sitepage = sp || OAS_sitepage;
+			}
+			OAS_listpos = "x05,x08,Position1,Middle,Frame2,Bottom,Bottom1,x50";
+			var oBanner = new Banner(false);
+			var oAdSense = new AdSense("estadao_esportes");
+			var oReload = new Reload(true, 420);			
+		</script>
+		
+		<style type="text/css">
+			.dvBannerArroba, .dvBannerX08 {
+				padding:13px 9px 0;
+			}
+		</style>
+		
+		<script src="http://connect.facebook.net/pt_BR/all.js#xfbml=1"></script>
+		<!--script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script-->
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+			{lang: 'pt-BR'}
+		</script>
+	</head>
+	<body>
+		<div id="doc5">
+			<div id="content" class="article">
+				<div id="hd">
+					<script type="text/javascript">
+	$(function() {
+			$('.tab-01 .item').addClass("fecharClassificadosiPad");
+			$('.tab-02 .item').addClass("fecharClassificadosiPad");
+
+			if(navigator.userAgent.match(/iP[adhone]+/i)){
+				$('.tab-01 .item').click(function() {
+					if($(this).hasClass("fecharClassificadosiPad")){
+						$('.subTab-02').fadeOut();
+						$(".subTab-01").show();
+					}
+				});
+				$('.subTab-01').click(function() {
+					$(this).fadeOut(100);
+				});
+				$('.tab-02 .item').click(function() {
+					if($(this).hasClass("fecharClassificadosiPad")){
+						$('.subTab-01').fadeOut();
+						$(".subTab-02").show();
+					}
+				});
+				$('.subTab-02').click(function() {
+					$(this).fadeOut(100);
+				});
+				
+			}else{
+				$('.tab-01 .item').mouseover(function(){
+					$('.subTab-01').show();
+				});
+				
+				$('.subTab-01').mouseleave(function() {
+					$(this).fadeOut(100);
+				});
+				
+				$('.tab-02 .item').mouseover(function() {
+					$('.subTab-02').show();
+				});
+		
+				$('.subTab-02').mouseleave(function() {
+					$(this).fadeOut(100);
+				});
+			}
+	});
+</script>
+
+<script language="javascript1.4" type="text/javascript" src="http://www.estadao.com.br/estadao/novo/js/oesp/certifica-js14.js"></script> 
+<script language="javascript" type="text/javascript" src="http://www.estadao.com.br/estadao/novo/js/oesp/certifica.js"></script> 
+<script type="text/javascript" src="http://www.estadao.com.br/estadao/novo/js/oesp/cert_editorial.js"></script>
+<script>
+if(typeof(titleSEO) == "undefined"){
+	if(url){
+		titleSEO = url.split(",")[1];
+	}
+}
+hitNota(203567, OAS_sitepage, titleSEO, Formatos.TEXTO, 'Futebol');
+</script>
+<script type="text/javascript">
+	var data          = new Date();
+	var dia           = data.getDate();
+	var mes           = data.getMonth();
+	var ano           = data.getFullYear();
+	var hora          = data.getHours();
+	var min           = data.getMinutes() + '';
+	var meses         = new Array('Janeiro','Fevereiro','Março','Abril','Maio','Junho','Julho','Agosto','Setembro','Outubro','Novembro','Dezembro');
+	var ckLocation    = 'OESP_LOCATION_NAME';
+	var ckEdicao      = 'OESP_EDICAO';
+	var ckBarraEdicao = 'OESP_GEOIP';
+	var ckAuth        = 'PORTAL_AUTH';
+	var cidadePadrao  = 'sao_paulo';
+	var edicaoPadrao  = 'nacional';
+	var cidade        = verCookie(ckLocation);
+	var edicao        = verCookie(ckEdicao);
+	var mesQueVem     = new Date(data.getTime() + (60 * 60 * 24 * 90 * 1000));
+	var nomeSemanaEn  = new Array('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat');
+	var nomeMesEn     = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+	var expiracaoCk   = nomeSemanaEn[mesQueVem.getDay()] + ', ' + mesQueVem.getDate() + ' ' + nomeMesEn[mesQueVem.getMonth()] + ' ' + mesQueVem.getFullYear() + ' 00:00:01 UTC';
+	
+	function trataNome(str) {
+		str = str.toLowerCase();
+		str = str.split(' ').join('_');
+		str = str.replace(/[âãáàä]/gi, 'a');
+		str = str.replace(/[êéèë]/gi, 'e');
+		str = str.replace(/[îíìï]/gi, 'i');
+		str = str.replace(/[ôõóòö]/gi, 'o');
+		str = str.replace(/[ûúùü]/gi, 'u');
+		
+		return str;
+	}
+	
+	function escolherEdicao(edi) {
+		document.cookie   = ckEdicao + '=' + edi + '; expires=' + expiracaoCk + '; path=/; domain=.estadao.com.br';
+		document.location = 'http://www.estadao.com.br/';
+	}
+	
+	function escolherCidade(cid) {
+		if($(".previsaotempo").length > 0){
+			var icone_tempo = 1;
+			
+			if(cidade == '' || cidade != cid) {
+				document.cookie = ckLocation + '=' + cid + '; expires=' + expiracaoCk + '; path=/; domain=.estadao.com.br';
+			}
+			
+			$.get('/xml/tempo/capitais.xml', function (data) {
+				var xmlTempo = $(data).find('cidade');
+				
+				for (var it=0; it<xmlTempo.length; it++){
+					var estadoXML = trataNome(xmlTempo.eq(it).attr('estado'));
+					
+					if(estadoXML == cid) {
+						var tempo_min = xmlTempo.eq(it).children('dia1').attr('low');
+						var tempo_max = xmlTempo.eq(it).children('dia1').attr('high');
+						var tempo_frase = xmlTempo.eq(it).children('dia1').attr('frase');
+						var tempo_umidade = xmlTempo.eq(it).children('dia1').attr('ur');
+						
+						icone_tempo = xmlTempo.eq(it).children('dia1').attr('ico');
+						
+						$('#tempoIlustra').attr('src', 'http://www.estadao.com.br/estadao/novo/img/tempo/' + cid + '_' + icone_tempo + '.png');
+						$('#tempoIlustra').attr('alt', tempo_frase);
+						$('#tempoIlustra').attr('title', tempo_frase);
+						$('.temperaturas #min').html(tempo_min + '&deg;');
+						$('.temperaturas #max').html(tempo_max + '&deg;');
+						
+						$('.previsaotempo .cidades').hide();
+						
+						break;
+					}
+				}
+			}, 'xml');
+			var cidades = { "bahia":{name: "BA", width: 74, margin: 50},
+							"minas_gerais":{name: "MG", width: 113, margin: 19},
+							"distrito_federal":{name: "DF", width: 68, margin: 56},
+							"rio_grande_do_sul":{name: "RS", width: 102, margin: 30},
+							"rio_de_janeiro":{name: "RJ", width: 102, margin: 30},
+							"sao_paulo":{name: "SP", width: 79, margin: 48}};
+						
+			$('.previsaotempo .cidade a').text(cidades[cid].name);
+		}
+		$('.mn_cidades').hide();
+		$('.mn_estado_' + cid).show();
+	}
+	
+	function verCookie(nCookie) {
+		todosCookie = document.cookie;
+		valorCookie = '';
+		cks         = todosCookie.split(';');
+		
+		for(ck = 0; ck < cks.length; ck++) {
+			if(cks[ck].replace(/^\s+|\s+$/g, '').indexOf(nCookie) != -1) {
+				cookieUtilInteiro = cks[ck];
+				cookieUtil        = cookieUtilInteiro.split('=');
+				valorCookie       = cookieUtil[1];
+			}
+		}
+		
+		return valorCookie;
+	}
+	
+	function mostrarCidades() {
+		$('.previsaotempo .cidades').toggle();
+	}
+	
+	function mostrarEdicoes(){
+		$('#select-cidade-list').toggle('blind', 500);
+	}
+	
+	function mostrarClassificados(sender){
+		$(sender).parent().find(".classificados").hide("blind", {direction: "right"}, "slow");
+		$(sender.rel).show("slide", {direction: "right"}, "slow");
+	}
+	
+	function verificaLogin() {
+		var acaoAuth = 'logout';
+		
+		if(verCookie(ckAuth) == '') {
+			acaoAuth = 'login';
+		}
+		
+		$('#loginLogout').attr('class', acaoAuth);
+		$('#loginLogout a').attr('href', 'http://cadastro.estadao.com.br/' + acaoAuth);
+	}
+	
+	cidade = cidade == '' ? cidadePadrao : cidade;
+	edicao = edicao == '' ? edicaoPadrao : edicao;
+	
+	if (min.length == 1){min = '0' + min;}
+	
+	</script>
+<!--[if IE 6]>
+<script src="/estadao/novo/js/DD_belatedPNG.js"></script>
+<script>
+	DD_belatedPNG.fix('#headerTwitter ul li a, .iconSeguir, .bkgTwitter, .selo a img, .bb-sk-agora_no_estadao .hd h3, #logo h6 a img, .bb-md-tvestadao_title h3 a, .bb-md-estadao20_title h3 a, .bb-md-esportes_title h3 a, #tempoIlustra, .simboloSigno');
+</script>
+
+
+<![endif]--> 
+<a href="#content" style="display: none">ir para o conteúdo</a>
+<div class="hd-top">
+		
+		<div id="loginLogout" class="login"><a href="#">Login</a></div>
+	<div class="webmail"><a href="http://webmail.estadao.com.br/">Webmail</a></div>
+	<div class="date_time">
+		<span class="time"></span> &nbsp;&bull;&nbsp;
+		<span class="date"></span>
+	</div>
+		
+	<script type="text/javascript">
+		verificaLogin();
+		/*if(edicao)
+			$(".link-edicao a." + edicao).addClass("selected");
+		$(".link-edicao a").click(function(event){
+			event.preventDefault();
+			$(this).blur();
+			
+			$(".link-edicao a.selected").removeClass("selected");
+			escolherEdicao(this.className);
+			$(this).addClass("selected");
+		});*/
+		$(".hd-top .date_time .time").text(hora + ":" + min);
+		$(".hd-top .date_time .date").text(dia + " " +meses[mes] + " de " + ano);
+	</script>
+    	<div class="pub157x27 header-top">
+				<p>Patrocinado por</p>
+				<div class="banner">
+			<script type="text/javascript"> oBanner.showX05(); </script>
+		</div>
+	</div>
+    </div>
+	<div class="menu-top">
+	<div class="logo">
+		<a title="Estadão.com.br" href="http://www.estadao.com.br/">
+			<img width="107" height="14" border="0" title="Estadão.com.br" alt="Estadão.com.br" src="http://www.estadao.com.br/estadao/novo/img/logo_menu.png">
+		</a>
+	</div>
+	<ul>
+		<li ><a href="http://politica.estadao.com.br" class="bb-md-menubd_strong">pol&iacute;tica</a></li>
+		<li ><a href="http://economia.estadao.com.br/" class="bb-md-menubd_strong">economia</a></li>
+		<li class="ui-tabs-selected" ><a href="http://esportes.estadao.com.br/" class="bb-md-menubd_strong">esportes</a></li>
+		<li><a href="http://blogs.estadao.com.br/link/" class="bb-md-menubd_strong">Tecnologia</a></li>
+		<li><a href="http://divirta-se.estadao.com.br/" class="bb-md-menubd_strong">DIVIRTA-SE</a></li>
+		<li><a href="http://pme.estadao.com.br/" class="bb-md-menubd_strong">PME</a></li>
+		<li ><a href="http://www.estadao.com.br/opiniao/" class="bb-md-menubd_strong2">Opini&atilde;o</a></li>
+		<li><a href="http://radio.estadao.com.br/" target="_blank">Rádio</a></li>
+		<li><a href="http://www.jt.com.br/" target="_blank">JT</a></li>
+		<li><a href="http://www.territorioeldorado.limao.com.br/" target="_blank">Eldorado</a></li>
+		<li><a href="http://espn.estadao.com.br/" target="_blank">ESPN</a></li>
+		<li><a href="http://revistapiaui.estadao.com.br/" target="_blank">Piau&iacute;</a></li>
+		<li><a href="http://www.estadao.com.br/blogs/">Blogs</a></li>
+		<li><a href="http://topicos.estadao.com.br/">T&oacute;picos</a></li>
+	</ul>
+	
+		<ul class="menu-tabs">
+		<li class="tab-02">
+			<a href="javascript:void(0)" class="item">ZAP</a>
+			
+				<ul class="subTab-02">
+					<li><span class="first">ZAP</span></li>
+					<li><a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=232&URL=/carros&paramad">Carros</a></li>
+					<li><a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=231&URL=/imoveis/busca-de-imoveis-simples.aspx&paramad">Imóveis</a></li>
+					<li><a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=233&URL=/empregos/vagas/busca-de-vagas-simples.aspx&paramad">Empregos</a></li>
+				</ul>
+		</li>
+	</ul>
+	</div>
+<script>
+	var date = new Date(2009,7,1);
+	var today = new Date();
+	var diff = Math.floor(Math.abs((today.getTime() - date.getTime())/(1000 * 60 * 60 * 24)));
+	diff++;
+	$("#hd-selo strong").text(diff+" dias");
+</script>
+<div class="clear"></div>
+<div id="hd-logo">
+	<div id="logo">
+									<h6><a href="http://esportes.estadao.com.br/" title="ESTADAO.COM.BR"><img src="http://www.estadao.com.br/estadao/novo/img/esportes/logo.png" alt="Esportes - ESTADAO.COM.BR" /></a></h6>
+							
+	</div>
+		
+				<div class="bb-md-homesearch">
+				<input type="text" id="txtBusca"><button value="buscar" id="btnBuscar">buscar</button>
+			</div>
+		
+		
+	<script>
+		$(document).ready(function(){
+			//Direciona para resultado de busca após clicar no botão enviar.
+			$('#btnBuscar').click(function(){
+				if($("#txtBusca").val() != ""){
+					window.location = "http://www.estadao.com.br/busca/" + $("#txtBusca").val();
+				}
+			});
+			
+			//Direciona para resultado de Busca após pressionar a tecla enter.
+			$('#txtBusca').keydown(function(e){
+				e.stopPropagation();
+				if (e.keyCode == 13) {
+					if($("#txtBusca").val() != ""){
+						window.location = "http://www.estadao.com.br/busca/" + $("#txtBusca").val();
+					}
+					return false;
+				}
+			});
+		});
+	</script>
+	
+			
+</div>
+<div class="bb-md-menuhd">
+	<ul class="mn-lst-left">
+		<li><a href="http://esportes.estadao.com.br/futebol/" class="selected">Futebol</a></li>
+		<li><a href="http://esportes.estadao.com.br/velocidade/">Velocidade</a></li>
+		<li><a href="http://esportes.estadao.com.br/basquete/">Basquete</a></li>
+		<li><a href="http://esportes.estadao.com.br/tenis/">Tênis</a></li>
+		<li><a href="http://esportes.estadao.com.br/volei/">Vôlei</a></li>
+		<li><a href="http://topicos.estadao.com.br/ufc">UFC</a></li>
+	</ul>
+	<ul class="mn-lst-right">
+		<!--li><a href="http://topicos.estadao.com.br/pan-2011" title="Pan 2011">Pan 2011</a></li-->
+		<li><a href="http://esportes.estadao.com.br/olimpiadas/">Olimpíada 2012</a></li>
+		<li><a href="http://topicos.estadao.com.br/copa-2014">Copa 2014</a></li>
+		<li><a href="http://infograficos.estadao.com.br/transferences/index/">Mercado da Bola</a></li>
+	</ul>
+</div>
+<div id="dvModal"><!-- tela nova --></div>
+<div id="superBanner" class="dvBannerExpansivel">
+			<div class="banner">
+			<script type="text/javascript">
+				oBanner.showPosition1();
+			</script>
+		</div>
+		<div class="selo">
+			<script type="text/javascript">
+				oBanner.show("x50");
+			</script>
+		</div>
+	</div>
+
+				</div>
+				<div class="body-part1">
+					
+
+
+
+
+<div class="bb-md-news_slider bb-sk-agora_no_estadao">
+    <div class="hd">
+        <h3>Agora no Estad&atilde;o</h3>
+    </div>
+    <div class="bd">
+        <div class="news_slider bb-wg-news_slide bb-sk-wg_slide-agora">
+            <div class="lst_items" >
+                <div class="container">
+                    <div id="83EE46E4B5C947DF8A75AAE7619A047F">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg1">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm" title="Copa do Mundo de 2014">Copa do Mundo de 2014</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm" title="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL Foto:Divulga&ccedil;&atilde;o"><img src="http://img.estadao.com.br/fotos2/p1x1/arena_amazonia_copa_pequena.jpg" alt="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL Foto:Divulga&ccedil;&atilde;o" title="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL Foto:Divulga&ccedil;&atilde;o" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/esportes,governo-intervem-e-assume-os-trabalhos-da-copa-do-mundo-de-2014,870318,0.htm" title="Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL">Governo interv&eacute;m e assume as fun&ccedil;&otilde;es do COL</a></h2>
+    </div>
+</div>
+</div><div id="7995AAE6B389494881ED4A9F6A74E2C5">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg2">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/cidades,helicoptero-explode-e-mata-responsavel-por-chacina-em-goias,870351,0.htm" title="Acidente">Acidente</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/cidades,helicoptero-explode-e-mata-responsavel-por-chacina-em-goias,870351,0.htm" title="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina Foto:Benedito Braga/Jornal Hoje"><img src="http://img.estadao.com.br/fotos2/p1x1/helicopteroGoias_BeneditoBraga_JornalHoje_80x80_rdax_64x64.jpg" alt="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina Foto:Benedito Braga/Jornal Hoje" title="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina Foto:Benedito Braga/Jornal Hoje" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/cidades,helicoptero-explode-e-mata-responsavel-por-chacina-em-goias,870351,0.htm" title="Helic&oacute;ptero explode e mata respons&aacute;vel por chacina">Helic&oacute;ptero explode e mata respons&aacute;vel por chacina</a></h2>
+    </div>
+</div>
+</div><div id="BB25D7F4935744EBAD255953BAF6ECA1">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg1">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/cidades,metro-pode-desapropriar-58-pacaembus-para-construir-linha-6,870320,0.htm" title="S&atilde;o Paulo">S&atilde;o Paulo</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/cidades,metro-pode-desapropriar-58-pacaembus-para-construir-linha-6,870320,0.htm" title="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6 Foto:Arquivo/AE"><img src="http://img.estadao.com.br/fotos2/p1x1/metro2.jpg" alt="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6 Foto:Arquivo/AE" title="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6 Foto:Arquivo/AE" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/cidades,metro-pode-desapropriar-58-pacaembus-para-construir-linha-6,870320,0.htm" title="Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6">Metr&ocirc; pode desapropriar 58 'Pacaembus' por Linha 6</a></h2>
+    </div>
+</div>
+</div><div id="5464DC9741594AE6A6DF1F336D5109F5">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg2">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://emais.estadao.com.br/noticias/cinema,johnny-depp-encarna-vampiro-mal-humorado-em-novo-filme,475,0.htm" title="E+">E+</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://emais.estadao.com.br/noticias/cinema,johnny-depp-encarna-vampiro-mal-humorado-em-novo-filme,475,0.htm" title="Johnny Depp encarna um vampiro mal-humorado Foto:Peter Mountain/Divulga&ccedil;&atilde;o"><img src="http://img.estadao.com.br/fotos2/p1x1/JohnnyDepp_PeterMountainDivulgacao_rdax_64x64.jpg" alt="Johnny Depp encarna um vampiro mal-humorado Foto:Peter Mountain/Divulga&ccedil;&atilde;o" title="Johnny Depp encarna um vampiro mal-humorado Foto:Peter Mountain/Divulga&ccedil;&atilde;o" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://emais.estadao.com.br/noticias/cinema,johnny-depp-encarna-vampiro-mal-humorado-em-novo-filme,475,0.htm" title="Johnny Depp encarna um vampiro mal-humorado">Johnny Depp encarna um vampiro mal-humorado</a></h2>
+    </div>
+</div>
+</div><div id="B77615EDA90C4ED4877D3AE651FBA2FE">
+<div  class="draggable bb-md-news-l item bb-sk-agora_no_estadao_bg1">
+          
+
+    <div class="mt" style="width: 100%;">
+        <h4><a href="http://www.estadao.com.br/noticias/esportes,flamengo-ainda-negocia-com-ronaldinho-gaucho-para-quitar-divida,870384,0.htm" title="Futebol">Futebol</a></h4>
+    </div>
+    <div class="mg">
+        <a href="http://www.estadao.com.br/noticias/esportes,flamengo-ainda-negocia-com-ronaldinho-gaucho-para-quitar-divida,870384,0.htm" title="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho Foto:Reuters"><img src="http://img.estadao.com.br/fotos2/p1x1/ronaldinho_6464_albertgea_reuters.JPG" alt="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho Foto:Reuters" title="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho Foto:Reuters" width="64" height="64" /></a>
+    </div>
+    <div class="mt">
+        <h2><a href="http://www.estadao.com.br/noticias/esportes,flamengo-ainda-negocia-com-ronaldinho-gaucho-para-quitar-divida,870384,0.htm" title="Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho">Flamengo ainda negocia d&iacute;vida milion&aacute;ria com Ronaldinho</a></h2>
+    </div>
+</div>
+</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+				</div>	
+				<div class="body-part2">
+					<div id="bd">
+						<div id="dvBannerFrame"><script type="text/javascript">oBanner.showFrame();</script></div>
+						<div class="bb-gc">
+							<div class="bb-gu_noticia">
+								<div class="bb-gu_first">
+									<div class="bb-wg-breadcrumb">Voc&ecirc; est&aacute; em <a href="http://esportes.estadao.com.br" title="OE">Esportes</a>
+ &gt; <a href="http://esportes.estadao.com.br/futebol/" title="Futebol">Futebol</a>
+  </div>
+
+									
+                                    
+									<div class="bb-md-noticia">
+										<h1>Governo intervém e assume os trabalhos da Copa do Mundo de 2014</h1>
+										<h3>Brasília e Fifa jogam o Comitê Organizador Local (COL) para escanteio</h3>
+										<div class="bb-md-noticia-fecha">08 de maio de 2012 | 16h 44</div>
+										<a name="noticia"></a>
+										<div id="bb-md-noticia-tabs">
+											<div id="barraInteratividade">
+	<ul class="bb-md-noticia-tab-main">
+		<li id="tab-materia" class="bb-active"><a href="#bb-md-noticia-tabs-1" onclick="mostrarMateria(); return false;">Not&iacute;cia</a></li>
+		<!-- mostraComentarios: true -->		<li class="bb-md-noticia-social">
+			<div class="bb-md-noticia-social-email">
+				<a href="#" onclick="enviarEmail(editoria, subeditoria, id, guid); return false;"><img src="http://www.estadao.com.br/estadao/novo/img/ic-email.jpg" alt="Email" />&nbsp;</a>
+			</div>
+			<div class="bb-md-noticia-social-print">
+				<a href="#" onclick="imprimir(); return false;"><img src="http://www.estadao.com.br/estadao/novo/img/ic-print.jpg" alt="Print" />&nbsp;</a>
+			</div>
+			<div class="bb-md-noticia-social-texto">
+				<a class="changetext" href="#" title="Aumentar" onclick="changeTextSize('div.corpo p',2,'px'); return false;">A+</a>
+				<a class="changetext" href="#" title="Diminuir" onclick="changeTextSize('div.corpo p',-2,'px'); return false;">A-</a>
+			</div>
+		</li>
+		<li class="tabNoFormat">
+			<a class="btn-assine-newsletter" href="http://www.estadao.com.br/newsletter/">Assine a Newsletter</a>
+		</li>
+		<!-- php 
+			/* make a URL small */
+			function make_bitly_url($url,$login,$appkey,$format = 'xml',$version = '2.0.1')
+			{
+			  //create the URL
+			  $bitly = 'http://api.bit.ly/shorten?version='.$version.'&longUrl='.urlencode($url).'&login='.$login.'&apiKey='.$appkey.'&format='.$format;
+			  
+			  //get the url
+			  //could also use cURL here
+			  $response = file_get_contents($bitly);
+			  
+			  //parse depending on desired format
+			  if(strtolower($format) == 'json')
+			  {
+				$json = @json_decode($response,true);
+				return $json['results'][$url]['shortUrl'];
+			  }
+			  else //xml
+			  {
+				$xml = simplexml_load_string($response);
+				return 'http://bit.ly/'.$xml->results->nodeKeyVal->hash;
+			  }
+			}
+
+			/* usage */
+			if (isset($_GET['u']) && $_GET['u']!='') {
+				// $urlLonga = $_GET['u'];
+				// $short = make_bitly_url($urlLonga,'grupoestado','R_58294e4bfb2c7a5eee0cdccc0fd57dd6','xml');
+				// echo 'The short URL is:  '.$short;
+				// echo 'The long URL is:  '.$urlLonga; 
+			}
+		?
+-->
+		<li class="tabNoFormat">
+			<div class="btGoogle">
+				<g:plusone size="medium" count="false"></g:plusone>
+			</div>
+		</li>
+		<li class="tabNoFormat">
+			<div class="twitter">
+				<a href="http://twitter.com/share" class="twitter-share-button" data-text="" data-count="horizontal" data-via="estadao" id="linkTweet">Tweet</a>
+				<script type="text/javascript">$('#linkTweet').attr('data-text', title); </script>
+				<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+			</div>
+		</li>
+	</ul>
+</div>
+
+<div class="box-compartilhe">
+
+	<!-- div class="facebook">
+		<a name="fb_share" type="button" href="http://www.facebook.com/sharer.php"><img src="http://www.estadao.com.br/estadao/novo/img/compartilhe/lbl_compartilhe.gif" border="0" /></a>
+		<style>
+		.FBConnectButton_Text, .FBConnectButton, .FBConnectButton_RTL{background:none!important}
+		.FBConnectButton .FBConnectButton_Text, .FBConnectButton_RTL .FBConnectButton_Text{border:0px!important; margin-left:0px!important; padding:0px!important;}
+		.FBConnectButton_Small .FBConnectButton_Text{margin-left:0px!important; padding:0px!important;}
+		.fb_share_size_Small{display:block!important; float:left}
+		.fb_share_count_right{float:right!important}
+		.FBConnectButton_Text{display:block; float:left; width:89px}
+		</style>
+	</div -->
+
+	<div class="faceConnect">
+		<div class="btSendFbk"><fb:send></fb:send></div>
+		<div class="btRecommendFbk">
+			<div id="fb-root"></div><fb:like send="false" width="540" show_faces="false" action="recommend"></fb:like>
+		</div>
+	</div>
+
+</div>
+
+											<div id="bb-md-noticia-tabs-1" class="bb-md-noticia_tab">
+												<div class="texto-noticia">
+													<div class="bb-md-noticia-autor">Jamil Chade - estadão.com.br</div>
+													<div class="corpo">
+														<p>ZURIQUE – Faltando apenas 13 meses para a <A href="http://topicos.estadao.com.br/copa-das-confederacoes">Copa das Confedera&ccedil;&otilde;es</A> e 25 meses para a Copa do Mundo, o governo interv&eacute;m na prepara&ccedil;&atilde;o da competi&ccedil;&atilde;o e, junto com a <A href="http://topicos.estadao.com.br/fifa">Fifa</A>, assume a organiza&ccedil;&atilde;o da <A href="http://topicos.estadao.com.br/copa-2014">Copa do Mundo</A>. Nesta ter&ccedil;a-feira, a Fifa anunciou que o governo passar&aacute; a fazer parte do Comit&ecirc; Organizador Local, pela segunda vez na hist&oacute;ria das Copas. A outra foi na &Aacute;frica do Sul em 2010. Joseph Blatter, presidente da Fifa, ainda deixou claro que os interlocutores do projeto ser&atilde;o&nbsp;Jerome Valcke, secret&aacute;rio-geral da entidade, e o ministro dos Esportes, Aldo Rebelo, sem citar nenhum dos membros do COL ou da&nbsp;<A href="http://topicos.estadao.com.br/cbf">CBF</A>.</p><p style="font-size: 14px;">	<strong>Veja também:</strong>	<br>	<img border="0" src="http://render.estadao.com.br/ext/selos/icone-bullet.gif" alt="link">	<a href="http://www.estadao.com.br/noticias/esportes,fifa-reconhece-avancos-em-obras-de-infraestrutura,870267,0.htm?reload=y" title="Fifa reconhece 'avan&ccedil;os' em obras de infraestrutura para Copa de 2014">		<strong>Fifa reconhece 'avan&ccedil;os' em obras de infraestrutura para Copa de 2014</strong>	</a>	<br>	<img border="0" src="http://render.estadao.com.br/ext/selos/icone-bullet.gif" alt="link">	<a href="http://www.estadao.com.br/noticias/geral,governo-trabalha-para-votar-lei-geral-da-copa-no-senado-na-quarta,870218,0.htm?reload=y" title="Governo trabalha para votar Lei Geral da Copa no Senado na quarta">		<strong>Governo trabalha para votar Lei Geral da Copa no Senado na quarta</strong>	</a>	<br></p>
+</p>
+<p><IFRAME style="BORDER-RIGHT-WIDTH: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px" height=750 src="http://infograficos.estadao.com.br/galerias/gerar/2835" frameBorder=0 width=630></IFRAME></p>
+<p>Para altas fontes do governo, o an&uacute;ncio &eacute; um reconhecimento do fracasso dos cartolas brasileiros na gest&atilde;o e da necessidade de que o Planalto assuma um papel protagonista. O <STRONG>estad&atilde;o.com.br STRONG>revelou no fim de 2011 que a Fifa e o governo j&aacute; haviam iniciado uma aproxima&ccedil;&atilde;o, deixando a CBF do j&aacute; enfraquecido Ricardo Teixeira de lado. O grupo que o substituiu n&atilde;o convenceu a Fifa de que poderia tocar o projeto e a alian&ccedil;a com o governo acabou sendo concretizada nesta ter&ccedil;a. As reuni&otilde;es ocorrer&atilde;o a cada seis semanas. </p>
+<p><EMBED id=mpl height=380 name=mpl type=application/x-shockwave-flash width=455 src=http://www.estadao.com.br/estadao/novo/jwplayer/player.swf quality="high" allowscriptaccess="always" allowfullscreen="true" flashvars="&amp;file=http://img.estadao.com.br/videos/2B/5D/B8/2B5DB8C15F8742A6A73DB567A4E9EC7A.xml&amp;autostart=false&amp;playlistsize=90&amp;image=http://tv.estadao.com.br/app/estadao/tvestadao/videos-proxy.php?guid=2b5db8c1-5f87-42a6-a73d-b567a4e9ec7a"> </p>
+<p>A pessoa escolhida para entrar no COL foi Luis Fernandes, secret&aacute;rio-executivo do Minist&eacute;rio do Esporte. Ele se recusa a falar em interven&ccedil;&atilde;o do governo. Mas admite que houve um sentimento m&uacute;tuo de que essa aproxima&ccedil;&atilde;o seria “uma necessidade”. “Entramos numa fase decisiva da prepara&ccedil;&atilde;o e selamos a parceria em um outro patamar superior”, disse Fernandes, professor universit&aacute;rio. Al&eacute;m disso, Marco Polo Del Nero, representante do Brasil na Fifa, tamb&eacute;m passar&aacute; a integrar ao COL. 
+
+<p>Perguntado sobre o motivo de n&atilde;o terem feito isso antes e apenas no final do processo, Valcke admitiu: “&Agrave;s vezes cometemos erros e temos que tomar decis&otilde;es na vida, antes tarde do que nunca. Essa &eacute; a reflex&atilde;o do dia”. “Essa decis&atilde;o ajudar&aacute; a superar desafios”, apontou Rebelo.</p>
+
+
+<p>O an&uacute;ncio ainda enterra uma das promessas de Teixeira, de que a Copa seria realizada por uma entidade sem a participa&ccedil;&atilde;o do governo. O Estado apurou que a decis&atilde;o j&aacute; havia sido costurada dias antes e apenas esperava uma oficializa&ccedil;&atilde;o de Rebelo, o que ocorreu ontem.</p>
+
+
+<p>O COL tradicionalmente &eacute; uma estrutura independente e que apenas ganhou a interven&ccedil;&atilde;o do estado na &Aacute;frica do Sul, pa&iacute;s que sofreu com incertezas at&eacute; &agrave;s v&eacute;speras do Mundial. Segundo Valcke, a participa&ccedil;&atilde;o do governo naquele caso ocorreu por “quest&otilde;es &oacute;bvias”. Agora, essa necessidade volta a ser demonstrada com o Brasil, colocando o Pa&iacute;s no mesmo patamar dos sul-africanos.</p>
+
+
+<p>“Essa &eacute; uma responsabilidade que n&oacute;s dividimos com o Brasil e com seu governo. Sem contar com as possibilidades do governo e sem garantias, seria imposs&iacute;vel organizar o Mundial”, declarou Joseph Blatter.</p>
+
+
+<p>A reuni&atilde;o ainda serviu para colocar um fim &agrave; crise entre Valcke e o governo, pelo menos de forma p&uacute;blica. Blatter se encarregou de anunciar que os dois interlocutores do Mundial ser&atilde;o Rebelo e Valcke, obrigados agora a trabalhar juntos at&eacute; 2014. “N&atilde;o falamos mais de problemas pessoais. Isso est&aacute; liquidado”, declarou. “N&atilde;o h&aacute; mais problema. Tudo foi resolvido”, insistiu o cartola. </p>
+
+
+<p><EM>Atualizado &agrave;s 23h00</EM></p>
+
+														<br clear="all" />
+														<div id="boxNoticiasRelacionadas">
+						<h3>Notícias relacionadas:</h3>
+						<ul><li>
+<a href="http://www.estadao.com.br/noticias/nacional,blatter-copas-das-confederacoes-e-do-mundo-sao-amanha-e-depois-de-amanha,870268,0.htm">Blatter: Copas das Confederações e do Mundo são 'amanhã' e 'depois de amanhã</a>
+</li>
+<li>
+<a href="http://www.estadao.com.br/noticias/esportes,fifa-reconhece-avancos-em-obras-de-infraestrutura,870267,0.htm">Fifa reconhece 'avanços' em obras de infraestrutura</a>
+</li>
+<li>
+<a href="http://www.estadao.com.br/noticias/impresso,governo-tenta-evitar-parceiros-da-fifa-na-copa-do-mundo--,870111,0.htm">Governo tenta evitar parceiros da Fifa na Copa do Mundo</a>
+</li>
+<li>
+<a href="http://www.estadao.com.br/noticias/esportes,com-anuencia-da-fifa--governo-intervem-e-entra-no-col,870258,0.htm">Com anuência da Fifa, governo intervém e entra no COL</a>
+</li>
+<li>
+<a href="http://www.estadao.com.br/noticias/esportes,governo-trabalha-para-votar-lei-geral-da-copa-no-senado-na-quarta,870218,0.htm">Governo trabalha para votar Lei Geral da Copa no Senado na quarta</a>
+</li>
+</ul></div>
+														
+													</div>
+													﻿<div class="tags">
+	<span>T&oacute;picos: </span><a href="http://topicos.estadao.com.br/fifa" title="Fifa">Fifa</a>, <a href="http://topicos.estadao.com.br/copa-2014" title="Copa 2014">Copa 2014</a>, <a href="http://topicos.estadao.com.br/fifa" title="Fifa">Fifa</a>
+</div>
+												</div>
+                                                
+												<div id="bb-md-noticia-subcom" class="discussion" style="display:none">
+													<h4 class="bb-md-noticia-subcom-com"><a title="" href="#noticia">nenhum coment&aacute;rio para este post</a></h4>
+													<h4 class="bb-md-noticia-subcom-next">
+														<a title="" href="#" onClick="deixarComentario(editoria, subeditoria, id, guid); return false;">seja o primeiro a comentar</a>
+														<a href="http://cadastro.estadao.com.br/responsabilidade-online"><img src="http://www.estadao.com.br/estadao/img/logo_condutap.gif" align="top" /></a>
+													</h4>
+													<br clear="all">
+													<div class="bb-md-noticia-coment_comentarios"></div>
+													<div class="bb-md-noticia-subcom-end" style="display:none;">
+														<h4 class="bb-md-noticia-subcom-next"><a title="" href="#noticia">ler todos os coment&aacute;rios <img src="/estadao/novo/img/ic-next.gif"></a></h4>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="bb-gg adsense_container">
+	<div id="AdV625"></div>
+	<script type="text/javascript">oAdSense.show625xN("AdV625", 3);</script>
+	<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+								</div>
+								<div class="bb-gu_second">
+									<div class="dvSelos" style="padding:13px 0 0 9px">
+										<div class="dvSelo left"><script type="text/javascript">oBanner.showBottom();</script></div>
+										<div class="dvSelo right"><script type="text/javascript">oBanner.showBottom1();</script></div>
+									</div>
+								
+									<div class="dvBannerArroba">
+    <script type="text/javascript">oBanner.showArroba();</script>
+</div>
+									<div class='dvBannerX08'>
+										<script type='text/javascript'>oBanner.showX8();</script><div class='clear'><hr /></div>
+									</div>
+                                    
+                                    <!-- Begin Redes Sociais-->
+<div class="bb-gu">                         
+	<div class="box-redes">
+				<div id="box-twitter">
+			<h6>Siga o <span>@EstadaoEsporte</span> no Twitter</h6>
+			<iframe allowtransparency="true" class="btTwitter" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=EstadaoEsporte" style="width:62px; height:20px;"></iframe>
+		</div>
+				<div class="bb-md-fb">
+			<div class="fb-activity">
+				<div class="hd-fb">
+					<fb:like-box href="http://facebook.com/estadao" width="300" height="62" show_faces="false" stream="false" header="false"></fb:like-box>
+				</div>
+				<div id="box-recommendations-fb">
+					<iframe src="http://www.facebook.com/plugins/activity.php?site=estadao.com.br&amp;width=280&amp;height=600&amp;header=false&amp;colorscheme=light&amp;font&amp;border_color=%23FFF&amp;recommendations=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:600px;" allowTransparency="true"></iframe>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- end Redes Sociais-->
+
+                                    <div class="coluna-esportes"><div class="col-noticias-espn"><h3 id="destaquesEspn" class="arrow">Not&iacute;cias ESPN</h3><ul>
+			<li class="noticiasEspn">
+				<em><a href="http://espn.estadao.com.br/corinthians" title="corinthians" target="_blank" class="chapeuEspn">/corinthians</a></em>
+				<p class="txt-02"><a href="http://www.espn.com.br/espn/noticia/255796_ESPN" target="_blank" title="VÍDEO: Tite minimiza pressão e fala que o Corinthians está 'maduro'">VÍDEO: Tite minimiza pressão e fala que o Corinthians está 'maduro'</a></p>
+		  	</li>
+			<li class="noticiasEspn">
+				<em><a href="http://espn.estadao.com.br/futebolnacional" title="futebolnacional" target="_blank" class="chapeuEspn">/futebolnacional</a></em>
+				<p class="txt-02"><a href="http://www.espn.com.br/espn/noticia/255830_ESPN" target="_blank" title="Incentivado pelo São Paulo no 'Caso Oscar', Caxias pode acionar a Justiça contra Inter">Incentivado pelo São Paulo no 'Caso Oscar', Caxias pode acionar a Justiça contra Inter</a></p>
+		  	</li>
+			<li class="noticiasEspn">
+				<em><a href="http://espn.estadao.com.br/basquete" title="basquete" target="_blank" class="chapeuEspn">/basquete</a></em>
+				<p class="txt-02"><a href="http://www.espn.com.br/espn/noticia/255829_ESPN" target="_blank" title="Pinheiros e Uberlândia vencem e forçam quinto jogo nas quartas">Pinheiros e Uberlândia vencem e forçam quinto jogo nas quartas</a></p>
+		  	</li>
+			<li class="noticiasEspn">
+				<em><a href="http://espn.estadao.com.br/nba" title="nba" target="_blank" class="chapeuEspn">/nba</a></em>
+				<p class="txt-02"><a href="http://www.espn.com.br/espn/noticia/255828_ESPN" target="_blank" title="Pacers fecham série contra o Magic e vão à semi do Leste após 7 anos">Pacers fecham série contra o Magic e vão à semi do Leste após 7 anos</a></p>
+		  	</li>
+			<li class="noticiasEspn">
+				<em><a href="http://espn.estadao.com.br/libertadores" title="libertadores" target="_blank" class="chapeuEspn">/libertadores</a></em>
+				<p class="txt-02"><a href="http://www.espn.com.br/espn/noticia/255805_ESPN" target="_blank" title="Sem 'El Tanque', Boca vai ao Chile para garantir vaga nas quartas">Sem 'El Tanque', Boca vai ao Chile para garantir vaga nas quartas</a></p>
+		  	</li></ul></div></div>
+									<div class="coluna-esportes"><div class="bb-gu pri">
+	<div class="bb-md bb-md-newsrank">
+		<div class="bd">
+			<div id="newsrank-tabs">
+				<ul class="newsrank-tab-main">
+					<!--li><a href="">+ lidas</a></li>
+					<li><a href="">+ recomendados</a></li-->
+					<li class="ui-tabs-selected ui-state-active"><a href="" title="Not&iacute;cias mais comentadas nas &uacute;ltimas 12 horas">+ comentadas</a></li>
+					<li class="selo"><script type="text/javascript">oBanner.show('x15'); </script></li>
+				</ul>
+				<div class="bb-md-newsrank_tab">
+					<ul>
+<li>01 <a title="Serra chama de 'lixo' livro sobre privatizações do governo FHC" href="http://www.estadao.com.br/noticias/nacional,serra-chama-de-lixo-livro-sobre-privatizacoes-do-governo-fhc,810591,0.htm">Serra chama de 'lixo' livro sobre ...</a></li>
+<li>02 <a title="Obama dá sinal verde a sanções contra petróleo do Irã" href="http://www.estadao.com.br/noticias/internacional,obama-da-sinal-verde-a-sancoes-contra-petroleo-do-ira,855584,0.htm">Obama dá sinal verde a sanções contra ...</a></li>
+<li>03 <a title="Grupo de Cachoeira discutiu interferir em habeas corpus no STF" href="http://www.estadao.com.br/noticias/nacional,grupo-de-cachoeira-discutiu-interferir-em-habeas-corpus-no-stf,868795,0.htm">Grupo de Cachoeira discutiu interferir em ...</a></li>
+<li>04 <a title="Depois da poupança, governo aumenta pressão para bancos baixarem spread" href="http://www.estadao.com.br/noticias/impresso,depois-da-poupanca-governo-aumenta-pressao-para-bancos-baixarem-spread-,868959,0.htm">Depois da poupança, governo aumenta pressão ...</a></li>
+<li>05 <a title="Socialista François Hollande é o novo presidente da França" href="http://www.estadao.com.br/noticias/internacional,socialista-francois-hollande-e-o-novo-presidente-da-franca,869461,0.htm">Socialista François Hollande é o novo ...</a></li>
+<li>06 <a title="Grupo de Cachoeira negociou emendas parlamentares ao Orçamento da União" href="http://www.estadao.com.br/noticias/nacional,grupo-de-cachoeira-negociou-emendas-parlamentares-ao-orcamento-da-uniao,869681,0.htm">Grupo de Cachoeira negociou emendas ...</a></li>
+<li>07 <a title="Pedro Herz, da Livraria Cultura, fala sobre a dificuldade de contratrar talentos atualmente" href="http://pme.estadao.com.br/noticias/noticias,pedro-herz--da-livraria-cultura--fala-sobre-a-dificuldade-de-contratrar-talentos-atualmente,1749,0.htm">Pedro Herz, da Livraria Cultura, fala sobre a ...</a></li>
+<li>08 <a title="Torcedores farão 'vistoria' em novo estádio do Corinthians neste sábado" href="http://www.estadao.com.br/noticias/esportes,torcedores-farao-vistoria-em-novo-estadio-do-corinthians-neste-sabado,868757,0.htm?reload=y">Torcedores farão 'vistoria' em novo estádio ...</a></li>
+<li>09 <a title="Alemanha rejeita medidas de crescimento que elevem dívida" href="http://economia.estadao.com.br/noticias/economia geral-economia,alemanha-rejeita-medidas-de-crescimento-que-elevem-divida,111364,0.htm">Alemanha rejeita medidas de crescimento que ...</a></li>
+<li>10 <a title="Mudança na poupança começa a valer nessa sexta para novos depósitos" href="http://economia.estadao.com.br/noticias/economia,mudanca-na-poupanca-comeca-a-valer-nessa-sexta-para-novos-depositos,111170,0.htm">Mudança na poupança começa a valer nessa ...</a></li>
+</ul>
+				</div>				    
+			</div>
+		</div>
+	</div>
+</div>
+	</div>								
+									<div class="coluna-esportes"><div style="margin-left:9px">
+
+	
+
+
+<div class="bx-item">
+    <div class="hd-box">
+		<h4>Programação da TV</h4>
+    </div>
+    <ul class="lst-item-grade">
+			<li>
+	<div class="bx-data-grade">
+		<span class="dia-grade">08/05</span>
+<span class="hora-grade">23h30</span>
+	</div>
+	<h3>Libertad x Cruz Azul</h3>
+	<p>Futebol | Copa Libertadores</p>
+	<strong>FOX Sports</strong>
+</li>
+<li>
+	<div class="bx-data-grade">
+		<span class="dia-grade">09/05</span>
+<span class="hora-grade">08h00</span>
+	</div>
+	<h3>Finlândia x Alemanha</h3>
+	<p>Vôlei | Pré-Olímpico Europeu Masculino</p>
+	<strong>ESPN </strong>
+</li>
+<li>
+	<div class="bx-data-grade">
+		<span class="dia-grade">09/05</span>
+<span class="hora-grade">08h00</span>
+	</div>
+	<h3>Jogo</h3>
+	<p>Tênis | Masters de Madri</p>
+	<strong>SporTV 2</strong>
+</li>
+<li>
+	<div class="bx-data-grade">
+		<span class="dia-grade">09/05</span>
+<span class="hora-grade">11h00</span>
+	</div>
+	<h3>Eslovênia x Espanha</h3>
+	<p>Vôlei | Pré-Olímpico Europeu Masculino</p>
+	<strong>ESPN </strong>
+</li>
+<li>
+	<div class="bx-data-grade">
+		<span class="dia-grade">09/05</span>
+<span class="hora-grade">15h45</span>
+	</div>
+	<h3>Birmingham x Blackpool</h3>
+	<p>Futebol | Campeonato Inglês da Segunda Divisão</p>
+	<strong>ESPN Brasil </strong>
+</li>
+
+	</ul>
+    <a href="http://esportes.estadao.com.br/programacao/natv/" class="lnk-veja-mais" title="Programação completa">Programação completa</a>
+</div>
+<script type="text/javascript" src="/estadao/js/esportes/novo/Programacao.js"></script>
+<script type="text/javascript">var oProgramacao = new Programacao(4);</script>
+
+
+<!--
+
+//-->
+
+
+</div></div>								
+									<div class="coluna-esportes"><script>var tvestadaoEditoria = "esportes";</script>
+<div class="bb-gu"><div class="bb-md bb-md-gal_estadao">	<div class="hd"><h3><a href="http://tv.estadao.com.br" title="">TV Estad&atilde;o</a></h3></div>	<div class="bd">		<div id="gal_estadao_tabs" class="tvestadao"><div id="gal_estadao-tabs-1" class="bb-md-gal_estadao_tab">	<div id="dvPlayerTVEstadao"></div><style type="text/css">#dvPlayerTVEstadao_wrapper{margin:0 auto;}</style>	<script type="text/javascript">
+      var urlXML = "http://img.estadao.com.br/videos/05/A9/9B/05A99B60788743D2B33E1F7E88287D6B.xml";
+$.ajax({
+	url: 'http://img.estadao.com.br/videos/proxy.php?url=05/A9/9B/05A99B60788743D2B33E1F7E88287D6B.jsonp',
+	dataType: "jsonp",
+	success: function(data) {
+		jwplayer("dvPlayerTVEstadao").setup({
+			controlbar: 'bottom',
+			wmode: 'transparent',
+			playlist:data,
+			width: '292',
+			height: '240',
+			repeat: 'list',
+			skin: '/estadao/novo/jwplayer/skins/classic/classic.xml',
+			modes:
+			[
+				{type: 'flash', src: '/estadao/novo/jwplayer/player.swf'},
+				{type: 'html5', config: {'x-webkit-airplay': 'allow'}}
+			]
+		});
+	}
+});
+	</script>
+	<p><a href="http://tv.estadao.com.br/videos,dirigentes-brasileiros-se-reuniram-com-lideres-da-fifa,168725,255,0.htm">Dirigentes brasileiros se reuniram com líderes da Fifa</a></p></div><ul class="bb-md-gal_estadao_selector">	<li class="bb-active selected"><a id="" href="#gal_estadao-tabs-1" class="tab_1" title="Dirigentes brasileiros se reuniram com l&iacute;deres da Fifa"><img src="http://img.estadao.com.br/videos/thumbs/90/05/A9/9B/P05A99B60788743D2B33E1F7E88287D6B.jpg" alt="Dirigentes brasileiros se reuniram com l&iacute;deres da Fifa" width="90" height="68" /></a></li>	<li><a id="1" href="#gal_estadao-tabs-2" class="tab_2" title="Jaqueline fala sobre expectativa para a vaga ol&iacute;mpica"><img src="http://img.estadao.com.br/videos/thumbs/90/0B/6E/4A/P0B6E4A7FA4704254B2BF451D5D0AA19B.jpg" alt="Jaqueline fala sobre expectativa para a vaga ol&iacute;mpica" width="90" height="68" /></a></li>	<li><a id="2" href="#gal_estadao-tabs-2" class="tab_2" title="Fifa e Brasil tentam mostrar que est&atilde;o em paz, enquanto problemas continuam com impasse"><img src="http://img.estadao.com.br/videos/thumbs/90/2B/5D/B8/P2B5DB8C15F8742A6A73DB567A4E9EC7A.jpg" alt="Fifa e Brasil tentam mostrar que est&atilde;o em paz, enquanto problemas continuam com impasse" width="90" height="68" /></a></li>			</ul>		</div> 	</div></div></div></div>
+									<div class="coluna-esportes"><div class="bb-gu"><div class="bb-md bb-md-foto_do_leitor">
+	<div class="hd"><h3><a href="/especiais/">Especiais</a></h3></div>
+	<div class="bd">
+		<div class="bb-md-news bb-md-news-l bb-sk-especiais">
+			<div class="foto" onclick="document.location = 'http://www.estadao.com.br/especiais/guarani-e-santos-na-final-do-paulistao-2012,168456.htm'" style="background-image: url('http://img.estadao.com.br/especiais/20/9B/B7/P209BB77A300A41868A9E3DA3ADF8868C.jpg')">
+				<div class="mt">
+					<h4><a href="http://www.estadao.com.br/especiais/guarani-e-santos-na-final-do-paulistao-2012,168456.htm">Futebol</a></h4>
+					<h2><a href="http://www.estadao.com.br/especiais/guarani-e-santos-na-final-do-paulistao-2012,168456.htm">Guarani e Santos na final do Paulistão 2012</a></h2>
+				</div>
+			</div>
+		</div>
+		<div class="bb-md-news bb-md-news-l">
+			<div class="mg"><a href="http://www.estadao.com.br/especiais/um-duelo-entre-os-melhores-jogadores-do-brasil,167886.htm"><img src="http://img.estadao.com.br/especiais/72/55/7A/P72557AF0F24348DBADE1C29B8E84B2E0.jpg" alt="Um duelo entre os melhores jogadores do Brasil" width="64" /></a></div>
+			<div class="mt">
+				<h4><a href="http://www.estadao.com.br/especiais/um-duelo-entre-os-melhores-jogadores-do-brasil,167886.htm">Lucas x Neymar</a></h4>
+				<h2><a href="http://www.estadao.com.br/especiais/um-duelo-entre-os-melhores-jogadores-do-brasil,167886.htm">Um duelo entre os melhores jogadores do Brasil</a></h2>
+			</div>
+		</div>
+		<div class="bb-md-news bb-md-news-l">
+			<div class="mg"><a href="http://www.estadao.com.br/especiais/sao-paulo-indy-300---2012,167884.htm"><img src="http://img.estadao.com.br/especiais/05/8D/44/P058D441A678B4EB4B5B116B6FF9C87A4.jpg" alt="São Paulo Indy 300 - 2012" width="64" /></a></div>
+			<div class="mt">
+				<h4><a href="http://www.estadao.com.br/especiais/sao-paulo-indy-300---2012,167884.htm">Indy 300</a></h4>
+				<h2><a href="http://www.estadao.com.br/especiais/sao-paulo-indy-300---2012,167884.htm">São Paulo Indy 300 - 2012</a></h2>
+			</div>
+		</div>
+		<div class="bb-md-news bb-md-news-l">
+			<div class="mg"><a href="http://www.estadao.com.br/especiais/os-maiores-artilheiros-da-historia-do-santos,166597.htm"><img src="http://img.estadao.com.br/especiais/AF/C3/92/PAFC39237132E4EB6B394F062487D6FB9.jpg" alt="Os maiores artilheiros da história do Santos" width="64" /></a></div>
+			<div class="mt">
+				<h4><a href="http://www.estadao.com.br/especiais/os-maiores-artilheiros-da-historia-do-santos,166597.htm">Santos 100 anos</a></h4>
+				<h2><a href="http://www.estadao.com.br/especiais/os-maiores-artilheiros-da-historia-do-santos,166597.htm">Os maiores artilheiros da história do Santos</a></h2>
+			</div>
+		</div>
+	</div>
+</div>
+</div></div>
+									<div class="coluna-esportes"><!--div class="bb-gu">
+        <div id="dvZapMateria"></div>
+        <!--- INICIO BOX ZAP 0477C6 F8981D -->
+        <!--div id="box_zapimoveis" style="border:3px solid #F8981D; width:294px; height:244px; background:#FFF; margin:0px; padding:0px;">
+                <div id="box_combo_zapimoveis">
+                        <iframe src="http://box.zap.com.br/boxes/estadao/v2/box_zapimoveis_materia300x250_v2.html" width="294" height="215" scrolling="no" hspace="0" frameborder="0"></iframe>
+                </div>
+                <div id="box_rodape_zapimoveis" style="margin:auto; width:100%; height:35px; text-align:center; line-height:15px; font-family:Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold;">
+                    Classificados de <a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=231&URL=/imoveis/busca-de-imoveis-simples.aspx&paramad" target="_blank" style="color:#F2971D; text-decoration:none;">Imóveis</a><br>
+					<a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=232&URL=/carros&paramad" target="_blank" style="color:#289AD6; text-decoration:none;">Carros</a> | 
+					<a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=233&URL=/empregos/vagas/busca-de-vagas-simples.aspx&paramad" target="_blank" style="color:#9ACC44; text-decoration:none;">Empregos</a> | 
+					<a href="http://www.zap.com.br/Parceiros/Estadao/RedirEstadao.aspx?CodParceriaLink=234&URL=/mix/busca-mix.aspx&paramad" target="_blank" style="color:#537C9E; text-decoration:none;">Mix</a>
+                </div>
+		</div>
+</div-->
+
+<!--- INICIO BOX ZAP 0477C6 F8981D -->
+<div class="bb-gu">
+        <div id="dvZapMateria"></div>
+            <div id="boxzap_estadao">
+				<object width="300" height="250"><param name="movie" value="/estadao/novo/includes/zap/300x250.swf"><param name="quality" value="high">
+					<embed src="/estadao/novo/includes/zap/300x250.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="250"></embed>
+				</object>
+			</div>
+</div>
+<!--- FIM BOX ZAP --></div>
+								</div>
+								<br clear="all" />
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<div id="sub-ft" class="ft-inferior">
+	<div class="bb-gd">
+		<div class="bb-gu first">
+			<div class="bb-md bb-md-credits bb-noborder">
+				<div class="hd">
+					<dl>
+						<dt><h3>Grupo Estado</h3></dt>
+						<dd>Copyright © 1995-2012</dd>
+						<dd>Todos os direitos reservados</dd>
+					</dl>
+				</div>
+				<div class="bd">
+					<ul>
+						<li><a href="http://vagas.com.br/grupoestado/">Trabalhe Conosco</a></li>
+						<li><a href="http://www.estadao.com.br/faleconosco/">Fale Conosco</a></li>
+						<li><a href="http://www.estadao.com.br/termo-de-uso/">Termo de Uso</a></li>
+						<li><a href="http://www.estadao.com.br/mapa/">Mapa Site</a></li>
+						<li><a href="http://www.estadao.com.br/assine/">Assine O Estado de S. Paulo</a></li>
+						<li><a href="http://www.classificadosdoestadao.com.br/">Classificados: 11 3855 2001</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="bb-gu">
+			<div class="bb-gtf">
+				<div class="bb-tu first-t">
+					<div class="bb-md bb-md-credits">
+						<div class="hd"><h3><a href="http://www.estadao.com.br/">Estadão.com.br</a></h3></div>
+						<div class="bd">
+							<ul class="dos-columnas">
+								<li><a href="http://www.estadao.com.br/opiniao/">Opinião</a></li>
+								<li><a href="http://www.estadao.com.br/saopaulo/">São Paulo</a></li>
+								<li><a href="http://www.estadao.com.br/brasil/">Brasil</a></li>
+								<li><a href="http://www.estadao.com.br/politica/">Política</a></li>
+								<li><a href="http://www.estadao.com.br/internacional/">Internacional</a></li>
+								<li><a href="http://www.estadao.com.br/saude/">Saúde</a></li>
+								<li><a href="http://www.estadao.com.br/ciencia/">Ciência</a></li>
+								<li><a href="http://www.estadao.com.br/educacao/">Educação</a></li>
+								<li><a href="http://www.estadao.com.br/planeta/">Planeta</a></li>
+								<li><a href="http://www.estadao.com.br/cultura/">Cultura</a></li>
+								<li><a href="http://www.estadao.com.br/blogs/">Blogs</a></li>
+								<li><a href="http://topicos.estadao.com.br/">Tópicos</a></li>
+							</ul>
+							<ul class="dos-columnas">
+								<li><a href="http://servicos.estadao.com.br/login/">Estadão Digital </a></li>
+								<li><a href="http://www.estadao.com.br/celular/">No celular</a></li>
+								<li><a href="http://www.estadao.com.br/ipad/">No iPad</a></li>
+								<li><a href="http://www.facebook.com/estadao/">No Facebook</a></li>
+								<li><a href="http://www.estadao.com.br/rss/">RSS</a></li>
+								<li><a href="http://www.estadao.com.br/especiais/">Infogr&aacute;ficos</a></li>
+								<li><a href="http://fotos.estadao.com.br/">Fotos</a></li>
+								<li><a href="http://tv.estadao.com.br/">TV Estadão</a></li>
+								<li><a href="http://www.estadao.com.br/tempo/">Tempo</a></li>
+								<li><a href="http://webmail.estadao.com.br/">Webmail</a></li>
+								<li><a href="http://issonaoenormal.estadao.com.br/">Isso não é normal</a></li>
+								<li><a href="http://revistapiaui.estadao.com.br/">Revista Piauí</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="bb-tu">
+					<div class="bb-md bb-md-credits">
+						<div class="hd"><h3>O Estado de S.Paulo</h3></div>
+						<div class="bd">
+							<ul>
+								<li><a href="http://www.assinante.estadao.com.br/" target="_blank">Portal do Assinante</a></li>
+								<li><a href="http://www.estadao.com.br/historico/index.htm">Conheça o jornal</a></li>
+							</ul>
+							<h4>Portais</h4>
+							<ul>
+								<li><a href="http://www.jt.com.br/" target="_blank">Jornal da Tarde</a></li>
+								<li><a href="http://www.limao.com.br/" target="_blank">Limão</a></li>
+								<li><a href="http://www.territorioeldorado.limao.com.br/" target="_blank">Território Eldorado</a></li>
+								<li><a href="http://www.ilocal.com.br/" target="_blank">ILocal</a></li>
+								<li><a href="http://www.zap.com.br/estadao" target="_blank">ZAP</a></li>
+								<li><a href="http://www.ibiubi.com.br/" target="_blank">Ibiubi</a></li>
+								<li><a href="http://www.ae.com.br/" target="_blank">Ag&ecirc;ncia Estado</a></li>
+								<li><a href="http://fornecedores.grupoestado.com.br/" target="_blank">Portal de Fornecedores</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="bb-tu">
+					<div class="bb-md bb-md-credits">
+						<div class="hd"><h3>Grupo Estado</h3></div>
+						<div class="bd">
+							<ul>
+								<li><a href="http://www.estadao.com.br/talentos/">Curso de Jornalismo</a></li>
+								<li><a href="http://www.estadao.com.br/rc2010/">Responsabilidade Corporativa</a></li>
+								<li><a href="http://www.estadao.com.br/ext/codigoetica/codigo_de_etica_miolo.pdf">Nosso Código de Ética</a></li>
+								<li><a href="http://www.estadao.com.br/relatorio-da-administracao/index.htm">Demonstrações Financeiras</a></li>
+							</ul>
+							<h4>Publicidade</h4>
+							<ul>
+								<li><a href="http://www.grupoestado.com.br/midiakit/" target="_blank">Como anunciar</a></li>
+								<li><a href="http://www.premiomidiaestadao.com.br/" target="_blank">Prêmio de Mídia</a></li>
+								<li><a href="http://www.premiotopimobiliario.com.br/" target="_blank">Top Imobiliário</a></li>
+								<li><a href="http://www.estadao.com.br/cannes" target="_blank">Cannes</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<!--midia/editoria:noticias|esportes-->
+
+			</div>
+		</div>
+	</body>
+<!-- TPL:esportes -->
+</html>
+

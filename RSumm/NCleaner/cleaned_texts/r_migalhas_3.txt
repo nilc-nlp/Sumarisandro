@@ -1,0 +1,18 @@
+<div id="texto">
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT size=2 face=Verdana>
+<P><FONT face=Verdana><FONT face=Verdana></P></FONT></FONT><FONT size=2 face=Arial>
+<P align=justify><FONT face=Arial><FONT size=2><IMG border=0 align=right src="http://www.globalframe.com.br/gf_base/empresas/MIGA/imagens/BAFAD8A5F56F9F1975549A6A5BF4C91711C8_casamento1.jpg">A 1ª câmara Cível do TJ/MG deu provimento a agravo de instrumento de viúva contra decisão que indeferiu seu pedido de habilitação no inventário do marido, por ter se casado em separação total de bens. De acordo com a decisão, "<EM>o cônjuge sobrevivente é herdeiro necessário, juntamente com os descendentes e ascendentes</EM>"</FONT><FONT size=2>.</FONT></FONT></P>
+<P align=justify><FONT size=2><FONT face=Arial>Ao interpor recurso, a viúva afirmou ter sido casada por mais de 35 anos com o de cujus e que, portanto, seria herdeira em concorrência com os descendentes do falecido. O argumento foi julgado procedente pelo desembargador Geraldo Augusto, relator.</FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2>Segundo o magistrado, o art. 1829, do <A onclick="jan = window.open('http://www.planalto.gov.br/ccivil_03/leis/2002/L10406compilada.htm', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www.planalto.gov.br/ccivil_03/leis/2002/L10406compilada.htm' } return false; " href="" target=_self>CC</A>, determina que o cônjuge tem direitos sucessórios em concorrência com os herdeiros do autor da herança e não pode ser afastado da sucessão pela simples vontade do sucedido, "<EM>mas apenas se ocorrer causa de deserdação ou exclusão por indignidade</EM>"</FONT><FONT size=2>.</FONT></FONT></P>
+<P align=justify><FONT face=Arial><FONT size=2>O relator determinou, então, que a viúva seja considerada como herdeira necessária do de cujus, em concorrência com os filhos do mesmo e seja habilitada nos autos do inventário.</FONT></FONT></P>
+<UL>
+<LI>
+<DIV align=justify><FONT face=Arial><FONT size=2><U>Processo</U>: </FONT></FONT><A onclick="jan = window.open('http://www4.tjmg.jus.br/juridico/sf/proc_complemento2.jsp?listaProcessos=10701130091625001', 'popup0', 'toolbar=no,location=no,directories=no,status=no,menubar=no,top=40,left=40, scrollbars=yes,resizable=yes,menubar=no,width=650,height=450'); if (jan != null) { jan.location.href = 'http://www4.tjmg.jus.br/juridico/sf/proc_complemento2.jsp?listaProcessos=10701130091625001' } return false; " href="" target=_self><FONT face=Arial><FONT size=2>0820985-66.2013.8.13.0000</FONT></FONT></A></DIV></LI></UL>
+<P align=justify></FONT></FONT></P></FONT>
+<P><FONT size=2 face=Arial>Confira a <A onclick="" href="http://www.migalhas.com.br/arquivos/2013/12/art20131219-05.pdf" target=_blank>decisão</A>.</FONT></P></FONT>
+</FONT>
+
+</div>
